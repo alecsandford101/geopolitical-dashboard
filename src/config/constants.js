@@ -23,18 +23,21 @@ export const SEVERITY = {
 
 export const SEV_ORDER = { Critical: 3, High: 2, Medium: 1, Low: 0 }
 
-// GDELT DOC-API keyword query per category. The fetch script runs one query per
-// bucket, so the matching category is known from which query returned the article.
-// Syntax: https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/
-export const CATEGORY_QUERY = {
-  'Conflict':             '(war OR conflict OR "military strike" OR invasion OR ceasefire)',
-  'Monetary Policy':      '("central bank" OR "interest rate" OR "rate hike" OR "rate cut" OR inflation OR "federal reserve")',
-  'Trade & Tariffs':      '(tariff OR tariffs OR "trade war" OR "export ban" OR "trade deal" OR embargo)',
-  'Energy':               '("oil price" OR "crude oil" OR "natural gas" OR OPEC OR "energy crisis" OR pipeline)',
-  'Sanctions':            '(sanctions OR "asset freeze" OR "sanctioned" OR "export controls")',
-  'Elections':            '(election OR "general election" OR "presidential vote" OR referendum OR "coalition government")',
-  'Cyber & Security':     '(cyberattack OR "data breach" OR ransomware OR "cyber attack" OR espionage)',
-  'Disaster & Logistics': '(earthquake OR flood OR hurricane OR "port closure" OR "supply chain" OR "shipping disruption")',
+// Keywords per category, used BOTH to build the GDELT queries and to classify each
+// returned article locally (first category whose keyword appears in the headline wins,
+// in the CATEGORIES order above). The fetch script fires a small number of broad
+// queries that each span every category, then classifies — so one successful request
+// covers all 8 categories, sidestepping GDELT's per-request rate limit.
+// Keep multi-word phrases; the query builder quotes them for GDELT. Lowercase-matched.
+export const CATEGORY_KEYWORDS = {
+  'Conflict':             ['war', 'military strike', 'invasion', 'ceasefire', 'airstrike', 'armed conflict'],
+  'Monetary Policy':      ['central bank', 'interest rate', 'rate cut', 'inflation', 'federal reserve', 'rate hike'],
+  'Trade & Tariffs':      ['tariff', 'trade war', 'export ban', 'trade deal', 'embargo', 'import quota'],
+  'Energy':               ['oil price', 'crude oil', 'natural gas', 'OPEC', 'energy crisis', 'gas pipeline'],
+  'Sanctions':            ['sanctions', 'asset freeze', 'export controls', 'sanctioned', 'blacklist'],
+  'Elections':            ['election', 'presidential vote', 'referendum', 'coalition government', 'general election', 'ballot'],
+  'Cyber & Security':     ['cyberattack', 'data breach', 'ransomware', 'cyber espionage', 'malware'],
+  'Disaster & Logistics': ['earthquake', 'flood', 'hurricane', 'port closure', 'supply chain', 'shipping disruption'],
 }
 
 // Default market tags shown per category (used when deriving events from GDELT,
