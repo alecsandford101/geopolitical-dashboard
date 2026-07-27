@@ -21,6 +21,15 @@ export default function EventCard({ ev, active, onSelect }) {
       <div className="tags">
         {ev.markets.map((m) => <span key={m} className="tag">{m}</span>)}
       </div>
+      {ev.sources?.length > 0 && (
+        <div className="src-links" onClick={(e) => e.stopPropagation()}>
+          {ev.sources.slice(0, 3).map((s, i) => (
+            <a key={i} href={s.url} target="_blank" rel="noopener noreferrer">
+              ↗ {s.domain || 'source'}
+            </a>
+          ))}
+        </div>
+      )}
     </div>
   )
 }

@@ -1,9 +1,12 @@
 name: Deploy to GitHub Pages
 
-# Build the Vite app and publish it to GitHub Pages on every push to main.
+# Build the Vite app and publish it to GitHub Pages.
+# Runs on push, hourly (to refresh live GDELT data), and on manual dispatch.
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '17 * * * *' # hourly at :17 (off-:00 to dodge GitHub's top-of-hour load)
   workflow_dispatch: # lets you trigger a deploy manually from the Actions tab
 
 # Permissions the GITHUB_TOKEN needs to publish Pages.
@@ -32,6 +35,9 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Fetch live GDELT data
+        run: node scripts/fetch-events.js
 
       - name: Build
         run: npm run build

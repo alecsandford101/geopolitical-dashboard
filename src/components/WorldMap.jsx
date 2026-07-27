@@ -56,6 +56,13 @@ export default function WorldMap({ events, selectedId, onSelect }) {
                   {ev.category} · {ev.severity} · {ev.date}
                   <br />{ev.place}
                 </div>
+                {ev.sources?.length > 0 && (
+                  <div className="src-links">
+                    {ev.sources.slice(0, 3).map((s, i) => (
+                      <a key={i} href={s.url} target="_blank" rel="noopener noreferrer">↗ {s.domain || 'source'}</a>
+                    ))}
+                  </div>
+                )}
               </Popup>
             </CircleMarker>
           )
