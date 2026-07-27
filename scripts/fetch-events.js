@@ -12,10 +12,14 @@
 // therefore covers all 8 categories — the rate limit stops mattering.
 //
 // Two safety nets on top:
-//   - Merge/carry-forward: reads the previously-committed events.json and keeps a
-//     category's prior events (up to FRESH_HOURS old) if it produced nothing this run.
+//   - Merge/carry-forward: reads the previously-committed events.json and keeps a prior
+//     event (up to FRESH_HOURS old) when its exact category|country cluster produced
+//     nothing this run — so a partial/throttled run never wipes still-fresh coverage.
 //   - Broad queries are tried in turn; if the first succeeds we already have full
 //     coverage, but the second still runs to improve recall / dedupe fills gaps.
+//
+// Every displayed headline is English: foreign titles are machine-translated before
+// classification, and a final gate drops anything still non-English before writing.
 //
 // GDELT gives no coordinates/category/severity, so we derive them:
 //   category  = first CATEGORY_KEYWORDS bucket whose keyword appears in the headline
@@ -26,11 +30,19 @@
 import { writeFile, readFile, mkdir } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
-import { CATEGORIES, CATEGORY_KEYWORDS, CATEGORY_MARKETS } from '../src/config/constants.js'
+import { CATEGORY_KEYWORDS, CATEGORY_MARKETS } from '../src/config/constants.js'
 import { resolveCountry } from './geo-lookup.js'
+import { translateTitles, looksForeign } from './translate.js'
+import { classify, CATEGORY_ORDER } from './classify.js'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const OUT = join(__dirname, '..', 'public', 'events.json')
+const CACHE = join(__dirname, '..', '.cache', 'translations.json') // persistent translation cache
+
+// Bump when the event schema changes in a way that makes older data untrustworthy.
+// v2 introduced the "every headline is English" guarantee, so v1 files (which contain raw
+// foreign titles) must NOT be carried forward — they're discarded on load instead.
+const SCHEMA_VERSION = 2
 
 const TIMESPAN = '3d'
 const MAXRECORDS = 250     // per broad query (GDELT max)
@@ -39,9 +51,6 @@ const REQ_TIMEOUT_MS = 20000 // abort a single hung request instead of stalling 
 const MAX_RETRIES = 3
 const MAX_TOTAL = 120      // cap events written
 const FRESH_HOURS = 36     // keep a category's events this long if a run is throttled
-
-// Category order defines classification priority (first match wins).
-const CATEGORY_ORDER = Object.keys(CATEGORIES)
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
@@ -62,44 +71,6 @@ function buildQueries() {
     }
     return `(${terms.join(' OR ')})`
   })
-}
-
-// Precompile each keyword as a WORD-BOUNDARY regex. Naive substring matching is wrong:
-// "war" would match inside "ransomware", "warns", "toward", German "war" (=was), turning
-// unrelated stories into Conflict and starving Cyber of its ransomware articles.
-const CATEGORY_PATTERNS = Object.fromEntries(
-  CATEGORY_ORDER.map((cat) => [
-    cat,
-    // \b…(s|es)?\b — leading boundary stays strict (rejects "war" inside "warns"/"toward"),
-    // trailing (s|es)? catches regular plurals ("tariff" → "tariffs", "sanction" → "sanctions").
-    CATEGORY_KEYWORDS[cat].map(
-      (kw) => new RegExp(`\\b${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(s|es)?\\b`, 'i'),
-    ),
-  ]),
-)
-
-// The article text we classify against: the headline plus the URL slug (de-hyphenated).
-// GDELT matches queries on the full article body, so many relevant articles don't repeat
-// the keyword in the (often truncated/reworded) title — the slug recovers those.
-function haystack(article) {
-  let slug = ''
-  try {
-    slug = new URL(article.url).pathname.replace(/[^a-z0-9]+/gi, ' ')
-  } catch {
-    /* unparseable url — title only */
-  }
-  return `${article.title || ''} ${slug}`
-}
-
-// Classify an article into a category by first-matching keyword (CATEGORY_ORDER priority).
-function classify(article) {
-  const text = haystack(article)
-  for (const category of CATEGORY_ORDER) {
-    for (const re of CATEGORY_PATTERNS[category]) {
-      if (re.test(text)) return category
-    }
-  }
-  return null
 }
 
 // One GDELT DOC query, with a hard timeout and retry/backoff on rate limiting.
@@ -162,6 +133,8 @@ async function loadExisting() {
     const txt = await readFile(OUT, 'utf8')
     const data = JSON.parse(txt)
     if (!Array.isArray(data.events)) return []
+    // Distrust pre-v2 data: it predates the English guarantee and may hold foreign titles.
+    if (data.schemaVersion !== SCHEMA_VERSION) return []
     const stamp = data.generatedAt || new Date().toISOString()
     return data.events.map((e) => ({ ...e, fetchedAt: e.fetchedAt || stamp })) // backfill
   } catch {
@@ -189,12 +162,19 @@ async function main() {
   const pooled = [...byUrl.values()]
   console.log(`Pooled ${pooled.length} unique articles`)
 
+  // Translate foreign-language headlines to English BEFORE classification, so (a) every
+  // displayed title is readable and (b) foreign-sourced stories are classifiable by the
+  // same English keyword rules — broadening coverage instead of dropping non-English media.
+  const tstats = await translateTitles(pooled, { log: console, cachePath: CACHE })
+  console.log(
+    `Translated ${tstats.translated}/${tstats.unique} foreign headlines ` +
+      `(${tstats.cached} from cache, ${tstats.failed} failed, ${tstats.capped} capped → dropped)`,
+  )
+
   // Classify + cluster by category|country.
   const clusters = new Map() // key: `${category}|${country}` -> { articles: [] }
   for (const a of pooled) {
-    // English only: keeps titles readable for the user and avoids short-keyword collisions
-    // with other languages (e.g. German "war" = "was", which would false-match Conflict).
-    if (a.language && a.language !== 'English') continue
+    if (a.translateFailed) continue // never display a non-English title we couldn't translate
     const category = classify(a)
     if (!category) continue
     const geo = resolveCountry(a.sourcecountry)
@@ -206,8 +186,10 @@ async function main() {
 
   // Fresh events from this run's clusters.
   const freshEvents = []
-  const refreshedCats = new Set()
+  const refreshedKeys = new Set() // `${category}|${country}` clusters that produced fresh data
+  const refreshedCats = new Set() // category names only, for the log line
   for (const { category, country, geo, articles } of clusters.values()) {
+    refreshedKeys.add(`${category}|${country}`)
     refreshedCats.add(category)
     articles.sort((x, y) => (y.seendate || '').localeCompare(x.seendate || '')) // newest first
     const top = articles[0]
@@ -227,20 +209,31 @@ async function main() {
       markets: CATEGORY_MARKETS[category] || [],
       count: articles.length,
       fetchedAt: nowIso,
+      translated: !!top.translated, // headline was machine-translated to English
+      lang: top.lang || null,       // original language, when translated
       sources: articles.slice(0, 4).map((a) => ({ title: a.title, url: a.url, domain: a.domain })),
     })
   }
 
-  // Merge: keep prior events whose category was NOT refreshed this run and is still
-  // within the freshness window. Refreshed categories are fully replaced by freshEvents.
+  // Merge: keep a prior event when THIS SPECIFIC category|country cluster produced nothing
+  // fresh this run and it is still within the freshness window. Granularity matters — a
+  // translation outage can drop every foreign cluster of a category while an English cluster
+  // of the same category survives; keying carry-forward on the cluster (not the bare
+  // category) means the still-fresh foreign-country coverage is preserved, not wiped.
   const keptOld = existing.filter(
     (e) =>
-      !refreshedCats.has(e.category) &&
+      !refreshedKeys.has(`${e.category}|${e.place}`) &&
       Number.isFinite(Date.parse(e.fetchedAt)) &&
       nowMs - Date.parse(e.fetchedAt) < FRESH_HOURS * 3600 * 1000,
   )
 
+  // Hard invariant: never display a non-English headline. Drop any title that slipped
+  // through — a legacy pre-translation carry-forward, or a rare translator/detector miss.
   let events = [...freshEvents, ...keptOld]
+  const beforeGate = events.length
+  events = events.filter((e) => !looksForeign(e.title))
+  const droppedForeign = beforeGate - events.length
+
   events.sort((a, b) => (b.count || 0) - (a.count || 0)) // highest-attention first
   events = events.slice(0, MAX_TOTAL)
   events.forEach((e, i) => { e.id = i + 1 }) // stable, contiguous ids
@@ -248,6 +241,7 @@ async function main() {
   const present = [...new Set(events.map((e) => e.category))]
   console.log(`\nRefreshed this run: ${[...refreshedCats].join(', ') || '(none — all throttled)'}`)
   console.log(`Carried forward: ${keptOld.length} events from prior runs`)
+  if (droppedForeign > 0) console.log(`Dropped ${droppedForeign} non-English title(s) at the English gate`)
 
   if (events.length === 0) {
     console.error('No events available (fresh or prior). Leaving existing events.json untouched.')
@@ -255,7 +249,7 @@ async function main() {
     return
   }
 
-  const payload = { generatedAt: nowIso, source: 'GDELT DOC 2.0', events }
+  const payload = { generatedAt: nowIso, schemaVersion: SCHEMA_VERSION, source: 'GDELT DOC 2.0', events }
   await mkdir(dirname(OUT), { recursive: true })
   await writeFile(OUT, JSON.stringify(payload, null, 2))
   console.log(`Wrote ${events.length} events across ${present.length}/8 categories -> ${OUT}`)

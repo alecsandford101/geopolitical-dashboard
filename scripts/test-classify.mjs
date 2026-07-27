@@ -1,28 +1,7 @@
 // Offline unit test for the word-boundary classifier — no network. Feeds real article
 // titles/urls captured from a prior live GDELT run, including the substring false-positives
 // the old classifier got wrong, and asserts the expected category.
-import { CATEGORIES, CATEGORY_KEYWORDS } from '../src/config/constants.js'
-
-const CATEGORY_ORDER = Object.keys(CATEGORIES)
-const CATEGORY_PATTERNS = Object.fromEntries(
-  CATEGORY_ORDER.map((cat) => [
-    cat,
-    CATEGORY_KEYWORDS[cat].map(
-      (kw) => new RegExp(`\\b${kw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(s|es)?\\b`, 'i'),
-    ),
-  ]),
-)
-function haystack(a) {
-  let slug = ''
-  try { slug = new URL(a.url).pathname.replace(/[^a-z0-9]+/gi, ' ') } catch {}
-  return `${a.title || ''} ${slug}`
-}
-function classify(a) {
-  const text = haystack(a)
-  for (const category of CATEGORY_ORDER)
-    for (const re of CATEGORY_PATTERNS[category]) if (re.test(text)) return category
-  return null
-}
+import { classify } from './classify.js'
 
 const cases = [
   // was WRONG (Conflict via "war" inside "ransomware") → should be Cyber & Security

@@ -53,6 +53,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/events.json
+          if [ -f .cache/translations.json ]; then git add .cache/translations.json; fi
           if git diff --staged --quiet; then
             echo "No data changes to commit."
           else

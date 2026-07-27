@@ -14,6 +14,15 @@ export default function EventCard({ ev, active, onSelect }) {
         <span className="badge" style={{ color: cat.hex }}>{ev.category}</span>
         <span className="sev-pill" style={{ background: sev.hex }}>{ev.severity}</span>
         <span className="date">{ev.date}</span>
+        {ev.translated && (
+          <span
+            className="date"
+            style={{ opacity: 0.55, fontStyle: 'italic' }}
+            title={`Headline machine-translated to English${ev.lang ? ` from ${ev.lang}` : ''}`}
+          >
+            · translated
+          </span>
+        )}
       </div>
       <h3>{ev.title}</h3>
       <div className="loc">📍 {ev.place} · {ev.region}</div>
