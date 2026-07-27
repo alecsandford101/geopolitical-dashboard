@@ -34,7 +34,7 @@ export default function WorldMap({ events, selectedId, onSelect }) {
         style={{ height: 560, width: '100%' }}
       >
         <TileLayer
-          url="https://{s}.basemap.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+          url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
           subdomains="abcd"
           attribution="&copy; OpenStreetMap contributors &copy; CARTO"
         />

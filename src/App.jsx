@@ -88,12 +88,12 @@ export default function App() {
         onReset={handleReset}
       />
 
-      <ChartsRow events={filtered} />
-
       <section className="main">
         <WorldMap events={filtered} selectedId={selectedId} onSelect={setSelectedId} />
         <EventList events={filtered} selectedId={selectedId} onSelect={setSelectedId} />
       </section>
+
+      <ChartsRow events={filtered} />
 
       <footer className="note">
         {status === 'live'
