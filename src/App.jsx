@@ -7,6 +7,7 @@ import WireTicker from './components/WireTicker.jsx'
 import StatsRow from './components/StatsRow.jsx'
 import Filters from './components/Filters.jsx'
 import ChartsRow from './components/ChartsRow.jsx'
+import TradeSignals from './components/TradeSignals.jsx'
 import WorldMap from './components/WorldMap.jsx'
 import EventList from './components/EventList.jsx'
 
@@ -96,6 +97,8 @@ export default function App() {
       </section>
 
       <ChartsRow events={filtered} />
+
+      <TradeSignals events={filtered} />
 
       <footer className="note">
         {status === 'live'
