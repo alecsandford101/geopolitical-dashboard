@@ -8,27 +8,36 @@ export default function ChartsRow({ events }) {
   return (
     <section className="charts">
       <div className="chart-panel">
-        <div className="chart-head">
-          <h3>Events by category</h3>
-          <span className="chart-sub">count in current view</span>
+        <div className="section-head">
+          <div className="sh-left">
+            <span className="eyebrow">Distribution</span>
+            <h2>By category</h2>
+          </div>
+          <span className="sh-meta">current view</span>
         </div>
-        <CategoryBar events={events} />
+        <div className="chart-body"><CategoryBar events={events} /></div>
       </div>
 
       <div className="chart-panel">
-        <div className="chart-head">
-          <h3>Coverage over time</h3>
-          <span className="chart-sub">report volume per day</span>
+        <div className="section-head">
+          <div className="sh-left">
+            <span className="eyebrow">Volume</span>
+            <h2>Coverage over time</h2>
+          </div>
+          <span className="sh-meta">reports / day</span>
         </div>
-        <Timeline events={events} />
+        <div className="chart-body"><Timeline events={events} /></div>
       </div>
 
       <div className="chart-panel">
-        <div className="chart-head">
-          <h3>Severity mix</h3>
-          <span className="chart-sub">of {events.length} events</span>
+        <div className="section-head">
+          <div className="sh-left">
+            <span className="eyebrow">Severity</span>
+            <h2>Risk mix</h2>
+          </div>
+          <span className="sh-meta">of {events.length} events</span>
         </div>
-        <SeverityBar events={events} />
+        <div className="chart-body"><SeverityBar events={events} /></div>
       </div>
     </section>
   )

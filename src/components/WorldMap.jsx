@@ -21,9 +21,12 @@ export default function WorldMap({ events, selectedId, onSelect }) {
 
   return (
     <div className="panel">
-      <div className="phead">
-        <h2>Global event map</h2>
-        <span className="hint">Marker size &amp; color = severity · click to inspect</span>
+      <div className="section-head">
+        <div className="sh-left">
+          <span className="eyebrow">Map</span>
+          <h2>Global event map</h2>
+        </div>
+        <span className="sh-meta">size &amp; color = severity · click to inspect</span>
       </div>
 
       <MapContainer
@@ -46,7 +49,7 @@ export default function WorldMap({ events, selectedId, onSelect }) {
               key={ev.id}
               center={[ev.lat, ev.lng]}
               radius={sev.radius}
-              pathOptions={{ color: '#0d0d0d', weight: 1.5, fillColor: sev.hex, fillOpacity: 0.85 }}
+              pathOptions={{ color: '#0b0d10', weight: 1.5, fillColor: sev.hex, fillOpacity: 0.85 }}
               ref={(inst) => { if (inst) markerRefs.current[ev.id] = inst }}
               eventHandlers={{ click: () => onSelect(ev.id) }}
             >

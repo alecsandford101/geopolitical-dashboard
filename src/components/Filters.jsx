@@ -8,7 +8,7 @@ export default function Filters({
   regions, resultCount, onReset,
 }) {
   return (
-    <section className="filters">
+    <section className="toolbar">
       <input
         type="search"
         placeholder="Search events, places, markets…"
@@ -28,7 +28,7 @@ export default function Filters({
           <option key={r} value={r}>{r === 'All' ? 'All regions' : r}</option>
         ))}
       </select>
-      <button className="clear" onClick={onReset}>Reset</button>
+      <button className="btn" onClick={onReset}>Reset</button>
       <span className="count">{resultCount} result{resultCount !== 1 ? 's' : ''}</span>
     </section>
   )

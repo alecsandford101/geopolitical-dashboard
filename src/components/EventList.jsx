@@ -3,9 +3,12 @@ import EventCard from './EventCard.jsx'
 export default function EventList({ events, selectedId, onSelect }) {
   return (
     <div className="panel">
-      <div className="phead">
-        <h2>Event feed</h2>
-        <span className="hint">sorted by severity</span>
+      <div className="section-head">
+        <div className="sh-left">
+          <span className="eyebrow">Feed</span>
+          <h2>Event stream</h2>
+        </div>
+        <span className="sh-meta">sorted by severity</span>
       </div>
       <div className="list">
         {events.length === 0 ? (

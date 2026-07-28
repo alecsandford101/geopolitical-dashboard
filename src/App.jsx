@@ -3,6 +3,7 @@ import { EVENTS } from './data/events.js'
 import { loadEvents } from './data/loadEvents.js'
 import { SEV_ORDER } from './config/constants.js'
 import Header from './components/Header.jsx'
+import WireTicker from './components/WireTicker.jsx'
 import StatsRow from './components/StatsRow.jsx'
 import Filters from './components/Filters.jsx'
 import ChartsRow from './components/ChartsRow.jsx'
@@ -77,6 +78,7 @@ export default function App() {
   return (
     <div className="app">
       <Header status={status} generatedAt={generatedAt} />
+      <WireTicker events={sourceEvents} />
       <StatsRow stats={stats} total={sourceEvents.length} />
       <Filters
         query={query} setQuery={setQuery}
