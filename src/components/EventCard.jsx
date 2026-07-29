@@ -5,22 +5,15 @@ export default function EventCard({ ev, active, onSelect }) {
   const sev = SEVERITY[ev.severity] || {}
 
   const select = () => onSelect(ev.id)
-  const onKeyDown = (e) => {
-    if (e.key === 'Enter' || e.key === ' ') {
-      e.preventDefault()
-      select()
-    }
-  }
 
   return (
+    // The card is a plain clickable region for mouse convenience; the headline
+    // button below is the real accessible control (so the source links aren't
+    // nested inside a button — WCAG 4.1.2).
     <div
       className={'card' + (active ? ' active' : '')}
       style={{ '--sev': sev.hex }}
-      role="button"
-      tabIndex={0}
-      aria-pressed={active}
       onClick={select}
-      onKeyDown={onKeyDown}
     >
       <div className="card-top">
         <span className="cat">
@@ -31,7 +24,16 @@ export default function EventCard({ ev, active, onSelect }) {
         <span className="card-date">{ev.date}</span>
       </div>
 
-      <h3>{ev.title}</h3>
+      <h3>
+        <button
+          type="button"
+          className="card-select"
+          aria-pressed={active}
+          onClick={(e) => { e.stopPropagation(); select() }}
+        >
+          {ev.title}
+        </button>
+      </h3>
 
       <div className="loc">
         {ev.place} · {ev.region}

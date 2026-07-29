@@ -3,7 +3,7 @@ import { EVENTS } from './data/events.js'
 import { loadEvents } from './data/loadEvents.js'
 import { SEV_ORDER } from './config/constants.js'
 import Header from './components/Header.jsx'
-import WireTicker from './components/WireTicker.jsx'
+import LeadBoard from './components/LeadBoard.jsx'
 import StatsRow from './components/StatsRow.jsx'
 import Filters from './components/Filters.jsx'
 import ChartsRow from './components/ChartsRow.jsx'
@@ -63,6 +63,22 @@ export default function App() {
       )
   }, [sourceEvents, query, category, severity, region])
 
+  // Global Pulse (0–100) — the Situation Gauge reading. Aggregate severity of the
+  // whole live world (not the filtered view), blending the hottest event with the
+  // breadth of severe activity so a single Critical spikes it but a busy board
+  // sustains it. criticalCount drives the gauge's pulse-on-new-Critical.
+  const { globalPulse, criticalCount } = useMemo(() => {
+    if (!sourceEvents.length) return { globalPulse: 0, criticalCount: 0 }
+    const W = { Critical: 100, High: 70, Medium: 40, Low: 15 }
+    const vals = sourceEvents.map((e) => W[e.severity] ?? 15)
+    const mean = vals.reduce((a, b) => a + b, 0) / vals.length
+    const max = Math.max(...vals)
+    return {
+      globalPulse: Math.round(Math.min(100, 0.55 * max + 0.45 * mean)),
+      criticalCount: sourceEvents.filter((e) => e.severity === 'Critical').length,
+    }
+  }, [sourceEvents])
+
   const stats = useMemo(() => {
     const highCrit = filtered.filter((e) => e.severity === 'High' || e.severity === 'Critical').length
     const counts = {}
@@ -78,8 +94,13 @@ export default function App() {
 
   return (
     <div className="app">
-      <Header status={status} generatedAt={generatedAt} />
-      <WireTicker events={sourceEvents} />
+      <Header
+        status={status}
+        generatedAt={generatedAt}
+        globalPulse={globalPulse}
+        criticalCount={criticalCount}
+      />
+      <LeadBoard events={sourceEvents} />
       <StatsRow stats={stats} total={sourceEvents.length} />
       <Filters
         query={query} setQuery={setQuery}
@@ -91,12 +112,15 @@ export default function App() {
         onReset={handleReset}
       />
 
-      <section className="main">
-        <WorldMap events={filtered} selectedId={selectedId} onSelect={setSelectedId} />
-        <EventList events={filtered} selectedId={selectedId} onSelect={setSelectedId} />
+      <section className="console">
+        <div className="console-main">
+          <WorldMap events={filtered} selectedId={selectedId} onSelect={setSelectedId} />
+          <ChartsRow events={filtered} />
+        </div>
+        <div className="console-side">
+          <EventList events={filtered} selectedId={selectedId} onSelect={setSelectedId} />
+        </div>
       </section>
-
-      <ChartsRow events={filtered} />
 
       <TradeSignals events={filtered} />
 

@@ -76,7 +76,7 @@ export default function TradeSignals({ events }) {
     <section className="signals">
       <div className="section-head">
         <div className="sh-left">
-          <span className="eyebrow">Positioning</span>
+          <span className="eyebrow">Decision desk</span>
           <h2>Stocks in the crosshairs</h2>
         </div>
         <span className="sh-meta">ranked by news flow · not investment advice</span>
