@@ -964,7 +964,8 @@ body::before {
    is the LONG/SHORT call. Direction is a status, so per the palette guardrail it
    is NOT carried by a saturated hue — the ▲/▼ glyph + word is the encoding, with a
    short chip filled and a long chip outlined for a redundant non-color cue. */
-.macro-signals { margin-top: var(--s5); }
+.macro-signals,
+.shorts-signals { margin-top: var(--s5); }
 .sig-dir {
   display: inline-flex;
   align-items: center;

@@ -9,6 +9,7 @@ import Filters from './components/Filters.jsx'
 import ChartsRow from './components/ChartsRow.jsx'
 import TradeSignals from './components/TradeSignals.jsx'
 import MacroSignals from './components/MacroSignals.jsx'
+import StockShorts from './components/StockShorts.jsx'
 import WorldMap from './components/WorldMap.jsx'
 import EventList from './components/EventList.jsx'
 
@@ -125,6 +126,7 @@ export default function App() {
 
       <TradeSignals events={filtered} />
       <MacroSignals events={filtered} />
+      <StockShorts events={filtered} />
 
       <footer className="note">
         {status === 'live'
