@@ -1,8 +1,51 @@
 {
-  "generatedAt": "2026-07-31T18:44:53.153Z",
+  "generatedAt": "2026-07-31T20:36:24.002Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
+    {
+      "title": "Earthquake in the Campi Flegrei of magnitude 4. 7, the strongest in recent times - News",
+      "category": "Disaster & Logistics",
+      "severity": "High",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 40.3443650813896,
+      "lng": 14.155634918610405,
+      "desc": "7 recent reports on disaster & logistics coverage originating from Italy.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 7,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Earthquake in the Campi Flegrei of magnitude 4. 7, the strongest in recent times - News",
+          "url": "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/terremoto-nei-campi-flegrei-di-magnitudo-4.7-il-piu-forte-degli-ultimi_c40469ed-2529-4076-956e-d61621f42b86.html",
+          "domain": "ansa.it"
+        },
+        {
+          "title": "Campi Flegrei 4 injured in today's earthquake in Naples | There will be more shocks expected such events",
+          "url": "https://www.zazoom.it/2026-07-31/campi-flegrei-4-feriti-nel-terremoto-di-oggi-a-napoli-ci-saranno-altre-scosse-attesi-eventi-del-genere/19523951/",
+          "domain": "zazoom.it"
+        },
+        {
+          "title": "Campi Flegrei earthquake | update on the electricity supply situation. The reception area in via Terracina has been activated",
+          "url": "https://www.zazoom.it/2026-07-31/terremoto-campi-flegrei-aggiornamento-sulla-situazione-dellerogazione-elettrica-attivata-larea-di-accoglienza-in-via-terracina/19523916/",
+          "domain": "zazoom.it"
+        },
+        {
+          "title": "Naples earthquake today, damage to the Campi Flegrei after the shock 4. 7",
+          "url": "https://www.zazoom.it/2026-07-31/terremoto-napoli-oggi-i-danni-ai-campi-flegrei-dopo-la-scossa-4-7-crolli-a-pozzuoli/19523941/",
+          "domain": "zazoom.it"
+        }
+      ],
+      "id": 1
+    },
     {
       "title": "Food became cheaper, July inflation at a two-year low",
       "category": "Monetary Policy",
@@ -44,48 +87,96 @@
           "domain": "mercurynews.com"
         }
       ],
-      "id": 1
+      "id": 2
     },
     {
-      "title": "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in Years",
-      "category": "Energy",
+      "title": "Vermont GOP governor defends state - run elections and mail - in voting as Trump aims to reshape them",
+      "category": "Elections",
       "severity": "Medium",
       "date": "2026-07-31",
       "region": "North America",
       "place": "United States",
-      "lat": 41.0556349186104,
+      "lat": 37.9443650813896,
       "lng": -99.95563491861041,
-      "desc": "3 recent reports on energy coverage originating from United States.",
+      "desc": "5 recent reports on elections coverage originating from United States.",
       "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
+        "Equities",
+        "FX",
+        "Bonds"
       ],
-      "count": 3,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
+      "count": 5,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
       "translated": false,
       "lang": null,
       "sources": [
         {
-          "title": "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in Years",
-          "url": "https://oilprice.com/Energy/Oil-Prices/ADNOC-Makes-One-of-the-Biggest-Changes-to-Middle-East-Crude-Pricing-in-Years.html",
-          "domain": "oilprice.com"
+          "title": "Vermont GOP governor defends state - run elections and mail - in voting as Trump aims to reshape them",
+          "url": "https://www.nbcnews.com/politics/politics-news/vermont-governor-phil-scott-defends-state-run-elections-mail-voting-rcna590205",
+          "domain": "nbcnews.com"
         },
         {
-          "title": "Saudis Push Maritime Coalition as Oil Finds Support",
-          "url": "https://oilprice.com/Energy/Crude-Oil/Saudis-Push-Maritime-Coalition-as-Oil-Finds-Support.html",
-          "domain": "oilprice.com"
+          "title": "Judge Shuts Down Democrat Attempt To Rush In Late Votes After Candidates Drop Out",
+          "url": "https://dailycaller.com/2026/07/31/wisconsin-democrats-governor-judge-late-absentee-ballots/",
+          "domain": "dailycaller.com"
         },
         {
-          "title": "US stocks swing as Wall Street wild July keeps swerving",
-          "url": "https://www.pottsmerc.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-          "domain": "pottsmerc.com"
+          "title": "Virginia Primary Election results for U . S . Senate",
+          "url": "https://www.wsls.com/decision-2026/2026/07/31/virginia-primary-election-results-for-us-senate/",
+          "domain": "wsls.com"
+        },
+        {
+          "title": "Federal court hands Trump a loss on mail - in ballots",
+          "url": "https://www.peoplesworld.org/article/federal-court-hands-trump-a-loss-on-mail-in-ballots/",
+          "domain": "peoplesworld.org"
         }
       ],
-      "id": 2
+      "id": 3
     },
     {
-      "title": "Trump administration slams Spain Sánchez for migrant  invasion  of Ceuta – POLITICO",
+      "title": "Trump blames Minnesota governor , not Iran , for cyberattacks on the state water systems",
+      "category": "Cyber & Security",
+      "severity": "Medium",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.3,
+      "lng": -98.4,
+      "desc": "4 recent reports on cyber & security coverage originating from United States.",
+      "markets": [
+        "Tech",
+        "Cybersecurity",
+        "Equities"
+      ],
+      "count": 4,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Trump blames Minnesota governor , not Iran , for cyberattacks on the state water systems",
+          "url": "https://1310kfka.com/abc-news/u-s-news/07/trump-blames-minnesota-governor-not-iran-for-cyberattacks-on-the-states-water-systems/",
+          "domain": "1310kfka.com"
+        },
+        {
+          "title": "FBI Issues Warning After Cyberattacks On Water Utilities In Seven States",
+          "url": "https://kxic.iheart.com/content/2026-07-31-fbi-issues-warning-after-cyberattacks-on-water-utilities-in-seven-states/",
+          "domain": "kxic.iheart.com"
+        },
+        {
+          "title": "St . Cloud Water System Was Not Among Those Targeted",
+          "url": "https://kdhlradio.com/ixp/67/p/minnesota-water-systems-cyberattack/",
+          "domain": "kdhlradio.com"
+        },
+        {
+          "title": "FBI Issues Warning After Cyberattacks On Water Utilities In Seven States",
+          "url": "https://kfbk.iheart.com/content/2026-07-31-fbi-issues-warning-after-cyberattacks-on-water-utilities-in-seven-states/",
+          "domain": "kfbk.iheart.com"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "Gulf states turn to China not US as Iran war escalates | National News",
       "category": "Conflict",
       "severity": "Medium",
       "date": "2026-07-31",
@@ -100,100 +191,24 @@
         "Gold"
       ],
       "count": 3,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
       "translated": false,
       "lang": null,
       "sources": [
         {
-          "title": "Trump administration slams Spain Sánchez for migrant  invasion  of Ceuta – POLITICO",
-          "url": "https://www.politico.eu/article/donald-trump-criticizes-spain-pedro-sanchez-over-ceuta-migration/",
-          "domain": "politico.eu"
+          "title": "Gulf states turn to China not US as Iran war escalates | National News",
+          "url": "https://www.wbkb11.com/news/national/can-china-restrain-iran-gulf-states-test-beijings-influence/article_39d7c814-fe88-5a37-9d2f-ffc46b27d2b2.html",
+          "domain": "wbkb11.com"
         },
         {
-          "title": "Ceuta , Spain : 60 , 000 Migrant Invasion in 24 - Hrs Captures Europe Attention",
-          "url": "https://theconservativetreehouse.com/blog/2026/07/31/ceuta-spain-60000-migrant-invasion-in-24-hrs-captures-europes-attention/",
-          "domain": "theconservativetreehouse.com"
+          "title": "A high - stakes test for Trump Gaza ceasefire board as Hamas disarmament looms",
+          "url": "https://www.clickondetroit.com/news/2026/07/31/a-high-stakes-test-for-trumps-gaza-ceasefire-board-as-hamas-disarmament-looms/",
+          "domain": "clickondetroit.com"
         },
         {
-          "title": "Hamas would have agreed to disarm, key to ending the war in Gaza – Telemundo Houston",
-          "url": "https://www.telemundohouston.com/noticias/mundo/hamas-acuerdo-desarmarse-guerra-gaza/2574319/",
-          "domain": "telemundohouston.com"
-        }
-      ],
-      "id": 3
-    },
-    {
-      "title": "Jalgaon : Mayor Deepmala Kale Leads Six - Hour Ground Inspection As Heavy Rain Triggers Flood - Like Situation",
-      "category": "Disaster & Logistics",
-      "severity": "Medium",
-      "date": "2026-07-31",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 20.844365081389594,
-      "lng": 80.25563491861041,
-      "desc": "3 recent reports on disaster & logistics coverage originating from India.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-07-31T14:39:01.708Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Jalgaon : Mayor Deepmala Kale Leads Six - Hour Ground Inspection As Heavy Rain Triggers Flood - Like Situation",
-          "url": "https://www.freepressjournal.in/pune/jalgaon-mayor-deepmala-kale-leads-six-hour-ground-inspection-as-heavy-rain-triggers-flood-like-situation",
-          "domain": "freepressjournal.in"
-        },
-        {
-          "title": "Jorhat : Flood - Hit Families Return to homes to Panigaon",
-          "url": "https://www.sentinelassam.com/breakingnews/jorhat-flood-hit-families-return-to-homes-to-panigaon",
-          "domain": "sentinelassam.com"
-        },
-        {
-          "title": "Assam : Mahapurush Srimanta Sankaradeva University Donates Rs 2 Lakh for Flood Relief",
-          "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-mahapurush-srimanta-sankaradeva-university-donates-rs-2-lakh-for-flood-relief",
-          "domain": "sentinelassam.com"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "title": "Digitalization of the Kherson region and the work of the Central Administrative Service during the war <D / > - how the community lives near",
-      "category": "Conflict",
-      "severity": "Medium",
-      "date": "2026-07-31",
-      "region": "Europe",
-      "place": "Ukraine",
-      "lat": 48.4,
-      "lng": 33.4,
-      "desc": "3 recent reports on conflict coverage originating from Ukraine.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-07-31T14:39:01.708Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "Digitalization of the Kherson region and the work of the Central Administrative Service during the war <D / > - how the community lives near the front line",
-          "url": "https://24tv.ua/tech/ru/cifrovizacija-hersonskoj-oblasti-i-rabota-cpau-vo-vremja-vojny-d-kak-zhivet-obshhina-u-linii-fronta_n3115210",
-          "domain": "24tv.ua"
-        },
-        {
-          "title": "The US-Iran war - why Putin does not mind the conflict continuing",
-          "url": "https://24tv.ua/viyna-ssha-iran-chomu-putin-ne-proti-shhob-konflikt-prodovzhuvavsya_n3115460",
-          "domain": "24tv.ua"
-        },
-        {
-          "title": "Why Russia is attacking Ukrainian ports: the media explained what Putin is trying to achieve",
-          "url": "https://www.unian.net/war/zachem-rossiya-atakuet-porty-ukrainy-smi-obyasnili-chego-dobivaetsya-putin-13457208.html",
-          "domain": "unian.net"
+          "title": "Saudi Arabia prepares for new war in Yemen",
+          "url": "https://www.courrierinternational.com/article/moyen-orient-l-arabie-saoudite-se-prepare-a-une-nouvelle-guerre-au-yemen_254994",
+          "domain": "courrierinternational.com"
         }
       ],
       "id": 5
@@ -237,34 +252,34 @@
       "id": 6
     },
     {
-      "title": "Elon Musk compares migrants in Ceuta to a zombie invasion and generates controversy - Variety",
-      "category": "Conflict",
+      "title": "Resignation earthquake in CHP! 120 presidents and 500 thousand members left the party",
+      "category": "Disaster & Logistics",
       "severity": "Low",
       "date": "2026-07-31",
-      "region": "Latin America",
-      "place": "Brazil",
-      "lat": -14.2,
-      "lng": -49.699999999999996,
-      "desc": "2 recent reports on conflict coverage originating from Brazil.",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 37.44436508138959,
+      "lng": 36.755634918610404,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Turkey.",
       "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
+        "Shipping",
+        "Commodities",
+        "Insurance"
       ],
       "count": 2,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
       "translated": true,
-      "lang": "Portuguese",
+      "lang": "Turkish",
       "sources": [
         {
-          "title": "Elon Musk compares migrants in Ceuta to a zombie invasion and generates controversy - Variety",
-          "url": "https://ansabrasil.com.br/brasil/noticias/variedades/2026/07/31/elon-musk-compara-migrantes-em-ceuta-a-invasao-zumbi-e-gera-polemica_6b2ef539-86b1-4e22-9bd3-9d011e85f441.html",
-          "domain": "ansabrasil.com.br"
+          "title": "Resignation earthquake in CHP! 120 presidents and 500 thousand members left the party",
+          "url": "https://www.ahaber.com.tr/gundem/2026/07/31/chpde-istifa-depremi-120-baskan-ve-500-bin-uye-partiden-ayrildi",
+          "domain": "ahaber.com.tr"
         },
         {
-          "title": "Invasion of migrants in Ceuta: everything about the current crisis",
-          "url": "https://www.otempo.com.br/mundo/2026/7/31/migrantes-em-ceuta-tudo-o-que-se-sabe-sobre-a-invasao-de-marroquinos-em-territorio-da-espanha",
-          "domain": "otempo.com.br"
+          "title": "Condolence message from Türkiye for those who died in the earthquake in Japan",
+          "url": "https://www.milliyet.com.tr/gundem/turkiyeden-japonyadaki-depremde-olenler-icin-taziye-mesaji-7632943",
+          "domain": "milliyet.com.tr"
         }
       ],
       "id": 7
@@ -501,72 +516,6 @@
       "id": 14
     },
     {
-      "title": "Hamas says it agrees to written Gaza ceasefire deal for 2nd phase tied to Israeli compliance",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Middle East",
-      "place": "Israel",
-      "lat": 31,
-      "lng": 37.1,
-      "desc": "2 recent reports on conflict coverage originating from Israel.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-07-31T16:56:31.704Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Hamas says it agrees to written Gaza ceasefire deal for 2nd phase tied to Israeli compliance",
-          "url": "https://www.middleeastmonitor.com/20260731-hamas-says-it-agrees-to-written-gaza-ceasefire-deal-for-2nd-phase-tied-to-israeli-compliance/",
-          "domain": "middleeastmonitor.com"
-        },
-        {
-          "title": "Hamas says Israel must halt attacks to advance Gaza ceasefire 2nd phase – Middle East Monitor",
-          "url": "https://www.middleeastmonitor.com/20260731-hamas-says-israel-must-halt-attacks-to-advance-gaza-ceasefires-2nd-phase/",
-          "domain": "middleeastmonitor.com"
-        }
-      ],
-      "id": 15
-    },
-    {
-      "title": "SVO participants from Komi will be able to vote in the upcoming State Duma elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 59.9443650813896,
-      "lng": 88.44436508138959,
-      "desc": "2 recent reports on elections coverage originating from Russia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-07-31T14:39:01.708Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "SVO participants from Komi will be able to vote in the upcoming State Duma elections",
-          "url": "https://www.bnkomi.ru/data/news/201667/",
-          "domain": "bnkomi.ru"
-        },
-        {
-          "title": "Elections for the post of head of the International Chess Federation: who will replace Dvorkovich, Büttner, Rosenstein or Turlov?",
-          "url": "https://www.championat.com/other/article-6565096-vybory-na-post-glavy-mezhdunarodnoj-federacii-shahmat-kto-smenit-dvorkovicha-byuttner-rozenshtejn-ili-turlov.html",
-          "domain": "championat.com"
-        }
-      ],
-      "id": 16
-    },
-    {
       "title": "Earthquake in La Guaira left more than 200 dead among students, parents and staff of the AVEC",
       "category": "Disaster & Logistics",
       "severity": "Low",
@@ -597,7 +546,7 @@
           "domain": "confirmado.com.ve"
         }
       ],
-      "id": 17
+      "id": 15
     },
     {
       "title": "Elections 2026: Lula arrives at the PT convention with a structured campaign and improving evaluation",
@@ -630,7 +579,7 @@
           "domain": "tse.jus.br"
         }
       ],
-      "id": 18
+      "id": 16
     },
     {
       "title": "Higher interest rates would help contain economic activity and reduce inflation, says Fed official",
@@ -663,7 +612,7 @@
           "domain": "dgabc.com.br"
         }
       ],
-      "id": 19
+      "id": 17
     },
     {
       "title": "Signal came from Web CPI! Bad news for those who expect a decrease in inflation!",
@@ -696,7 +645,7 @@
           "domain": "aa.com.tr"
         }
       ],
-      "id": 20
+      "id": 18
     },
     {
       "title": "There are the latest inflation data. Food has bucked the trend",
@@ -729,7 +678,7 @@
           "domain": "bankier.pl"
         }
       ],
-      "id": 21
+      "id": 19
     },
     {
       "title": "Milei wants to reform the Central Bank of Argentina to reduce it to a minimal function",
@@ -762,7 +711,7 @@
           "domain": "farodevigo.es"
         }
       ],
-      "id": 22
+      "id": 20
     },
     {
       "title": "Polls close in Greater Manchester mayoral by - election",
@@ -795,40 +744,7 @@
           "domain": "eadt.co.uk"
         }
       ],
-      "id": 23
-    },
-    {
-      "title": "Death toll rises to 34 after earthquake in Japan",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 22.044365081389596,
-      "lng": -101.04436508138959,
-      "desc": "2 recent reports on disaster & logistics coverage originating from Mexico.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Death toll rises to 34 after earthquake in Japan",
-          "url": "https://www.tiempo.com.mx/internacional/japon-aumentar-mas-treinta-cifta-fallecidos-terremoto-kumamoto/",
-          "domain": "tiempo.com.mx"
-        },
-        {
-          "title": "Death toll rises to 34 after earthquake in Japan",
-          "url": "https://puentelibre.mx/internacional/japon-aumentar-mas-treinta-cifta-fallecidos-terremoto-kumamoto/",
-          "domain": "puentelibre.mx"
-        }
-      ],
-      "id": 24
+      "id": 21
     },
     {
       "title": "Why is the market keeping an eye on monsoon, inflation and RBI policy?",
@@ -861,7 +777,7 @@
           "domain": "sharemanthan.in"
         }
       ],
-      "id": 25
+      "id": 22
     },
     {
       "title": "Teemich sanctions the mayor of Hidalgo for disobeying the resolution - Quadratín",
@@ -894,7 +810,7 @@
           "domain": "eluniversal.com.mx"
         }
       ],
-      "id": 26
+      "id": 23
     },
     {
       "title": "Tension increases in the region: Paraguay summoned the Brazilian ambassador to reject Lula's words about the war that confronted both countr",
@@ -927,7 +843,7 @@
           "domain": "llanera.com"
         }
       ],
-      "id": 27
+      "id": 24
     },
     {
       "title": "7.1 Richter earthquake in Japan: Death toll rises to 34 - Thousands of residents without power and at the mercy of stifling heat",
@@ -960,7 +876,7 @@
           "domain": "in.gr"
         }
       ],
-      "id": 28
+      "id": 25
     },
     {
       "title": "The turmoil surrounding the election of the State Comptroller: Sharan Hashakal was summoned to Lehab 433",
@@ -993,7 +909,7 @@
           "domain": "kipa.co.il"
         }
       ],
-      "id": 29
+      "id": 26
     },
     {
       "title": "1st LD Writethru : Death toll from Kumamoto earthquake rises to 30 , Japanese PM says",
@@ -1026,40 +942,7 @@
           "domain": "news.livedoor.com"
         }
       ],
-      "id": 30
-    },
-    {
-      "title": "Frightening statement after the 7.1 magnitude earthquake! Strong twin earthquake warning in Japan",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 37.44436508138959,
-      "lng": 36.755634918610404,
-      "desc": "2 recent reports on disaster & logistics coverage originating from Turkey.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-07-30T09:41:25.535Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Frightening statement after the 7.1 magnitude earthquake! Strong twin earthquake warning in Japan",
-          "url": "https://www.milliyet.com.tr/dunya/7-1lik-depremin-ardindan-korkutan-aciklama-japonyada-guclu-ikiz-deprem-uyarisi-7632225",
-          "domain": "milliyet.com.tr"
-        },
-        {
-          "title": "The number of deaths in the earthquake that hit Kumamoto Prefecture in Japan increased to 30",
-          "url": "https://www.bursadabugun.com/haber/japonya-da-kumamoto-eyaletini-vuran-depremde-hayatini-kaybedenlerin-sayisi-30-a-yukseldi-1938708.html",
-          "domain": "bursadabugun.com"
-        }
-      ],
-      "id": 31
+      "id": 27
     },
     {
       "title": "US embargo grows: Thousands of Cuban containers remain in ports",
@@ -1092,7 +975,735 @@
           "domain": "bianet.org"
         }
       ],
+      "id": 28
+    },
+    {
+      "title": "Marcinelle 70 years later, in a doc the tragic symbol of post-war emigration - TV",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "1 recent report on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Marcinelle 70 years later, in a doc the tragic symbol of post-war emigration - TV",
+          "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/07/31/marcinelle-70-anni-dopo-in-un-doc-il-simbolo-tragico-dellemigrazione-del-dopoguerra_b33efbf3-697d-4123-bfef-2f1126c3dec3.html",
+          "domain": "ansa.it"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "Earthquake in southern Italy causes blackouts, damage and scares residents",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Latin America",
+      "place": "Brazil",
+      "lat": -15.755634918610404,
+      "lng": -50.3443650813896,
+      "desc": "1 recent report on disaster & logistics coverage originating from Brazil.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Portuguese",
+      "sources": [
+        {
+          "title": "Earthquake in southern Italy causes blackouts, damage and scares residents",
+          "url": "https://g1.globo.com/mundo/noticia/2026/07/31/terremoto-no-sul-da-italia-causa-apagoes-estragos-e-assusta-moradores.ghtml",
+          "domain": "g1.globo.com"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "Ending the war in Ukraine - Trump made a new statement",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Ukraine",
+      "lat": 48.4,
+      "lng": 33.4,
+      "desc": "1 recent report on conflict coverage originating from Ukraine.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Ukrainian",
+      "sources": [
+        {
+          "title": "Ending the war in Ukraine - Trump made a new statement",
+          "url": "https://gazeta.ua/articles/politics/_putin-i-zelenskij-povinni-uklasti-ugodu-pro-zavershennya-vijni-tramp/1255760",
+          "domain": "gazeta.ua"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "The ballot does not slow down extremism. France is there to prove it",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 40.3443650813896,
+      "lng": 11.044365081389595,
+      "desc": "1 recent report on elections coverage originating from Italy.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "The ballot does not slow down extremism. France is there to prove it",
+          "url": "https://www.zazoom.it/2026-07-31/il-ballottaggio-non-frena-gli-estremismi-la-francia-e-li-a-dimostrarlo/19523967/",
+          "domain": "zazoom.it"
+        }
+      ],
       "id": 32
+    },
+    {
+      "title": "Oil price rises more than 20 percent in July",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Netherlands",
+      "lat": 53.6556349186104,
+      "lng": 3.7443650813895952,
+      "desc": "1 recent report on energy coverage originating from Netherlands.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Dutch",
+      "sources": [
+        {
+          "title": "Oil price rises more than 20 percent in July",
+          "url": "https://www.beurs.nl/Nieuws/873228/Olieprijs-stijgt-ruim-20-procent-in-juli.aspx",
+          "domain": "beurs.nl"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "title": "JAY GOLDBERG : The nanny state marches on with a war on caffeine",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 56.1,
+      "lng": -104.1,
+      "desc": "1 recent report on conflict coverage originating from Canada.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "JAY GOLDBERG : The nanny state marches on with a war on caffeine",
+          "url": "https://edmontonsun.com/opinion/columnists/jay-goldberg-the-nanny-state-marches-on-with-a-war-on-caffeine/wcm/3a1212fd-2ce9-4d58-9c09-3a718e3d894a",
+          "domain": "edmontonsun.com"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "title": "Consumer confidence in the US returns to pre-war levels",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "1 recent report on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Consumer confidence in the US returns to pre-war levels",
+          "url": "https://www.bloomberght.com/abd-de-tuketici-guveni-savas-oncesi-seviyeye-dondu-3784447",
+          "domain": "bloomberght.com"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "title": "Election : NFF announces deadline for sale of forms - Blueprint Newspapers Limited",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Africa",
+      "place": "Nigeria",
+      "lat": 7.544365081389595,
+      "lng": 7.144365081389594,
+      "desc": "1 recent report on elections coverage originating from Nigeria.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Election : NFF announces deadline for sale of forms - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/election-nff-announces-deadline-for-sale-of-forms/",
+          "domain": "blueprint.ng"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "title": "The earth trembles: five earthquakes in Malaga in two days",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 38.644365081389594,
+      "lng": -2.144365081389596,
+      "desc": "1 recent report on disaster & logistics coverage originating from Spain.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The earth trembles: five earthquakes in Malaga in two days",
+          "url": "https://www.malagahoy.es/malaga/tierra-tiembla-terremoto-provincia-malaga_0_2007628964.html",
+          "domain": "malagahoy.es"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "title": "Vast majority of registered voters will not cast a ballot",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 54.5443650813896,
+      "lng": -107.8556349186104,
+      "desc": "1 recent report on elections coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Vast majority of registered voters will not cast a ballot",
+          "url": "https://www.yorkregion.com/opinion/columnists/election-low-voter-turnout/article_5e110e35-4298-54e7-a221-11d2b29536e1.html",
+          "domain": "yorkregion.com"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "title": "Why a limited war with the US would be better for Iran than peace",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Somali",
+      "sources": [
+        {
+          "title": "Why a limited war with the US would be better for Iran than peace",
+          "url": "https://www.bbc.com/somali/articles/c86n013qdd0o",
+          "domain": "bbc.com"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "title": "Death toll from earthquake in Japan rises to 35",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -101.04436508138959,
+      "desc": "1 recent report on disaster & logistics coverage originating from Mexico.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Death toll from earthquake in Japan rises to 35",
+          "url": "https://elheraldodesaltillo.mx/2026/07/31/aumentan-a-35-los-muertos-por-el-terremoto-en-japon/",
+          "domain": "elheraldodesaltillo.mx"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "title": "The specter of inflation crushes the Fed in the face of Trump's pressure",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Middle East",
+      "place": "United Arab Emirates",
+      "lat": 24.955634918610404,
+      "lng": 55.3556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from United Arab Emirates.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "The specter of inflation crushes the Fed in the face of Trump's pressure",
+          "url": "https://www.albayan.ae/economy/business/world-economy/1543537",
+          "domain": "albayan.ae"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "title": "Pamfilova discussed preparations for the elections with St. Petersburg election commissions",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 59.9443650813896,
+      "lng": 88.44436508138959,
+      "desc": "1 recent report on elections coverage originating from Russia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Pamfilova discussed preparations for the elections with St. Petersburg election commissions",
+          "url": "https://piter.tv/event/Glava_CIK_RF_Pamfilova/",
+          "domain": "piter.tv"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "title": "War: Poland describes the fall of a probable Russian missile as a serious incident",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Latin America",
+      "place": "Cuba",
+      "lat": 21.5,
+      "lng": -75.6,
+      "desc": "1 recent report on conflict coverage originating from Cuba.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "War: Poland describes the fall of a probable Russian missile as a serious incident",
+          "url": "https://www.14ymedio.com/internacional/polonia-califica-incidente-grave-caida_1_1129332.html",
+          "domain": "14ymedio.com"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "title": "Trade in AI parts offsets impact of war in Middle East; World trade grew 1. 9% in first quarter",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 23.6,
+      "lng": -100.39999999999999,
+      "desc": "1 recent report on conflict coverage originating from Mexico.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Trade in AI parts offsets impact of war in Middle East; World trade grew 1. 9% in first quarter",
+          "url": "https://www.eluniversal.com.mx/cartera/comercio-de-piezas-de-ia-compensa-impacto-de-la-guerra-en-medio-oriente-comercio-mundial-crecio-19-en-primer-trimestre/",
+          "domain": "eluniversal.com.mx"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "title": "China calls on the USA to stop threats to Cuba and end the blockade with sanctions",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 33,
+      "desc": "1 recent report on sanctions coverage originating from Turkey.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "China calls on the USA to stop threats to Cuba and end the blockade with sanctions",
+          "url": "https://www.haberler.com/guncel/cin-den-abd-ye-kuba-ya-tehditlerini-durdur-20107279-haberi/",
+          "domain": "haberler.com"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "title": "Zionists celebrate Spanish migrant invasion",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Middle East",
+      "place": "Israel",
+      "lat": 31,
+      "lng": 37.1,
+      "desc": "1 recent report on conflict coverage originating from Israel.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Zionists celebrate Spanish migrant invasion",
+          "url": "http://www.israelherald.com/news/279217801/zionists-celebrate-spanish-migrant-invasion",
+          "domain": "israelherald.com"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "title": "Assam Flood Crisis : Himanta Sarma Thanks Gautam Adani For ₹11 Crore Support",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 80.25563491861041,
+      "desc": "1 recent report on disaster & logistics coverage originating from India.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Assam Flood Crisis : Himanta Sarma Thanks Gautam Adani For ₹11 Crore Support",
+          "url": "https://www.freepressjournal.in/business/assam-flood-crisis-himanta-sarma-thanks-gautam-adani-for-11-crore-support",
+          "domain": "freepressjournal.in"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "title": "Amazon To Return Some Of $600 Million In Tariff Payments Back To Customers",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.7,
+      "lng": -98.4,
+      "desc": "1 recent report on trade & tariffs coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Amazon To Return Some Of $600 Million In Tariff Payments Back To Customers",
+          "url": "https://whnz.iheart.com/content/2026-07-31-amazon-to-return-some-of-600-million-in-tariff-payments-back-to-customers/",
+          "domain": "whnz.iheart.com"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "title": "BOJ keeps rates steady , signals further rate hikes | The Asahi Shimbun : Breaking News , Japan News and Analysis",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Asia-Pacific",
+      "place": "Japan",
+      "lat": 37.755634918610404,
+      "lng": 139.8556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Japan.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "BOJ keeps rates steady , signals further rate hikes | The Asahi Shimbun : Breaking News , Japan News and Analysis",
+          "url": "https://www.asahi.com/ajw/articles/16772574",
+          "domain": "asahi.com"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "title": "Registration of foreigners for conventional elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Latin America",
+      "place": "Argentina",
+      "lat": -39.9556349186104,
+      "lng": -65.1556349186104,
+      "desc": "1 recent report on elections coverage originating from Argentina.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Registration of foreigners for conventional elections",
+          "url": "https://www.bariloche2000.com/sociedad/empadronamiento-de-extranjeros-para-las-elecciones-de-convencionales-20260731-0005.html",
+          "domain": "bariloche2000.com"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "title": "Wall Street wild July is ending with more swings as Amazon leaps , Apple sinks and oil prices rise",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -99.95563491861041,
+      "desc": "1 recent report on energy coverage originating from United States.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Wall Street wild July is ending with more swings as Amazon leaps , Apple sinks and oil prices rise",
+          "url": "https://www.kob.com/ap-top-news/wall-streets-wild-july-is-ending-with-more-swings-as-amazon-leaps-apple-sinks-and-oil-prices-rise/",
+          "domain": "kob.com"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "title": "Paraguay delivers note of repudiation to Brazil after Lula's declaration on Triple Alliance war",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Latin America",
+      "place": "Brazil",
+      "lat": -14.2,
+      "lng": -49.699999999999996,
+      "desc": "1 recent report on conflict coverage originating from Brazil.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Portuguese",
+      "sources": [
+        {
+          "title": "Paraguay delivers note of repudiation to Brazil after Lula's declaration on Triple Alliance war",
+          "url": "https://www.estadao.com.br/internacional/paraguai-entrega-nota-repudio-brasil-apos-declaracao-lula-guerra-triplice-alianca-npr/",
+          "domain": "estadao.com.br"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "title": "SoFAV. The Strasbourg group Aimelavie advocates flowers, not war",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Europe",
+      "place": "France",
+      "lat": 46.6,
+      "lng": 4.4,
+      "desc": "1 recent report on conflict coverage originating from France.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "SoFAV. The Strasbourg group Aimelavie advocates flowers, not war",
+          "url": "https://www.lalsace.fr/culture-loisirs/2026/07/31/aimelavie-prone-les-fleurs-pas-la-guerre",
+          "domain": "lalsace.fr"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "title": "Marcela Pagano presented a project to dissolve the Central Bank and prohibit the monetary issue",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-07-31",
+      "region": "Latin America",
+      "place": "Argentina",
+      "lat": -36.8443650813896,
+      "lng": -62.0443650813896,
+      "desc": "1 recent report on monetary policy coverage originating from Argentina.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-07-31T20:36:24.002Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Marcela Pagano presented a project to dissolve the Central Bank and prohibit the monetary issue",
+          "url": "https://www.diariopopular.com.ar/politica/marcela-pagano-presento-un-proyecto-disolver-el-banco-central-y-prohibir-la-emision-monetaria-n912480",
+          "domain": "diariopopular.com.ar"
+        }
+      ],
+      "id": 54
     },
     {
       "title": "Budget 2027: David Amiel wants a debate on the automatic indexation of certain expenses to inflation | LCP",
@@ -1120,7 +1731,7 @@
           "domain": "lcp.fr"
         }
       ],
-      "id": 33
+      "id": 55
     },
     {
       "title": "Zionists celebrate Spanish migrant invasion",
@@ -1148,91 +1759,7 @@
           "domain": "africaleader.com"
         }
       ],
-      "id": 34
-    },
-    {
-      "title": "Divisions in the Fed: two of the dissident members promote an early rate hike to stop inflation",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Latin America",
-      "place": "Argentina",
-      "lat": -36.8443650813896,
-      "lng": -62.0443650813896,
-      "desc": "1 recent report on monetary policy coverage originating from Argentina.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Divisions in the Fed: two of the dissident members promote an early rate hike to stop inflation",
-          "url": "https://www.ambito.com/economia/divisiones-la-fed-dos-los-miembros-disidentes-promueven-una-pronta-suba-tasas-frenar-la-inflacion-n6305747",
-          "domain": "ambito.com"
-        }
-      ],
-      "id": 35
-    },
-    {
-      "title": "Gaza Peace Board shared the details of the road map for the transition to the second phase of the ceasefire in Gaza.",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 39,
-      "lng": 37.400000000000006,
-      "desc": "1 recent report on conflict coverage originating from Turkey.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Gaza Peace Board shared the details of the road map for the transition to the second phase of the ceasefire in Gaza.",
-          "url": "https://www.haberler.com/guncel/gazze-baris-kurulu-gazze-de-ateskesin-ikinci-20107101-haberi/",
-          "domain": "haberler.com"
-        }
-      ],
-      "id": 36
-    },
-    {
-      "title": "Officials warn about Iranian hackers as they investigate cyberattacks on Minnesota water systems",
-      "category": "Cyber & Security",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.3,
-      "lng": -98.4,
-      "desc": "1 recent report on cyber & security coverage originating from United States.",
-      "markets": [
-        "Tech",
-        "Cybersecurity",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Officials warn about Iranian hackers as they investigate cyberattacks on Minnesota water systems",
-          "url": "https://www.kmvt.com/2026/07/31/officials-warn-about-iranian-hackers-they-investigate-cyberattacks-minnesota-water-systems/",
-          "domain": "kmvt.com"
-        }
-      ],
-      "id": 37
+      "id": 56
     },
     {
       "title": "Floods, fires, lack of water, house rent burning, chaos during exams… What else will happen to us? CR 7 – Portugal 0",
@@ -1260,7 +1787,7 @@
           "domain": "jornaldocentro.pt"
         }
       ],
-      "id": 38
+      "id": 57
     },
     {
       "title": "US sanctions against the Russian Federation - legislators are worried about the draft law",
@@ -1288,7 +1815,7 @@
           "domain": "zn.ua"
         }
       ],
-      "id": 39
+      "id": 58
     },
     {
       "title": "Migration crisis in Ceuta: JD Vance says Trump prevented invasion of migrants in the USA",
@@ -1316,7 +1843,7 @@
           "domain": "sapo.pt"
         }
       ],
-      "id": 40
+      "id": 59
     },
     {
       "title": "The hawkish pressure within the Federal Reserve increases. Two officials explain the reasons for supporting interest rate hikes: Inflation i",
@@ -1344,35 +1871,7 @@
           "domain": "finance.eastmoney.com"
         }
       ],
-      "id": 41
-    },
-    {
-      "title": "Republicans Still Have a Chance to Win Midterm Elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "1 recent report on elections coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Republicans Still Have a Chance to Win Midterm Elections",
-          "url": "https://www.lifenews.com/2026/07/31/republicans-still-have-a-chance-to-win-the-midterm-elections/",
-          "domain": "lifenews.com"
-        }
-      ],
-      "id": 42
+      "id": 60
     },
     {
       "title": "Why limited war with the US may suit Iran better than peace",
@@ -1400,7 +1899,7 @@
           "domain": "the-star.co.ke"
         }
       ],
-      "id": 43
+      "id": 61
     },
     {
       "title": "Subsidized and Non-Subsidized Electricity August 2026 Will Not Increase, Check the List of Tariffs",
@@ -1428,7 +1927,7 @@
           "domain": "metrotvnews.com"
         }
       ],
-      "id": 44
+      "id": 62
     },
     {
       "title": "August US hurricanes : Where do they form and where do they strike ? ",
@@ -1456,35 +1955,7 @@
           "domain": "local10.com"
         }
       ],
-      "id": 45
-    },
-    {
-      "title": "Hit hard by the consequences of the war in the Middle East, India wants to drill its own oil (it has 250,000 km² of unexplored offshore zone",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Europe",
-      "place": "France",
-      "lat": 46.6,
-      "lng": 4.4,
-      "desc": "1 recent report on conflict coverage originating from France.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T18:44:53.153Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "Hit hard by the consequences of the war in the Middle East, India wants to drill its own oil (it has 250,000 km² of unexplored offshore zones)",
-          "url": "https://www.bfmtv.com/economie/entreprises/energie/touchee-de-plein-fouet-par-les-consequences-de-la-guerre-au-moyen-orient-l-inde-veut-forer-son-propre-petrole-elle-dispose-de-250-000-km2-de-zones-offshore-inexplorees_AD-202607310417.html",
-          "domain": "bfmtv.com"
-        }
-      ],
-      "id": 46
+      "id": 63
     },
     {
       "title": "Migrants in Ceuta and Melilla, Ambrosini: «More than an invasion, it is a useful symbol for a certain narrative»",
@@ -1512,7 +1983,7 @@
           "domain": "cdt.ch"
         }
       ],
-      "id": 47
+      "id": 64
     },
     {
       "title": "Zionists celebrate Spanish migrant invasion",
@@ -1540,7 +2011,7 @@
           "domain": "arabherald.com"
         }
       ],
-      "id": 48
+      "id": 65
     },
     {
       "title": "Late at night! Gold and silver pull back, and crude oil rises! The Strait of Hormuz is impassable",
@@ -1568,7 +2039,7 @@
           "domain": "stcn.com"
         }
       ],
-      "id": 49
+      "id": 66
     },
     {
       "title": "Hamas agrees to disarm and withdraw Israeli army from Gaza in historic deal to end war",
@@ -1596,7 +2067,7 @@
           "domain": "larepublica.pe"
         }
       ],
-      "id": 50
+      "id": 67
     },
     {
       "title": "The Fed Holds Interest Rates Again, How Will Bitcoin Move? : Okezone Economy",
@@ -1624,7 +2095,7 @@
           "domain": "economy.okezone.com"
         }
       ],
-      "id": 51
+      "id": 68
     },
     {
       "title": "What a day - long strike shows about the importance of Aam Aadmi Clinics for Punjab govt",
@@ -1652,7 +2123,7 @@
           "domain": "indianexpress.com"
         }
       ],
-      "id": 52
+      "id": 69
     },
     {
       "title": "German bonds: price losses - rising oil prices are a burden",
@@ -1680,7 +2151,7 @@
           "domain": "finanznachrichten.de"
         }
       ],
-      "id": 53
+      "id": 70
     },
     {
       "title": "Torre del Greco - Coast Guard checks, eleven sanctions in the last week of July",
@@ -1708,7 +2179,7 @@
           "domain": "stabiachannel.it"
         }
       ],
-      "id": 54
+      "id": 71
     },
     {
       "title": "Rapid rise in fuel prices, expensive dollar and high inflation: what awaits Ukrainians in August",
@@ -1736,7 +2207,7 @@
           "domain": "vesti-ua.net"
         }
       ],
-      "id": 55
+      "id": 72
     },
     {
       "title": "Amazon recovers $600 million from Trump's tariffs",
@@ -1764,7 +2235,7 @@
           "domain": "argaam.com"
         }
       ],
-      "id": 56
+      "id": 73
     },
     {
       "title": "Ukraine - War in the live ticker: +++ 17:33 Russia warns of blocking its grain exports +++",
@@ -1792,35 +2263,7 @@
           "domain": "n-tv.de"
         }
       ],
-      "id": 57
-    },
-    {
-      "title": "Ceuta, what the Supreme Court ruling says and why it may have prompted the invasion",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "1 recent report on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T16:56:31.704Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Ceuta, what the Supreme Court ruling says and why it may have prompted the invasion",
-          "url": "https://www.ilgiornale.it/news/cronaca-internazionale/ceuta-cosa-dice-la-sentenza-della-corte-suprema-e-perche-potrebbe-aver-spinto-linvasione/",
-          "domain": "ilgiornale.it"
-        }
-      ],
-      "id": 58
+      "id": 74
     },
     {
       "title": "The interest rate policies of many central banks respond to inflationary pressure",
@@ -1848,7 +2291,7 @@
           "domain": "baochinhphu.vn"
         }
       ],
-      "id": 59
+      "id": 75
     },
     {
       "title": "2.7 percent inflation is nothing to celebrate",
@@ -1876,7 +2319,7 @@
           "domain": "fpoe.at"
         }
       ],
-      "id": 60
+      "id": 76
     },
     {
       "title": "War and the Israeli Economy: Debt, Inflation and Crisis",
@@ -1904,7 +2347,7 @@
           "domain": "jtimes.ru"
         }
       ],
-      "id": 61
+      "id": 77
     },
     {
       "title": "Trump's exceptional gesture in the context of the war in Iran: Cabinet meeting convened at Camp David",
@@ -1932,7 +2375,7 @@
           "domain": "ziarulprofit.ro"
         }
       ],
-      "id": 62
+      "id": 78
     },
     {
       "title": "Second phase of AJK elections to be held on Sunday",
@@ -1960,7 +2403,7 @@
           "domain": "radio.gov.pk"
         }
       ],
-      "id": 63
+      "id": 79
     },
     {
       "title": "New EU sanctions did not affect the Moscow Exchange",
@@ -1988,7 +2431,7 @@
           "domain": "1prime.ru"
         }
       ],
-      "id": 64
+      "id": 80
     },
     {
       "title": "Kumamoto Earthquake Thank You List! Gaoshi Morning Nursery \"Supplement Taiwan\" Calls Attention to the Political Signals Behind His Reveal | ",
@@ -2016,7 +2459,7 @@
           "domain": "setn.com"
         }
       ],
-      "id": 65
+      "id": 81
     },
     {
       "title": "Japan : Death toll rises to 35 after deadly earthquake",
@@ -2044,7 +2487,7 @@
           "domain": "dw.com"
         }
       ],
-      "id": 66
+      "id": 82
     },
     {
       "title": "A Big War is Coming",
@@ -2072,7 +2515,7 @@
           "domain": "nuclear-news.net"
         }
       ],
-      "id": 67
+      "id": 83
     },
     {
       "title": "Tug of War - Gooya News",
@@ -2100,7 +2543,7 @@
           "domain": "news.gooya.com"
         }
       ],
-      "id": 68
+      "id": 84
     },
     {
       "title": "Amazon bags $600 million Trump tariff refund : Will the e - commerce giant share the windfall with shoppers ? ",
@@ -2128,7 +2571,7 @@
           "domain": "livemint.com"
         }
       ],
-      "id": 69
+      "id": 85
     },
     {
       "title": "Trump convenes Cabinet at Camp David amid simmering Iran war",
@@ -2156,35 +2599,7 @@
           "domain": "arabnews.com"
         }
       ],
-      "id": 70
-    },
-    {
-      "title": "Elections 2027: Patricia Bullrich assured that she does not rule out competing for the head of Government",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Latin America",
-      "place": "Argentina",
-      "lat": -39.9556349186104,
-      "lng": -65.1556349186104,
-      "desc": "1 recent report on elections coverage originating from Argentina.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T14:39:01.708Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Elections 2027: Patricia Bullrich assured that she does not rule out competing for the head of Government",
-          "url": "https://www.parlamentario.com/2026/07/31/elecciones-2027-patricia-bullrich-aseguro-que-no-descarta-competir-por-la-jefatura-de-gobierno/",
-          "domain": "parlamentario.com"
-        }
-      ],
-      "id": 71
+      "id": 86
     },
     {
       "title": "Saudi Arabia, a new major player in the war against Iran: the risk of conflagration?",
@@ -2212,7 +2627,7 @@
           "domain": "rtbf.be"
         }
       ],
-      "id": 72
+      "id": 87
     },
     {
       "title": "[Seremban Elections] Zhou Shiyang: Polls are not a foregone conclusion. Voters determine the election results | Domestic",
@@ -2240,7 +2655,7 @@
           "domain": "orientaldaily.com.my"
         }
       ],
-      "id": 73
+      "id": 88
     },
     {
       "title": "[HK] Shangzhiwei (08096): Proposed re-election of retiring directors, proposed re-appointment of auditors, proposed grant of general mandate",
@@ -2268,7 +2683,7 @@
           "domain": "cfi.net.cn"
         }
       ],
-      "id": 74
+      "id": 89
     },
     {
       "title": "UN updates sanctions list for five IEA officials | Ariana News",
@@ -2296,35 +2711,7 @@
           "domain": "ariananews.af"
         }
       ],
-      "id": 75
-    },
-    {
-      "title": "Trump Defends Texas Flood Response After Death of 120 People",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "Latin America",
-      "place": "Brazil",
-      "lat": -15.755634918610404,
-      "lng": -50.3443650813896,
-      "desc": "1 recent report on disaster & logistics coverage originating from Brazil.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T14:39:01.708Z",
-      "translated": true,
-      "lang": "Portuguese",
-      "sources": [
-        {
-          "title": "Trump Defends Texas Flood Response After Death of 120 People",
-          "url": "https://www.investimentosenoticias.com.br/noticias/politica/trump-defende-resposta-a-inundacoes-no-texas-apos-morte-de-pessoas/",
-          "domain": "investimentosenoticias.com.br"
-        }
-      ],
-      "id": 76
+      "id": 90
     },
     {
       "title": "UK house prices up 0 . 1 % in July as buyers remain cautious on interest rates",
@@ -2352,7 +2739,7 @@
           "domain": "aol.co.uk"
         }
       ],
-      "id": 77
+      "id": 91
     },
     {
       "title": "Bank of Japan freezes base interest rate at 1% - Herald Economy American Edition",
@@ -2380,7 +2767,7 @@
           "domain": "heraldk.com"
         }
       ],
-      "id": 78
+      "id": 92
     },
     {
       "title": "Pan-collectibles go overseas to make wealth: cards, corrupt economy, developed, trendy toys, industry leading group army, war..._ Sina Techn",
@@ -2408,7 +2795,7 @@
           "domain": "finance.sina.com.cn"
         }
       ],
-      "id": 79
+      "id": 93
     },
     {
       "title": "Cook warns of memory chip flood, Apple iPhone sales slow down - CFi . CN China Finance Network",
@@ -2436,7 +2823,7 @@
           "domain": "cfi.net.cn"
         }
       ],
-      "id": 80
+      "id": 94
     },
     {
       "title": "Oil prices fell as supply flow increased",
@@ -2464,7 +2851,7 @@
           "domain": "birgun.net"
         }
       ],
-      "id": 81
+      "id": 95
     },
     {
       "title": "Earthquake Rocks Central Sulawesi Friday 31 July 2026, The Center of the Shock Occurred This Afternoon in Poso",
@@ -2492,7 +2879,7 @@
           "domain": "manado.tribunnews.com"
         }
       ],
-      "id": 82
+      "id": 96
     },
     {
       "title": "Amazon receives 600 million won in tariff refund... Partial refund to customer",
@@ -2520,7 +2907,7 @@
           "domain": "fnnews.com"
         }
       ],
-      "id": 83
+      "id": 97
     },
     {
       "title": "Death toll from earthquake in Japan rises to 34 | News",
@@ -2548,7 +2935,7 @@
           "domain": "dr.dk"
         }
       ],
-      "id": 84
+      "id": 98
     },
     {
       "title": "Tim Cook justifies price increases for Macs and iPads, confirming a 100-year flood in the memory market",
@@ -2576,7 +2963,7 @@
           "domain": "macg.co"
         }
       ],
-      "id": 85
+      "id": 99
     },
     {
       "title": "Iran-US War Rocks Markets, Oil Prices Drop, but Threat of Energy Crisis Has Not Subsided",
@@ -2604,7 +2991,7 @@
           "domain": "tribunnews.com"
         }
       ],
-      "id": 86
+      "id": 100
     },
     {
       "title": "My father's death changed my mother's surname to start a family war! Grandparents Angry Against Judge: Keeping Kinship Not Last Name - Socia",
@@ -2632,7 +3019,7 @@
           "domain": "chinatimes.com"
         }
       ],
-      "id": 87
+      "id": 101
     },
     {
       "title": "Rising cost of elections worrying Prof . Prempeh",
@@ -2660,7 +3047,7 @@
           "domain": "businessghana.com"
         }
       ],
-      "id": 88
+      "id": 102
     },
     {
       "title": "Index - Foreign countries - Russia's war in Ukraine - Index's Friday news summary",
@@ -2688,7 +3075,7 @@
           "domain": "index.hu"
         }
       ],
-      "id": 89
+      "id": 103
     },
     {
       "title": "Iran responds again, and the war takes hold",
@@ -2716,7 +3103,7 @@
           "domain": "politiken.dk"
         }
       ],
-      "id": 90
+      "id": 104
     },
     {
       "title": "Insulza addresses controversy between ministers and US ambassador. USA for tariffs: It doesn't help our relationships to tell each other thi",
@@ -2744,7 +3131,7 @@
           "domain": "cnnchile.com"
         }
       ],
-      "id": 91
+      "id": 105
     },
     {
       "title": "Currency: Dollar stabilized but confidence in the Federal Reserve has weakened",
@@ -2772,7 +3159,7 @@
           "domain": "finans.dk"
         }
       ],
-      "id": 92
+      "id": 106
     },
     {
       "title": "The situation in the Middle East stabilized and oil prices fell, falling about 9% for the whole week.",
@@ -2800,7 +3187,7 @@
           "domain": "zaobao.com.sg"
         }
       ],
-      "id": 93
+      "id": 107
     },
     {
       "title": "Watch World War II With Tom Hanks",
@@ -2828,7 +3215,7 @@
           "domain": "sbs.com.au"
         }
       ],
-      "id": 94
+      "id": 108
     },
     {
       "title": "Lula sanctions law that allocates part of the bet revenue to the Federal Police",
@@ -2856,7 +3243,7 @@
           "domain": "bahianoticias.com.br"
         }
       ],
-      "id": 95
+      "id": 109
     },
     {
       "title": "Iran's strategy to increase US war costs... Mobilization of maritime threats, cyber warfare, and information warfare",
@@ -2884,7 +3271,7 @@
           "domain": "fnnews.com"
         }
       ],
-      "id": 96
+      "id": 110
     },
     {
       "title": "Household electricity costs up 177 % since 1999 reforms , nearly twice the rate of inflation",
@@ -2912,35 +3299,7 @@
           "domain": "interest.co.nz"
         }
       ],
-      "id": 97
-    },
-    {
-      "title": "Italy evaluates suspending the Schengen area with Spain after the invasion of migrants to Ceuta",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-07-31",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 23.6,
-      "lng": -100.39999999999999,
-      "desc": "1 recent report on conflict coverage originating from Mexico.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-31T03:52:32.829Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Italy evaluates suspending the Schengen area with Spain after the invasion of migrants to Ceuta",
-          "url": "https://www.yucatan.com.mx/mundo/2026/07/30/italia-evalua-suspender-el-espacio-schengen-con-espana-tras-la-invasion-de-migrantes-a-ceuta.html",
-          "domain": "yucatan.com.mx"
-        }
-      ],
-      "id": 98
+      "id": 111
     },
     {
       "title": "US hits network supporting Iran Mahan Air with new sanctions",
@@ -2968,7 +3327,7 @@
           "domain": "middle-east-online.com"
         }
       ],
-      "id": 99
+      "id": 112
     },
     {
       "title": "Pakistan warns Middle East tensions may raise inflation",
@@ -2996,7 +3355,7 @@
           "domain": "pakistantoday.com.pk"
         }
       ],
-      "id": 100
+      "id": 113
     },
     {
       "title": "\"Fund\" fed interest rate fixed KGI investment letter: short-term bearish superposition AI trend unchanged - finance",
@@ -3024,7 +3383,7 @@
           "domain": "chinatimes.com"
         }
       ],
-      "id": 101
+      "id": 114
     },
     {
       "title": "Drone strike near Suez Canal in Egypt raises new security threat in widening war",
@@ -3052,7 +3411,7 @@
           "domain": "asiaone.com"
         }
       ],
-      "id": 102
+      "id": 115
     },
     {
       "title": "Tariffs again",
@@ -3080,35 +3439,7 @@
           "domain": "libertaddigital.com"
         }
       ],
-      "id": 103
-    },
-    {
-      "title": "Osun election : Adeleke alleges police bias , urges Peace Committee to stop violence ahead of August 15 poll",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Africa",
-      "place": "Nigeria",
-      "lat": 7.544365081389595,
-      "lng": 7.144365081389594,
-      "desc": "1 recent report on elections coverage originating from Nigeria.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Osun election : Adeleke alleges police bias , urges Peace Committee to stop violence ahead of August 15 poll",
-          "url": "https://www.nationalaccordnewspaper.com/osun-election-adeleke-alleges-police-bias-urges-peace-committee-to-stop-violence-ahead-of-august-15-poll/",
-          "domain": "nationalaccordnewspaper.com"
-        }
-      ],
-      "id": 104
+      "id": 116
     },
     {
       "title": "Reported quarry explosion near Cardiff causes homes to flood",
@@ -3136,35 +3467,7 @@
           "domain": "southwalesargus.co.uk"
         }
       ],
-      "id": 105
-    },
-    {
-      "title": "Randhawa asks feds to stage Surrey town hall meeting on foreign election interference",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 54.5443650813896,
-      "lng": -107.8556349186104,
-      "desc": "1 recent report on elections coverage originating from Canada.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Randhawa asks feds to stage Surrey town hall meeting on foreign election interference",
-          "url": "https://peacearchnews.com/2026/07/30/randhawa-asks-feds-to-stage-surrey-town-hall-meeting-on-foreign-election-interference/",
-          "domain": "peacearchnews.com"
-        }
-      ],
-      "id": 106
+      "id": 117
     },
     {
       "title": "International oil prices fall on the possibility of Hormuz reopening... Brent crude oil below $90",
@@ -3192,7 +3495,7 @@
           "domain": "fnnews.com"
         }
       ],
-      "id": 107
+      "id": 118
     },
     {
       "title": "Pritzker Military Foundation Invests in the Future by Honoring the Past at the U . S . Army War College",
@@ -3220,7 +3523,7 @@
           "domain": "manilatimes.net"
         }
       ],
-      "id": 108
+      "id": 119
     },
     {
       "title": "The swimming pool in Ząbkowice Śląskie destroyed by flood will be ready for next year's season",
@@ -3246,314 +3549,6 @@
           "title": "The swimming pool in Ząbkowice Śląskie destroyed by flood will be ready for next year's season",
           "url": "http://www.radiowroclaw.pl/articles/view/162712/Zniszczony-przez-powodz-basen-w-Zabkowicach-Slaskich-bedzie-gotowy-na-przyszloroczny-sezon",
           "domain": "radiowroclaw.pl"
-        }
-      ],
-      "id": 109
-    },
-    {
-      "title": "Moore warned of peak summer floods on Tours this weekend",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 59.94436508138959,
-      "lng": 91.55563491861041,
-      "desc": "1 recent report on disaster & logistics coverage originating from Russia.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "Moore warned of peak summer floods on Tours this weekend",
-          "url": "https://www.nakanune.ru/news/2026/7/30/22882057/",
-          "domain": "nakanune.ru"
-        }
-      ],
-      "id": 110
-    },
-    {
-      "title": "Gino Vegas | Can volleyball players be sanctioned for rejecting a national team call? This is what the Sports Law and the FPV Regulations sa",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Latin America",
-      "place": "Peru",
-      "lat": -9.2,
-      "lng": -77.2,
-      "desc": "1 recent report on sanctions coverage originating from Peru.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Gino Vegas | Can volleyball players be sanctioned for rejecting a national team call? This is what the Sports Law and the FPV Regulations say",
-          "url": "https://rpp.pe/voley/seleccion-peruana/gino-vegas-voleibolistas-pueden-ser-sancionadas-por-rechazar-convocatoria-de-la-seleccion-esto-es-lo-que-dice-la-ley-del-deporte-y-el-reglamento-de-la-fpv-noticia-1699397",
-          "domain": "rpp.pe"
-        }
-      ],
-      "id": 111
-    },
-    {
-      "title": "“AI is democratizing and industrializing cyberattacks,” Check Point warns.",
-      "category": "Cyber & Security",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Asia-Pacific",
-      "place": "Japan",
-      "lat": 34,
-      "lng": 138.3,
-      "desc": "1 recent report on cyber & security coverage originating from Japan.",
-      "markets": [
-        "Tech",
-        "Cybersecurity",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Japanese",
-      "sources": [
-        {
-          "title": "“AI is democratizing and industrializing cyberattacks,” Check Point warns.",
-          "url": "https://cloud.watch.impress.co.jp/docs/news/2129410.html",
-          "domain": "cloud.watch.impress.co.jp"
-        }
-      ],
-      "id": 112
-    },
-    {
-      "title": "The designated Interior Minister spoke out regarding the election of the comptroller: It is required that they choose someone who is anti-co",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Latin America",
-      "place": "Colombia",
-      "lat": 3.044365081389595,
-      "lng": -75.8556349186104,
-      "desc": "1 recent report on elections coverage originating from Colombia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "The designated Interior Minister spoke out regarding the election of the comptroller: It is required that they choose someone who is anti-corruption",
-          "url": "https://www.semana.com/confidenciales/articulo/mininterior-designado-se-pronuncio-frente-a-la-eleccion-del-contralor-se-exige-que-escojan-a-alguien-anticorrupcion/202653/",
-          "domain": "semana.com"
-        }
-      ],
-      "id": 113
-    },
-    {
-      "title": "Expanding scope of war, inevitable diplomacy",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Asia-Pacific",
-      "place": "Pakistan",
-      "lat": 30.4,
-      "lng": 71.5,
-      "desc": "1 recent report on conflict coverage originating from Pakistan.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Urdu",
-      "sources": [
-        {
-          "title": "Expanding scope of war, inevitable diplomacy",
-          "url": "https://www.express.pk/story/2824908/jang-ka-phelta-hua-daira-na-guzair-safarat-kari-2824908",
-          "domain": "express.pk"
-        }
-      ],
-      "id": 114
-    },
-    {
-      "title": "The Reserve Bank says most Australians dont get how interest rates work . That a fact and were paying for it",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Asia-Pacific",
-      "place": "Australia",
-      "lat": -23.744365081389596,
-      "lng": 135.3556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Australia.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "The Reserve Bank says most Australians dont get how interest rates work . That a fact and were paying for it",
-          "url": "https://www.watoday.com.au/business/the-economy/most-of-us-get-this-economics-question-wrong-we-re-paying-for-it-20260730-p60k08.html",
-          "domain": "watoday.com.au"
-        }
-      ],
-      "id": 115
-    },
-    {
-      "title": "Government releases Petrobras gas pipeline to make industrial gas cheaper",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Latin America",
-      "place": "Brazil",
-      "lat": -12.644365081389594,
-      "lng": -53.4556349186104,
-      "desc": "1 recent report on energy coverage originating from Brazil.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Portuguese",
-      "sources": [
-        {
-          "title": "Government releases Petrobras gas pipeline to make industrial gas cheaper",
-          "url": "https://www.rondoniadinamica.com/noticias/2026/07/governo-libera-gasoduto-da-petrobras-para-baratear-gas-industrial,250519.shtml",
-          "domain": "rondoniadinamica.com"
-        }
-      ],
-      "id": 116
-    },
-    {
-      "title": "Trump Import Tariff Follies | American Enterprise Institute",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.7,
-      "lng": -98.4,
-      "desc": "1 recent report on trade & tariffs coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Trump Import Tariff Follies | American Enterprise Institute",
-          "url": "https://www.aei.org/commentary/trumps-import-tariff-follies/",
-          "domain": "aei.org"
-        }
-      ],
-      "id": 117
-    },
-    {
-      "title": "US sanctions global networks supporting Iran Mahan Air , Revolutionary Guards – Middle East Monitor",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Middle East",
-      "place": "Israel",
-      "lat": 31,
-      "lng": 32.699999999999996,
-      "desc": "1 recent report on sanctions coverage originating from Israel.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "US sanctions global networks supporting Iran Mahan Air , Revolutionary Guards – Middle East Monitor",
-          "url": "https://www.middleeastmonitor.com/20260730-us-sanctions-global-networks-supporting-irans-mahan-air-revolutionary-guards/",
-          "domain": "middleeastmonitor.com"
-        }
-      ],
-      "id": 118
-    },
-    {
-      "title": "High oil prices are bad news for interest rates: - Puts upward pressure",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "Europe",
-      "place": "Norway",
-      "lat": 62.0556349186104,
-      "lng": 10.055634918610405,
-      "desc": "1 recent report on monetary policy coverage originating from Norway.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": true,
-      "lang": "Norwegian",
-      "sources": [
-        {
-          "title": "High oil prices are bad news for interest rates: - Puts upward pressure",
-          "url": "https://e24.no/internasjonal-oekonomi/i/ExBaQl/hoey-oljepris-er-daarlig-nytt-for-renten-legger-press-oppover",
-          "domain": "e24.no"
-        }
-      ],
-      "id": 119
-    },
-    {
-      "title": "Stock market news : Microsoft leads U . S . stocks , while inflation worries remain in bond market",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-07-30",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 57.6556349186104,
-      "lng": -104.74436508138959,
-      "desc": "1 recent report on monetary policy coverage originating from Canada.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-07-30T22:18:49.144Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Stock market news : Microsoft leads U . S . stocks , while inflation worries remain in bond market",
-          "url": "https://www.bnnbloomberg.ca/markets/2026/07/30/microsoft-leads-a-rally-on-wall-street-while-worries-about-inflation-remain-in-the-bond-market/",
-          "domain": "bnnbloomberg.ca"
         }
       ],
       "id": 120
