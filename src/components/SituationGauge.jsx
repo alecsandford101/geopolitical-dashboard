@@ -30,8 +30,11 @@ function pt(v, r = R) {
 const [a0x, a0y] = pt(0)
 const [a100x, a100y] = pt(100)
 const [c80x, c80y] = pt(80)
-const ARC = `M ${a0x} ${a0y} A ${R} ${R} 0 0 0 ${a100x} ${a100y}`
-const CRIT = `M ${c80x} ${c80y} A ${R} ${R} 0 0 0 ${a100x} ${a100y}`
+// sweep-flag 1 so the arc bulges up over the top, tracing the same semicircle as
+// the ticks, needle and 0/50/100 labels (flag 0 draws it under the pivot, which
+// sends the arc below the viewBox and out of the masthead).
+const ARC = `M ${a0x} ${a0y} A ${R} ${R} 0 0 1 ${a100x} ${a100y}`
+const CRIT = `M ${c80x} ${c80y} A ${R} ${R} 0 0 1 ${a100x} ${a100y}`
 
 const MAJORS = [0, 20, 40, 60, 80, 100]
 const LABELS = [
