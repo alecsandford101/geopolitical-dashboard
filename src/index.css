@@ -987,6 +987,19 @@ body::before {
 }
 .sig-drivers { color: var(--patina-dim); text-align: right; }
 
+/* Live news trigger — the matched headline signal that lifted this pick. Mono,
+   dim brass, a leading hairline tick; appears only when the feed actually names
+   the thesis, so it reads as evidence the desk is reacting to the news. */
+.sig-trigger {
+  margin-top: 5px;
+  padding-left: 8px;
+  border-left: 2px solid var(--brass-dim);
+  font-family: var(--font-mono);
+  font-size: 9px;
+  letter-spacing: 0.04em;
+  color: var(--brass);
+}
+
 /* ---- Footer -------------------------------------------------------------- */
 .note {
   margin-top: var(--s6);

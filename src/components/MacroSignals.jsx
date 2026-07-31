@@ -51,6 +51,14 @@ export default function MacroSignals({ events }) {
                   {it.theme}
                   {it.themes > 1 && <span className="sig-cross">· {it.themes} themes</span>}
                 </div>
+                {it.triggers?.length > 0 && (
+                  <div
+                    className="sig-trigger"
+                    title={`${it.matchEvents} live headline${it.matchEvents !== 1 ? 's' : ''} name this thesis`}
+                  >
+                    Live news: {it.triggers.slice(0, 2).map((t) => `“${t}”`).join(' · ')}
+                  </div>
+                )}
                 <p className="sig-thesis">{it.thesis}</p>
                 <div className="sig-meter" aria-hidden="true">
                   <span className="sig-meter-fill" style={{ width: `${it.strength}%` }} />
