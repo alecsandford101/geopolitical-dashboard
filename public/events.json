@@ -1,8 +1,51 @@
 {
-  "generatedAt": "2026-08-03T00:12:00.821Z",
+  "generatedAt": "2026-08-03T03:53:47.023Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
+    {
+      "title": "A state of panic in Giza. Residents evacuate properties and gather in the streets following the earthquake",
+      "category": "Disaster & Logistics",
+      "severity": "Critical",
+      "date": "2026-08-03",
+      "region": "Africa",
+      "place": "Egypt",
+      "lat": 25.244365081389596,
+      "lng": 32.355634918610406,
+      "desc": "14 recent reports on disaster & logistics coverage originating from Egypt.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 14,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "A state of panic in Giza. Residents evacuate properties and gather in the streets following the earthquake",
+          "url": "https://www.dostor.org/5655482",
+          "domain": "dostor.org"
+        },
+        {
+          "title": "3 a.m. earthquake...Cairo Governorate: No reports of losses or damage were received",
+          "url": "https://gate.ahram.org.eg/News/5881979.aspx",
+          "domain": "gate.ahram.org.eg"
+        },
+        {
+          "title": "After the dawn earthquake... Will Egypt witness new aftershocks?",
+          "url": "https://gate.ahram.org.eg/News/5881983.aspx",
+          "domain": "gate.ahram.org.eg"
+        },
+        {
+          "title": "Gharbia Governorate: We have not recorded any losses as a result of the earthquake so far... and the Operations Room is monitoring the situation",
+          "url": "https://www.dostor.org/5655484",
+          "domain": "dostor.org"
+        }
+      ],
+      "id": 1
+    },
     {
       "title": "Household spending in spotlight as Iran war drags on",
       "category": "Conflict",
@@ -42,49 +85,6 @@
           "title": "Household spending in spotlight as Iran war drags on",
           "url": "https://www.southcoastregister.com.au/story/9322115/household-spending-in-spotlight-as-iran-war-drags-on/",
           "domain": "southcoastregister.com.au"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "title": "Pearson urges Garma to look beyond referendum defeat",
-      "category": "Elections",
-      "severity": "High",
-      "date": "2026-08-01",
-      "region": "Asia-Pacific",
-      "place": "Australia",
-      "lat": -26.855634918610406,
-      "lng": 132.24436508138962,
-      "desc": "9 recent reports on elections coverage originating from Australia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 9,
-      "fetchedAt": "2026-08-01T23:14:37.181Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Pearson urges Garma to look beyond referendum defeat",
-          "url": "https://www.manningrivertimes.com.au/story/9321983/pearson-urges-garma-to-look-beyond-referendum-defeat/",
-          "domain": "manningrivertimes.com.au"
-        },
-        {
-          "title": "Pearson urges Garma to look beyond referendum defeat",
-          "url": "https://www.camdencourier.com.au/story/9321983/pearson-urges-garma-to-look-beyond-referendum-defeat/",
-          "domain": "camdencourier.com.au"
-        },
-        {
-          "title": "Pearson urges Garma to look beyond referendum defeat",
-          "url": "https://www.southernhighlandnews.com.au/story/9321983/pearson-urges-garma-to-look-beyond-referendum-defeat/",
-          "domain": "southernhighlandnews.com.au"
-        },
-        {
-          "title": "Pearson urges Garma to look beyond referendum defeat",
-          "url": "https://www.juneesoutherncross.com.au/story/9321983/pearson-urges-garma-to-look-beyond-referendum-defeat/",
-          "domain": "juneesoutherncross.com.au"
         }
       ],
       "id": 2
@@ -176,80 +176,199 @@
       "id": 4
     },
     {
-      "title": "The battle for Michigan: How did a Senate primary become Democrats' latest proxy war?",
-      "category": "Conflict",
+      "title": "Trump said the U.S. and Iran would negotiate on Monday, and international oil prices plummeted 4%",
+      "category": "Energy",
       "severity": "Medium",
-      "date": "2026-08-02",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "3 recent reports on conflict coverage originating from United States.",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 37.4556349186104,
+      "lng": 102.6443650813896,
+      "desc": "4 recent reports on energy coverage originating from China.",
       "markets": [
-        "Defense",
         "Oil",
-        "Gold"
+        "Natural Gas",
+        "Energy"
       ],
-      "count": 3,
-      "fetchedAt": "2026-08-02T21:10:07.869Z",
+      "count": 4,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
       "translated": true,
-      "lang": "Spanish",
+      "lang": "Chinese",
       "sources": [
         {
-          "title": "The battle for Michigan: How did a Senate primary become Democrats' latest proxy war?",
-          "url": "http://cnnespanol.cnn.com/2026/08/02/eeuu/batalla-michigan-senado-guerra-poder-democratas-trax",
-          "domain": "cnnespanol.cnn.com"
+          "title": "Trump said the U.S. and Iran would negotiate on Monday, and international oil prices plummeted 4%",
+          "url": "https://www.epochtimes.com/gb/26/8/2/n14822137.htm",
+          "domain": "epochtimes.com"
         },
         {
-          "title": "Israel says it has serious concerns with Hamas disarmament deal",
-          "url": "https://www.kxxv.com/world/israel-at-war/israel-says-it-has-serious-concerns-with-hamas-disarmament-deal",
-          "domain": "kxxv.com"
+          "title": "Major OPEC+ members have increased production for the sixth consecutive month. Will the meeting next month put the brakes on it? _ Oriental Fortune Network",
+          "url": "https://finance.eastmoney.com/a/202608033829542946.html",
+          "domain": "finance.eastmoney.com"
         },
         {
-          "title": "Saudi Crown Prince MBS urges Trump to  prioritise dialogue  in US - Iran war - Grenada Chronicle – Daily Grenada And Caribbean News",
-          "url": "https://grenadachronicle.com/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war/",
-          "domain": "grenadachronicle.com"
+          "title": "Oil prices plummet! Trump said the United States and Iran will hold negotiations. Iranian Foreign Minister: Negotiations with Oman are almost completed! OPEC announces continued production increase_Oriental Fortune Network",
+          "url": "https://finance.eastmoney.com/a/202608033829225051.html",
+          "domain": "finance.eastmoney.com"
+        },
+        {
+          "title": "Hot spots | Reversals continue! U.S.-Iran negotiations restart, crude oil plunges at opening _ Oriental Fortune Network",
+          "url": "https://finance.eastmoney.com/a/202608033829555626.html",
+          "domain": "finance.eastmoney.com"
         }
       ],
       "id": 5
     },
     {
-      "title": "Janja highlights women's protagonism in support of Lula's re-election",
+      "title": "One Nation unveils state leader , election candidates",
       "category": "Elections",
       "severity": "Medium",
-      "date": "2026-08-02",
-      "region": "Latin America",
-      "place": "Brazil",
-      "lat": -15.755634918610404,
-      "lng": -53.4556349186104,
-      "desc": "3 recent reports on elections coverage originating from Brazil.",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Australia",
+      "lat": -26.855634918610406,
+      "lng": 132.24436508138962,
+      "desc": "3 recent reports on elections coverage originating from Australia.",
       "markets": [
         "Equities",
         "FX",
         "Bonds"
       ],
       "count": 3,
-      "fetchedAt": "2026-08-02T19:33:54.042Z",
-      "translated": true,
-      "lang": "Portuguese",
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
       "sources": [
         {
-          "title": "Janja highlights women's protagonism in support of Lula's re-election",
-          "url": "https://www.correiobraziliense.com.br/politica/2026/08/7472392-janja-destaca-protagonismo-das-mulheres-em-apoio-a-reeleicao-de-lula.html",
-          "domain": "correiobraziliense.com.br"
+          "title": "One Nation unveils state leader , election candidates",
+          "url": "https://www.gloucesteradvocate.com.au/story/9322542/one-nation-unveils-state-leader-election-candidates/",
+          "domain": "gloucesteradvocate.com.au"
         },
         {
-          "title": "Novo sues TSE against Lula for alleged early election propaganda",
-          "url": "https://www.correiobraziliense.com.br/politica/2026/08/7472357-novo-aciona-tse-contra-lula-por-suposta-propaganda-eleitoral-antecipada.html",
-          "domain": "correiobraziliense.com.br"
+          "title": "One Nation unveils state leader , election candidates",
+          "url": "https://www.batemansbaypost.com.au/story/9322542/one-nation-unveils-state-leader-election-candidates/",
+          "domain": "batemansbaypost.com.au"
         },
         {
-          "title": "Governor Mateus Simões becomes official candidate for re-election in MG",
-          "url": "https://cbn.globo.com/politica/noticia/2026/08/02/governador-mateus-simoes-e-oficializado-candidato-a-reeleicao-em-mg.ghtml",
-          "domain": "cbn.globo.com"
+          "title": "One Nation unveils state leader , election candidates",
+          "url": "https://www.gleninnesexaminer.com.au/story/9322542/one-nation-unveils-state-leader-election-candidates/",
+          "domain": "gleninnesexaminer.com.au"
         }
       ],
       "id": 6
+    },
+    {
+      "title": "Assam floods : Locals rescue over 1 , 000 people after floodwaters submerge Sivasagar villages",
+      "category": "Disaster & Logistics",
+      "severity": "Medium",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 80.25563491861041,
+      "desc": "3 recent reports on disaster & logistics coverage originating from India.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Assam floods : Locals rescue over 1 , 000 people after floodwaters submerge Sivasagar villages",
+          "url": "https://economictimes.indiatimes.com/news/india/assam-floods-locals-rescue-over-1000-people-after-floodwaters-submerge-sivasagar-villages/articleshow/132816956.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Godavari flood receding",
+          "url": "https://www.prajasakti.com/latest-news/state-latest-news/receding-godavari-floodwaters",
+          "domain": "prajasakti.com"
+        },
+        {
+          "title": "Morning earthquake in Egypt: 5 on the Richter scale. A magnitude of 4 was reported, panic among people",
+          "url": "https://www.gujaratsamachar.com/news/international/earthquake-tremors-in-egypt-this-morning-54-magnitude-recorded-on-richter-scale-panic-among-people-31574445378",
+          "domain": "gujaratsamachar.com"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Trump planned  biggest attack since World War II  before halting Iran strikes",
+      "category": "Conflict",
+      "severity": "Medium",
+      "date": "2026-08-03",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "3 recent reports on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Trump planned  biggest attack since World War II  before halting Iran strikes",
+          "url": "https://www.basingstokegazette.co.uk/news/national/26430143.trump-planned-biggest-attack-since-world-war-ii-halting-iran-strikes/",
+          "domain": "basingstokegazette.co.uk"
+        },
+        {
+          "title": "Trump planned  biggest attack since World War II  before halting Iran strikes | Dumbarton and Vale of Leven Reporter",
+          "url": "https://www.dumbartonreporter.co.uk/news/national/26430143.trump-planned-biggest-attack-since-world-war-ii-halting-iran-strikes/",
+          "domain": "dumbartonreporter.co.uk"
+        },
+        {
+          "title": "Trump planned  biggest attack since World War II  before halting Iran strikes",
+          "url": "https://www.leaderlive.co.uk/news/national/26430143.trump-planned-biggest-attack-since-world-war-ii-halting-iran-strikes/",
+          "domain": "leaderlive.co.uk"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "The flood season is coming! Do not believe these 5 types of rumors and do not forward them!",
+      "category": "Disaster & Logistics",
+      "severity": "Medium",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 34.3443650813896,
+      "lng": 105.75563491861041,
+      "desc": "3 recent reports on disaster & logistics coverage originating from China.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "The flood season is coming! Do not believe these 5 types of rumors and do not forward them!",
+          "url": "https://baijiahao.baidu.com/s?id=1872468658544783877",
+          "domain": "baijiahao.baidu.com"
+        },
+        {
+          "title": "The strong earthquake in Kumamoto severely damaged the Japanese automobile chain: Toyota, Nissan, and Mitsubishi were all affected and the factory suspended production.",
+          "url": "https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikyxuv6205419.shtml",
+          "domain": "finance.sina.com.cn"
+        },
+        {
+          "title": "What should you do if you are in danger of wading during your trip during the flood season? Watch Firefighters Demonstrate - Video",
+          "url": "https://www.workercn.cn/c/2026-08-03/8861683.shtml",
+          "domain": "workercn.cn"
+        }
+      ],
+      "id": 9
     },
     {
       "title": "Why aren't the elections really fateful?",
@@ -287,7 +406,7 @@
           "domain": "haaretz.co.il"
         }
       ],
-      "id": 7
+      "id": 10
     },
     {
       "title": "Iran - Ukraine: The two wars become one",
@@ -325,7 +444,7 @@
           "domain": "greekherald.com"
         }
       ],
-      "id": 8
+      "id": 11
     },
     {
       "title": "OPEC+ cartel agrees to hike oil production by 188 , 000 barrels per day",
@@ -363,45 +482,7 @@
           "domain": "freepressjournal.in"
         }
       ],
-      "id": 9
-    },
-    {
-      "title": "OPEC+ boosts September production by 188 , 000 barrels per day",
-      "category": "Energy",
-      "severity": "Medium",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Pakistan",
-      "lat": 31.955634918610404,
-      "lng": 67.74436508138959,
-      "desc": "3 recent reports on energy coverage originating from Pakistan.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-08-02T18:11:58.346Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "OPEC+ boosts September production by 188 , 000 barrels per day",
-          "url": "https://www.geo.tv/latest/675844-opec-boosts-september-production-by-188000-barrelsday",
-          "domain": "geo.tv"
-        },
-        {
-          "title": "OPEC+ agrees modest 188 , 000 bpd oil output hike for September",
-          "url": "https://thefrontierpost.com/opec-agrees-modest-188000-bpd-oil-output-hike-for-september/",
-          "domain": "thefrontierpost.com"
-        },
-        {
-          "title": "OPEC plus 1 daily in September. Decision to increase 88 million barrels of oil production - World",
-          "url": "https://www.aaj.tv/news/30511334/opec-decides-to-increase-oil-production-by-188000-barrels-per-day-in-september",
-          "domain": "aaj.tv"
-        }
-      ],
-      "id": 10
+      "id": 12
     },
     {
       "title": "Japan Kumamoto earthquake site search ends... Secondary damage from heat waves and water outages",
@@ -439,7 +520,7 @@
           "domain": "fnnews.com"
         }
       ],
-      "id": 11
+      "id": 13
     },
     {
       "title": "Japan earthquake death toll rises to 38",
@@ -477,7 +558,7 @@
           "domain": "news.mail.ru"
         }
       ],
-      "id": 12
+      "id": 14
     },
     {
       "title": "They ask to evacuate the second sector in Penco due to a flood: they activate SAE messaging | National",
@@ -515,7 +596,172 @@
           "domain": "biobiochile.cl"
         }
       ],
-      "id": 13
+      "id": 15
+    },
+    {
+      "title": "The largest mine in Taiwan, Japan and Korea semiconductors has arrived? Day Expert Exposure 1 Key Warning Supply Chain Faces Tsunami Shock",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 22.144365081389594,
+      "lng": 122.5156349186104,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Taiwan.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "The largest mine in Taiwan, Japan and Korea semiconductors has arrived? Day Expert Exposure 1 Key Warning Supply Chain Faces Tsunami Shock",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5526504",
+          "domain": "ec.ltn.com.tw"
+        },
+        {
+          "title": "Eastern Egypt Scale 5. 5 Earthquake Authorities Launch Emergency Response Plan - International",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5526646",
+          "domain": "news.ltn.com.tw"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "Azad Kashmir election, PML-N winner, attack on Acting President, PP, PML-N rigging allegations against each other",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Pakistan",
+      "lat": 28.844365081389594,
+      "lng": 67.74436508138959,
+      "desc": "2 recent reports on elections coverage originating from Pakistan.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Urdu",
+      "sources": [
+        {
+          "title": "Azad Kashmir election, PML-N winner, attack on Acting President, PP, PML-N rigging allegations against each other",
+          "url": "https://jang.com.pk/news/1604268",
+          "domain": "jang.com.pk"
+        },
+        {
+          "title": "Referendum in Article 48 (6 and 7), power of Prime Minister, 2-thirds majority not required.",
+          "url": "https://jang.com.pk/news/1604348",
+          "domain": "jang.com.pk"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "INEC Releases Campaign Timetable For 2027 General Elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Africa",
+      "place": "Nigeria",
+      "lat": 7.544365081389595,
+      "lng": 7.144365081389594,
+      "desc": "2 recent reports on elections coverage originating from Nigeria.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "INEC Releases Campaign Timetable For 2027 General Elections",
+          "url": "https://www.thetidenewsonline.com/2026/08/inec-releases-campaign-timetable-for-2027-general-elections/",
+          "domain": "thetidenewsonline.com"
+        },
+        {
+          "title": "PH NBA Election : Committee Uncovers Over 500 Padded Names On Voter Register – :::… The Tide News Online :::… ",
+          "url": "https://www.thetidenewsonline.com/2026/08/ph-nba-election-committee-uncovers-over-500-padded-names-on-voters-register/",
+          "domain": "thetidenewsonline.com"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "title": "The number of deaths due to the earthquake in Japan increased by 8. 500 people evacuated",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Vietnam",
+      "lat": 12.504365081389595,
+      "lng": 109.8556349186104,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Vietnam.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Vietnamese",
+      "sources": [
+        {
+          "title": "The number of deaths due to the earthquake in Japan increased by 8. 500 people evacuated",
+          "url": "https://thanhnien.vn/so-nguoi-chet-do-dong-dat-o-nhat-tang-8500-nguoi-so-tan-1852608030933248.htm",
+          "domain": "thanhnien.vn"
+        },
+        {
+          "title": "Vietnamese people in Japan join hands to help victims after the earthquake",
+          "url": "https://thanhnien.vn/nguoi-viet-o-nhat-chung-tay-giup-nan-nhan-sau-dong-dat-185260802201513066.htm",
+          "domain": "thanhnien.vn"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "title": "Elections 2026: electoral propaganda begins on August 16th - What's news in Sergipe",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Latin America",
+      "place": "Brazil",
+      "lat": -15.755634918610404,
+      "lng": -53.4556349186104,
+      "desc": "2 recent reports on elections coverage originating from Brazil.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Portuguese",
+      "sources": [
+        {
+          "title": "Elections 2026: electoral propaganda begins on August 16th - What's news in Sergipe",
+          "url": "https://infonet.com.br/noticias/politica/eleicoes-2026-propaganda-eleitoral-comeca-no-dia-16-de-agosto/",
+          "domain": "infonet.com.br"
+        },
+        {
+          "title": "Petro accuses electoral fraud with Israeli software in Colombian elections",
+          "url": "https://www.brasil247.com/america-latina/petro-acusa-fraude-eleitoral-com-software-israelense-nas-eleicoes-colombianas/",
+          "domain": "brasil247.com"
+        }
+      ],
+      "id": 20
     },
     {
       "title": "Russia faces a post-war period isolated in the world and with a destroyed economy",
@@ -548,40 +794,7 @@
           "domain": "negocios.com"
         }
       ],
-      "id": 14
-    },
-    {
-      "title": "Lula da Silva makes his candidacy for re-election in Brazil official and assembles a coalition to confront Flávio Bolsonaro",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Latin America",
-      "place": "Peru",
-      "lat": -10.755634918610404,
-      "lng": -76.55563491861041,
-      "desc": "2 recent reports on elections coverage originating from Peru.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-02T21:10:07.869Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Lula da Silva makes his candidacy for re-election in Brazil official and assembles a coalition to confront Flávio Bolsonaro",
-          "url": "https://larepublica.pe/mundo/2026/08/02/lula-da-silva-oficializa-su-candidatura-a-la-reeleccion-en-brasil-y-reune-coalicion-para-enfrentar-a-flavio-bolsonaro-31568",
-          "domain": "larepublica.pe"
-        },
-        {
-          "title": "Elections 2026 in Arequipa: who are the candidates for mayor of Alto Selva Alegre?",
-          "url": "https://elbuho.pe/2026/08/elecciones-2026-en-arequipa-quienes-son-los-candidatos-a-la-alcaldia-de-alto-selva-alegre/",
-          "domain": "elbuho.pe"
-        }
-      ],
-      "id": 15
+      "id": 21
     },
     {
       "title": "In Finland they told how sanctions against Russia hit the country",
@@ -614,7 +827,7 @@
           "domain": "europesun.com"
         }
       ],
-      "id": 16
+      "id": 22
     },
     {
       "title": "OPEC+ increases oil output after two years of curbs",
@@ -647,106 +860,7 @@
           "domain": "stiripesurse.ro"
         }
       ],
-      "id": 17
-    },
-    {
-      "title": "Lovlina Borgohain dedicates CWG Boxing silver medal to Assam flood - hit people",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 20.844365081389594,
-      "lng": 80.25563491861041,
-      "desc": "2 recent reports on disaster & logistics coverage originating from India.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-02T19:33:54.042Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Lovlina Borgohain dedicates CWG Boxing silver medal to Assam flood - hit people",
-          "url": "https://www.prokerala.com/news/articles/a1795632.html",
-          "domain": "prokerala.com"
-        },
-        {
-          "title": "  Saving people more important than our live : Sivasagar locals rescued over 1 , 000 people with six boats during Assam floods",
-          "url": "http://www.indiagazette.com/news/279219778/saving-people-more-important-than-our-lives-sivasagar-locals-rescued-over-1000-people-with-six-boats-during-assam-floods",
-          "domain": "indiagazette.com"
-        }
-      ],
-      "id": 18
-    },
-    {
-      "title": "AJK Elections Results 2026 Phase 2 | LA - 42 | Kashmir Valley - 3 Winners",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Pakistan",
-      "lat": 28.844365081389594,
-      "lng": 67.74436508138959,
-      "desc": "2 recent reports on elections coverage originating from Pakistan.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-02T19:33:54.042Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "AJK Elections Results 2026 Phase 2 | LA - 42 | Kashmir Valley - 3 Winners",
-          "url": "https://pakobserver.net/ajk-elections-results-2026-phase-2-la-42-kashmir-valley-3-winners/",
-          "domain": "pakobserver.net"
-        },
-        {
-          "title": "AJK Elections Results 2026 Phase 2 | LA - 44 | Kashmir Valley - 5 Winners",
-          "url": "https://pakobserver.net/ajk-elections-results-2026-phase-2-la-44-kashmir-valley-5-winners/",
-          "domain": "pakobserver.net"
-        }
-      ],
-      "id": 19
-    },
-    {
-      "title": "Bank Permata Estimates Inflation at the End of 2026 of 3.3 Percent",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Indonesia",
-      "lat": 0.7556349186104045,
-      "lng": 115.45563491861041,
-      "desc": "2 recent reports on monetary policy coverage originating from Indonesia.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-02T18:11:58.346Z",
-      "translated": true,
-      "lang": "Indonesian",
-      "sources": [
-        {
-          "title": "Bank Permata Estimates Inflation at the End of 2026 of 3.3 Percent",
-          "url": "https://www.tempo.co/ekonomi/bank-permata-perkirakan-inflasi-di-akhir-2026-3-3-persen--2279866",
-          "domain": "tempo.co"
-        },
-        {
-          "title": "July Monthly Inflation Estimated at 0.03 Percent",
-          "url": "https://www.tempo.co/ekonomi/inflasi-bulanan-juli-diperkirakan-0-03-persen-2279867",
-          "domain": "tempo.co"
-        }
-      ],
-      "id": 20
+      "id": 23
     },
     {
       "title": "OPEC+ increases by another 188. 000 barrels per day its supply starting in September",
@@ -779,40 +893,7 @@
           "domain": "diariosigloxxi.com"
         }
       ],
-      "id": 21
-    },
-    {
-      "title": "[Authority] 20 latest reports from the United States and Iran 0802 deny asking Trump to stop the attack! Iranian army tanks approaching Kuwa",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 37.4556349186104,
-      "lng": 102.6443650813896,
-      "desc": "2 recent reports on energy coverage originating from China.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-02T18:11:58.346Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "[Authority] 20 latest reports from the United States and Iran 0802 deny asking Trump to stop the attack! Iranian army tanks approaching Kuwait border? ! _ NYMEX crude oil (ufnymexcl00y) stock bar _ Oriental Fortune Network stock bar",
-          "url": "https://guba.eastmoney.com/o/news,ufnymexcl00y,1753075192.html",
-          "domain": "guba.eastmoney.com"
-        },
-        {
-          "title": "OPEC+ continues to raise oil production by 188 , 000 bpd in September",
-          "url": "http://www.chinanationalnews.com/news/279219701/opec-continues-to-raise-oil-production-by-188000-bpd-in-september",
-          "domain": "chinanationalnews.com"
-        }
-      ],
-      "id": 22
+      "id": 24
     },
     {
       "title": "Lebanese media war over controversial investigation",
@@ -845,7 +926,7 @@
           "domain": "estrepublicain.fr"
         }
       ],
-      "id": 23
+      "id": 25
     },
     {
       "title": "USA, the social invasion of fake wellness gurus",
@@ -878,7 +959,7 @@
           "domain": "huffingtonpost.it"
         }
       ],
-      "id": 24
+      "id": 26
     },
     {
       "title": "US and Israel staged Spain migration invasion Iran",
@@ -911,7 +992,7 @@
           "domain": "countercurrents.org"
         }
       ],
-      "id": 25
+      "id": 27
     },
     {
       "title": "Healey vows crackdown on price gouging as Middle East conflict fuels inflation fears - London Business News",
@@ -944,40 +1025,7 @@
           "domain": "britainnews.net"
         }
       ],
-      "id": 26
-    },
-    {
-      "title": "In July, social zero accelerated the repair of inflation and economic data released positive signals - CFi. CN China Finance Network",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 37.4556349186104,
-      "lng": 105.75563491861041,
-      "desc": "2 recent reports on monetary policy coverage originating from China.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "In July, social zero accelerated the repair of inflation and economic data released positive signals - CFi. CN China Finance Network",
-          "url": "http://www.cfi.net.cn/p20260802000630.html",
-          "domain": "cfi.net.cn"
-        },
-        {
-          "title": "The Federal Reserve is making a big move, and U.S. storage giants will announce their results",
-          "url": "https://finance.ifeng.com/c/8vGN5akWuS8",
-          "domain": "finance.ifeng.com"
-        }
-      ],
-      "id": 27
+      "id": 28
     },
     {
       "title": "OPEC+ announced its decision! Oil production will be increased in September",
@@ -1010,7 +1058,7 @@
           "domain": "dailysabah.com"
         }
       ],
-      "id": 28
+      "id": 29
     },
     {
       "title": "RBI Revises Deposit Interest Rate Rules , Mandates Uniform Rates & Greater Transparency From October 1",
@@ -1043,7 +1091,7 @@
           "domain": "aninews.in"
         }
       ],
-      "id": 29
+      "id": 30
     },
     {
       "title": "First disaster-related death suspected in Kumamoto earthquake; heatstroke caused by sleeping in car; warning on extremely hot days",
@@ -1076,7 +1124,7 @@
           "domain": "toonippo.co.jp"
         }
       ],
-      "id": 30
+      "id": 31
     },
     {
       "title": "A junior high school student who donated evidence of the Japanese invasion of China at his own expense was maliciously attacked. The police ",
@@ -1109,7 +1157,7 @@
           "domain": "news.qq.com"
         }
       ],
-      "id": 31
+      "id": 32
     },
     {
       "title": "Candidates Who Could Stop Trump From Stealing The Election",
@@ -1142,7 +1190,7 @@
           "domain": "huffingtonpost.co.uk"
         }
       ],
-      "id": 32
+      "id": 33
     },
     {
       "title": "A war to secure the police and honor the police to complete inspections... Gangnam Chief, prohibited from contacting law firms",
@@ -1175,7 +1223,7 @@
           "domain": "edaily.co.kr"
         }
       ],
-      "id": 33
+      "id": 34
     },
     {
       "title": "Sin Filtros v/s Próceres: the war between the political shock programs of the right",
@@ -1208,7 +1256,7 @@
           "domain": "chilecomparte.cl"
         }
       ],
-      "id": 34
+      "id": 35
     },
     {
       "title": "Jin-Woo Joo, the number of voters in last year's presidential election increased by 100 people per hour... circumstances of operation",
@@ -1241,7 +1289,7 @@
           "domain": "kmib.co.kr"
         }
       ],
-      "id": 35
+      "id": 36
     },
     {
       "title": "Special treatment in US tariff war",
@@ -1274,7 +1322,7 @@
           "domain": "thefrontierpost.com"
         }
       ],
-      "id": 36
+      "id": 37
     },
     {
       "title": "Candriam: high rates, decreasing inflation. How the scenario is changing for investors - WORD FROM THE MARKET",
@@ -1307,13 +1355,41 @@
           "domain": "borsaitaliana.it"
         }
       ],
-      "id": 37
+      "id": 38
     },
     {
-      "title": "Major move by Congress ahead of Datia by-election results ; Rajendra Bharti expelled from the party , Datia News in Hindi",
+      "title": "Signals of US-Iran War Increasingly Massive, Analysts Dismantle Attack Scenarios",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Indonesia",
+      "lat": -0.8,
+      "lng": 116.10000000000001,
+      "desc": "1 recent report on conflict coverage originating from Indonesia.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Indonesian",
+      "sources": [
+        {
+          "title": "Signals of US-Iran War Increasingly Massive, Analysts Dismantle Attack Scenarios",
+          "url": "https://jambi.tribunnews.com/news/1201737/sinyal-perang-as-iran-kian-masif-analis-bongkar-skenario-serangan",
+          "domain": "jambi.tribunnews.com"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "title": "Manjalpur Byelection Result LIVE: Manjalpur Assembly by-election result today, will Congress be able to make a dent in BJP's stronghold?",
       "category": "Elections",
       "severity": "Low",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "region": "Asia-Pacific",
       "place": "India",
       "lat": 20.844365081389594,
@@ -1325,17 +1401,465 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-08-02T21:10:07.869Z",
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
       "translated": true,
-      "lang": "Hindi",
+      "lang": "Gujarati",
       "sources": [
         {
-          "title": "Major move by Congress ahead of Datia by-election results ; Rajendra Bharti expelled from the party , Datia News in Hindi",
-          "url": "https://www.khaskhabar.com/local/madhya-pradesh/datia-news/news-major-move-by-congress-ahead-of-datia-by-election-results-rajendra-bharti-expelled-from-the-party-news-hindi-1-833460-KKN.html",
-          "domain": "khaskhabar.com"
+          "title": "Manjalpur Byelection Result LIVE: Manjalpur Assembly by-election result today, will Congress be able to make a dent in BJP's stronghold?",
+          "url": "https://www.gujaratsamachar.com/news/baroda/manjalpur-byelection-result-live-manjalpur-assembly-by-election-result-today-will-congress-be-able-to-make-a-dent-in-bjps-stronghold-51676964104",
+          "domain": "gujaratsamachar.com"
         }
       ],
-      "id": 38
+      "id": 40
+    },
+    {
+      "title": "The widow of a Great Patriotic War veteran from Primorye was beaten over a housing dispute",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 61.5,
+      "lng": 92.2,
+      "desc": "1 recent report on conflict coverage originating from Russia.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "The widow of a Great Patriotic War veteran from Primorye was beaten over a housing dispute",
+          "url": "https://deita.ru/article/588521",
+          "domain": "deita.ru"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh , With 3 Officials Dissenting . Here What Investors Should E",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "1 recent report on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh , With 3 Officials Dissenting . Here What Investors Should Expect Next . ",
+          "url": "https://www.fool.com/investing/2026/08/02/the-fed-held-interest-rates-steady-for-a-2nd-strai/?source=iedfolrf0000001",
+          "domain": "fool.com"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "title": "Central Bank of China: Support more overseas institutions to participate in the issuance of panda bonds",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 37.4556349186104,
+      "lng": 105.75563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from China.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Central Bank of China: Support more overseas institutions to participate in the issuance of panda bonds",
+          "url": "https://finance.qianlong.com/2026/0803/8706496.shtml",
+          "domain": "finance.qianlong.com"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "title": "The 2027 election and crime",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -104.1556349186104,
+      "desc": "1 recent report on elections coverage originating from Mexico.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The 2027 election and crime",
+          "url": "https://horacero.com.mx/columnas/la-eleccion-de-2027-y-la-delincuencia",
+          "domain": "horacero.com.mx"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "title": "Earthquake shakes northeast Egypt | Tiroler Tageszeitung – Current news on tt. com",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Europe",
+      "place": "Austria",
+      "lat": 45.94436508138959,
+      "lng": 16.155634918610403,
+      "desc": "1 recent report on disaster & logistics coverage originating from Austria.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Earthquake shakes northeast Egypt | Tiroler Tageszeitung – Current news on tt. com",
+          "url": "https://www.tt.com/artikel/30939413/erdbeben-erschuettert-nordwesten-aegyptens",
+          "domain": "tt.com"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "title": "OPEC Plus likely to increase oil production quota in September",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Pakistan",
+      "lat": 31.955634918610404,
+      "lng": 67.74436508138959,
+      "desc": "1 recent report on energy coverage originating from Pakistan.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Urdu",
+      "sources": [
+        {
+          "title": "OPEC Plus likely to increase oil production quota in September",
+          "url": "https://jang.com.pk/news/1604358",
+          "domain": "jang.com.pk"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "title": "Expert sees “small signals from Putin in the Ukraine war – and a long-term problem",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 51.2,
+      "lng": 12.600000000000001,
+      "desc": "1 recent report on conflict coverage originating from Germany.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Expert sees “small signals from Putin in the Ukraine war – and a long-term problem",
+          "url": "http://www.hna.de/politik/ein-langfrist-problem-experte-sieht-kleine-signale-putins-im-ukraine-krieg-und-zr-94424553.html",
+          "domain": "hna.de"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "title": "Bamsoet's Political Notes: Freeing the Real Sector from Pressure to Maintain Central Bank Independence",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Indonesia",
+      "lat": 0.7556349186104045,
+      "lng": 115.45563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from Indonesia.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Indonesian",
+      "sources": [
+        {
+          "title": "Bamsoet's Political Notes: Freeing the Real Sector from Pressure to Maintain Central Bank Independence",
+          "url": "https://www.tribunnews.com/tribunners/7862931/catatan-politik-bamsoet-membebaskan-sektor-riil-dari-tekanan-merawat-independensi-bank-central",
+          "domain": "tribunnews.com"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "title": "Earthquake today in Peru LIVE epicenter, time, magnitude and intensity of the tremor today, August 2, 2026, according to the IGP | Geophysic",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Latin America",
+      "place": "Peru",
+      "lat": -10.755634918610404,
+      "lng": -73.44436508138959,
+      "desc": "1 recent report on disaster & logistics coverage originating from Peru.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Earthquake today in Peru LIVE epicenter, time, magnitude and intensity of the tremor today, August 2, 2026, according to the IGP | Geophysical Institute of Peru | Lima | Callao | Junin | lbposting",
+          "url": "https://enlinea.pe/2026/08/02/ultimo-sismo-en-el-peru-hoy-2-de-agosto-del-2026-igp-reporto-temblor-en-huanuco-ucayali-ica-cusco-chupaca-y-arequipa/",
+          "domain": "enlinea.pe"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "title": "Severe earthquake at Italy's supervolcano: 300 people homeless",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 49.644365081389594,
+      "lng": 11.955634918610405,
+      "desc": "1 recent report on disaster & logistics coverage originating from Germany.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Severe earthquake at Italy's supervolcano: 300 people homeless",
+          "url": "http://www.wa.de/welt/italiens-supervulkan-staerkstes-erdbeben-aller-zeiten-an-zr-94424451.html",
+          "domain": "wa.de"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "title": "Referendum involving Luzerne County election workers wont be on Nov . 3 ballot",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "1 recent report on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Referendum involving Luzerne County election workers wont be on Nov . 3 ballot",
+          "url": "https://www.timesleader.com/news/1750831/referendum-involving-luzerne-county-election-workers-wont-be-on-nov-3-ballot",
+          "domain": "timesleader.com"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "title": "Trump halts Iran strikes , citing potential deal to end war",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "1 recent report on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Trump halts Iran strikes , citing potential deal to end war",
+          "url": "https://www.fox35orlando.com/news/trump-halts-iran-strikes-citing-potential-deal-end-war",
+          "domain": "fox35orlando.com"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "title": "Bank interest rates today August 3, 2026: Slight fluctuations, where is the most beneficial place to save?",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Vietnam",
+      "lat": 15.615634918610406,
+      "lng": 109.8556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Vietnam.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Vietnamese",
+      "sources": [
+        {
+          "title": "Bank interest rates today August 3, 2026: Slight fluctuations, where is the most beneficial place to save?",
+          "url": "https://ngoisao.vn/theo-dong-su-kien/tin-nong-trong-ngay/lai-suat-ngan-hang-hom-nay-3-8-2026-bien-dong-nhe-gui-tiet-kiem-noi-nao-loi-nhat-d489441.html",
+          "domain": "ngoisao.vn"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -99.95563491861041,
+      "desc": "1 recent report on energy coverage originating from United States.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+          "domain": "oilprice.com"
+        }
+      ],
+      "id": 54
+    },
+    {
+      "title": "Regional and municipal elections: the sad level of political marketing exhibited by Barranca candidates",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Latin America",
+      "place": "Peru",
+      "lat": -10.755634918610404,
+      "lng": -76.55563491861041,
+      "desc": "1 recent report on elections coverage originating from Peru.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Regional and municipal elections: the sad level of political marketing exhibited by Barranca candidates",
+          "url": "https://etc.pe/elecciones-regionales-y-municipales-el-triste-nivel-del-marketing-politico-que-exhiben-los-candidatos-de-barranca/",
+          "domain": "etc.pe"
+        }
+      ],
+      "id": 55
+    },
+    {
+      "title": "Mae Sai Embankment Collapses Causing Flash Flood To Hit Phaholyothin Road",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-03",
+      "region": "Asia-Pacific",
+      "place": "Thailand",
+      "lat": 14.344365081389595,
+      "lng": 102.5456349186104,
+      "desc": "1 recent report on disaster & logistics coverage originating from Thailand.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-03T03:53:47.023Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mae Sai Embankment Collapses Causing Flash Flood To Hit Phaholyothin Road",
+          "url": "https://www.chiangraitimes.com/news/chiang-rai/mae-sai-flash-flood/",
+          "domain": "chiangraitimes.com"
+        }
+      ],
+      "id": 56
     },
     {
       "title": "Ross Valley flood fee critic calls for refunds",
@@ -1363,35 +1887,7 @@
           "domain": "marinij.com"
         }
       ],
-      "id": 39
-    },
-    {
-      "title": "Osun election  ll expose INEC , security agencie 2027 plan Olawepo - Hashim",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Africa",
-      "place": "Nigeria",
-      "lat": 7.544365081389595,
-      "lng": 7.144365081389594,
-      "desc": "1 recent report on elections coverage originating from Nigeria.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T21:10:07.869Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Osun election  ll expose INEC , security agencie 2027 plan Olawepo - Hashim",
-          "url": "https://www.vanguardngr.com/2026/08/osun-election-ll-expose-inec-security-agencies-2027-plan-olawepo-hashim/",
-          "domain": "vanguardngr.com"
-        }
-      ],
-      "id": 40
+      "id": 57
     },
     {
       "title": "Presidential election in Brazil: Lula wants fourth term in office – duel with Bolsonaro's son",
@@ -1419,7 +1915,7 @@
           "domain": "handelsblatt.com"
         }
       ],
-      "id": 41
+      "id": 58
     },
     {
       "title": "Iran says talks with Oman on Strait of Hormuz  nearing completion  ",
@@ -1447,35 +1943,7 @@
           "domain": "aa.com.tr"
         }
       ],
-      "id": 42
-    },
-    {
-      "title": "Hormuz blockade: Captain sees act of war – “also against us.”",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 51.2,
-      "lng": 12.600000000000001,
-      "desc": "1 recent report on conflict coverage originating from Germany.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T21:10:07.869Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Hormuz blockade: Captain sees act of war – “also against us.”",
-          "url": "https://www.otz.de/politik/article412692359/kapitaen-zur-hormus-blockade-ein-akt-des-krieges-auch-gegen-uns.html",
-          "domain": "otz.de"
-        }
-      ],
-      "id": 43
+      "id": 59
     },
     {
       "title": "War hasn't started yet: PT makes Lula's seventh presidential run official",
@@ -1503,35 +1971,7 @@
           "domain": "correiobraziliense.com.br"
         }
       ],
-      "id": 44
-    },
-    {
-      "title": "Texas Leftist Talarico Gains Two - Point Edge over Paxton in Senate Race",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "1 recent report on elections coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T21:10:07.869Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Texas Leftist Talarico Gains Two - Point Edge over Paxton in Senate Race",
-          "url": "https://www.breitbart.com/midterm-election/2026/08/02/poll-texas-leftist-james-talarico-gains-two-point-edge-over-republican-ken-paxton-in-u-s-senate-race/",
-          "domain": "breitbart.com"
-        }
-      ],
-      "id": 45
+      "id": 60
     },
     {
       "title": "ok Loyalty Training Penalty mobiel01 Want to know the secret of what to do with the money you desperately need? - Consumer financial debt ne",
@@ -1559,7 +1999,7 @@
           "domain": "blog.udn.com"
         }
       ],
-      "id": 46
+      "id": 61
     },
     {
       "title": "US allies fear that the war with Iran risks turning into a strategic failure for Washington",
@@ -1587,7 +2027,7 @@
           "domain": "ziare.com"
         }
       ],
-      "id": 47
+      "id": 62
     },
     {
       "title": "Iran war : Trump says he will order strikes halt with a deal",
@@ -1615,7 +2055,7 @@
           "domain": "cp24.com"
         }
       ],
-      "id": 48
+      "id": 63
     },
     {
       "title": "Breakfast briefing : The rise and rise of long - term interest rates",
@@ -1643,7 +2083,7 @@
           "domain": "interest.co.nz"
         }
       ],
-      "id": 49
+      "id": 64
     },
     {
       "title": "Incumbent Lula endorses in presidential election / Brazil's ruling party focuses on national defense | National news",
@@ -1671,7 +2111,7 @@
           "domain": "shikoku-np.co.jp"
         }
       ],
-      "id": 50
+      "id": 65
     },
     {
       "title": "FIFA: how the European Union will impact the re-election of Gianni Infantino",
@@ -1699,7 +2139,7 @@
           "domain": "footmercato.net"
         }
       ],
-      "id": 51
+      "id": 66
     },
     {
       "title": "Campi Flegrei earthquake, two seriously injured. 150 families displaced. End of seismic swarm, port of Pozzuoli reopens",
@@ -1727,7 +2167,7 @@
           "domain": "ilmattino.it"
         }
       ],
-      "id": 52
+      "id": 67
     },
     {
       "title": "4 . 1 magnitude earthquake strikes Spain as tremors felt in tourist holiday hotspots",
@@ -1755,7 +2195,7 @@
           "domain": "dailyrecord.co.uk"
         }
       ],
-      "id": 53
+      "id": 68
     },
     {
       "title": "War in Ukraine: exchanges of strikes between Russia and Ukraine leave 14 dead",
@@ -1783,7 +2223,7 @@
           "domain": "lalibre.be"
         }
       ],
-      "id": 54
+      "id": 69
     },
     {
       "title": "Milei defended the reform of the Central Bank and set its legislative priority",
@@ -1811,7 +2251,7 @@
           "domain": "nuevodiarioweb.com.ar"
         }
       ],
-      "id": 55
+      "id": 70
     },
     {
       "title": "Trump Claims Minnesota Is  Behind  Water System Cyberattacks Not Iran as Governor Walz Fires Back",
@@ -1839,7 +2279,7 @@
           "domain": "ibtimes.co.uk"
         }
       ],
-      "id": 56
+      "id": 71
     },
     {
       "title": "OPEC+ agrees increase in oil production from September",
@@ -1867,7 +2307,7 @@
           "domain": "estadao.com.br"
         }
       ],
-      "id": 57
+      "id": 72
     },
     {
       "title": "The cycle of war and conflict is absurd - From readers - Discussions",
@@ -1895,7 +2335,7 @@
           "domain": "ts.fi"
         }
       ],
-      "id": 58
+      "id": 73
     },
     {
       "title": "Trade war: US adds 43 Chinese companies to its list for forced labor",
@@ -1923,7 +2363,7 @@
           "domain": "14ymedio.com"
         }
       ],
-      "id": 59
+      "id": 74
     },
     {
       "title": "Wars and revolutions are my curse as an artist.",
@@ -1951,7 +2391,7 @@
           "domain": "espreso.tv"
         }
       ],
-      "id": 60
+      "id": 75
     },
     {
       "title": "Opec+ agrees to a new increase in oil production and completes the withdrawal of its voluntary cuts",
@@ -1979,7 +2419,7 @@
           "domain": "portafolio.co"
         }
       ],
-      "id": 61
+      "id": 76
     },
     {
       "title": "First news - Home - After the funeral, a new war. Drulák describes what changed the Middle East",
@@ -2007,7 +2447,7 @@
           "domain": "prvnizpravy.cz"
         }
       ],
-      "id": 62
+      "id": 77
     },
     {
       "title": "Ballot yes or ballot no? – the center-right has rejected the hypothesis of a double shift but ...",
@@ -2035,7 +2475,7 @@
           "domain": "dagospia.com"
         }
       ],
-      "id": 63
+      "id": 78
     },
     {
       "title": "Hamas: The escalation of the occupation in Gaza aims to disrupt the ceasefire understandings",
@@ -2063,7 +2503,7 @@
           "domain": "palinfo.com"
         }
       ],
-      "id": 64
+      "id": 79
     },
     {
       "title": "Weekly Review/Independence and Impartiality Is the Bottom Line Judicial Election | Kiev East | Local",
@@ -2091,7 +2531,7 @@
           "domain": "udn.com"
         }
       ],
-      "id": 65
+      "id": 80
     },
     {
       "title": "War in the Middle East: Trump suspends strikes against Iran, H24info",
@@ -2119,35 +2559,7 @@
           "domain": "h24info.ma"
         }
       ],
-      "id": 66
-    },
-    {
-      "title": "OPEC+ agrees to September oil hike , completing rollback of voluntary cuts",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -99.95563491861041,
-      "desc": "1 recent report on energy coverage originating from United States.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T19:33:54.042Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "OPEC+ agrees to September oil hike , completing rollback of voluntary cuts",
-          "url": "https://nypost.com/2026/08/02/business/opec-agrees-to-september-oil-hike-completing-rollback-of-voluntary-cuts/",
-          "domain": "nypost.com"
-        }
-      ],
-      "id": 67
+      "id": 81
     },
     {
       "title": "EARTHQUAKE | The earthquake scares the residents of the Region of Murcia: It was like a great thunder that broke the sound barrier",
@@ -2175,35 +2587,7 @@
           "domain": "laprovincia.es"
         }
       ],
-      "id": 68
-    },
-    {
-      "title": "In Velikiye Luki they honored the memory of railway workers who died during the war",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 61.5,
-      "lng": 92.2,
-      "desc": "1 recent report on conflict coverage originating from Russia.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T19:33:54.042Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "In Velikiye Luki they honored the memory of railway workers who died during the war",
-          "url": "https://informpskov.ru/news/514283.html",
-          "domain": "informpskov.ru"
-        }
-      ],
-      "id": 69
+      "id": 82
     },
     {
       "title": "Tehran: The Strait of Hormuz negotiations with Oman are in their final stages and there is no return to the pre-war conditions",
@@ -2231,7 +2615,7 @@
           "domain": "almasryalyoum.com"
         }
       ],
-      "id": 70
+      "id": 83
     },
     {
       "title": "They sanctioned Gordo se la Dan's lawyer for his publications against the Supreme Court",
@@ -2259,7 +2643,7 @@
           "domain": "agencianova.com"
         }
       ],
-      "id": 71
+      "id": 84
     },
     {
       "title": "Seven OPEC+ countries increased oil production in September by 188 thousand. barrels",
@@ -2287,7 +2671,7 @@
           "domain": "kommersant.ru"
         }
       ],
-      "id": 72
+      "id": 85
     },
     {
       "title": "Inflation, AI, automation… Catering disrupted by profound changes",
@@ -2315,7 +2699,7 @@
           "domain": "challenges.fr"
         }
       ],
-      "id": 73
+      "id": 86
     },
     {
       "title": "OPEC+ continues to raise oil production by 188 , 000 bpd in September",
@@ -2343,7 +2727,7 @@
           "domain": "northkoreatimes.com"
         }
       ],
-      "id": 74
+      "id": 87
     },
     {
       "title": "Opec+ increases its oil production quota by 188,000 barrels per day",
@@ -2371,7 +2755,7 @@
           "domain": "eleconomista.com.mx"
         }
       ],
-      "id": 75
+      "id": 88
     },
     {
       "title": "Opec+ completes rollback of voluntary oil output cuts",
@@ -2399,7 +2783,7 @@
           "domain": "businessday.co.za"
         }
       ],
-      "id": 76
+      "id": 89
     },
     {
       "title": "Shadow fleet of Russia - EU inspected the under-sanctioned tanker Toa Payoh - European news",
@@ -2427,7 +2811,7 @@
           "domain": "zn.ua"
         }
       ],
-      "id": 77
+      "id": 90
     },
     {
       "title": "Bangladesh Myanmar Natural Gas Pipeline | Bangladesh seeks natural gas imports from Myanmar through pipeline",
@@ -2455,7 +2839,7 @@
           "domain": "thedailystar.net"
         }
       ],
-      "id": 78
+      "id": 91
     },
     {
       "title": "Govt wouldn't have canceled referendum if it recognized July Revolution: Opposition Whip",
@@ -2483,7 +2867,7 @@
           "domain": "ntvbd.com"
         }
       ],
-      "id": 79
+      "id": 92
     },
     {
       "title": "The OPEC+ Committee expresses its concern about attacks on energy facilities",
@@ -2511,7 +2895,7 @@
           "domain": "akhbarlibya24.net"
         }
       ],
-      "id": 80
+      "id": 93
     },
     {
       "title": "An Italian Navy ship boards an EU-sanctioned oil tanker belonging to the Russian shadow fleet west of Pantelleria",
@@ -2539,7 +2923,7 @@
           "domain": "zazoom.it"
         }
       ],
-      "id": 81
+      "id": 94
     },
     {
       "title": "Central Bank: Inflation rises to 8. 6% and liquidity jumps to 216. 9 billion dinars during the first quarter of 2026",
@@ -2567,7 +2951,7 @@
           "domain": "akhbarlibya24.net"
         }
       ],
-      "id": 82
+      "id": 95
     },
     {
       "title": "World wars are not like before",
@@ -2595,7 +2979,7 @@
           "domain": "diariojunio.com.ar"
         }
       ],
-      "id": 83
+      "id": 96
     },
     {
       "title": "No deal , no ceasefire : Israeli deadly strikes continue across Gaza",
@@ -2623,7 +3007,7 @@
           "domain": "middle-east-online.com"
         }
       ],
-      "id": 84
+      "id": 97
     },
     {
       "title": "OPEC+ raises production quotas further – ready for more oil after Iran - war",
@@ -2651,7 +3035,7 @@
           "domain": "npinvestor.dk"
         }
       ],
-      "id": 85
+      "id": 98
     },
     {
       "title": "Opec+ approves September output increase of 188 , 000 bpd",
@@ -2679,7 +3063,7 @@
           "domain": "tradearabia.com"
         }
       ],
-      "id": 86
+      "id": 99
     },
     {
       "title": "Inflation slowed down to 2.7%",
@@ -2707,35 +3091,7 @@
           "domain": "tanea.gr"
         }
       ],
-      "id": 87
-    },
-    {
-      "title": "Vietnamese community in Japan gradually returns to normal after earthquake disaster",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Vietnam",
-      "lat": 12.504365081389595,
-      "lng": 109.8556349186104,
-      "desc": "1 recent report on disaster & logistics coverage originating from Vietnam.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T17:14:32.997Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Vietnamese community in Japan gradually returns to normal after earthquake disaster",
-          "url": "https://vietnamnews.vn/society/1796703/vietnamese-community-in-japan-gradually-returns-to-normal-after-earthquake-disaster.html",
-          "domain": "vietnamnews.vn"
-        }
-      ],
-      "id": 88
+      "id": 100
     },
     {
       "title": "Olga Zagvyazinskaya - about elections, honesty and climate challenges",
@@ -2763,7 +3119,7 @@
           "domain": "tumentoday.ru"
         }
       ],
-      "id": 89
+      "id": 101
     },
     {
       "title": "Lewis says he wont run for office until the NDP is  ready  for a general election – Winnipeg Free Press",
@@ -2791,7 +3147,7 @@
           "domain": "winnipegfreepress.com"
         }
       ],
-      "id": 90
+      "id": 102
     },
     {
       "title": "Azzaman daily newspaper Azzaman newspaper - independent international daily Arabic | Azzaman International daily newspaper OPEC suspends pro",
@@ -2819,7 +3175,7 @@
           "domain": "azzaman.com"
         }
       ],
-      "id": 91
+      "id": 103
     },
     {
       "title": "Azzaman daily newspaper Azzaman newspaper - independent international daily Arabic | Azzaman International daily newspaper The International",
@@ -2847,7 +3203,7 @@
           "domain": "azzaman.com"
         }
       ],
-      "id": 92
+      "id": 104
     },
     {
       "title": "OPEC+ increases oil production in September",
@@ -2875,7 +3231,7 @@
           "domain": "kouvolansanomat.fi"
         }
       ],
-      "id": 93
+      "id": 105
     },
     {
       "title": "September Net - OPEC+ gives Russia a productivity increase amid global energy turmoil",
@@ -2903,35 +3259,7 @@
           "domain": "26sep.net"
         }
       ],
-      "id": 94
-    },
-    {
-      "title": "Rethinking defense with earthquake engineering",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 22.144365081389594,
-      "lng": 122.5156349186104,
-      "desc": "1 recent report on disaster & logistics coverage originating from Taiwan.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T17:14:32.997Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Rethinking defense with earthquake engineering",
-          "url": "https://www.taipeitimes.com/News/editorials/archives/2026/08/03/2003861825",
-          "domain": "taipeitimes.com"
-        }
-      ],
-      "id": 95
+      "id": 106
     },
     {
       "title": "Latest Election Survey Results 2026: What is the Vote Ratio of AK Party and CHP? What Percentage of Votes Does Özgür Özel's New Party Receiv",
@@ -2959,7 +3287,7 @@
           "domain": "yenisafak.com"
         }
       ],
-      "id": 96
+      "id": 107
     },
     {
       "title": "Spain pushes last migrants out of Ceuta as locals suspect US role in  invasion  – The Irish Times",
@@ -2987,7 +3315,7 @@
           "domain": "irishtimes.com"
         }
       ],
-      "id": 97
+      "id": 108
     },
     {
       "title": "The OPEC+ countries have announced a new increase in oil production to bring down the price",
@@ -3015,7 +3343,7 @@
           "domain": "ilpost.it"
         }
       ],
-      "id": 98
+      "id": 109
     },
     {
       "title": "Reuters: A sanctioned oil tanker from Russia's \"ghost fleet\" checked by an EU mission in the Mediterranean Sea - 08/02/2026",
@@ -3043,35 +3371,7 @@
           "domain": "bursa.ro"
         }
       ],
-      "id": 99
-    },
-    {
-      "title": "Iran - US war live : Trump cancels strikes as Tehran makes claims of  psychological warfare  ",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 54,
-      "lng": 0.20000000000000018,
-      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T17:14:32.997Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Iran - US war live : Trump cancels strikes as Tehran makes claims of  psychological warfare  ",
-          "url": "https://www.independent.co.uk/news/world/middle-east/iran-trump-us-war-live-hormuz-attack-israel-saudi-b3025947.html",
-          "domain": "independent.co.uk"
-        }
-      ],
-      "id": 100
+      "id": 110
     },
     {
       "title": "Eurozone inflation edges up to 2 . 9 pct in July as energy prices rise",
@@ -3099,7 +3399,7 @@
           "domain": "russiaherald.com"
         }
       ],
-      "id": 101
+      "id": 111
     },
     {
       "title": "Eurozone inflation edges up to 2 . 9 pct in July as energy prices rise",
@@ -3127,7 +3427,7 @@
           "domain": "afghanistansun.com"
         }
       ],
-      "id": 102
+      "id": 112
     },
     {
       "title": "National Hurricane Center Issues Crucial Alert :  August Often Sparks Increased Activity  ",
@@ -3155,7 +3455,7 @@
           "domain": "cubaheadlines.com"
         }
       ],
-      "id": 103
+      "id": 113
     },
     {
       "title": "GRAPHICS Romania, in Eurostat figures | Victory on the deficit, failure on inflation, public debt and youth unemployment",
@@ -3183,35 +3483,7 @@
           "domain": "cotidianul.ro"
         }
       ],
-      "id": 104
-    },
-    {
-      "title": "Isn’t it raining heavily? Don't be careless! Short-term heavy rainfall hides risk of flash floods",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 34.3443650813896,
-      "lng": 105.75563491861041,
-      "desc": "1 recent report on disaster & logistics coverage originating from China.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T17:14:32.997Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Isn’t it raining heavily? Don't be careless! Short-term heavy rainfall hides risk of flash floods",
-          "url": "https://china.qianlong.com/2026/0802/8706405.shtml",
-          "domain": "china.qianlong.com"
-        }
-      ],
-      "id": 105
+      "id": 114
     },
     {
       "title": "OPEC+: Agreement to increase oil production in September",
@@ -3239,35 +3511,7 @@
           "domain": "reporter.gr"
         }
       ],
-      "id": 106
-    },
-    {
-      "title": "Playoff inflation",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -96.8443650813896,
-      "desc": "1 recent report on monetary policy coverage originating from United States.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T17:14:32.997Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Playoff inflation",
-          "url": "https://www.diariolasamericas.com/deportes/la-inflacion-los-playoffs-n5399838",
-          "domain": "diariolasamericas.com"
-        }
-      ],
-      "id": 107
+      "id": 115
     },
     {
       "title": "OPEC+ continues to raise oil production by 188 , 000 bpd in September",
@@ -3295,7 +3539,7 @@
           "domain": "argentinastar.com"
         }
       ],
-      "id": 108
+      "id": 116
     },
     {
       "title": "OPEC+ continues to raise oil production by 188 , 000 bpd in September",
@@ -3323,7 +3567,7 @@
           "domain": "afghanistansun.com"
         }
       ],
-      "id": 109
+      "id": 117
     },
     {
       "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
@@ -3351,7 +3595,7 @@
           "domain": "yahoo.com"
         }
       ],
-      "id": 110
+      "id": 118
     },
     {
       "title": "Jokowi emphasized that PSI must live in villages and polling stations to win the 2029 election",
@@ -3379,7 +3623,7 @@
           "domain": "surabaya.tribunnews.com"
         }
       ],
-      "id": 111
+      "id": 119
     },
     {
       "title": "OPEC+ Boosts September Oil Production by 188 , 000 Barrels",
@@ -3407,203 +3651,7 @@
           "domain": "punchng.com"
         }
       ],
-      "id": 112
-    },
-    {
-      "title": "USON leader accused of paying for invasion of property in Ecatepec",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 23.6,
-      "lng": -100.39999999999999,
-      "desc": "1 recent report on conflict coverage originating from Mexico.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "USON leader accused of paying for invasion of property in Ecatepec",
-          "url": "https://edomex.quadratin.com.mx/acusan-a-dirigente-de-uson-de-pagar-invasion-de-inmueble-en-ecatepec/",
-          "domain": "edomex.quadratin.com.mx"
-        }
-      ],
-      "id": 113
-    },
-    {
-      "title": "OPEC+ continues to raise oil production by 188 , 000 bpd in September",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 55.5556349186104,
-      "lng": -3.5556349186104046,
-      "desc": "1 recent report on energy coverage originating from United Kingdom.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "OPEC+ continues to raise oil production by 188 , 000 bpd in September",
-          "url": "http://www.britainnews.net/news/279219701/opec-continues-to-raise-oil-production-by-188000-bpd-in-september",
-          "domain": "britainnews.net"
-        }
-      ],
-      "id": 114
-    },
-    {
-      "title": "The Kingdom and the OPEC Plus countries decide to increase oil production...",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Middle East",
-      "place": "Saudi Arabia",
-      "lat": 25.455634918610404,
-      "lng": 43.5443650813896,
-      "desc": "1 recent report on energy coverage originating from Saudi Arabia.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "The Kingdom and the OPEC Plus countries decide to increase oil production...",
-          "url": "https://www.almowaten.net/2026/08/%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D9%88%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%A8%D9%83-%D8%A8%D9%84%D8%B3-%D8%AA%D9%82%D8%B1%D8%B1-%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A5%D9%86%D8%AA%D8%A7%D8%AC/",
-          "domain": "almowaten.net"
-        }
-      ],
-      "id": 115
-    },
-    {
-      "title": "Oil: OPEC+ raises its production quotas for September",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Europe",
-      "place": "France",
-      "lat": 48.1556349186104,
-      "lng": 0.6443650813895956,
-      "desc": "1 recent report on energy coverage originating from France.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "Oil: OPEC+ raises its production quotas for September",
-          "url": "https://www.sudouest.fr:443/economie/petrole-l-opep-releve-ses-quotas-de-production-pour-septembre-30145977.php",
-          "domain": "sudouest.fr"
-        }
-      ],
-      "id": 116
-    },
-    {
-      "title": "OPEC+ gives green light to increase oil production quota slightly",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Thailand",
-      "lat": 17.455634918610404,
-      "lng": 99.43436508138959,
-      "desc": "1 recent report on energy coverage originating from Thailand.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": true,
-      "lang": "Thai",
-      "sources": [
-        {
-          "title": "OPEC+ gives green light to increase oil production quota slightly",
-          "url": "https://www.ryt9.com/s/iq/12833910",
-          "domain": "ryt9.com"
-        }
-      ],
-      "id": 117
-    },
-    {
-      "title": "July inflation could reach 5 . 6 to 6 . 6 pct : Philippine central bank",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Philippines",
-      "lat": 14.455634918610405,
-      "lng": 123.3556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Philippines.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "July inflation could reach 5 . 6 to 6 . 6 pct : Philippine central bank",
-          "url": "http://www.philippinetimes.com/news/279219591/july-inflation-could-reach-56-to-66-pct-philippine-central-bank",
-          "domain": "philippinetimes.com"
-        }
-      ],
-      "id": 118
-    },
-    {
-      "title": "At the gateway to China resistance , war scars remain as life blooms",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-02",
-      "region": "Asia-Pacific",
-      "place": "Japan",
-      "lat": 36.2,
-      "lng": 140.5,
-      "desc": "1 recent report on conflict coverage originating from Japan.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-02T15:19:28.058Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "At the gateway to China resistance , war scars remain as life blooms",
-          "url": "http://www.japanherald.com/news/279219321/at-the-gateway-to-china-resistance-war-scars-remain-as-life-blooms",
-          "domain": "japanherald.com"
-        }
-      ],
-      "id": 119
+      "id": 120
     }
   ]
 }
