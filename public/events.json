@@ -1,50 +1,88 @@
 {
-  "generatedAt": "2026-08-05T16:52:50.021Z",
+  "generatedAt": "2026-08-05T18:50:44.352Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
     {
-      "title": "Takeaways from Tuesday elections : El - Sayed pulls off narrow victory over Democratic establishment",
-      "category": "Elections",
-      "severity": "High",
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Medium",
       "date": "2026-08-05",
       "region": "North America",
       "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "8 recent reports on elections coverage originating from United States.",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "6 recent reports on conflict coverage originating from United States.",
       "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
+        "Defense",
+        "Oil",
+        "Gold"
       ],
-      "count": 8,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
+      "count": 6,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
       "translated": false,
       "lang": null,
       "sources": [
         {
-          "title": "Takeaways from Tuesday elections : El - Sayed pulls off narrow victory over Democratic establishment",
-          "url": "https://www.news-gazette.com/news/nation-world/takeaways-from-tuesdays-elections-el-sayed-pulls-off-narrow-victory-over-democratic-establishment/article_68cab65b-632f-5765-a949-b793fbd61a84.html",
-          "domain": "news-gazette.com"
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.tennesseedaily.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "tennesseedaily.com"
         },
         {
-          "title": "Abdul El - Sayed wins MI Senate primary in major victory for Democrat progressive wing",
-          "url": "https://wsbt.com/news/election-2026/el-sayed-campaign-says-stevens-has-called-to-concede-in-michigan-senate-primary",
-          "domain": "wsbt.com"
+          "title": "Stocks hover near record highs and oil prices stabilize",
+          "url": "https://www.sun-sentinel.com/2026/08/05/us-stocks-iran-war-oil/",
+          "domain": "sun-sentinel.com"
         },
         {
-          "title": "Missouri redistricting referendum blocked by Hoskins , drawing lawsuit",
-          "url": "https://www.fultonsun.com/news/2026/aug/05/missouri-redistricting-referendum-blocked-by/",
-          "domain": "fultonsun.com"
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.laosnews.net/news/279222485/palestinians-bury-over-100-recovered-bodies-of-2023-gaza-airstrike",
+          "domain": "laosnews.net"
         },
         {
-          "title": "VOTE : Would you ever vote for a socialist candidate ? ",
-          "url": "https://news3lv.com/question/vote-would-you-ever-vote-for-a-socialist-candidate-abdul-elsayed-haley-stevens-michigan-democratic-primary-bernie-sanders-aoc-midterms-election",
-          "domain": "news3lv.com"
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.ohiostandard.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "ohiostandard.com"
         }
       ],
       "id": 1
+    },
+    {
+      "title": "Colorado State University forecast unchanged as peak hurricane season approaches . Here the latest",
+      "category": "Disaster & Logistics",
+      "severity": "Medium",
+      "date": "2026-08-05",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.94436508138959,
+      "lng": -96.8443650813896,
+      "desc": "3 recent reports on disaster & logistics coverage originating from United States.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Colorado State University forecast unchanged as peak hurricane season approaches . Here the latest",
+          "url": "https://www.clickorlando.com/weather/2026/08/05/csu-forecast-unchanged-as-peak-hurricane-season-approaches-heres-the-latest/",
+          "domain": "clickorlando.com"
+        },
+        {
+          "title": "Hurricane Beryl Now Dangerous Category 4 Storm Winter Haven",
+          "url": "https://dailyridge.com/2024/07/05/hurricane-beryl-now-dangerous-category-4-storm/",
+          "domain": "dailyridge.com"
+        },
+        {
+          "title": "Forecasters expect the least active Atlantic hurricane season in more than a decade",
+          "url": "https://www.wmnf.org/forecasters-expect-least-active-atlantic-hurricane-season-decade/",
+          "domain": "wmnf.org"
+        }
+      ],
+      "id": 2
     },
     {
       "title": "The Moscow region is strengthening public control in elections: with whom the Public Chamber signed agreements",
@@ -82,7 +120,7 @@
           "domain": "ria.ru"
         }
       ],
-      "id": 2
+      "id": 3
     },
     {
       "title": "Russia steps up disinformation before German elections , security sources say",
@@ -120,7 +158,7 @@
           "domain": "aol.co.uk"
         }
       ],
-      "id": 3
+      "id": 4
     },
     {
       "title": "Has the war spread to Europe? Bomb alarm at the airport in Germany",
@@ -156,44 +194,6 @@
           "title": "The Israeli army carried out attacks in southern Lebanon despite the ceasefire",
           "url": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilar-duzenledi/4019024",
           "domain": "aa.com.tr"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "title": "Why Personal Allowance would be £16 , 072 if it kept pace with inflation",
-      "category": "Monetary Policy",
-      "severity": "Medium",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 55.5556349186104,
-      "lng": -0.4443650813895952,
-      "desc": "3 recent reports on monetary policy coverage originating from United Kingdom.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-08-05T14:36:12.610Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Why Personal Allowance would be £16 , 072 if it kept pace with inflation",
-          "url": "https://www.bicesteradvertiser.net/news/national/uk-today/26439009.personal-allowance-16-072-kept-pace-inflation/",
-          "domain": "bicesteradvertiser.net"
-        },
-        {
-          "title": "Why Personal Allowance would be £16 , 072 if it kept pace with inflation",
-          "url": "https://www.cravenherald.co.uk/news/national/uk-today/26439009.personal-allowance-16-072-kept-pace-inflation/",
-          "domain": "cravenherald.co.uk"
-        },
-        {
-          "title": "US Fed Anna Paulson says recent inflation improvement  only one step , keeps open mind on future policy",
-          "url": "http://www.britainnews.net/news/279223334/us-fed-anna-paulson-says-recent-inflation-improvement-only-one-step-keeps-open-mind-on-future-policy",
-          "domain": "britainnews.net"
         }
       ],
       "id": 5
@@ -237,6 +237,105 @@
       "id": 6
     },
     {
+      "title": "  Pakistan asked for ceasefire , we kept them waiting : Ex - defence chief Anil Chauhan recalls Operation Sindoor",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 22.4,
+      "lng": 80.9,
+      "desc": "2 recent reports on conflict coverage originating from India.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "  Pakistan asked for ceasefire , we kept them waiting : Ex - defence chief Anil Chauhan recalls Operation Sindoor",
+          "url": "https://www.hindustantimes.com/india-news/pakistan-asked-for-ceasefire-we-kept-them-waiting-ex-cds-general-anil-chauhan-recalls-operation-sindoor-india-101785943540931.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "  NOT TRUE : US War Secretary Pete Hegseth Rejects Media Reports Claiming US Missile Defence Stockpiles  Dangerously Low  ",
+          "url": "https://www.freepressjournal.in/world/not-true-us-war-secretary-pete-hegseth-rejects-media-reports-claiming-us-missile-defence-stockpiles-dangerously-low",
+          "domain": "freepressjournal.in"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Middle East",
+      "place": "Syria",
+      "lat": 34.8,
+      "lng": 41.2,
+      "desc": "2 recent reports on conflict coverage originating from Syria.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.middleeaststar.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "middleeaststar.com"
+        },
+        {
+          "title": "Tara Reade : The US is handing its war machine to Israel",
+          "url": "http://www.middleeaststar.com/news/279223583/tara-reade-the-us-is-handing-its-war-machine-to-israel",
+          "domain": "middleeaststar.com"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "Best high - yield savings interest rates today , Wednesday , August 5 , 2026 : Earn up to 4 . 15 % APY",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "2 recent reports on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Best high - yield savings interest rates today , Wednesday , August 5 , 2026 : Earn up to 4 . 15 % APY",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-wednesday-august-5-2026-earn-up-to-415-apy-100000400.html",
+          "domain": "finance.yahoo.com"
+        },
+        {
+          "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+          "url": "http://www.haitisun.com/news/279223516/rbi-policy-balanced-as-growth-outlook-improves-inflation-risks-remain-contained-equirus",
+          "domain": "haitisun.com"
+        }
+      ],
+      "id": 9
+    },
+    {
       "title": "Economists back RBI neutral stance , see lower inflation and stable rates supporting growth",
       "category": "Monetary Policy",
       "severity": "Low",
@@ -267,40 +366,7 @@
           "domain": "chinanationalnews.com"
         }
       ],
-      "id": 7
-    },
-    {
-      "title": "Central Bank plans to implement platform to prevent Sinpe fraud",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on monetary policy coverage originating from United States.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Central Bank plans to implement platform to prevent Sinpe fraud",
-          "url": "https://www.elfinancierocr.com/finanzas/banco-central-planea-implementar-plataforma-para/3W5RLSL6DRCRHIYFWULRCAXQVQ/story/",
-          "domain": "elfinancierocr.com"
-        },
-        {
-          "title": "Top Economist Says Kevin Warsh Is Right to End Forward Fed Guidance",
-          "url": "https://www.businessinsider.com/fed-interest-rates-kevin-warsh-forward-guidance-economy-markets-bonds-2026-8",
-          "domain": "businessinsider.com"
-        }
-      ],
-      "id": 8
+      "id": 10
     },
     {
       "title": "War in Ukraine ex-EU and Russian officials held secret negotiations what they talked about",
@@ -333,7 +399,7 @@
           "domain": "focus.ua"
         }
       ],
-      "id": 9
+      "id": 11
     },
     {
       "title": "Campi Flegrei earthquake Minister Piantedosi | 100 million have been allocated but more will be needed, we won't back down",
@@ -366,40 +432,7 @@
           "domain": "corrierepl.it"
         }
       ],
-      "id": 10
-    },
-    {
-      "title": "Deal to reopen Strait of Hormuz coming , Trump says  a lot of progres made",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "2 recent reports on conflict coverage originating from United States.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Deal to reopen Strait of Hormuz coming , Trump says  a lot of progres made",
-          "url": "https://mynews4.com/news/nation-world/deal-to-reopen-strait-of-hormuz-coming-trump-says-lot-of-progress-made-iran-war-oman-negotiations-strikes-threatened-rubio-houthi-yemen-red-sea-oil-gas-economy",
-          "domain": "mynews4.com"
-        },
-        {
-          "title": "Deal to reopen Strait of Hormuz coming , Trump says  a lot of progres made",
-          "url": "https://wsbt.com/news/nation-world/deal-to-reopen-strait-of-hormuz-coming-trump-says-lot-of-progress-made-iran-war-oman-negotiations-strikes-threatened-rubio-houthi-yemen-red-sea-oil-gas-economy",
-          "domain": "wsbt.com"
-        }
-      ],
-      "id": 11
+      "id": 12
     },
     {
       "title": "The election campaign in Brazil moves to the barracks » latinapress news",
@@ -432,7 +465,7 @@
           "domain": "emtempo.com.br"
         }
       ],
-      "id": 12
+      "id": 13
     },
     {
       "title": "Cascari : The Fed should start raising interest rates gradually",
@@ -465,7 +498,7 @@
           "domain": "greekherald.com"
         }
       ],
-      "id": 13
+      "id": 14
     },
     {
       "title": "Yi Weizhe: Gold continues to strengthen, while crude oil is temporarily volatile. _ Experts’ Midas Touch _ Gold Network _ CICC Online",
@@ -496,39 +529,6 @@
           "title": "Changes in the Strait of Hormuz! International oil prices V-shaped rebound _ Oriental Fortune Network",
           "url": "https://finance.eastmoney.com/a/202608053832733526.html",
           "domain": "finance.eastmoney.com"
-        }
-      ],
-      "id": 14
-    },
-    {
-      "title": "Experts warn that water scarcity may continue despite flood alerts",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 52.44436508138959,
-      "lng": -0.44436508138959563,
-      "desc": "2 recent reports on disaster & logistics coverage originating from United Kingdom.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-05T14:36:12.610Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Experts warn that water scarcity may continue despite flood alerts",
-          "url": "https://www.bridgwatermercury.co.uk/news/national/26439028.experts-warn-water-scarcity-may-continue-despite-flood-alerts/",
-          "domain": "bridgwatermercury.co.uk"
-        },
-        {
-          "title": "Experts warn that water scarcity may continue despite flood alerts",
-          "url": "https://www.dissexpress.co.uk/national/experts-warn-that-water-scarcity-may-continue-despite-flood-alerts-170215/",
-          "domain": "dissexpress.co.uk"
         }
       ],
       "id": 15
@@ -567,39 +567,6 @@
       "id": 16
     },
     {
-      "title": "RBI raises FY27 growth forecast , trims inflation outlook despite global headwinds ; Governor cites resilient domestic economy",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Asia-Pacific",
-      "place": "North Korea",
-      "lat": 41.8556349186104,
-      "lng": 129.0556349186104,
-      "desc": "2 recent reports on monetary policy coverage originating from North Korea.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-05T14:36:12.610Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "RBI raises FY27 growth forecast , trims inflation outlook despite global headwinds ; Governor cites resilient domestic economy",
-          "url": "http://www.northkoreatimes.com/news/279223142/rbi-raises-fy27-growth-forecast-trims-inflation-outlook-despite-global-headwinds-governor-cites-resilient-domestic-economy",
-          "domain": "northkoreatimes.com"
-        },
-        {
-          "title": "US Fed Anna Paulson says recent inflation improvement  only one step , keeps open mind on future policy",
-          "url": "http://www.northkoreatimes.com/news/279223334/us-fed-anna-paulson-says-recent-inflation-improvement-only-one-step-keeps-open-mind-on-future-policy",
-          "domain": "northkoreatimes.com"
-        }
-      ],
-      "id": 17
-    },
-    {
       "title": "Yudai Chiba declares invasion, ``Today is the venue'', making it meaningful for his role in ``Minions & Monsters'': Kii Minpo AGARA | Wakaya",
       "category": "Conflict",
       "severity": "Low",
@@ -630,40 +597,7 @@
           "domain": "asahi.com"
         }
       ],
-      "id": 18
-    },
-    {
-      "title": "Flood watch , strong storms possible in DC area Wednesday as vicious weather continues",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.94436508138959,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on disaster & logistics coverage originating from United States.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-05T12:15:50.851Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Flood watch , strong storms possible in DC area Wednesday as vicious weather continues",
-          "url": "https://wtop.com/weather-news/2026/08/flood-watch-strong-storms-possible-in-dc-area-wednesday-as-vicious-weather-continues/",
-          "domain": "wtop.com"
-        },
-        {
-          "title": "World News : Earthquake of magnitude 6 . 3 strikes Mindanao in Philippines",
-          "url": "https://www.gdnonline.com:443/Details/1402598",
-          "domain": "gdnonline.com"
-        }
-      ],
-      "id": 19
+      "id": 17
     },
     {
       "title": "Zelensky demanded new sanctions from the West instead of air defense systems :: News of the day / VIEW",
@@ -696,7 +630,7 @@
           "domain": "vedomosti.ru"
         }
       ],
-      "id": 20
+      "id": 18
     },
     {
       "title": "Ministry of Commerce: Strengthen export controls on drone-related dual-use items to the United States. If the United States insists on intro",
@@ -729,7 +663,7 @@
           "domain": "163.com"
         }
       ],
-      "id": 21
+      "id": 19
     },
     {
       "title": "Presidential election 2027: Raphaël Glucksmann calls for firmness in the face of foreign interference",
@@ -762,7 +696,7 @@
           "domain": "vosgesmatin.fr"
         }
       ],
-      "id": 22
+      "id": 20
     },
     {
       "title": "Vietnam and the United States actively cooperate to overcome the consequences of war",
@@ -795,7 +729,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 23
+      "id": 21
     },
     {
       "title": "Why don't Yemenis fear a new war?",
@@ -828,7 +762,7 @@
           "domain": "israelnationalnews.com"
         }
       ],
-      "id": 24
+      "id": 22
     },
     {
       "title": "China central bank to conduct around $73 . 6 billion outright reverse repo operation",
@@ -861,7 +795,7 @@
           "domain": "afghanistannews.net"
         }
       ],
-      "id": 25
+      "id": 23
     },
     {
       "title": "RBI MPC seen maintaining status quo on rates as easing inflation , strong growth support pause",
@@ -894,7 +828,7 @@
           "domain": "bangladeshsun.com"
         }
       ],
-      "id": 26
+      "id": 24
     },
     {
       "title": "Anti-Taliban voices began to rise over inflation and insecurity in Afghanistan",
@@ -927,7 +861,7 @@
           "domain": "dailyaaj.com.pk"
         }
       ],
-      "id": 27
+      "id": 25
     },
     {
       "title": "China allocates emergency funds for flood recovery in northeast provinces",
@@ -960,7 +894,7 @@
           "domain": "nb.ifeng.com"
         }
       ],
-      "id": 28
+      "id": 26
     },
     {
       "title": "Milwaukee Water Works sees no threat after Midwest cyberattacks",
@@ -993,7 +927,7 @@
           "domain": "bendsource.com"
         }
       ],
-      "id": 29
+      "id": 27
     },
     {
       "title": "Even Huang Jen-Hsun used young people as plumbers! Cheng Sega: What does smart inflation really look like when it redefines “people of value",
@@ -1026,40 +960,7 @@
           "domain": "finance.ettoday.net"
         }
       ],
-      "id": 30
-    },
-    {
-      "title": "States sue to strike Trump tariffs as White House touts boom",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-08-04",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.7,
-      "lng": -98.4,
-      "desc": "2 recent reports on trade & tariffs coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-04T21:35:46.006Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "States sue to strike Trump tariffs as White House touts boom",
-          "url": "https://homenewshere.com/national/news/article_9b81e7cf-2143-585e-99b4-ae7eca3b94fa.html",
-          "domain": "homenewshere.com"
-        },
-        {
-          "title": "Tariffs didnt start Oregon economic slowdown , but they exacerbated it , report finds",
-          "url": "https://dailyastorian.com/2026/08/04/tariffs-didnt-start-oregons-economic-slowdown-but-they-exacerbated-it-report-findsoregon-importers-paid-nearly-3-billion-once-trump-imposed-new-tariffsbymia-maldonado-august-3-2026-334-pm/",
-          "domain": "dailyastorian.com"
-        }
-      ],
-      "id": 31
+      "id": 28
     },
     {
       "title": "The election apps harm the purity of the elections - and our privacy",
@@ -1092,40 +993,7 @@
           "domain": "israelnationalnews.com"
         }
       ],
-      "id": 32
-    },
-    {
-      "title": "Danube River water levels drop so low that Second World War ships are emerging",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-04",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 54,
-      "lng": 0.20000000000000018,
-      "desc": "2 recent reports on conflict coverage originating from United Kingdom.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-08-04T21:35:46.006Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Danube River water levels drop so low that Second World War ships are emerging",
-          "url": "https://www.leaderlive.co.uk/news/national/26437070.danube-river-water-levels-drop-low-second-world-war-ships-emerging/",
-          "domain": "leaderlive.co.uk"
-        },
-        {
-          "title": "Danube River water levels drop so low that Second World War ships are emerging",
-          "url": "https://www.rhyljournal.co.uk/news/national/26437070.danube-river-water-levels-drop-low-second-world-war-ships-emerging/",
-          "domain": "rhyljournal.co.uk"
-        }
-      ],
-      "id": 33
+      "id": 29
     },
     {
       "title": "The Danube sank to a critical level: war wreckage was found, with unexploded grenades",
@@ -1158,7 +1026,7 @@
           "domain": "portfolio.hu"
         }
       ],
-      "id": 34
+      "id": 30
     },
     {
       "title": "Earthquake near Naples: Stronger than it has been in 50 years",
@@ -1191,40 +1059,679 @@
           "domain": "onvista.de"
         }
       ],
+      "id": 31
+    },
+    {
+      "title": "Crude oil prices ease on Strait of Hormuz reopening hopes",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 23.955634918610404,
+      "lng": 77.1443650813896,
+      "desc": "1 recent report on energy coverage originating from India.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Crude oil prices ease on Strait of Hormuz reopening hopes",
+          "url": "https://www.moneycontrol.com/news/business/commodities/oil-prices-ease-on-hormuz-reopening-hopes-despite-houthi-threats-13995819.html",
+          "domain": "moneycontrol.com"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "NSCDC sanctions 79 personnel over misconduct , arrests 12 suspects",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Africa",
+      "place": "Nigeria",
+      "lat": 9.1,
+      "lng": 6.499999999999999,
+      "desc": "1 recent report on sanctions coverage originating from Nigeria.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "NSCDC sanctions 79 personnel over misconduct , arrests 12 suspects",
+          "url": "https://dailypost.ng/2026/08/05/nscdc-sanctions-79-personnel-over-misconduct-arrests-12-suspects/",
+          "domain": "dailypost.ng"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "title": "War in Ukraine, the shadow of the Moscow-Pyongyang axis complicates things. Paniccia: Missiles and new offensives, this is Putin's plan",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "1 recent report on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "War in Ukraine, the shadow of the Moscow-Pyongyang axis complicates things. Paniccia: Missiles and new offensives, this is Putin's plan",
+          "url": "https://www.affaritaliani.it/esteri/guerra-in-ucraina-lombra-dellasse-mosca-pyongyang-complica-le-cose-paniccia-missili-e-nuove-offensive-ecco-qual-e-il-piano-di-putin.html",
+          "domain": "affaritaliani.it"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.7,
+      "lng": -98.4,
+      "desc": "1 recent report on trade & tariffs coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "http://www.batonrougepost.com/news/279223758/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs",
+          "domain": "batonrougepost.com"
+        }
+      ],
       "id": 35
     },
     {
-      "title": "Riau Annual Inflation July 2026 Reaches 3.82 Percent, Pekanbaru Highest",
+      "title": "Łukasz Gibała reveals the cards. It is known whether he will run in the presidential elections in Krakow",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "Poland",
+      "lat": 50.3443650813896,
+      "lng": 17.544365081389596,
+      "desc": "1 recent report on elections coverage originating from Poland.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "Polish",
+      "sources": [
+        {
+          "title": "Łukasz Gibała reveals the cards. It is known whether he will run in the presidential elections in Krakow",
+          "url": "https://pch24.pl/wiadomosci/lukasz-gibala-odkrywa-karty-wiadomo-czy-wystartuje-w-wyborach-prezydenckich-w-krakowie,729031",
+          "domain": "pch24.pl"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Latin America",
+      "place": "Brazil",
+      "lat": -14.2,
+      "lng": -49.699999999999996,
+      "desc": "1 recent report on conflict coverage originating from Brazil.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.brazilsun.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "brazilsun.com"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 39.1,
+      "lng": 24,
+      "desc": "1 recent report on conflict coverage originating from Greece.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.greekherald.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "greekherald.com"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 35.9,
+      "lng": 106.4,
+      "desc": "1 recent report on conflict coverage originating from China.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.shanghainews.net/news/279222485/palestinians-bury-over-100-recovered-bodies-of-2023-gaza-airstrike",
+          "domain": "shanghainews.net"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
       "category": "Monetary Policy",
       "severity": "Low",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "region": "Asia-Pacific",
-      "place": "Indonesia",
-      "lat": 0.7556349186104045,
-      "lng": 115.45563491861041,
-      "desc": "2 recent reports on monetary policy coverage originating from Indonesia.",
+      "place": "New Zealand",
+      "lat": -39.3443650813896,
+      "lng": 176.4556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from New Zealand.",
       "markets": [
         "Bonds",
         "FX",
         "Equities"
       ],
-      "count": 2,
-      "fetchedAt": "2026-08-04T06:40:16.165Z",
-      "translated": true,
-      "lang": "Indonesian",
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
       "sources": [
         {
-          "title": "Riau Annual Inflation July 2026 Reaches 3.82 Percent, Pekanbaru Highest",
-          "url": "https://pekanbaru.tribunnews.com/riau-region/1111013/inflasi-tahunan-riau-juli-2026-capai-382-persen-pekanbaru-tertinggi",
-          "domain": "pekanbaru.tribunnews.com"
-        },
-        {
-          "title": "Bank Indonesia Ensures Babel Inflation Remains Under Control, Strengthens TPID Synergy in Facing Price Pressure",
-          "url": "https://bangka.tribunnews.com/lokal/1691899/bank-indonesia-pastikan-inflasi-babel-tetap-terkendali-perkuat-sinergi-tpid-hadapi-tekanan-harga",
-          "domain": "bangka.tribunnews.com"
+          "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+          "url": "http://www.newzealandstar.com/news/279223516/rbi-policy-balanced-as-growth-outlook-improves-inflation-risks-remain-contained-equirus",
+          "domain": "newzealandstar.com"
         }
       ],
-      "id": 36
+      "id": 40
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "France",
+      "lat": 46.6,
+      "lng": 4.4,
+      "desc": "1 recent report on conflict coverage originating from France.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.parisguardian.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "parisguardian.com"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "North Korea",
+      "lat": 40.3,
+      "lng": 129.7,
+      "desc": "1 recent report on conflict coverage originating from North Korea.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.northkoreatimes.com/news/279222485/gaza-mourns-victims-of-deadly-2023-israeli-airstrike",
+          "domain": "northkoreatimes.com"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "title": "Mass march and rally in Dimla to demand implementation of referendum verdict",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "Bangladesh",
+      "lat": 22.144365081389594,
+      "lng": 88.8443650813896,
+      "desc": "1 recent report on elections coverage originating from Bangladesh.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "Bengali",
+      "sources": [
+        {
+          "title": "Mass march and rally in Dimla to demand implementation of referendum verdict",
+          "url": "https://www.dailynayadiganta.com/bangladesh/country-news/IHF3NXSBGvIm",
+          "domain": "dailynayadiganta.com"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "North Korea",
+      "lat": 41.8556349186104,
+      "lng": 129.0556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from North Korea.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+          "url": "http://www.northkoreatimes.com/news/279223516/rbi-policy-balanced-as-growth-outlook-improves-inflation-risks-remain-contained-equirus",
+          "domain": "northkoreatimes.com"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "title": "Record 38 Indiana school districts seek $500M in property tax referendums this fall",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "1 recent report on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Record 38 Indiana school districts seek $500M in property tax referendums this fall",
+          "url": "https://www.wbiw.com/2026/08/05/record-38-indiana-school-districts-seek-500m-in-property-tax-referendums-this-fall/",
+          "domain": "wbiw.com"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "title": "Mass funeral held for 2023 Gaza airstrike victims",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Mass funeral held for 2023 Gaza airstrike victims",
+          "url": "http://www.britainnews.net/news/279222485/palestinians-bury-over-100-recovered-bodies-of-2023-gaza-airstrike",
+          "domain": "britainnews.net"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "title": "Strait of Hormuz supply chain shocks exposing SME urgent liquidity needs - London Business News",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 52.44436508138959,
+      "lng": -0.44436508138959563,
+      "desc": "1 recent report on disaster & logistics coverage originating from United Kingdom.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Strait of Hormuz supply chain shocks exposing SME urgent liquidity needs - London Business News",
+          "url": "https://londonlovesbusiness.com/strait-of-hormuz-supply-chain-shocks-exposing-smes-urgent-liquidity-needs/",
+          "domain": "londonlovesbusiness.com"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "title": "The Central Bank of the Russian Federation revised the annual inflation forecast for September",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 63.0556349186104,
+      "lng": 91.55563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from Russia.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "The Central Bank of the Russian Federation revised the annual inflation forecast for September",
+          "url": "https://iz.ru/2144539/tcb-rf-peresmotreli-prognozy-uskoreniia-godovoi-infliatcii-po-itogam-sentiabria-do-63-izi",
+          "domain": "iz.ru"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "title": "OVERVIEW in the evening / economy, central banks, politics",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 52.755634918610404,
+      "lng": 11.955634918610405,
+      "desc": "1 recent report on monetary policy coverage originating from Germany.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "OVERVIEW in the evening / economy, central banks, politics",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69227766-ueberblick-am-abend-konjunktur-zentralbanken-politik-015.htm",
+          "domain": "finanznachrichten.de"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "title": "Inflation fell to 6. 2% in July as a result of a number of government stabilization measures",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "Philippines",
+      "lat": 14.455634918610405,
+      "lng": 123.3556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Philippines.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Inflation fell to 6. 2% in July as a result of a number of government stabilization measures",
+          "url": "http://www.shangbao.com.ph/jjxw/2026/08-05/202902.shtml",
+          "domain": "shangbao.com.ph"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "title": "Majority of Albertans would have voted in favour of coal ban in fall referendum",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 54.5443650813896,
+      "lng": -107.8556349186104,
+      "desc": "1 recent report on elections coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Majority of Albertans would have voted in favour of coal ban in fall referendum",
+          "url": "https://calgaryherald.com:443/news/majority-of-albertans-would-have-voted-in-favour-of-coal-ban-in-fall-referendum-says-new-survey",
+          "domain": "calgaryherald.com"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 55.5556349186104,
+      "lng": -0.4443650813895952,
+      "desc": "1 recent report on monetary policy coverage originating from United Kingdom.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+          "url": "http://www.britainnews.net/news/279223516/rbi-policy-balanced-as-growth-outlook-improves-inflation-risks-remain-contained-equirus",
+          "domain": "britainnews.net"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "Thailand",
+      "lat": 17.455634918610404,
+      "lng": 102.5456349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Thailand.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "RBI policy balanced as growth outlook improves , inflation risks remain contained : Equirus",
+          "url": "http://www.thailandnews.net/news/279223516/rbi-policy-balanced-as-growth-outlook-improves-inflation-risks-remain-contained-equirus",
+          "domain": "thailandnews.net"
+        }
+      ],
+      "id": 53
+    },
+    {
+      "title": "China to tighten export controls on drone - related dual - use items to US for  national security  ",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "Asia-Pacific",
+      "place": "Pakistan",
+      "lat": 30.4,
+      "lng": 67.1,
+      "desc": "1 recent report on sanctions coverage originating from Pakistan.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "China to tighten export controls on drone - related dual - use items to US for  national security  ",
+          "url": "https://tribune.com.pk/story/2622225/china-to-tighten-export-controls-on-drone-related-dual-use-items-to-us-for-national-security",
+          "domain": "tribune.com.pk"
+        }
+      ],
+      "id": 54
+    },
+    {
+      "title": "Sheinbaum questions INE budget for 2027 elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-08-05",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -104.1556349186104,
+      "desc": "1 recent report on elections coverage originating from Mexico.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-08-05T18:50:44.352Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Sheinbaum questions INE budget for 2027 elections",
+          "url": "https://www.globalmedia.mx/articles/sheinbaum_cuestiona_presupuesto_del_ine_para_elecciones_de_2027",
+          "domain": "globalmedia.mx"
+        }
+      ],
+      "id": 55
     },
     {
       "title": "Kerr County Floods: Devastation and Recovery",
@@ -1252,35 +1759,7 @@
           "domain": "elmanana.com"
         }
       ],
-      "id": 37
-    },
-    {
-      "title": "Exaggerated INE budget for the 2027 elections: Sheinbaum",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 22.044365081389596,
-      "lng": -104.1556349186104,
-      "desc": "1 recent report on elections coverage originating from Mexico.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Exaggerated INE budget for the 2027 elections: Sheinbaum",
-          "url": "https://puentelibre.mx/local/exagerado-presupuesto-del-ine-para-el-elecciones-del-2027-sheinbaum/",
-          "domain": "puentelibre.mx"
-        }
-      ],
-      "id": 38
+      "id": 56
     },
     {
       "title": "Before Berlin election: CDU top candidate Evers adapts Wowereit cult sentence",
@@ -1308,7 +1787,7 @@
           "domain": "come-on.de"
         }
       ],
-      "id": 39
+      "id": 57
     },
     {
       "title": "Colombia: FARC war crimes accusation against former commanders",
@@ -1336,7 +1815,7 @@
           "domain": "elmanana.com"
         }
       ],
-      "id": 40
+      "id": 58
     },
     {
       "title": "Emmanuel Macron - Russia must pay for new strikes on Kyiv - sanctions against the Russian Federation",
@@ -1364,7 +1843,7 @@
           "domain": "obozrevatel.com"
         }
       ],
-      "id": 41
+      "id": 59
     },
     {
       "title": "RBI MPC Meeting: What do mutual funds say on interest rates, bond market, inflation and growth? - rbi mpc meet what do mutual funds say on r",
@@ -1392,7 +1871,7 @@
           "domain": "hindi.business-standard.com"
         }
       ],
-      "id": 42
+      "id": 60
     },
     {
       "title": "Ruteng Regional Hospital Sanctions Doctors Who Give Unempathetic Comments to BPJS Patients",
@@ -1420,7 +1899,7 @@
           "domain": "regional.kompas.com"
         }
       ],
-      "id": 43
+      "id": 61
     },
     {
       "title": "Norges Bank , Interest rate | Expert on the Norwegian economy: Norges Bank's interest rate does not affect price growth",
@@ -1448,7 +1927,7 @@
           "domain": "nordlys.no"
         }
       ],
-      "id": 44
+      "id": 62
     },
     {
       "title": "Government tries to contain Hurricane Squella: Alvarado considers the controversy over and Pavez says he does not feel identified as immoral",
@@ -1476,7 +1955,7 @@
           "domain": "eldinamo.cl"
         }
       ],
-      "id": 45
+      "id": 63
     },
     {
       "title": "Oil prices and oil company profits rise amid crisis",
@@ -1504,35 +1983,7 @@
           "domain": "elmanana.com"
         }
       ],
-      "id": 46
-    },
-    {
-      "title": "The Central Bank raised its forecast for inflation in Russia for 2026 to 6–7%",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 63.0556349186104,
-      "lng": 91.55563491861041,
-      "desc": "1 recent report on monetary policy coverage originating from Russia.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "The Central Bank raised its forecast for inflation in Russia for 2026 to 6–7%",
-          "url": "https://profile.ru/news/finance/centrobank-povysil-prognoz-po-urovnju-inflyacii-v-rossii-na-2026-god-do-6-7-1888094/",
-          "domain": "profile.ru"
-        }
-      ],
-      "id": 47
+      "id": 64
     },
     {
       "title": "Washing Machine Innovation War, Modena Relies on Waterless Ozone Technology",
@@ -1560,35 +2011,7 @@
           "domain": "momsmoney.kontan.co.id"
         }
       ],
-      "id": 48
-    },
-    {
-      "title": "Demographic war",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Middle East",
-      "place": "Syria",
-      "lat": 34.8,
-      "lng": 41.2,
-      "desc": "1 recent report on conflict coverage originating from Syria.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Demographic war",
-          "url": "https://arabi21.com/story/1779769/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9",
-          "domain": "arabi21.com"
-        }
-      ],
-      "id": 49
+      "id": 65
     },
     {
       "title": "REPORTING . Without water and in the middle of a heatwave: after the deadly earthquake in Japan, Yatsushiro remains",
@@ -1616,7 +2039,7 @@
           "domain": "brignoles.maville.com"
         }
       ],
-      "id": 50
+      "id": 66
     },
     {
       "title": "FEDE and UCV inspected 893 schools and will rehabilitate 700 after the earthquakes",
@@ -1644,7 +2067,7 @@
           "domain": "unionradio.net"
         }
       ],
-      "id": 51
+      "id": 67
     },
     {
       "title": "Attention those subscribers! Natural gas bill will double",
@@ -1672,7 +2095,7 @@
           "domain": "haberekspres.com.tr"
         }
       ],
-      "id": 52
+      "id": 68
     },
     {
       "title": "The Tisza faction initiated the presidential election next Tuesday",
@@ -1700,35 +2123,7 @@
           "domain": "felvidek.ma"
         }
       ],
-      "id": 53
-    },
-    {
-      "title": "Germany . Drought increases the risk of inflation",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 52.755634918610404,
-      "lng": 11.955634918610405,
-      "desc": "1 recent report on monetary policy coverage originating from Germany.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T16:52:50.021Z",
-      "translated": true,
-      "lang": "Polish",
-      "sources": [
-        {
-          "title": "Germany . Drought increases the risk of inflation",
-          "url": "https://www.dw.com/pl/niemcy-susza-zwi%C4%99ksza-ryzyko-inflacji/a-78251961",
-          "domain": "dw.com"
-        }
-      ],
-      "id": 54
+      "id": 69
     },
     {
       "title": "Ukraine fails to stop any Russian missiles for the first time in the war",
@@ -1756,7 +2151,7 @@
           "domain": "laverdad.es"
         }
       ],
-      "id": 55
+      "id": 70
     },
     {
       "title": "A magnitude 6.3 earthquake shakes the Philippine island of Mindanao",
@@ -1784,7 +2179,7 @@
           "domain": "20minutos.es"
         }
       ],
-      "id": 56
+      "id": 71
     },
     {
       "title": "Tremor in Colombia today, August 5: magnitude 3 earthquake, 1 in Dabeiba, Antioquia",
@@ -1812,7 +2207,7 @@
           "domain": "eltiempo.com"
         }
       ],
-      "id": 57
+      "id": 72
     },
     {
       "title": "China Responds to New US Tariffs, Tightens Drone Exports and Sanctions Six American Companies",
@@ -1840,35 +2235,7 @@
           "domain": "tribunnews.com"
         }
       ],
-      "id": 58
-    },
-    {
-      "title": "India to new strategic cooking gas, natural gas reserve project | India Plans Strategic LPG & LNG Reserves Amid Middle East Conflict Risks",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 23.955634918610404,
-      "lng": 77.1443650813896,
-      "desc": "1 recent report on energy coverage originating from India.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T14:36:12.610Z",
-      "translated": true,
-      "lang": "Malayalam",
-      "sources": [
-        {
-          "title": "India to new strategic cooking gas, natural gas reserve project | India Plans Strategic LPG & LNG Reserves Amid Middle East Conflict Risks",
-          "url": "https://www.mathrubhumi.com/news/india/india-strategic-lpg-lng-reserve-plan-qy90xt8f",
-          "domain": "mathrubhumi.com"
-        }
-      ],
-      "id": 59
+      "id": 73
     },
     {
       "title": "After the flood, now the residents of Lapau Munggu Padang are experiencing a clean water crisis, there is no water assistance yet",
@@ -1896,7 +2263,7 @@
           "domain": "regional.kompas.com"
         }
       ],
-      "id": 60
+      "id": 74
     },
     {
       "title": "Kumamoto Earthquake casts a dark shadow on Oita Prefecture's economy, with over 4,000 hotel stay cancellations and factories temporarily sus",
@@ -1924,7 +2291,7 @@
           "domain": "oita-press.co.jp"
         }
       ],
-      "id": 61
+      "id": 75
     },
     {
       "title": "Public service companies warn of five risks of the new sanitation tariff framework",
@@ -1952,7 +2319,7 @@
           "domain": "elcolombiano.com"
         }
       ],
-      "id": 62
+      "id": 76
     },
     {
       "title": "Three Regents in South Kalimantan Officially Join Gerindra, Target for 2029 Election Starting to Be Heated",
@@ -1980,7 +2347,7 @@
           "domain": "banjarmasin.tribunnews.com"
         }
       ],
-      "id": 63
+      "id": 77
     },
     {
       "title": "The date of the presidential election has been set, the candidate is still unknown",
@@ -2008,7 +2375,7 @@
           "domain": "klubradio.hu"
         }
       ],
-      "id": 64
+      "id": 78
     },
     {
       "title": "Boutros acknowledges  mistake in  Broadview 6  case but says sanctions , special counsel arent needed",
@@ -2036,7 +2403,7 @@
           "domain": "chicago.suntimes.com"
         }
       ],
-      "id": 65
+      "id": 79
     },
     {
       "title": "Maria Karystianou: Either in May or as an emergency, we are ready for elections",
@@ -2064,7 +2431,7 @@
           "domain": "newsbomb.gr"
         }
       ],
-      "id": 66
+      "id": 80
     },
     {
       "title": "Emmanuel Macron: Possible new sanctions on Moscow for the attacks on ...",
@@ -2092,7 +2459,7 @@
           "domain": "capital.gr"
         }
       ],
-      "id": 67
+      "id": 81
     },
     {
       "title": "Proposal to raise standards for proportional restoration election / Chairman's draft proposal for House of Representatives election system r",
@@ -2120,7 +2487,7 @@
           "domain": "shikoku-np.co.jp"
         }
       ],
-      "id": 68
+      "id": 82
     },
     {
       "title": "UTELPa evaluated the election and affirmed that a new stage of management opens after the support of the polls :: El Diario de La Pampa",
@@ -2148,7 +2515,7 @@
           "domain": "eldiariodelapampa.com.ar"
         }
       ],
-      "id": 69
+      "id": 83
     },
     {
       "title": "RBI raises FY27 growth forecast , trims inflation outlook despite global headwinds ; Governor cites resilient domestic economy",
@@ -2176,7 +2543,7 @@
           "domain": "bruneinews.net"
         }
       ],
-      "id": 70
+      "id": 84
     },
     {
       "title": "Shipping associations reiterate their no to tolls and mandatory tariffs for transit in the Strait of Hormuz",
@@ -2204,35 +2571,7 @@
           "domain": "informare.it"
         }
       ],
-      "id": 71
-    },
-    {
-      "title": "Economists back RBI neutral stance , see lower inflation and stable rates supporting growth",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Asia-Pacific",
-      "place": "Thailand",
-      "lat": 17.455634918610404,
-      "lng": 102.5456349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Thailand.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T14:36:12.610Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Economists back RBI neutral stance , see lower inflation and stable rates supporting growth",
-          "url": "http://www.thailandnews.net/news/279223378/economists-back-rbi-neutral-stance-see-lower-inflation-and-stable-rates-supporting-growth",
-          "domain": "thailandnews.net"
-        }
-      ],
-      "id": 72
+      "id": 85
     },
     {
       "title": "Major alert in Timișoara, after the cracking of a gas pipeline. Several people were evacuated, and road traffic was stopped",
@@ -2260,7 +2599,7 @@
           "domain": "adevarul.ro"
         }
       ],
-      "id": 73
+      "id": 86
     },
     {
       "title": "The Trump administration has refunded US$100 billion in tariffs. To whom has it been given?",
@@ -2288,7 +2627,7 @@
           "domain": "finance.ifeng.com"
         }
       ],
-      "id": 74
+      "id": 87
     },
     {
       "title": "Oil price - rise after the threat of the Yemeni twenties",
@@ -2316,35 +2655,7 @@
           "domain": "vg.hu"
         }
       ],
-      "id": 75
-    },
-    {
-      "title": "6 oil companies made $81 billion profit in Iran war, more than India's defense budget - Pradesh Today",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 22.4,
-      "lng": 80.9,
-      "desc": "1 recent report on conflict coverage originating from India.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T14:36:12.610Z",
-      "translated": true,
-      "lang": "Hindi",
-      "sources": [
-        {
-          "title": "6 oil companies made $81 billion profit in Iran war, more than India's defense budget - Pradesh Today",
-          "url": "https://pradeshtoday.com/2026/08/05/6-oil-companies-post-81-billion-profit-amidst-iran-conflictexceeding-indias-defense-budget/",
-          "domain": "pradeshtoday.com"
-        }
-      ],
-      "id": 76
+      "id": 88
     },
     {
       "title": "Meet South Florida teenager Theo Quenee who turned his rooftop into a mangrove nursery after Hurricane Irma",
@@ -2372,7 +2683,7 @@
           "domain": "economictimes.indiatimes.com"
         }
       ],
-      "id": 77
+      "id": 89
     },
     {
       "title": "RBI raises FY27 growth forecast , trims inflation outlook despite global headwinds ; Governor cites resilient domestic economy",
@@ -2400,7 +2711,7 @@
           "domain": "parisguardian.com"
         }
       ],
-      "id": 78
+      "id": 90
     },
     {
       "title": "A simple market indicator of the credibility of central banks",
@@ -2428,7 +2739,7 @@
           "domain": "estrategiasdeinversion.com"
         }
       ],
-      "id": 79
+      "id": 91
     },
     {
       "title": "India's Gen-Z: 38 crore youth of the country and 2029 elections, know how youth can become a game changer!",
@@ -2456,7 +2767,7 @@
           "domain": "gujaratsamachar.com"
         }
       ],
-      "id": 80
+      "id": 92
     },
     {
       "title": "The reality. NET | FAO warns: the world is approaching a new wave of food price hikes. Wars and El Niño fuel the risk of a global crisis",
@@ -2484,35 +2795,7 @@
           "domain": "realitatea.net"
         }
       ],
-      "id": 81
-    },
-    {
-      "title": "Ceuta: \"War of positions\" and old wounds in the wake of the crisis",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "1 recent report on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T12:15:50.851Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Ceuta: \"War of positions\" and old wounds in the wake of the crisis",
-          "url": "https://www.kathimerini.gr/world/564385300/theoyta-polemos-theseon-kai-palies-pliges-sta-aponera-tis-krisis/",
-          "domain": "kathimerini.gr"
-        }
-      ],
-      "id": 82
+      "id": 93
     },
     {
       "title": "China pressures US to return, restricts 7 businesses - tightens drone exports Responding to the trade war",
@@ -2540,7 +2823,7 @@
           "domain": "dailynews.co.th"
         }
       ],
-      "id": 83
+      "id": 94
     },
     {
       "title": "Interest Rate Cuts Can Be Effective Only When Inflation is Under Control",
@@ -2568,7 +2851,7 @@
           "domain": "memurlar.net"
         }
       ],
-      "id": 84
+      "id": 95
     },
     {
       "title": "The Iran war shows that Europe has long since become a middle power",
@@ -2596,7 +2879,7 @@
           "domain": "az-online.de"
         }
       ],
-      "id": 85
+      "id": 96
     },
     {
       "title": "OPEC+ Agrees To September Oil Hike In Full Rollback Of Voluntary Cuts",
@@ -2624,7 +2907,7 @@
           "domain": "1190talkradio.iheart.com"
         }
       ],
-      "id": 86
+      "id": 97
     },
     {
       "title": "Mired in the war in Ukraine, Vladimir Putin reshuffles the Russian high command and appoints a favorite",
@@ -2652,7 +2935,7 @@
           "domain": "lalibre.be"
         }
       ],
-      "id": 87
+      "id": 98
     },
     {
       "title": "Eventful election in Üsküdar Municipality: Sinem Dedetaş's deputy has been announced",
@@ -2680,7 +2963,7 @@
           "domain": "medyafaresi.com"
         }
       ],
-      "id": 88
+      "id": 99
     },
     {
       "title": "Oil companies are making too much money from Iran war Trump",
@@ -2708,7 +2991,7 @@
           "domain": "tribuneonlineng.com"
         }
       ],
-      "id": 89
+      "id": 100
     },
     {
       "title": "BREAKING :  EFCC freezes Osun State government account days before gubernatorial election",
@@ -2736,7 +3019,7 @@
           "domain": "dailypost.ng"
         }
       ],
-      "id": 90
+      "id": 101
     },
     {
       "title": "New retaliation from China to the USA: Sanctions came one after another",
@@ -2764,35 +3047,7 @@
           "domain": "ekonomi.haber7.com"
         }
       ],
-      "id": 91
-    },
-    {
-      "title": "War in Ukraine: fifteen dead in Kyiv, Putin attacks Russians in exile... update",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "France",
-      "lat": 46.6,
-      "lng": 4.4,
-      "desc": "1 recent report on conflict coverage originating from France.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T09:48:22.024Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "War in Ukraine: fifteen dead in Kyiv, Putin attacks Russians in exile... update",
-          "url": "https://laseyne.maville.com/actu/actudet_-guerre-en-ukraine-quinze-morts-a-kyiv-poutine-s-en-prend-aux-russes-en-exil-le-point-sur-la-nuit_fil-7430659_actu.Htm",
-          "domain": "laseyne.maville.com"
-        }
-      ],
-      "id": 92
+      "id": 102
     },
     {
       "title": "Oil prices continued their decline as investors waited for the results of US negotiations",
@@ -2820,7 +3075,7 @@
           "domain": "stockbiz.vn"
         }
       ],
-      "id": 93
+      "id": 103
     },
     {
       "title": "Trump reveals very good negotiations with Tehran to open the Strait of Hormuz and eliminate the specter of war",
@@ -2848,7 +3103,7 @@
           "domain": "non14.net"
         }
       ],
-      "id": 94
+      "id": 104
     },
     {
       "title": "Off The Record | Burnham \"influencer\" is all the rage on Instagram and TikTok: why the English elections will be played on social media",
@@ -2876,7 +3131,7 @@
           "domain": "corriere.it"
         }
       ],
-      "id": 95
+      "id": 105
     },
     {
       "title": "6 . 3 - magnitude earthquake hits off southern Philippines : USGS",
@@ -2904,7 +3159,7 @@
           "domain": "thepeninsulaqatar.com"
         }
       ],
-      "id": 96
+      "id": 106
     },
     {
       "title": "Parliamentary investigation examines Australia readiness for war",
@@ -2932,7 +3187,7 @@
           "domain": "smh.com.au"
         }
       ],
-      "id": 97
+      "id": 107
     },
     {
       "title": "reducing tension between Israel and Hezbollah; The return of 800,000 Lebanese displaced persons to their homes has begun",
@@ -2960,7 +3215,7 @@
           "domain": "radiofarda.com"
         }
       ],
-      "id": 98
+      "id": 108
     },
     {
       "title": "Without international law we would already be in World War III",
@@ -2988,7 +3243,7 @@
           "domain": "dnoticias.pt"
         }
       ],
-      "id": 99
+      "id": 109
     },
     {
       "title": "RBI MPC seen maintaining status quo on rates as easing inflation , strong growth support pause",
@@ -3016,7 +3271,7 @@
           "domain": "iraqsun.com"
         }
       ],
-      "id": 100
+      "id": 110
     },
     {
       "title": "Over 800 , 000 displaced Lebanese returning home after war : UN",
@@ -3044,7 +3299,7 @@
           "domain": "arynews.tv"
         }
       ],
-      "id": 101
+      "id": 111
     },
     {
       "title": "Ukraine sanctioned more than 40 companies and people for supplying weapons and technological equipment to the Russian Army",
@@ -3072,7 +3327,7 @@
           "domain": "infobae.com"
         }
       ],
-      "id": 102
+      "id": 112
     },
     {
       "title": "Iran, Hormuz and the oil boom: who is earning billions from the energy crisis",
@@ -3100,7 +3355,7 @@
           "domain": "lantidiplomatico.it"
         }
       ],
-      "id": 103
+      "id": 113
     },
     {
       "title": "We will move forward by realizing the goals of the Second War of Independence",
@@ -3128,7 +3383,7 @@
           "domain": "suprobhat.com"
         }
       ],
-      "id": 104
+      "id": 114
     },
     {
       "title": "Qatar says mediators make progress in efforts to end US - Iran war | Ariana News",
@@ -3156,7 +3411,7 @@
           "domain": "ariananews.af"
         }
       ],
-      "id": 105
+      "id": 115
     },
     {
       "title": "Having to save money, 2 Japanese retail employees died after the earthquake",
@@ -3184,7 +3439,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 106
+      "id": 116
     },
     {
       "title": "The mysterious sound that baffled scientists 28 years ago was not a sea monster: Antarctica had the real answer after hearing sounds with Co",
@@ -3212,7 +3467,7 @@
           "domain": "larepublica.pe"
         }
       ],
-      "id": 107
+      "id": 117
     },
     {
       "title": "Boys talk about four major bus reforms Xie Guoliang responded: 30 electric bus operations in the fourth quarter of this year | County mayora",
@@ -3240,7 +3495,7 @@
           "domain": "udn.com"
         }
       ],
-      "id": 108
+      "id": 118
     },
     {
       "title": "Earthquake today in Peru LIVE epicenter, time, magnitude and intensity of the tremor today, August 5, 2026, according to the IGP | Geophysic",
@@ -3268,7 +3523,7 @@
           "domain": "enlinea.pe"
         }
       ],
-      "id": 109
+      "id": 119
     },
     {
       "title": "Wall Street closed higher, oil prices lower",
@@ -3294,286 +3549,6 @@
           "title": "Wall Street closed higher, oil prices lower",
           "url": "https://www.hameensanomat.fi/uutissuomalainen/9672341",
           "domain": "hameensanomat.fi"
-        }
-      ],
-      "id": 110
-    },
-    {
-      "title": "Ronaldo's grand wedding will be full of prohibitions : Embargo on happiness",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "Czech Republic",
-      "lat": 52,
-      "lng": 15.5,
-      "desc": "1 recent report on trade & tariffs coverage originating from Czech Republic.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Czech",
-      "sources": [
-        {
-          "title": "Ronaldo's grand wedding will be full of prohibitions : Embargo on happiness",
-          "url": "https://www.ahaonline.cz/clanek/zhave-drby/236355/ronaldova-velkolepa-svatba-bude-plna-zakazu-embargo-na-stesti.html",
-          "domain": "ahaonline.cz"
-        }
-      ],
-      "id": 111
-    },
-    {
-      "title": "A quick overview of this article: The war between the United States and Iran has stirred up the situation. How much will the global oil gian",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 35.9,
-      "lng": 106.4,
-      "desc": "1 recent report on conflict coverage originating from China.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "A quick overview of this article: The war between the United States and Iran has stirred up the situation. How much will the global oil giants win or lose in Q2? _ Oriental Fortune Network",
-          "url": "https://finance.eastmoney.com/a/202608053832392819.html",
-          "domain": "finance.eastmoney.com"
-        }
-      ],
-      "id": 112
-    },
-    {
-      "title": "ONPE prints list and list of voters for Regional and Municipal Elections 2026",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Latin America",
-      "place": "Peru",
-      "lat": -10.755634918610404,
-      "lng": -76.55563491861041,
-      "desc": "1 recent report on elections coverage originating from Peru.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "ONPE prints list and list of voters for Regional and Municipal Elections 2026",
-          "url": "https://larazon.pe/onpe-imprime-relacion-y-lista-de-electores-para-elecciones-regionales-y-municipales-2026/",
-          "domain": "larazon.pe"
-        }
-      ],
-      "id": 113
-    },
-    {
-      "title": "CNN: The Iran war has depleted 80% of the interceptor missiles of the American THAAD system",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Africa",
-      "place": "Egypt",
-      "lat": 26.8,
-      "lng": 33,
-      "desc": "1 recent report on conflict coverage originating from Egypt.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "CNN: The Iran war has depleted 80% of the interceptor missiles of the American THAAD system",
-          "url": "https://www.vetogate.com/5706839",
-          "domain": "vetogate.com"
-        }
-      ],
-      "id": 114
-    },
-    {
-      "title": "September Net - 687 American soldiers were injured in the war with Iran",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Middle East",
-      "place": "Yemen",
-      "lat": 15.6,
-      "lng": 50.2,
-      "desc": "1 recent report on conflict coverage originating from Yemen.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "September Net - 687 American soldiers were injured in the war with Iran",
-          "url": "https://26sep.net/index.php/global/132523-2u97",
-          "domain": "26sep.net"
-        }
-      ],
-      "id": 115
-    },
-    {
-      "title": "September Net - An earthquake of magnitude 6. 3 degrees hits the Philippines",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Middle East",
-      "place": "Yemen",
-      "lat": 14.044365081389595,
-      "lng": 49.5556349186104,
-      "desc": "1 recent report on disaster & logistics coverage originating from Yemen.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "September Net - An earthquake of magnitude 6. 3 degrees hits the Philippines",
-          "url": "https://26sep.net/index.php/more/mix/132524-2u98",
-          "domain": "26sep.net"
-        }
-      ],
-      "id": 116
-    },
-    {
-      "title": "A magnitude 6.3 earthquake recorded in the south of the Philippines this Wednesday",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "Belgium",
-      "lat": 48.94436508138959,
-      "lng": 6.055634918610404,
-      "desc": "1 recent report on disaster & logistics coverage originating from Belgium.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "A magnitude 6.3 earthquake recorded in the south of the Philippines this Wednesday",
-          "url": "https://www.dhnet.be/actu/monde/2026/08/05/un-seisme-de-magnitude-63-recense-au-sud-des-philippines-ce-mercredi-I7NRO45QT5EJBPL3MSDUJI3Z3E/",
-          "domain": "dhnet.be"
-        }
-      ],
-      "id": 117
-    },
-    {
-      "title": "War Macinka vs. Lipavský: Andílek, hulvát, donuts and silver cutlery",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Europe",
-      "place": "Czech Republic",
-      "lat": 49.8,
-      "lng": 17.7,
-      "desc": "1 recent report on conflict coverage originating from Czech Republic.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Czech",
-      "sources": [
-        {
-          "title": "War Macinka vs. Lipavský: Andílek, hulvát, donuts and silver cutlery",
-          "url": "https://www.ahaonline.cz/clanek/zhave-drby/236358/valka-macinka-vs-lipavsky-andilek-hulvat-donuty-a-stribrne-pribory.html",
-          "domain": "ahaonline.cz"
-        }
-      ],
-      "id": 118
-    },
-    {
-      "title": "Bank of Japan continues to raise interest rates / Announcement of June meeting minutes | National news",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Asia-Pacific",
-      "place": "Japan",
-      "lat": 37.755634918610404,
-      "lng": 139.8556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Japan.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Japanese",
-      "sources": [
-        {
-          "title": "Bank of Japan continues to raise interest rates / Announcement of June meeting minutes | National news",
-          "url": "http://www.shikoku-np.co.jp/national/economy/article.aspx?id=20260805000252",
-          "domain": "shikoku-np.co.jp"
-        }
-      ],
-      "id": 119
-    },
-    {
-      "title": "Economic variables for August: GDP, inflation and dollar in Colombia",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-08-05",
-      "region": "Latin America",
-      "place": "Colombia",
-      "lat": 6.155634918610405,
-      "lng": -72.74436508138959,
-      "desc": "1 recent report on monetary policy coverage originating from Colombia.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-08-05T06:41:22.895Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Economic variables for August: GDP, inflation and dollar in Colombia",
-          "url": "https://occidente.co/empresario/variables-economicas-de-agosto-pib-inflacion-dolar/",
-          "domain": "occidente.co"
         }
       ],
       "id": 120
