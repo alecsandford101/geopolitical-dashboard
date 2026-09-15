@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-14T22:30:22.418Z",
+  "generatedAt": "2026-09-15T01:27:20.333Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
     {
       "title": "Bank set to hold interest rates but  needs to be ready  to act on inflation",
       "category": "Monetary Policy",
-      "severity": "Critical",
+      "severity": "High",
       "date": "2026-09-13",
       "region": "Europe",
       "place": "United Kingdom",
       "lat": 55.5556349186104,
       "lng": -0.4443650813895952,
-      "desc": "16 recent reports on monetary policy coverage originating from United Kingdom.",
+      "desc": "8 recent reports on monetary policy coverage originating from United Kingdom.",
       "markets": [
         "Bonds",
         "FX",
         "Equities"
       ],
-      "count": 16,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
+      "count": 8,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -45,49 +45,6 @@
         }
       ],
       "id": 1
-    },
-    {
-      "title": "Inflation forecast up in MDP: 28.4 per cent",
-      "category": "Monetary Policy",
-      "severity": "Medium",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 40.5556349186104,
-      "lng": 36.755634918610404,
-      "desc": "4 recent reports on monetary policy coverage originating from Turkey.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 4,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Inflation forecast up in MDP: 28.4 per cent",
-          "url": "https://www.habermeydan.com/ekonomi/ovpde-enflasyon-tahmini-yukseldi-yuzde-284-h219776/",
-          "domain": "habermeydan.com"
-        },
-        {
-          "title": "The expectation of interest rate increase related to the fede increased the sales pressure in the commodity market",
-          "url": "https://www.haberler.com/ekonomi/fed-e-iliskin-faiz-artirim-beklentisi-emtia-20232738-haberi/",
-          "domain": "haberler.com"
-        },
-        {
-          "title": "  This is the test : All eyes on US Fed to tackle high inflation",
-          "url": "https://www.hurriyetdailynews.com/this-is-the-test-all-eyes-on-us-fed-to-tackle-high-inflation-226812",
-          "domain": "hurriyetdailynews.com"
-        },
-        {
-          "title": "Karahan : The main trend of inflation has slowed down",
-          "url": "https://www.sabah.com.tr/ekonomi/karahan-enflasyonun-ana-egilimi-yavasladi-7659668",
-          "domain": "sabah.com.tr"
-        }
-      ],
-      "id": 2
     },
     {
       "title": "All eyes are on Walsh, and next week's central bank super week ushers in the G7 interest rate hike? - CFi. CN",
@@ -125,40 +82,172 @@
           "domain": "wallstreetcn.com"
         }
       ],
+      "id": 2
+    },
+    {
+      "title": "Zhuo Rong, Tai Yilan, Chang Zhao, and Lin Guozhang, Zhuo Zhao and Zhao Zhao Zhao Zhao, admire Laoca's furious acid, Chiang Wan 'an, only 600",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 22.144365081389594,
+      "lng": 119.40436508138959,
+      "desc": "2 recent reports on elections coverage originating from Taiwan.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Zhuo Rong, Tai Yilan, Chang Zhao, and Lin Guozhang, Zhuo Zhao and Zhao Zhao Zhao Zhao, admire Laoca's furious acid, Chiang Wan 'an, only 600 points per month | County Mayor's Councillor Election |",
+          "url": "https://udn.com/news/story/124652/9751889",
+          "domain": "udn.com"
+        },
+        {
+          "title": "People's Babysitter Transition Long! Taitung City Inspector leads the election of 2 retired police officers in the freshman's league Competition Acquaintance Concerns \"Supporting Vote\" - Politics",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572607",
+          "domain": "news.ltn.com.tw"
+        }
+      ],
       "id": 3
     },
     {
-      "title": "Two Palestinians Killed in New Israeli Bombing of Northern Gaza Despite Ceasefire",
+      "title": "One day of war as of September 2026 costs Ukraine almost $200 million DSnews . ua",
       "category": "Conflict",
       "severity": "Low",
       "date": "2026-09-13",
       "region": "Europe",
-      "place": "Spain",
-      "lat": 40.2,
-      "lng": -1.5,
-      "desc": "2 recent reports on conflict coverage originating from Spain.",
+      "place": "Ukraine",
+      "lat": 48.4,
+      "lng": 33.4,
+      "desc": "2 recent reports on conflict coverage originating from Ukraine.",
       "markets": [
         "Defense",
         "Oil",
         "Gold"
       ],
       "count": 2,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
       "translated": true,
-      "lang": "Spanish",
+      "lang": "Ukrainian",
       "sources": [
         {
-          "title": "Two Palestinians Killed in New Israeli Bombing of Northern Gaza Despite Ceasefire",
-          "url": "https://www.europapress.es/internacional/noticia-mueren-dos-palestinos-nuevo-bombardeo-israel-contra-norte-gaza-pese-alto-fuego-20260913102336.html",
-          "domain": "europapress.es"
+          "title": "One day of war as of September 2026 costs Ukraine almost $200 million DSnews . ua",
+          "url": "https://www.dsnews.ua/ukr/politics/odin-den-viyni-stanom-na-veresen-2026-roku-koshtuye-ukrajini-mayzhe-200-mln-13092026-467462",
+          "domain": "dsnews.ua"
         },
         {
-          "title": "Spain reaches the final stretch before winter with less stored gas and the price shot up to 80 euros for the Iran war",
-          "url": "https://www.larazon.es/economia/espana-llega-recta-final-antes-invierno-menos-gas-almacenado-precio-disparado-80-euros-guerra-iran_202609136aa6597f7486a40f2c9c3201.html",
-          "domain": "larazon.es"
+          "title": "Donbas : Defense forces broke the ledge of the Russians near Liman",
+          "url": "https://www.unian.net/war/donbass-sily-oborony-razbili-vystup-rossiyan-pod-limanom-13498137.html",
+          "domain": "unian.net"
         }
       ],
       "id": 4
+    },
+    {
+      "title": "Ukraine : Kremlin , Modi and Xi willing to contribute to war solution",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "2 recent reports on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Ukraine : Kremlin , Modi and Xi willing to contribute to war solution",
+          "url": "https://www.ilsole24ore.com/art/ucraina-cremlino-modi-e-xi-disponibili-contribuire-soluzione-guerra-AJgQ5zBB",
+          "domain": "ilsole24ore.com"
+        },
+        {
+          "title": "Vignali :  Four years of the War junta: a city without care and without vision",
+          "url": "https://www.parmatoday.it/cronaca/vignali-giunta-comunale-pnrr-sicurezza-degrado-sindaco-guerra.html",
+          "domain": "parmatoday.it"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Pamfilova announced the growth of Russians' confidence in the elections - News on Vesti.ru",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 59.9443650813896,
+      "lng": 88.44436508138959,
+      "desc": "2 recent reports on elections coverage originating from Russia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Pamfilova announced the growth of Russians' confidence in the elections - News on Vesti.ru",
+          "url": "https://www.vesti.ru/ns/pamfilova-zayavila-o-roste-doveriya-rossiyan-k-vyboram",
+          "domain": "vesti.ru"
+        },
+        {
+          "title": "Sobyanin urged Muscovites to vote in the State Duma elections",
+          "url": "https://www.5-tv.ru/news/5086453/sobanin-prizval-moskvicej-progolosovat-navyborah-vgosdumu/",
+          "domain": "5-tv.ru"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "RECENT EARTHQUAKES ! Did the September 13 earthquake happen , when did it happen, how big was it?",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 37.44436508138959,
+      "lng": 36.755634918610404,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Turkey.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "RECENT EARTHQUAKES ! Did the September 13 earthquake happen , when did it happen, how big was it?",
+          "url": "https://www.haberler.com/haber/son-depremler-13-eylul-deprem-mi-oldu-ne-zaman-20232789-haberi/",
+          "domain": "haberler.com"
+        },
+        {
+          "title": "Was there an earthquake in Balıkesir? 13 September When was the last earthquake in Balıkesir, is the severity of the earthquake clear?",
+          "url": "https://www.haberler.com/haber/balikesirde-deprem-mi-oldu-13-eylul-balikesirde-20232801-haberi/",
+          "domain": "haberler.com"
+        }
+      ],
+      "id": 7
     },
     {
       "title": "All eyes on Kevin Warsh as rate - hike fever spreads across G7 central banks",
@@ -191,167 +280,623 @@
           "domain": "livemint.com"
         }
       ],
-      "id": 5
-    },
-    {
-      "title": "Zhuo Rong, Tai Yilan, Chang Zhao, and Lin Guozhang, Zhuo Zhao and Zhao Zhao Zhao Zhao, admire Laoca's furious acid, Chiang Wan 'an, only 600",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 22.144365081389594,
-      "lng": 119.40436508138959,
-      "desc": "2 recent reports on elections coverage originating from Taiwan.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Zhuo Rong, Tai Yilan, Chang Zhao, and Lin Guozhang, Zhuo Zhao and Zhao Zhao Zhao Zhao, admire Laoca's furious acid, Chiang Wan 'an, only 600 points per month | County Mayor's Councillor Election |",
-          "url": "https://udn.com/news/story/124652/9751889",
-          "domain": "udn.com"
-        },
-        {
-          "title": "People's Babysitter Transition Long! Taitung City Inspector leads the election of 2 retired police officers in the freshman's league Competition Acquaintance Concerns \"Supporting Vote\" - Politics",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5572607",
-          "domain": "news.ltn.com.tw"
-        }
-      ],
-      "id": 6
-    },
-    {
-      "title": "Ukraine : Kremlin , Modi and Xi willing to contribute to war solution",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "2 recent reports on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Ukraine : Kremlin , Modi and Xi willing to contribute to war solution",
-          "url": "https://www.ilsole24ore.com/art/ucraina-cremlino-modi-e-xi-disponibili-contribuire-soluzione-guerra-AJgQ5zBB",
-          "domain": "ilsole24ore.com"
-        },
-        {
-          "title": "Vignali :  Four years of the War junta: a city without care and without vision",
-          "url": "https://www.parmatoday.it/cronaca/vignali-giunta-comunale-pnrr-sicurezza-degrado-sindaco-guerra.html",
-          "domain": "parmatoday.it"
-        }
-      ],
-      "id": 7
-    },
-    {
-      "title": "Pamfilova announced the growth of Russians' confidence in the elections - News on Vesti.ru",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 59.9443650813896,
-      "lng": 88.44436508138959,
-      "desc": "2 recent reports on elections coverage originating from Russia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "Pamfilova announced the growth of Russians' confidence in the elections - News on Vesti.ru",
-          "url": "https://www.vesti.ru/ns/pamfilova-zayavila-o-roste-doveriya-rossiyan-k-vyboram",
-          "domain": "vesti.ru"
-        },
-        {
-          "title": "Sobyanin urged Muscovites to vote in the State Duma elections",
-          "url": "https://www.5-tv.ru/news/5086453/sobanin-prizval-moskvicej-progolosovat-navyborah-vgosdumu/",
-          "domain": "5-tv.ru"
-        }
-      ],
       "id": 8
     },
     {
-      "title": "RECENT EARTHQUAKES ! Did the September 13 earthquake happen , when did it happen, how big was it?",
-      "category": "Disaster & Logistics",
+      "title": "The assets of the Saudi Central Bank outperform America and China and prove its financial strength",
+      "category": "Monetary Policy",
       "severity": "Low",
       "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 37.44436508138959,
-      "lng": 36.755634918610404,
-      "desc": "2 recent reports on disaster & logistics coverage originating from Turkey.",
+      "region": "Middle East",
+      "place": "Saudi Arabia",
+      "lat": 25.455634918610404,
+      "lng": 46.6556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Saudi Arabia.",
       "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
+        "Bonds",
+        "FX",
+        "Equities"
       ],
-      "count": 2,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
       "translated": true,
-      "lang": "Turkish",
+      "lang": "Arabic",
       "sources": [
         {
-          "title": "RECENT EARTHQUAKES ! Did the September 13 earthquake happen , when did it happen, how big was it?",
-          "url": "https://www.haberler.com/haber/son-depremler-13-eylul-deprem-mi-oldu-ne-zaman-20232789-haberi/",
-          "domain": "haberler.com"
-        },
-        {
-          "title": "Was there an earthquake in Balıkesir? 13 September When was the last earthquake in Balıkesir, is the severity of the earthquake clear?",
-          "url": "https://www.haberler.com/haber/balikesirde-deprem-mi-oldu-13-eylul-balikesirde-20232801-haberi/",
-          "domain": "haberler.com"
+          "title": "The assets of the Saudi Central Bank outperform America and China and prove its financial strength",
+          "url": "https://www.alwatan.com.sa/article/1185467",
+          "domain": "alwatan.com.sa"
         }
       ],
       "id": 9
     },
     {
-      "title": "One day of war as of September 2026 costs Ukraine almost $200 million DSnews . ua",
+      "title": "Is the call for elections in Venezuela moving away? – Cocuyo Effect – IntelligentEnvironment. com",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Latin America",
+      "place": "Venezuela",
+      "lat": 4.844365081389595,
+      "lng": -68.1556349186104,
+      "desc": "1 recent report on elections coverage originating from Venezuela.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Is the call for elections in Venezuela moving away? – Cocuyo Effect – IntelligentEnvironment. com",
+          "url": "https://www.entornointeligente.com/se-aleja-la-convocatoria-a-elecciones-en-venezuela-efecto-cocuyo/",
+          "domain": "entornointeligente.com"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "Pilsen News - Domestic - Retreat on the line determined by the Kremlin , this is a condition for ending the war",
       "category": "Conflict",
       "severity": "Low",
       "date": "2026-09-13",
       "region": "Europe",
-      "place": "Ukraine",
-      "lat": 48.4,
-      "lng": 33.4,
-      "desc": "1 recent report on conflict coverage originating from Ukraine.",
+      "place": "Czech Republic",
+      "lat": 49.8,
+      "lng": 17.7,
+      "desc": "1 recent report on conflict coverage originating from Czech Republic.",
       "markets": [
         "Defense",
         "Oil",
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
       "translated": true,
-      "lang": "Ukrainian",
+      "lang": "Czech",
       "sources": [
         {
-          "title": "One day of war as of September 2026 costs Ukraine almost $200 million DSnews . ua",
-          "url": "https://www.dsnews.ua/ukr/politics/odin-den-viyni-stanom-na-veresen-2026-roku-koshtuye-ukrajini-mayzhe-200-mln-13092026-467462",
-          "domain": "dsnews.ua"
+          "title": "Pilsen News - Domestic - Retreat on the line determined by the Kremlin , this is a condition for ending the war",
+          "url": "https://www.plzenskenovinky.cz/zpravy/zpravy/ustup-na-linii-urcenou-kremlem-to-je-podminka-ukonceni-valky/",
+          "domain": "plzenskenovinky.cz"
         }
       ],
-      "id": 10
+      "id": 11
+    },
+    {
+      "title": "Iran authorities say one dead after ship struck in Hormuz",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Ireland",
+      "lat": 53.4,
+      "lng": -5.999999999999999,
+      "desc": "1 recent report on conflict coverage originating from Ireland.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Iran authorities say one dead after ship struck in Hormuz",
+          "url": "https://www.rte.ie/news/2026/0913/1591336-iran-war/",
+          "domain": "rte.ie"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "Ukraine - War : Two dead in Russia after Ukrainian attacks",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 51.2,
+      "lng": 12.600000000000001,
+      "desc": "1 recent report on conflict coverage originating from Germany.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Ukraine - War : Two dead in Russia after Ukrainian attacks",
+          "url": "https://www.rnz.de/politik/nachrichten_artikel,-Ukraine-Krieg-Zwei-Tote-in-Russland-nach-ukrainischen-Angriffen-_arid,2428005.html",
+          "domain": "rnz.de"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "F - 35A : Fixed price was never a fixed price",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Switzerland",
+      "lat": 46.8,
+      "lng": 10.399999999999999,
+      "desc": "1 recent report on conflict coverage originating from Switzerland.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "F - 35A : Fixed price was never a fixed price",
+          "url": "https://www.derbund.ch/f-35a-fixpreis-war-nie-ein-fixpreis-125950104678",
+          "domain": "derbund.ch"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "title": "Lavrov : Resume talks with Ukraine - Rejects temporary ceasefire",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 39.1,
+      "lng": 24,
+      "desc": "1 recent report on conflict coverage originating from Greece.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Lavrov : Resume talks with Ukraine - Rejects temporary ceasefire",
+          "url": "https://www.sofokleousin.gr/epikairotita/diethni/lavrof-na-ksanarxisoun-synomilies-me-tin-oukrania-aporriptei-pros",
+          "domain": "sofokleousin.gr"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "title": "Saxony state election - Anhalt : Magdeburgers now have these concerns",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 49.6443650813896,
+      "lng": 8.844365081389595,
+      "desc": "1 recent report on elections coverage originating from Germany.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Saxony state election - Anhalt : Magdeburgers now have these concerns",
+          "url": "https://www.t-online.de/nachrichten/deutschland/id_101430818/landtagwahl-sachsen-anhalt-diese-sorgen-haben-die-magdeburger-jetzt.html",
+          "domain": "t-online.de"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "War Banner : Obstacles to Legislative Elections and Indications of a Debate within Fatah to Postpone It",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Middle East",
+      "place": "Israel",
+      "lat": 31,
+      "lng": 37.1,
+      "desc": "1 recent report on conflict coverage originating from Israel.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "War Banner : Obstacles to Legislative Elections and Indications of a Debate within Fatah to Postpone It",
+          "url": "https://www.raya.ps/news/1224813.html",
+          "domain": "raya.ps"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "White night relocation of flood runners in Quang Tri",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Asia-Pacific",
+      "place": "Vietnam",
+      "lat": 12.504365081389595,
+      "lng": 109.8556349186104,
+      "desc": "1 recent report on disaster & logistics coverage originating from Vietnam.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Vietnamese",
+      "sources": [
+        {
+          "title": "White night relocation of flood runners in Quang Tri",
+          "url": "https://baomoi.com/trang-dem-di-doi-nguoi-dan-chay-lu-o-quang-tri-c56040118.epi",
+          "domain": "baomoi.com"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "title": "Election result 2026 – then comes the result",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Sweden",
+      "lat": 58.5443650813896,
+      "lng": 17.044365081389596,
+      "desc": "1 recent report on elections coverage originating from Sweden.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Swedish",
+      "sources": [
+        {
+          "title": "Election result 2026 – then comes the result",
+          "url": "https://www.aftonbladet.se/nyheter/a/JOA666/valresultat-2026-da-kommer-resultatet",
+          "domain": "aftonbladet.se"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "title": "Will the leftists return or will the way open up to the far right? There is a huge stake in the Swedish election",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Hungary",
+      "lat": 45.6443650813896,
+      "lng": 17.944365081389595,
+      "desc": "1 recent report on elections coverage originating from Hungary.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Hungarian",
+      "sources": [
+        {
+          "title": "Will the leftists return or will the way open up to the far right? There is a huge stake in the Swedish election",
+          "url": "https://mfor.hu/cikkek/kulpolitika/visszaternek-a-balosok-vagy-megnyilik-az-ut-a-szelsojobb-elott-oriasi-a-tetje-a-svedorszagi-valasztasnak.html",
+          "domain": "mfor.hu"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "title": "The anarchist doctor who fought for peace and sexual health in the Civil War",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 40.2,
+      "lng": -1.5,
+      "desc": "1 recent report on conflict coverage originating from Spain.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The anarchist doctor who fought for peace and sexual health in the Civil War",
+          "url": "https://www.infolibre.es/politica/medica-anarquista-lucho-paz-salud-sexual-guerra-civil_1_2236080.html",
+          "domain": "infolibre.es"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "title": "How did the sanctions hit the Norwegian border ?",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 61.5,
+      "lng": 87.8,
+      "desc": "1 recent report on sanctions coverage originating from Russia.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "How did the sanctions hit the Norwegian border ?",
+          "url": "https://severpost.ru/read/213152/",
+          "domain": "severpost.ru"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "Canada oil windfall may yet wipe out its losses from tariffs",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 56.1,
+      "lng": -104.1,
+      "desc": "1 recent report on conflict coverage originating from Canada.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Canada oil windfall may yet wipe out its losses from tariffs",
+          "url": "https://www.cbc.ca/news/politics/canada-oil-prices-trump-iran-trade-war-tariffs-9.7341298",
+          "domain": "cbc.ca"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "title": "Inflation forecast up in MDP: 28.4 per cent",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 40.5556349186104,
+      "lng": 36.755634918610404,
+      "desc": "1 recent report on monetary policy coverage originating from Turkey.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Inflation forecast up in MDP: 28.4 per cent",
+          "url": "https://www.habermeydan.com/ekonomi/ovpde-enflasyon-tahmini-yukseldi-yuzde-284-h219776/",
+          "domain": "habermeydan.com"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 80.25563491861041,
+      "desc": "1 recent report on disaster & logistics coverage originating from India.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
+          "url": "https://www.thehindubusinessline.com/news/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal/article71462785.ece",
+          "domain": "thehindubusinessline.com"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "title": "\"Moffre une seconde vie\": the miracle of Sanjay , a worker who survived 10 days in the ruins of the flood in Nepal",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "France",
+      "lat": 45.0443650813896,
+      "lng": 3.7556349186104043,
+      "desc": "1 recent report on disaster & logistics coverage originating from France.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "\"Moffre une seconde vie\": the miracle of Sanjay , a worker who survived 10 days in the ruins of the flood in Nepal",
+          "url": "https://www.parismatch.com/actu/international/on-moffre-une-seconde-vie-le-miracle-de-sanjay-ouvrier-qui-a-survecu-10-jours-dans-les-decombres-de-la-crue-au-nepal-275664",
+          "domain": "parismatch.com"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "1 recent report on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
+          "url": "https://finance.yahoo.com/economy/policy/articles/president-donald-trumps-interest-rate-082602228.html",
+          "domain": "finance.yahoo.com"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "title": "Kekua Richards anchors CSU volleyball in Border War win over Wyoming",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "1 recent report on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Kekua Richards anchors CSU volleyball in Border War win over Wyoming",
+          "url": "https://collegian.com/articles/featured/2026/09/kekua-richards-anchors-csu-volleyball-in-border-war-win-over-wyoming/",
+          "domain": "collegian.com"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "title": "Israeli army continues attacks on southern Lebanon despite ceasefire",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "1 recent report on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Israeli army continues attacks on southern Lebanon despite ceasefire",
+          "url": "https://www.haberler.com/guncel/israil-ordusunun-ateskese-ragmen-lubnan-in-20232757-haberi/",
+          "domain": "haberler.com"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "Index - Abroad - Washington faces a difficult decision, oil prices may continue to rise after another ship attack",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-09-13",
+      "region": "Europe",
+      "place": "Hungary",
+      "lat": 48.755634918610404,
+      "lng": 17.944365081389595,
+      "desc": "1 recent report on energy coverage originating from Hungary.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-15T01:27:20.333Z",
+      "translated": true,
+      "lang": "Hungarian",
+      "sources": [
+        {
+          "title": "Index - Abroad - Washington faces a difficult decision, oil prices may continue to rise after another ship attack",
+          "url": "https://index.hu/kulfold/2026/09/13/kozel-kelet-iran-egyesult-allamok-irak-hajo-tamadas-hormuzi-szoros-olaj-huszik-szaud-arabia-oman-ukmto-donald-trump/",
+          "domain": "index.hu"
+        }
+      ],
+      "id": 30
     },
     {
       "title": "World braces for Big Jump in Oil Prices after Saudi Pipeline Shutdown due to Houthi Threats",
@@ -379,63 +924,7 @@
           "domain": "en.dailypakistan.com.pk"
         }
       ],
-      "id": 11
-    },
-    {
-      "title": "Canada oil windfall may yet wipe out its losses from tariffs",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 56.1,
-      "lng": -104.1,
-      "desc": "1 recent report on conflict coverage originating from Canada.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Canada oil windfall may yet wipe out its losses from tariffs",
-          "url": "https://www.cbc.ca/news/politics/canada-oil-prices-trump-iran-trade-war-tariffs-9.7341298",
-          "domain": "cbc.ca"
-        }
-      ],
-      "id": 12
-    },
-    {
-      "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -96.8443650813896,
-      "desc": "1 recent report on monetary policy coverage originating from United States.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "President Donald Trump Interest - Rate Ultimatum Will Likely Fall on Deaf Ears Due to 3 Factors , One of Which Is Trumpflation",
-          "url": "https://finance.yahoo.com/economy/policy/articles/president-donald-trumps-interest-rate-082602228.html",
-          "domain": "finance.yahoo.com"
-        }
-      ],
-      "id": 13
+      "id": 31
     },
     {
       "title": "Inflation pressures will continue to rise in the last quarter of the year",
@@ -463,7 +952,7 @@
           "domain": "elnuevosiglo.com.co"
         }
       ],
-      "id": 14
+      "id": 32
     },
     {
       "title": "ECB President: Inflation Shock Will Last Longer Than Anticipated",
@@ -491,7 +980,7 @@
           "domain": "vietgiaitri.com"
         }
       ],
-      "id": 15
+      "id": 33
     },
     {
       "title": "It's said to be the world's number one leading index... Oil price $100 · Interest rate 4% Peakout warning light",
@@ -519,7 +1008,7 @@
           "domain": "edaily.co.kr"
         }
       ],
-      "id": 16
+      "id": 34
     },
     {
       "title": "The Gathering 2026 : Local coalitions to grow after elections",
@@ -547,35 +1036,7 @@
           "domain": "dailymaverick.co.za"
         }
       ],
-      "id": 17
-    },
-    {
-      "title": "Disaster insurance to spread risks before the storm and flood season",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Asia-Pacific",
-      "place": "Vietnam",
-      "lat": 12.504365081389595,
-      "lng": 109.8556349186104,
-      "desc": "1 recent report on disaster & logistics coverage originating from Vietnam.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-14T18:37:57.213Z",
-      "translated": true,
-      "lang": "Vietnamese",
-      "sources": [
-        {
-          "title": "Disaster insurance to spread risks before the storm and flood season",
-          "url": "https://vnexpress.net/khoang-trong-bao-hiem-thiet-hai-truoc-mua-mua-bao-5119738.html",
-          "domain": "vnexpress.net"
-        }
-      ],
-      "id": 18
+      "id": 35
     },
     {
       "title": "Eurozone growth with high inflation and expensive loans",
@@ -603,7 +1064,7 @@
           "domain": "sbctv.gr"
         }
       ],
-      "id": 19
+      "id": 36
     },
     {
       "title": "Extremadura's petrol stations expect more inflation if VAT does not fall",
@@ -631,7 +1092,7 @@
           "domain": "hoy.es"
         }
       ],
-      "id": 20
+      "id": 37
     },
     {
       "title": "Human Remains Believed To Be Connected To Victim Of Hurricane Helene Found Years Following Deadly Storm",
@@ -659,7 +1120,7 @@
           "domain": "dailycaller.com"
         }
       ],
-      "id": 21
+      "id": 38
     },
     {
       "title": "The situation in Yemen has escalated dramatically! Houthis and Saudis attack each other, Iran: We are not at war with Saudi Arabia",
@@ -687,7 +1148,7 @@
           "domain": "wallstreetcn.com"
         }
       ],
-      "id": 22
+      "id": 39
     },
     {
       "title": "Beat inflation: How to protect your purchasing power",
@@ -713,482 +1174,6 @@
           "title": "Beat inflation: How to protect your purchasing power",
           "url": "https://www.finanzen.net/ratgeber/aktien/so-schlaegst-du-die-inflation/",
           "domain": "finanzen.net"
-        }
-      ],
-      "id": 23
-    },
-    {
-      "title": "The assets of the Saudi Central Bank outperform America and China and prove its financial strength",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Middle East",
-      "place": "Saudi Arabia",
-      "lat": 25.455634918610404,
-      "lng": 46.6556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Saudi Arabia.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "The assets of the Saudi Central Bank outperform America and China and prove its financial strength",
-          "url": "https://www.alwatan.com.sa/article/1185467",
-          "domain": "alwatan.com.sa"
-        }
-      ],
-      "id": 24
-    },
-    {
-      "title": "Is the call for elections in Venezuela moving away? – Cocuyo Effect – IntelligentEnvironment. com",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Latin America",
-      "place": "Venezuela",
-      "lat": 4.844365081389595,
-      "lng": -68.1556349186104,
-      "desc": "1 recent report on elections coverage originating from Venezuela.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Is the call for elections in Venezuela moving away? – Cocuyo Effect – IntelligentEnvironment. com",
-          "url": "https://www.entornointeligente.com/se-aleja-la-convocatoria-a-elecciones-en-venezuela-efecto-cocuyo/",
-          "domain": "entornointeligente.com"
-        }
-      ],
-      "id": 25
-    },
-    {
-      "title": "Pilsen News - Domestic - Retreat on the line determined by the Kremlin , this is a condition for ending the war",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Czech Republic",
-      "lat": 49.8,
-      "lng": 17.7,
-      "desc": "1 recent report on conflict coverage originating from Czech Republic.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Czech",
-      "sources": [
-        {
-          "title": "Pilsen News - Domestic - Retreat on the line determined by the Kremlin , this is a condition for ending the war",
-          "url": "https://www.plzenskenovinky.cz/zpravy/zpravy/ustup-na-linii-urcenou-kremlem-to-je-podminka-ukonceni-valky/",
-          "domain": "plzenskenovinky.cz"
-        }
-      ],
-      "id": 26
-    },
-    {
-      "title": "Iran authorities say one dead after ship struck in Hormuz",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Ireland",
-      "lat": 53.4,
-      "lng": -5.999999999999999,
-      "desc": "1 recent report on conflict coverage originating from Ireland.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Iran authorities say one dead after ship struck in Hormuz",
-          "url": "https://www.rte.ie/news/2026/0913/1591336-iran-war/",
-          "domain": "rte.ie"
-        }
-      ],
-      "id": 27
-    },
-    {
-      "title": "Ukraine - War : Two dead in Russia after Ukrainian attacks",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 51.2,
-      "lng": 12.600000000000001,
-      "desc": "1 recent report on conflict coverage originating from Germany.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Ukraine - War : Two dead in Russia after Ukrainian attacks",
-          "url": "https://www.rnz.de/politik/nachrichten_artikel,-Ukraine-Krieg-Zwei-Tote-in-Russland-nach-ukrainischen-Angriffen-_arid,2428005.html",
-          "domain": "rnz.de"
-        }
-      ],
-      "id": 28
-    },
-    {
-      "title": "F - 35A : Fixed price was never a fixed price",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Switzerland",
-      "lat": 46.8,
-      "lng": 10.399999999999999,
-      "desc": "1 recent report on conflict coverage originating from Switzerland.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "F - 35A : Fixed price was never a fixed price",
-          "url": "https://www.derbund.ch/f-35a-fixpreis-war-nie-ein-fixpreis-125950104678",
-          "domain": "derbund.ch"
-        }
-      ],
-      "id": 29
-    },
-    {
-      "title": "Lavrov : Resume talks with Ukraine - Rejects temporary ceasefire",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "1 recent report on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Lavrov : Resume talks with Ukraine - Rejects temporary ceasefire",
-          "url": "https://www.sofokleousin.gr/epikairotita/diethni/lavrof-na-ksanarxisoun-synomilies-me-tin-oukrania-aporriptei-pros",
-          "domain": "sofokleousin.gr"
-        }
-      ],
-      "id": 30
-    },
-    {
-      "title": "Saxony state election - Anhalt : Magdeburgers now have these concerns",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 49.6443650813896,
-      "lng": 8.844365081389595,
-      "desc": "1 recent report on elections coverage originating from Germany.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Saxony state election - Anhalt : Magdeburgers now have these concerns",
-          "url": "https://www.t-online.de/nachrichten/deutschland/id_101430818/landtagwahl-sachsen-anhalt-diese-sorgen-haben-die-magdeburger-jetzt.html",
-          "domain": "t-online.de"
-        }
-      ],
-      "id": 31
-    },
-    {
-      "title": "War Banner : Obstacles to Legislative Elections and Indications of a Debate within Fatah to Postpone It",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Middle East",
-      "place": "Israel",
-      "lat": 31,
-      "lng": 37.1,
-      "desc": "1 recent report on conflict coverage originating from Israel.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "War Banner : Obstacles to Legislative Elections and Indications of a Debate within Fatah to Postpone It",
-          "url": "https://www.raya.ps/news/1224813.html",
-          "domain": "raya.ps"
-        }
-      ],
-      "id": 32
-    },
-    {
-      "title": "Election result 2026 – then comes the result",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Sweden",
-      "lat": 58.5443650813896,
-      "lng": 17.044365081389596,
-      "desc": "1 recent report on elections coverage originating from Sweden.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Swedish",
-      "sources": [
-        {
-          "title": "Election result 2026 – then comes the result",
-          "url": "https://www.aftonbladet.se/nyheter/a/JOA666/valresultat-2026-da-kommer-resultatet",
-          "domain": "aftonbladet.se"
-        }
-      ],
-      "id": 33
-    },
-    {
-      "title": "Will the leftists return or will the way open up to the far right? There is a huge stake in the Swedish election",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Hungary",
-      "lat": 45.6443650813896,
-      "lng": 17.944365081389595,
-      "desc": "1 recent report on elections coverage originating from Hungary.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Hungarian",
-      "sources": [
-        {
-          "title": "Will the leftists return or will the way open up to the far right? There is a huge stake in the Swedish election",
-          "url": "https://mfor.hu/cikkek/kulpolitika/visszaternek-a-balosok-vagy-megnyilik-az-ut-a-szelsojobb-elott-oriasi-a-tetje-a-svedorszagi-valasztasnak.html",
-          "domain": "mfor.hu"
-        }
-      ],
-      "id": 34
-    },
-    {
-      "title": "How did the sanctions hit the Norwegian border ?",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 61.5,
-      "lng": 87.8,
-      "desc": "1 recent report on sanctions coverage originating from Russia.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "How did the sanctions hit the Norwegian border ?",
-          "url": "https://severpost.ru/read/213152/",
-          "domain": "severpost.ru"
-        }
-      ],
-      "id": 35
-    },
-    {
-      "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 20.844365081389594,
-      "lng": 80.25563491861041,
-      "desc": "1 recent report on disaster & logistics coverage originating from India.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "India sends first consignment of Bailey bridge components to flood - hit Nepal",
-          "url": "https://www.thehindubusinessline.com/news/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal/article71462785.ece",
-          "domain": "thehindubusinessline.com"
-        }
-      ],
-      "id": 36
-    },
-    {
-      "title": "\"Moffre une seconde vie\": the miracle of Sanjay , a worker who survived 10 days in the ruins of the flood in Nepal",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "France",
-      "lat": 45.0443650813896,
-      "lng": 3.7556349186104043,
-      "desc": "1 recent report on disaster & logistics coverage originating from France.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "\"Moffre une seconde vie\": the miracle of Sanjay , a worker who survived 10 days in the ruins of the flood in Nepal",
-          "url": "https://www.parismatch.com/actu/international/on-moffre-une-seconde-vie-le-miracle-de-sanjay-ouvrier-qui-a-survecu-10-jours-dans-les-decombres-de-la-crue-au-nepal-275664",
-          "domain": "parismatch.com"
-        }
-      ],
-      "id": 37
-    },
-    {
-      "title": "Kekua Richards anchors CSU volleyball in Border War win over Wyoming",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "1 recent report on conflict coverage originating from United States.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Kekua Richards anchors CSU volleyball in Border War win over Wyoming",
-          "url": "https://collegian.com/articles/featured/2026/09/kekua-richards-anchors-csu-volleyball-in-border-war-win-over-wyoming/",
-          "domain": "collegian.com"
-        }
-      ],
-      "id": 38
-    },
-    {
-      "title": "Israeli army continues attacks on southern Lebanon despite ceasefire",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 39,
-      "lng": 37.400000000000006,
-      "desc": "1 recent report on conflict coverage originating from Turkey.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Israeli army continues attacks on southern Lebanon despite ceasefire",
-          "url": "https://www.haberler.com/guncel/israil-ordusunun-ateskese-ragmen-lubnan-in-20232757-haberi/",
-          "domain": "haberler.com"
-        }
-      ],
-      "id": 39
-    },
-    {
-      "title": "Index - Abroad - Washington faces a difficult decision, oil prices may continue to rise after another ship attack",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-09-13",
-      "region": "Europe",
-      "place": "Hungary",
-      "lat": 48.755634918610404,
-      "lng": 17.944365081389595,
-      "desc": "1 recent report on energy coverage originating from Hungary.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-13T20:49:05.890Z",
-      "translated": true,
-      "lang": "Hungarian",
-      "sources": [
-        {
-          "title": "Index - Abroad - Washington faces a difficult decision, oil prices may continue to rise after another ship attack",
-          "url": "https://index.hu/kulfold/2026/09/13/kozel-kelet-iran-egyesult-allamok-irak-hajo-tamadas-hormuzi-szoros-olaj-huszik-szaud-arabia-oman-ukmto-donald-trump/",
-          "domain": "index.hu"
         }
       ],
       "id": 40
