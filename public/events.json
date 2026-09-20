@@ -1,50 +1,93 @@
 {
-  "generatedAt": "2026-09-20T16:04:52.834Z",
+  "generatedAt": "2026-09-20T18:47:24.449Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
     {
-      "title": "Tired of war and worried : Russia in the parliamentary elections",
-      "category": "Conflict",
-      "severity": "High",
+      "title": "The biggest disappointment of election night is Chancellor Friedrich Merz",
+      "category": "Elections",
+      "severity": "Critical",
       "date": "2026-09-20",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "10 recent reports on conflict coverage originating from United States.",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 49.6443650813896,
+      "lng": 8.844365081389595,
+      "desc": "13 recent reports on elections coverage originating from Germany.",
       "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
+        "Equities",
+        "FX",
+        "Bonds"
       ],
-      "count": 10,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
+      "count": 13,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
       "translated": true,
       "lang": "German",
       "sources": [
         {
-          "title": "Tired of war and worried : Russia in the parliamentary elections",
-          "url": "https://de.nachrichten.yahoo.com/kriegsm%C3%BCde-besorgt-russland-parlamentswahlen-180200212.html",
-          "domain": "de.nachrichten.yahoo.com"
+          "title": "The biggest disappointment of election night is Chancellor Friedrich Merz",
+          "url": "https://www.otz.de/politik/article413208173/die-groesste-enttaeuschung-des-wahlabends-ist-kanzler-friedrich-merz.html",
+          "domain": "otz.de"
         },
         {
-          "title": "Rising gas prices frustrate voters . Trump says it an  inexpensive price to pay  for the Iran war",
-          "url": "https://www.ktre.com/2026/09/20/rising-gas-prices-frustrate-voters-trump-says-its-an-inexpensive-price-pay-iran-war/",
-          "domain": "ktre.com"
+          "title": "Berlin - Election : Leftists in the frenzy of joy – how Elif Eralp conquered the capital",
+          "url": "https://www.tlz.de/politik/article413201466/berlin-wahl-landtagswahl-2026-linke-elif-eralp-regierung-koalition.html",
+          "domain": "tlz.de"
         },
         {
-          "title": "Rising gas prices frustrate voters . Trump says it an  inexpensive price to pay  for the Iran war – Scranton Times - Tribune",
-          "url": "https://www.thetimes-tribune.com/2026/09/20/rising-gas-prices-frustrate-voters-trump-says-its-an-inexpensive-price-to-pay-for-the-iran-war/",
-          "domain": "thetimes-tribune.com"
+          "title": "Berlin - Election : Leftists in the frenzy of joy – how Elif Eralp conquered the capital",
+          "url": "https://www.abendblatt.de/politik/article413201466/die-linke-in-berlin-im-freudentaumel-wie-elif-eralp-die-hauptstadt-eroberte.html",
+          "domain": "abendblatt.de"
         },
         {
-          "title": "Rising gas prices frustrate voters . Trump says it an  inexpensive price to pay  for the Iran war",
-          "url": "https://www.ksat.com/news/politics/2026/09/20/rising-gas-prices-frustrate-voters-trump-says-its-an-inexpensive-price-to-pay-for-the-iran-war/",
-          "domain": "ksat.com"
+          "title": "Elections in Berlin and MV : ++ Amthor blames individual CDU politicians in Mecklenburg-Western Pomerania for the result ++ Live ticker",
+          "url": "https://www.welt.de/politik/deutschland/article6aafd698b1857e86757a8482/wahlen-in-berlin-und-mv-amthor-gibt-einzelnen-cdu-politikern-in-mecklenburg-vorpommern-schuld-am-ergebnis-liveticker.html",
+          "domain": "welt.de"
         }
       ],
       "id": 1
+    },
+    {
+      "title": "State Duma Elections: Latest News",
+      "category": "Elections",
+      "severity": "Critical",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 59.9443650813896,
+      "lng": 88.44436508138959,
+      "desc": "12 recent reports on elections coverage originating from Russia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 12,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "State Duma Elections: Latest News",
+          "url": "https://iz.ru/2170418/2026-09-20/stareishaia-zhitelnitca-rossii-v-121-god-progolosovala-na-vyborakh-v-gosdumu",
+          "domain": "iz.ru"
+        },
+        {
+          "title": "The turnout in the State Duma elections exceeded 56% an hour before the closure of the polling stations",
+          "url": "https://www.kommersant.ru/doc/8970986",
+          "domain": "kommersant.ru"
+        },
+        {
+          "title": "Rostislav Goldstein :  In the Republic of Komi, maximum control over the transparency of elections is ensured",
+          "url": "https://komiinform.ru/news/300724",
+          "domain": "komiinform.ru"
+        },
+        {
+          "title": "RKN identified 918 emergency situations in the networks of election commissions",
+          "url": "https://news.mail.ru/politics/72431125/",
+          "domain": "news.mail.ru"
+        }
+      ],
+      "id": 2
     },
     {
       "title": "Disaster & Logistics — United States",
@@ -85,49 +128,6 @@
           "title": "Far from shore , Tropical Storm Fay forms as Odalys eyes hurricane strength",
           "url": "https://mymotherlode.com/news/state/11154583/far-from-shore-tropical-storm-fay-forms-as-odalys-eyes-hurricane-strength.html",
           "domain": "mymotherlode.com"
-        }
-      ],
-      "id": 2
-    },
-    {
-      "title": "The CEC said that it is planned to use UAVs more widely for the delivery of ballots",
-      "category": "Elections",
-      "severity": "High",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 59.9443650813896,
-      "lng": 88.44436508138959,
-      "desc": "7 recent reports on elections coverage originating from Russia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 7,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "The CEC said that it is planned to use UAVs more widely for the delivery of ballots",
-          "url": "https://www.mk.ru/politics/2026/09/20/cik-zayavil-chto-dlya-dostavki-byulleteney-planiruetsya-shire-ispolzovat-bpla.html",
-          "domain": "mk.ru"
-        },
-        {
-          "title": "Lukoil employees voted in the State Duma elections in Uzbekistan",
-          "url": "https://ria.ru/20260920/vybory-2119030339.html",
-          "domain": "ria.ru"
-        },
-        {
-          "title": "The elections became the object of intervention by unfriendly countries , Piskarev said",
-          "url": "https://ria.ru/20260920/piskarev-2119033549.html",
-          "domain": "ria.ru"
-        },
-        {
-          "title": "Regardies continue to participate in the elections of deputies of the State Duma in the Southern Urals",
-          "url": "https://re-port.ru:443/pressreleases/rosgvardeicy_prodolzhayut_uchastvovat_v_vyborah_deputatov_gosudarstvennoi_dumy_na_yuzhnom_urale/",
-          "domain": "re-port.ru"
         }
       ],
       "id": 3
@@ -176,92 +176,6 @@
       "id": 4
     },
     {
-      "title": "Berlin - Election : The Left Hopes for the Mamdani - Moment",
-      "category": "Elections",
-      "severity": "Medium",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 49.6443650813896,
-      "lng": 8.844365081389595,
-      "desc": "4 recent reports on elections coverage originating from Germany.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 4,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Berlin - Election : The Left Hopes for the Mamdani - Moment",
-          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101439480/berlin-wahl-die-linke-hofft-auf-den-mamdani-moment.html",
-          "domain": "t-online.de"
-        },
-        {
-          "title": "State election in MV : these are the top candidates at a glance",
-          "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101431268/landtagswahl-in-mv-das-sind-die-spitzenkandidaten-im-ueberblick.html",
-          "domain": "t-online.de"
-        },
-        {
-          "title": "Elections in Berlin and MV : High turnout looms",
-          "url": "https://www.wn.de/schlaglichter/wahlen-in-berlin-und-mv-hohe-beteiligung-zeichnet-sich-ab-3655844",
-          "domain": "wn.de"
-        },
-        {
-          "title": "Elections in Berlin and MV : High turnout looms",
-          "url": "https://www.t-online.de/nachrichten/deutschland/id_101443498/wahlen-in-berlin-und-mv-hohe-beteiligung-zeichnet-sich-ab.html",
-          "domain": "t-online.de"
-        }
-      ],
-      "id": 5
-    },
-    {
-      "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-      "category": "Monetary Policy",
-      "severity": "Medium",
-      "date": "2026-09-20",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -96.8443650813896,
-      "desc": "4 recent reports on monetary policy coverage originating from United States.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 4,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-          "url": "https://mymotherlode.com/news/national/11154569/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth.html",
-          "domain": "mymotherlode.com"
-        },
-        {
-          "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-          "url": "https://www.ksat.com/business/2026/09/20/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth/",
-          "domain": "ksat.com"
-        },
-        {
-          "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-          "url": "https://www.union-bulletin.com/news/national/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth/article_11d8273b-9708-5c74-8125-36d66f2ea47d.html",
-          "domain": "union-bulletin.com"
-        },
-        {
-          "title": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
-          "url": "https://www.kxl.com/federal-reserve-rate-hike-reflects-new-world-of-sticky-inflation-and-faster-growth/",
-          "domain": "kxl.com"
-        }
-      ],
-      "id": 6
-    },
-    {
       "title": "Russia says it suffered ' over 1,000 ' cyberattacks aimed at disrupting parliamentary elections",
       "category": "Elections",
       "severity": "Medium",
@@ -302,7 +216,7 @@
           "domain": "sbctv.gr"
         }
       ],
-      "id": 7
+      "id": 5
     },
     {
       "title": "Duma - Election : Moscow reports largest drone attack since the beginning of the war",
@@ -340,7 +254,7 @@
           "domain": "welt.de"
         }
       ],
-      "id": 8
+      "id": 6
     },
     {
       "title": "Russia intercepts biggest Ukrainian drone attack on Moscow on election day",
@@ -378,7 +292,7 @@
           "domain": "vozpopuli.com"
         }
       ],
-      "id": 9
+      "id": 7
     },
     {
       "title": "World leaders meet at UN , amid wars in Mideast , Ukraine",
@@ -416,10 +330,10 @@
           "domain": "theadvocate.com.au"
         }
       ],
-      "id": 10
+      "id": 8
     },
     {
-      "title": "Russia : Over 1,000 cyberattacks against the election",
+      "title": "Mid-Russian Election : Biggest Ukrainian Drone Attack",
       "category": "Elections",
       "severity": "Low",
       "date": "2026-09-20",
@@ -434,22 +348,121 @@
         "Bonds"
       ],
       "count": 2,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
       "translated": true,
       "lang": "Swedish",
       "sources": [
         {
-          "title": "Russia : Over 1,000 cyberattacks against the election",
-          "url": "https://nyheter24.se/nyheter/utrikes/1514837-ryssland-over-1000-cyberattacker-mot-valet",
-          "domain": "nyheter24.se"
+          "title": "Mid-Russian Election : Biggest Ukrainian Drone Attack",
+          "url": "https://www.dagensps.se/varlden/mitt-i-ryska-valet-storsta-ukrainska-dronarattacken/",
+          "domain": "dagensps.se"
         },
         {
-          "title": "Left Wind in Berlin Facing Important Election",
-          "url": "https://nyheter24.se/nyheter/utrikes/1514827-vanstervind-i-berlin-infor-viktigt-val",
-          "domain": "nyheter24.se"
+          "title": "Left Wind in Berlin in Important Election",
+          "url": "https://www.di.se/nyheter/vanstervind-i-berlin-i-viktigt-val/",
+          "domain": "di.se"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Rising gas prices frustrate voters . Trump says it an  inexpensive price to pay  for the Iran war – Pasadena Star News",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "2 recent reports on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Rising gas prices frustrate voters . Trump says it an  inexpensive price to pay  for the Iran war – Pasadena Star News",
+          "url": "https://www.pasadenastarnews.com/2026/09/20/rising-gas-prices-frustrate-voters-trump-says-its-an-inexpensive-price-to-pay-for-the-iran-war/",
+          "domain": "pasadenastarnews.com"
+        },
+        {
+          "title": "Rising gas prices frustrate voters . Trump says it an  inexpensive price to pay  for the Iran war – The Press Democrat",
+          "url": "https://www.pressdemocrat.com/2026/09/20/rising-gas-prices-frustrate-voters-trump-says-its-an-inexpensive-price-to-pay-for-the-iran-war/",
+          "domain": "pressdemocrat.com"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "How by - elections were won and lost in Gombe , Bauchi and Kano states - Blueprint Newspapers Limited",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Africa",
+      "place": "Nigeria",
+      "lat": 7.544365081389595,
+      "lng": 7.144365081389594,
+      "desc": "2 recent reports on elections coverage originating from Nigeria.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "How by - elections were won and lost in Gombe , Bauchi and Kano states - Blueprint Newspapers Limited",
+          "url": "https://blueprint.ng/how-by-elections-were-won-and-lost-in-gombe-bauchi-and-kano-states/",
+          "domain": "blueprint.ng"
+        },
+        {
+          "title": "2027 is Tinubu election to win , says Showunmi",
+          "url": "https://tribuneonlineng.com/2027-is-tinubus-election-to-win-says-showunmi/",
+          "domain": "tribuneonlineng.com"
         }
       ],
       "id": 11
+    },
+    {
+      "title": "Iran informed the US of its conditions for reopening Hormuz and ending the war",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 23.6,
+      "lng": -100.39999999999999,
+      "desc": "2 recent reports on conflict coverage originating from Mexico.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Iran informed the US of its conditions for reopening Hormuz and ending the war",
+          "url": "https://www.globalmedia.mx/articles/iran_comunico_a_eu_sus_condiciones_para_reabrir_ormuz_y_finalizar_la_guerra",
+          "domain": "globalmedia.mx"
+        },
+        {
+          "title": "After seven months of war , Iran mobilizes more than 300,000 volunteers for its total defense",
+          "url": "https://www.globalmedia.mx/articles/tras_siete_meses_de_guerra_iran_moviliza_a_mas_de_300_mil_voluntarios_para_su_defensa_total",
+          "domain": "globalmedia.mx"
+        }
+      ],
+      "id": 12
     },
     {
       "title": "China opposes US secondary sanctions under new Russia - Iran law , reserves right to take necessary measures to safeguard development intere",
@@ -482,7 +495,7 @@
           "domain": "globalsecurity.org"
         }
       ],
-      "id": 12
+      "id": 13
     },
     {
       "title": "Foreshadowed by the Fed Interest Rate, Gold Price Risks Weakening to US$4.282",
@@ -515,7 +528,7 @@
           "domain": "surabaya.bisnis.com"
         }
       ],
-      "id": 13
+      "id": 14
     },
     {
       "title": "De Hond demolishes the Hague system",
@@ -548,7 +561,7 @@
           "domain": "dagelijksestandaard.nl"
         }
       ],
-      "id": 14
+      "id": 15
     },
     {
       "title": "Russian election observer loses consciousness during arrest by police , opposition party says",
@@ -581,7 +594,595 @@
           "domain": "edmontonsun.com"
         }
       ],
-      "id": 15
+      "id": 16
+    },
+    {
+      "title": "Dalal Street Week Ahead : US - China summit , oil prices , bond yields , flash PMIs , NSE listing among 10 key factors to watch",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 23.955634918610404,
+      "lng": 77.1443650813896,
+      "desc": "1 recent report on energy coverage originating from India.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Dalal Street Week Ahead : US - China summit , oil prices , bond yields , flash PMIs , NSE listing among 10 key factors to watch",
+          "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-us-china-summit-oil-prices-bond-yields-flash-pmis-nse-listing-among-10-key-factors-to-watch-14033996.html",
+          "domain": "moneycontrol.com"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "Elections to the State Duma of the Russian Federation in 2026 – voter turnout – first results",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Ukraine",
+      "lat": 46.8443650813896,
+      "lng": 29.644365081389594,
+      "desc": "1 recent report on elections coverage originating from Ukraine.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Ukrainian",
+      "sources": [
+        {
+          "title": "Elections to the State Duma of the Russian Federation in 2026 – voter turnout – first results",
+          "url": "https://www.obozrevatel.com/ukr/novosti-rossii/u-rosii-trivayut-vibori-do-derzhdumi-yaku-yavku-vibortsiv-namalyuvav-tsentrviborchkom.htm",
+          "domain": "obozrevatel.com"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "title": "War drills in the Middle East: US embassies warned",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "1 recent report on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "War drills in the Middle East: US embassies warned",
+          "url": "https://www.star.com.tr/dunya/orta-doguda-savas-tamtamlari-abd-buyukelciliklerine-uyarida-bulundu-haber-2041443/",
+          "domain": "star.com.tr"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "title": "Hindustani Awam Morcha ( Secular ) contributes Rs 11 lakh to Bihar CM Relief Fund for flood - affected families",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 80.25563491861041,
+      "desc": "1 recent report on disaster & logistics coverage originating from India.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Hindustani Awam Morcha ( Secular ) contributes Rs 11 lakh to Bihar CM Relief Fund for flood - affected families",
+          "url": "http://www.indiagazette.com/news/279318964/hindustani-awam-morcha-secular-contributes-rs-11-lakh-to-bihar-cm-relief-fund-for-flood-affected-families",
+          "domain": "indiagazette.com"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "title": "Military units proactively respond to rains, floods",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Asia-Pacific",
+      "place": "Vietnam",
+      "lat": 12.504365081389595,
+      "lng": 109.8556349186104,
+      "desc": "1 recent report on disaster & logistics coverage originating from Vietnam.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Vietnamese",
+      "sources": [
+        {
+          "title": "Military units proactively respond to rains, floods",
+          "url": "https://www.qdnd.vn/quoc-phong-an-ninh/tin-tuc/cac-don-vi-quan-doi-chu-dong-ung-pho-mua-lu-ngap-lut-1057683",
+          "domain": "qdnd.vn"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "title": "Delhi SIR : L K Advani , EAM Jaishankar , Election Commissioner ... ",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 77.1443650813896,
+      "desc": "1 recent report on elections coverage originating from India.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Delhi SIR : L K Advani , EAM Jaishankar , Election Commissioner ... ",
+          "url": "https://dailypioneer.com/news/delhi-sir-l-k-advani-eam-jaishankar-election",
+          "domain": "dailypioneer.com"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "Hail the Russian Election System with Cyber Attacks, Enemies Fail Totally",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Asia-Pacific",
+      "place": "Indonesia",
+      "lat": -2.355634918610405,
+      "lng": 112.3443650813896,
+      "desc": "1 recent report on elections coverage originating from Indonesia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Indonesian",
+      "sources": [
+        {
+          "title": "Hail the Russian Election System with Cyber Attacks, Enemies Fail Totally",
+          "url": "https://koran-jakarta.com/2026-09-20/hujani-sistem-pemilu-rusia-dengan-serangan-siber-musuh-gagal-total",
+          "domain": "koran-jakarta.com"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "title": "The Speaker of the Iranian Parliament: Hormuz will not open before Washington implements its commitments and Tehran combines war and negotia",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Africa",
+      "place": "Libya",
+      "lat": 26.3,
+      "lng": 19.4,
+      "desc": "1 recent report on conflict coverage originating from Libya.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "The Speaker of the Iranian Parliament: Hormuz will not open before Washington implements its commitments and Tehran combines war and negotiation",
+          "url": "https://akhbarlibya24.net/2026/09/20/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%AA%D8%B1%D9%81%D8%B9-%D8%B3%D9%82%D9%81-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%87%D8%B1%D9%85%D8%B2-%D9%85%D8%BA%D9%84%D9%82-%D9%88",
+          "domain": "akhbarlibya24.net"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "title": "Iran - backed Houthi rebels warn against joining Saudi Arabia in Yemen growing civil war – Winnipeg Free Press",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 56.1,
+      "lng": -104.1,
+      "desc": "1 recent report on conflict coverage originating from Canada.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Iran - backed Houthi rebels warn against joining Saudi Arabia in Yemen growing civil war – Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/09/20/iran-backed-houthi-rebels-warn-against-joining-saudi-arabia-in-yemens-growing-civil-war",
+          "domain": "winnipegfreepress.com"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "title": "Arab News | The ripple effect of US Fed rate hike",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Middle East",
+      "place": "Saudi Arabia",
+      "lat": 25.455634918610404,
+      "lng": 46.6556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Saudi Arabia.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Arab News | The ripple effect of US Fed rate hike",
+          "url": "https://www.arabnews.com/opinion/the-ripple-effect-of-us-feds-rate-hike-3002429",
+          "domain": "arabnews.com"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "title": "Federal Reserve rate hike reflects inflation and faster growth",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "1 recent report on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Federal Reserve rate hike reflects inflation and faster growth",
+          "url": "https://www.chicagotribune.com/2026/09/20/federal-reserve-rate-hike/",
+          "domain": "chicagotribune.com"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "title": "Qatar Airways CEO: War in Iran was the biggest crisis the company has ever faced",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Africa",
+      "place": "Egypt",
+      "lat": 26.8,
+      "lng": 33,
+      "desc": "1 recent report on conflict coverage originating from Egypt.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Qatar Airways CEO: War in Iran was the biggest crisis the company has ever faced",
+          "url": "https://www.shorouknews.com/news/view.aspx?cdate=20092026&id=82513614-658e-4822-9639-bd45586aaf44",
+          "domain": "shorouknews.com"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "title": "Why Putin Needs This Election",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 40.3443650813896,
+      "lng": 11.044365081389595,
+      "desc": "1 recent report on elections coverage originating from Italy.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Why Putin Needs This Election",
+          "url": "https://www.ilpost.it/2026/09/19/putin-elezioni-ragioni-strategia/?homepagePosition=6.1&referrerPost=3682595",
+          "domain": "ilpost.it"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "The Economist : AI as Cold War Nukes - The Difficult US-China Deal to Avert a Global Catastrophe",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 39.1,
+      "lng": 24,
+      "desc": "1 recent report on conflict coverage originating from Greece.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "The Economist : AI as Cold War Nukes - The Difficult US-China Deal to Avert a Global Catastrophe",
+          "url": "https://www.tanea.gr/2026/09/20/world/the-economist-i-ai-opos-ta-pyrinika-tou-psyxrou-polemou-i-dyskoli-symfonia-ipa-kai-kinas-gia-na-apotrapei-mia-pagkosmia-katastrofi/",
+          "domain": "tanea.gr"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "We must teach our kids about horrors of war says 101 - yr - old British WW2 hero",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "We must teach our kids about horrors of war says 101 - yr - old British WW2 hero",
+          "url": "https://www.aol.co.uk/articles/must-teach-kids-horrors-war-164700000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "May Oil Price Adjustment Time (May Oil Price Adjustment Day)",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 37.4556349186104,
+      "lng": 102.6443650813896,
+      "desc": "1 recent report on energy coverage originating from China.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "May Oil Price Adjustment Time (May Oil Price Adjustment Day)",
+          "url": "https://www.mastv.cc/shbk/925.html",
+          "domain": "mastv.cc"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "Left Party ranks first in state election in Berlin, Germany",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 37.4443650813896,
+      "lng": 33.644365081389594,
+      "desc": "1 recent report on elections coverage originating from Turkey.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Left Party ranks first in state election in Berlin, Germany",
+          "url": "https://www.birgun.net/haber/almanya-berlin-deki-eyalet-seciminde-sol-parti-ilk-siraya-yerlesti-735870%20target=_blank",
+          "domain": "birgun.net"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "title": "Investigate political connections in the fund earthquake - How does fund robbery work ? - Who will pay for the crisis?",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 37.44436508138959,
+      "lng": 36.755634918610404,
+      "desc": "1 recent report on disaster & logistics coverage originating from Turkey.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Investigate political connections in the fund earthquake - How does fund robbery work ? - Who will pay for the crisis?",
+          "url": "https://www.yeniasya.com.tr/ekonomi/fon-depreminde-siyasi-baglantilar-arastirilsin-fon-soygunu-nasil-isliyor-krizin-faturasini-kim-odeyecek_626474",
+          "domain": "yeniasya.com.tr"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "title": "“ Disaster ,” Merz said of the election. Even after a partial victory, the AfD wants to continue as chancellor",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Czech Republic",
+      "lat": 48.244365081389596,
+      "lng": 13.944365081389595,
+      "desc": "1 recent report on elections coverage originating from Czech Republic.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Czech",
+      "sources": [
+        {
+          "title": "“ Disaster ,” Merz said of the election. Even after a partial victory, the AfD wants to continue as chancellor",
+          "url": "https://www.blesk.cz/clanek/zpravy-svet/848632/katastrofa-rekl-o-volbach-merz-i-po-dilcim-vitezstvi-afd-chce-jako-kancler-pokracovat.html",
+          "domain": "blesk.cz"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "title": "Elections in Germany . AfD ahead of SPD , Left leads in Berlin . First results",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Europe",
+      "place": "Poland",
+      "lat": 50.3443650813896,
+      "lng": 17.544365081389596,
+      "desc": "1 recent report on elections coverage originating from Poland.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Polish",
+      "sources": [
+        {
+          "title": "Elections in Germany . AfD ahead of SPD , Left leads in Berlin . First results",
+          "url": "https://www.fakt.pl/polityka/wybory-w-niemczech-afd-przed-spd-lewica-prowadzi-w-berlinie-sa-pierwsze-wyniki/x83ew4f",
+          "domain": "fakt.pl"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "title": "Embassy of Spain in Rabat warns Madrid of mass storming of Ceuta on Election Day",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-09-20",
+      "region": "Africa",
+      "place": "Morocco",
+      "lat": 30.244365081389596,
+      "lng": -8.655634918610405,
+      "desc": "1 recent report on elections coverage originating from Morocco.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-09-20T18:47:24.449Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Embassy of Spain in Rabat warns Madrid of mass storming of Ceuta on Election Day",
+          "url": "https://www.akhbarona.com/politic/432773.html",
+          "domain": "akhbarona.com"
+        }
+      ],
+      "id": 37
     },
     {
       "title": "Bloc MPs to gather near Ottawa with U . S . tariffs , Quebec election in focus",
@@ -609,7 +1210,7 @@
           "domain": "niagarafallsreview.ca"
         }
       ],
-      "id": 16
+      "id": 38
     },
     {
       "title": "UN alerted to US threats against Brazilian elections",
@@ -637,35 +1238,7 @@
           "domain": "revistaforum.com.br"
         }
       ],
-      "id": 17
-    },
-    {
-      "title": "Elections in Germany , Berlin and Mecklenburg to vote . Trema Merz , thousands of people in the streets against AfD",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 40.3443650813896,
-      "lng": 11.044365081389595,
-      "desc": "1 recent report on elections coverage originating from Italy.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Elections in Germany , Berlin and Mecklenburg to vote . Trema Merz , thousands of people in the streets against AfD",
-          "url": "https://www.leggo.it/mondo/20_settembre_2026_elezioni_germania_live_risultati_berlino_afd_merz_ultime_notizie-9774894.html",
-          "domain": "leggo.it"
-        }
-      ],
-      "id": 18
+      "id": 39
     },
     {
       "title": "Mohamed VI's entourage directed the flow of the invasion to Ceuta : this report demonstrates this",
@@ -693,35 +1266,7 @@
           "domain": "esdiario.com"
         }
       ],
-      "id": 19
-    },
-    {
-      "title": "WP : More US troops killed in US-Iran war than Pentagon says",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 39,
-      "lng": 37.400000000000006,
-      "desc": "1 recent report on conflict coverage originating from Turkey.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "WP : More US troops killed in US-Iran war than Pentagon says",
-          "url": "https://www.haksozhaber.net/wp-abd-iran-savasinda-pentagonun-acikladigindan-daha-fazla-abd-askeri-oldu-261104h.htm",
-          "domain": "haksozhaber.net"
-        }
-      ],
-      "id": 20
+      "id": 40
     },
     {
       "title": "PIF Launches Tawrid to Provide Supply - Chain Financing Products in Saudi Arabia",
@@ -749,7 +1294,7 @@
           "domain": "english.aawsat.com"
         }
       ],
-      "id": 21
+      "id": 41
     },
     {
       "title": "Iran Threatens Painful War for the US , Prepares Missiles 10 Times the Sound or 3 KM per Second",
@@ -777,63 +1322,7 @@
           "domain": "khazanah.republika.co.id"
         }
       ],
-      "id": 22
-    },
-    {
-      "title": "Jan Suraaj Party names five candidates for upcoming Bihar MLC elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 20.844365081389594,
-      "lng": 77.1443650813896,
-      "desc": "1 recent report on elections coverage originating from India.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Jan Suraaj Party names five candidates for upcoming Bihar MLC elections",
-          "url": "https://sahilonline.org/jan-suraaj-party-names-five-candidates-for-upcoming-bihar-mlc-elections",
-          "domain": "sahilonline.org"
-        }
-      ],
-      "id": 23
-    },
-    {
-      "title": "Embassy of Spain in Rabat Warns of Calls for Mass Entry Attempt in Ceuta Coinciding with Elections – Day 24",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Africa",
-      "place": "Morocco",
-      "lat": 30.244365081389596,
-      "lng": -8.655634918610405,
-      "desc": "1 recent report on elections coverage originating from Morocco.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Embassy of Spain in Rabat Warns of Calls for Mass Entry Attempt in Ceuta Coinciding with Elections – Day 24",
-          "url": "https://alyaoum24.com/2045221.html",
-          "domain": "alyaoum24.com"
-        }
-      ],
-      "id": 24
+      "id": 42
     },
     {
       "title": "Wars, Crises, and Artificial Intelligence.. A Buffeted Agenda Awaits Leaders at the General Assembly | News",
@@ -861,35 +1350,7 @@
           "domain": "aljazeera.net"
         }
       ],
-      "id": 25
-    },
-    {
-      "title": "US : Trump defends his war with Iran policy",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "1 recent report on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "US : Trump defends his war with Iran policy",
-          "url": "https://www.sbctv.gr/2026/09/%CF%80%CE%BF%CE%BB%CE%B5%CE%BC%CE%BF%CF%82-%CE%BC%CE%B5-%CF%84%CE%BF-%CE%B9%CF%81%CE%B1%CE%BD-8/",
-          "domain": "sbctv.gr"
-        }
-      ],
-      "id": 26
+      "id": 43
     },
     {
       "title": "A magnitude 5 earthquake shook Tucuman",
@@ -917,35 +1378,7 @@
           "domain": "elciudadanoweb.com"
         }
       ],
-      "id": 27
-    },
-    {
-      "title": "Crores on Diya-Bati, but Bihar flood victims ..., Tejashwi Yadav raises voice for those affected; targets government",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 20.844365081389594,
-      "lng": 80.25563491861041,
-      "desc": "1 recent report on disaster & logistics coverage originating from India.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Hindi",
-      "sources": [
-        {
-          "title": "Crores on Diya-Bati, but Bihar flood victims ..., Tejashwi Yadav raises voice for those affected; targets government",
-          "url": "https://www.khabarfast.com/national-bihar-news-tejashwi-yadav-raises-his-voice-for-flood-victims-targets-the-government-know-here",
-          "domain": "khabarfast.com"
-        }
-      ],
-      "id": 28
+      "id": 44
     },
     {
       "title": "Prime Minister and Minister of Foreign Affairs of Qatar : Our region has witnessed what I can only describe as an earthquake",
@@ -973,7 +1406,7 @@
           "domain": "aljazeera.net"
         }
       ],
-      "id": 29
+      "id": 45
     },
     {
       "title": "Aldi has a Pilates machine at 29 , 99€ and Saturday will be a war",
@@ -1001,7 +1434,7 @@
           "domain": "leak.pt"
         }
       ],
-      "id": 30
+      "id": 46
     },
     {
       "title": "Designated River Flood Forecast = Tokyo Metropolitan Meteorological Agency Joint Announcement | Kyoto Shimbun Digital Kyoto/Shiga News Site",
@@ -1029,35 +1462,7 @@
           "domain": "kyoto-np.co.jp"
         }
       ],
-      "id": 31
-    },
-    {
-      "title": "The Last of Us director apologises for calling out Sony Santa Monica God of War Laufey after saying he was  not excited  ",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 54,
-      "lng": 0.20000000000000018,
-      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "The Last of Us director apologises for calling out Sony Santa Monica God of War Laufey after saying he was  not excited  ",
-          "url": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
-          "domain": "eurogamer.net"
-        }
-      ],
-      "id": 32
+      "id": 47
     },
     {
       "title": "Gold price prediction : Will US - Iran war , crude oil rates impact yellow metal rates ? Check technical outlook",
@@ -1085,7 +1490,7 @@
           "domain": "livemint.com"
         }
       ],
-      "id": 33
+      "id": 48
     },
     {
       "title": "Nile News Channel | The Prime Minister meets with the Governor of the Central Bank in the framework of periodic coordination of priority eco",
@@ -1113,35 +1518,7 @@
           "domain": "nile.eg"
         }
       ],
-      "id": 34
-    },
-    {
-      "title": "The occupiers announced a 79.33% turnout in the pseudo-elections in the Luhansk region",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Ukraine",
-      "lat": 46.8443650813896,
-      "lng": 29.644365081389594,
-      "desc": "1 recent report on elections coverage originating from Ukraine.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T16:04:52.834Z",
-      "translated": true,
-      "lang": "Ukrainian",
-      "sources": [
-        {
-          "title": "The occupiers announced a 79.33% turnout in the pseudo-elections in the Luhansk region",
-          "url": "https://novosti.dn.ua/vyzhyty-v-okupacziyi/75461-okupanty-zayavyly-pro-7933-yavky-na-psevdovyborah-u-luganskij-oblasti/",
-          "domain": "novosti.dn.ua"
-        }
-      ],
-      "id": 35
+      "id": 49
     },
     {
       "title": "Iran : Information on the resumption of the war by the United States – Latest news on the war between Iran , the United States and Israel",
@@ -1169,7 +1546,7 @@
           "domain": "svt.se"
         }
       ],
-      "id": 36
+      "id": 50
     },
     {
       "title": "PIF Launches Tawdeed Company to Provide Supply Chain Financing Products in Saudi Arabia",
@@ -1197,7 +1574,7 @@
           "domain": "argaam.com"
         }
       ],
-      "id": 37
+      "id": 51
     },
     {
       "title": "Agency : Cyber attacks do not affect the conduct of elections in the Russian capital",
@@ -1225,7 +1602,7 @@
           "domain": "argaam.com"
         }
       ],
-      "id": 38
+      "id": 52
     },
     {
       "title": "Russian Authorities Claim Cyberattacks On Voting Systems As Duma Election Enters Second Day",
@@ -1253,7 +1630,7 @@
           "domain": "globalsecurity.org"
         }
       ],
-      "id": 39
+      "id": 53
     },
     {
       "title": "First legislative elections in Russia after the invasion of Ukraine : \" Although the results will be rigged , the Kremlin will be able to fi",
@@ -1281,7 +1658,7 @@
           "domain": "adevarul.ro"
         }
       ],
-      "id": 40
+      "id": 54
     },
     {
       "title": "China News : For the 16th consecutive month , interest rates stagnate , upset China's central bank",
@@ -1309,7 +1686,7 @@
           "domain": "hindi.moneycontrol.com"
         }
       ],
-      "id": 41
+      "id": 55
     },
     {
       "title": "Column : Thoughts on oil prices , pay per mile , scandals and polymarkets",
@@ -1337,35 +1714,7 @@
           "domain": "macombdaily.com"
         }
       ],
-      "id": 42
-    },
-    {
-      "title": "Municipal elections 2026 in Znojmo . Safety and better housing affordability are being addressed",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-09-20",
-      "region": "Europe",
-      "place": "Czech Republic",
-      "lat": 48.244365081389596,
-      "lng": 13.944365081389595,
-      "desc": "1 recent report on elections coverage originating from Czech Republic.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-09-20T11:27:36.257Z",
-      "translated": true,
-      "lang": "Czech",
-      "sources": [
-        {
-          "title": "Municipal elections 2026 in Znojmo . Safety and better housing affordability are being addressed",
-          "url": "https://www.idnes.cz/volby/brno/volby-znojmo-lidri-komunalni-volby-bezpecnost.A260917_151603_brno-volby_icer",
-          "domain": "idnes.cz"
-        }
-      ],
-      "id": 43
+      "id": 56
     },
     {
       "title": "Trump signs Russia sanctions bill into law",
@@ -1393,7 +1742,7 @@
           "domain": "arabic.people.com.cn"
         }
       ],
-      "id": 44
+      "id": 57
     },
     {
       "title": "Trump · Xi Jinping, 24th tariff · AI · Taiwan wall plate",
@@ -1421,7 +1770,7 @@
           "domain": "edaily.co.kr"
         }
       ],
-      "id": 45
+      "id": 58
     },
     {
       "title": "Babis promises to fight for the end of the war . He also criticizes the impotence of Europe",
@@ -1449,7 +1798,7 @@
           "domain": "idnes.cz"
         }
       ],
-      "id": 46
+      "id": 59
     },
     {
       "title": "Sheeran apologises over handling of Macklemore controversy",
@@ -1477,7 +1826,7 @@
           "domain": "freemalaysiatoday.com"
         }
       ],
-      "id": 47
+      "id": 60
     },
     {
       "title": "Salerno , blitz of Nos in the nightlife : place sanctioned for alcohol to minors",
@@ -1505,7 +1854,7 @@
           "domain": "ottopagine.it"
         }
       ],
-      "id": 48
+      "id": 61
     },
     {
       "title": "Rare Earth Necessary Beauty, Technical Control Needs To Be Released… Uneasy Extended Ceasefire Weight",
@@ -1533,7 +1882,7 @@
           "domain": "edaily.co.kr"
         }
       ],
-      "id": 49
+      "id": 62
     },
     {
       "title": "AllianzGI : the sources OF inflation - WORD TO the MARKET - 2 -",
@@ -1561,7 +1910,7 @@
           "domain": "borsaitaliana.it"
         }
       ],
-      "id": 50
+      "id": 63
     },
     {
       "title": "Munich Oktoberfest prices have risen fivefold in 40 years, far more than inflation",
@@ -1589,7 +1938,7 @@
           "domain": "dw.com"
         }
       ],
-      "id": 51
+      "id": 64
     },
     {
       "title": "World leaders return to UN amid wars in Middle East and Ukraine",
@@ -1617,7 +1966,7 @@
           "domain": "tribune.com.pk"
         }
       ],
-      "id": 52
+      "id": 65
     },
     {
       "title": "The Prime Minister lays the foundation stone for the natural gas delivery project for Al-Rawda Industrial City and inaugurates the new expan",
@@ -1645,7 +1994,7 @@
           "domain": "maqar.com"
         }
       ],
-      "id": 53
+      "id": 66
     },
     {
       "title": "Joe 24 : Possible Invasion , High Alert in Europe in Preparation for Escalation with Russia",
@@ -1673,7 +2022,7 @@
           "domain": "jo24.net"
         }
       ],
-      "id": 54
+      "id": 67
     },
     {
       "title": "Collective interest rate hikes in the United States, Europe, and Japan, the era of low interest rates is over! Tech stocks going down? Exper",
@@ -1701,7 +2050,7 @@
           "domain": "nbd.com.cn"
         }
       ],
-      "id": 55
+      "id": 68
     },
     {
       "title": "COLOMBIA TODAY : EARTHQUAKE , SECURITY , ECOPETROL AND NEW GOVERNMENT DECISIONS MARK THE NATIONAL AGENDA",
@@ -1729,7 +2078,7 @@
           "domain": "diariodelsur.com.co"
         }
       ],
-      "id": 56
+      "id": 69
     },
     {
       "title": "Commodity prices diverged in the week the Fed raised interest rates",
@@ -1757,7 +2106,7 @@
           "domain": "aa.com.tr"
         }
       ],
-      "id": 57
+      "id": 70
     },
     {
       "title": "Putin will win Russia sham election . What happens next terrifies Europe",
@@ -1785,7 +2134,7 @@
           "domain": "theage.com.au"
         }
       ],
-      "id": 58
+      "id": 71
     },
     {
       "title": "Beijing slams new US sanctions against Russia",
@@ -1813,7 +2162,7 @@
           "domain": "russiaherald.com"
         }
       ],
-      "id": 59
+      "id": 72
     },
     {
       "title": "Slovak Prime Minister says part of the West seeks to provoke war between Russia and NATO - 19 / 09 / 2026",
@@ -1841,7 +2190,7 @@
           "domain": "dgabc.com.br"
         }
       ],
-      "id": 60
+      "id": 73
     },
     {
       "title": "Sheinbaum and Maru meet : they agree to reinforce coordination and sanctions if there were absences due to the entry of US agents",
@@ -1869,7 +2218,7 @@
           "domain": "razon.com.mx"
         }
       ],
-      "id": 61
+      "id": 74
     },
     {
       "title": "\" The referendum against the construction of new nuclear power plants has succeeded \"",
@@ -1897,7 +2246,7 @@
           "domain": "tio.ch"
         }
       ],
-      "id": 62
+      "id": 75
     },
     {
       "title": "Burnham urged by Tories to  confront Britain economic peril  by slashing welfare bill to curb inflation",
@@ -1925,7 +2274,7 @@
           "domain": "lbc.co.uk"
         }
       ],
-      "id": 63
+      "id": 76
     },
     {
       "title": "The war on Iran is putting pressure on the global economy and exacerbating the energy crisis – Al-Manar TV",
@@ -1953,7 +2302,7 @@
           "domain": "almanar.com.lb"
         }
       ],
-      "id": 64
+      "id": 77
     },
     {
       "title": "Trump Threatens EU Tariffs Over Canada Associate Membership Plan – NaturalNews . com",
@@ -1981,7 +2330,7 @@
           "domain": "naturalnews.com"
         }
       ],
-      "id": 65
+      "id": 78
     },
     {
       "title": "Beijing slams new US sanctions against Russia",
@@ -2009,7 +2358,7 @@
           "domain": "newzealandstar.com"
         }
       ],
-      "id": 66
+      "id": 79
     },
     {
       "title": "Robert Fico - said about the risk of NATO's war with Russia - news from Europe",
@@ -2037,7 +2386,7 @@
           "domain": "zn.ua"
         }
       ],
-      "id": 67
+      "id": 80
     },
     {
       "title": "Burundi Inflation Falls to 8 . 4 % as the IMF Warns",
@@ -2065,7 +2414,7 @@
           "domain": "riotimesonline.com"
         }
       ],
-      "id": 68
+      "id": 81
     },
     {
       "title": "Eritrea Leaves the US Sanctions List as Mines Stay Chinese",
@@ -2093,7 +2442,7 @@
           "domain": "riotimesonline.com"
         }
       ],
-      "id": 69
+      "id": 82
     },
     {
       "title": "Beijing slams new US sanctions against Russia",
@@ -2121,7 +2470,7 @@
           "domain": "australiannews.net"
         }
       ],
-      "id": 70
+      "id": 83
     }
   ]
 }
