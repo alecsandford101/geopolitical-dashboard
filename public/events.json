@@ -1,45 +1,164 @@
 {
-  "generatedAt": "2026-10-08T00:59:35.437Z",
+  "generatedAt": "2026-10-08T07:23:27.125Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
     {
-      "title": "India Bloc marches against Sir , demands resignation of Chief Election Commissioner ( CEC ) Gyanesh Kumar ; protests on Delhi streets , Delh",
+      "title": "Quebec election results : Parti Québécois will form minority government as CAQ wiped off the map",
       "category": "Elections",
       "severity": "Medium",
       "date": "2026-10-06",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 20.844365081389594,
-      "lng": 77.1443650813896,
-      "desc": "3 recent reports on elections coverage originating from India.",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 54.5443650813896,
+      "lng": -107.8556349186104,
+      "desc": "4 recent reports on elections coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 4,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Quebec election results : Parti Québécois will form minority government as CAQ wiped off the map",
+          "url": "https://montrealgazette.com/quebec-elections/quebec-election-results-pq-minority/",
+          "domain": "montrealgazette.com"
+        },
+        {
+          "title": "Montreal west end remains a Liberal fortress",
+          "url": "https://montrealgazette.com/quebec-elections/montreals-west-end-remains-a-liberal-bastion/",
+          "domain": "montrealgazette.com"
+        },
+        {
+          "title": "Five takeways from Quebec election as Parti Québécois forms minority government – Brandon Sun",
+          "url": "https://www.brandonsun.com/national/2026/10/06/five-takeways-from-quebec-election-as-parti-quebecois-forms-minority-government",
+          "domain": "brandonsun.com"
+        },
+        {
+          "title": "  Stop being a hostage to the Liberal party , Duhaime tells anglos as Conservatives break through",
+          "url": "https://montrealgazette.com/quebec-elections/quebec-election-eric-duhaime-conservatives-triumph-pq-caq-liberals/",
+          "domain": "montrealgazette.com"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Tropical Storm Isaias in the Gulf of Mexico intensified into a hurricane :: Daily News/ A LOOK",
+      "category": "Disaster & Logistics",
+      "severity": "Medium",
+      "date": "2026-10-08",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 59.94436508138959,
+      "lng": 91.55563491861041,
+      "desc": "3 recent reports on disaster & logistics coverage originating from Russia.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Tropical Storm Isaias in the Gulf of Mexico intensified into a hurricane :: Daily News/ A LOOK",
+          "url": "https://vz.ru/news/2026/10/8/1460239.html",
+          "domain": "vz.ru"
+        },
+        {
+          "title": "Tropical Storm  Isaias  in the Gulf of Mexico Reached Hurricane Strength",
+          "url": "https://www.m24.ru/news/08102026/949921",
+          "domain": "m24.ru"
+        },
+        {
+          "title": "The first snow and hurricane wind : winter has come to Okhu | DV - ROSS news Far East",
+          "url": "http://trud-ost.ru/?p=982685",
+          "domain": "trud-ost.ru"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Ukraine grapples with a shortage of troops at the front after over 4 years of war",
+      "category": "Conflict",
+      "severity": "Medium",
+      "date": "2026-10-08",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "3 recent reports on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Ukraine grapples with a shortage of troops at the front after over 4 years of war",
+          "url": "http://www.sitkasentinel.com/stories/ukraine-grapples-with-a-shortage-of-troops-at-the-front-after-over-4-years-of-war,177119",
+          "domain": "sitkasentinel.com"
+        },
+        {
+          "title": "Israeli documentary  NAZA  opens in the US , reigniting debate over the war in Gaza :: WRAL . com",
+          "url": "https://www.wral.com/news/ap/0f3ec-israeli-documentary-naza-opens-in-the-us-reigniting-debate-over-the-war-in-gaza/",
+          "domain": "wral.com"
+        },
+        {
+          "title": "UN chief calls for Gaza ceasefire ahead of October 7 anniversary",
+          "url": "https://article.wn.com/view/2026/10/06/UN_chief_calls_for_Gaza_ceasefire_ahead_of_October_7_anniver_j/",
+          "domain": "article.wn.com"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Quebec : Independence referendum back on the table after separatists win elections",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 37.5443650813896,
+      "lng": 20.244365081389596,
+      "desc": "3 recent reports on elections coverage originating from Greece.",
       "markets": [
         "Equities",
         "FX",
         "Bonds"
       ],
       "count": 3,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
       "translated": true,
-      "lang": "Hindi",
+      "lang": "Greek",
       "sources": [
         {
-          "title": "India Bloc marches against Sir , demands resignation of Chief Election Commissioner ( CEC ) Gyanesh Kumar ; protests on Delhi streets , Delhi News in Hindi",
-          "url": "https://www.khaskhabar.com/local/delhi-ncr/delhi-news/news-india-bloc-marches-against-sir-demands-resignation-of-chief-election-commissioner-(cec)-gyanesh-kumar-opposition-protests-on-delhi-streets-news-hindi-1-850699-KKN.html",
-          "domain": "khaskhabar.com"
+          "title": "Quebec : Independence referendum back on the table after separatists win elections",
+          "url": "https://newpost.gr/eidiseis/kempek-kai-pali-sto-trapezi-to-dimopsifisma-gia-anexartisia-meta-tin-niki-ton-aytonomiston-stis-ekloges/",
+          "domain": "newpost.gr"
         },
         {
-          "title": "SIR : Massive form-7 applications for removal of voters .. Telangana election officer order for action",
-          "url": "https://vaartha.com/telangana/sir-telangana-mass-form-7-applications-voter-deletion/786702/",
-          "domain": "vaartha.com"
+          "title": "Quebec ' deserves to be a country ', independence leader says after election victory",
+          "url": "https://www.inewsgr.com/182/to-kebek-axizei-na-ginei-chora-leei-o-epikefalis-ton-opadon-tis-anexartisias-meta-tin-eklogiki-tou-niki.htm",
+          "domain": "inewsgr.com"
         },
         {
-          "title": "Far - right election win leaves migrants questioning their future in eastern Germany",
-          "url": "https://www.thehindu.com/news/international/far-right-election-win-leaves-migrants-questioning-their-future-in-eastern-germany/article71550472.ece",
-          "domain": "thehindu.com"
+          "title": "N. Androulakis : Political change only with PASOK as the first party in the elections",
+          "url": "https://newpost.gr/eidiseis/n-androylakis-politiki-allagi-mono-me-to-pasok-proto-komma-stis-ekloges/",
+          "domain": "newpost.gr"
         }
       ],
-      "id": 1
+      "id": 4
     },
     {
       "title": "AFP : Kosovo proposes limiting the jurisdiction of the tribunal for war crimes committed during the conflict",
@@ -77,7 +196,7 @@
           "domain": "mediafax.ro"
         }
       ],
-      "id": 2
+      "id": 5
     },
     {
       "title": "Saxony - Saxony - Anhalt : AfD - Politician Rausch does not rule out new elections",
@@ -115,7 +234,7 @@
           "domain": "merkur.de"
         }
       ],
-      "id": 3
+      "id": 6
     },
     {
       "title": "Education and training support in private schools increased by 35 percent in the provinces affected by the earthquake",
@@ -153,7 +272,172 @@
           "domain": "haberler.com"
         }
       ],
-      "id": 4
+      "id": 7
+    },
+    {
+      "title": "Florida woman flood proofs home with berm , pipes , pumps and portable barriers",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.94436508138959,
+      "lng": -96.8443650813896,
+      "desc": "2 recent reports on disaster & logistics coverage originating from United States.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Florida woman flood proofs home with berm , pipes , pumps and portable barriers",
+          "url": "https://www.fox35orlando.com/news/florida-woman-flood-proofs-home-berm-pipes-pumps-portable-barriers",
+          "domain": "fox35orlando.com"
+        },
+        {
+          "title": "Savannah : 98 - year - old helps neighbors clean up after Matthew",
+          "url": "https://www.wjcl.com/article/savannah-man-helps-neighbors-hurricane-matthew/73999210",
+          "domain": "wjcl.com"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "Simon gains strength ! NHC warns of rapid intensification and possible major hurricane from Friday",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -101.04436508138959,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Mexico.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Simon gains strength ! NHC warns of rapid intensification and possible major hurricane from Friday",
+          "url": "https://lineadirectaportal.com/clima/simon-gana-fuerza-nhc-advierte-rapida-intensificacion-y-posible-huracan-mayor-desde-el-viernes-2026-10-07__1716156",
+          "domain": "lineadirectaportal.com"
+        },
+        {
+          "title": "Isaiah becomes a hurricane , the first of the season in the Atlantic and Caribbean Sea",
+          "url": "https://lineadirectaportal.com/clima/isaias-se-convierte-en-huracan-el-primero-de-la-temporada-en-el-atlantico-y-mar-caribe-2026-10-07__1716211",
+          "domain": "lineadirectaportal.com"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Inflation gnaws on wage growth",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 40.6556349186104,
+      "lng": 23.355634918610406,
+      "desc": "2 recent reports on monetary policy coverage originating from Greece.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Inflation gnaws on wage growth",
+          "url": "https://www.naftemporiki.gr/finance/economy/2172163/rokanizei-tin-ayxisi-misthon-o-plithorismos/",
+          "domain": "naftemporiki.gr"
+        },
+        {
+          "title": "Alpha Bank : Oil and gas pressure inflation , Greece's \" defense \"",
+          "url": "https://www.euro2day.gr/news/economy/article/2372336/alpha-bank-petrelaio-kai-aerio-piezoyn-ton-plhthor.html",
+          "domain": "euro2day.gr"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "Far - right election win leaves migrants questioning their future in eastern Germany",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 77.1443650813896,
+      "desc": "2 recent reports on elections coverage originating from India.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Far - right election win leaves migrants questioning their future in eastern Germany",
+          "url": "https://www.thehindu.com/news/international/far-right-election-win-leaves-migrants-questioning-their-future-in-eastern-germany/article71550472.ece",
+          "domain": "thehindu.com"
+        },
+        {
+          "title": "Republicans return to tough - on - crime message ahead of difficult midterm elections",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/republicans-return-to-tough-on-crime-message-ahead-of-difficult-midterm-elections/articleshow/134728285.cms",
+          "domain": "economictimes.indiatimes.com"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "Far - right election win leaves migrants questioning their future in eastern Germany",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "2 recent reports on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Far - right election win leaves migrants questioning their future in eastern Germany",
+          "url": "https://www.wral.com/news/ap/1d610-far-right-election-win-leaves-migrants-questioning-their-future-in-eastern-germany/",
+          "domain": "wral.com"
+        },
+        {
+          "title": "Migrants doubt their future in East Germany after far-right election victory",
+          "url": "https://santamariatimes.com/ap/international/migrantes-dudan-de-su-futuro-en-el-este-de-alemania-tras-victoria-electoral-de-la/article_34c8ff2a-8f60-5abf-b093-806acaf6c8f0.html",
+          "domain": "santamariatimes.com"
+        }
+      ],
+      "id": 12
     },
     {
       "title": "3rd president arrested : Turkish Municipalities Union to hold re-election",
@@ -186,7 +470,7 @@
           "domain": "birgun.net"
         }
       ],
-      "id": 5
+      "id": 13
     },
     {
       "title": "Rahul Gandhi detained in India election protest",
@@ -219,40 +503,7 @@
           "domain": "samaa.tv"
         }
       ],
-      "id": 6
-    },
-    {
-      "title": "Inside the process of protecting Michigan elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "2 recent reports on elections coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Inside the process of protecting Michigan elections",
-          "url": "https://www.miningjournal.net/news/front-page-news/2026/10/inside-the-process-of-protecting-michigan-elections/",
-          "domain": "miningjournal.net"
-        },
-        {
-          "title": "Analysis - Spain housing crisis bursts into the spotlight at snap election",
-          "url": "https://lufkindailynews.com/news_reuters/top_news/analysis-spains-housing-crisis-bursts-into-the-spotlight-at-snap-election/article_e92870e5-bd1c-5be0-aa9e-1e348394f61f.html",
-          "domain": "lufkindailynews.com"
-        }
-      ],
-      "id": 7
+      "id": 14
     },
     {
       "title": "War in Ukraine . Drone attack near Moscow , sailors and civilians killed … Update on the night",
@@ -285,7 +536,147 @@
           "domain": "draguignan.maville.com"
         }
       ],
-      "id": 8
+      "id": 15
+    },
+    {
+      "title": "  Every day there is killing : Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "  Every day there is killing : Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o",
+          "domain": "bbc.co.uk"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "Toronto's Mayoral Election Turns Into a Battle Between Popeye and Blade",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 34.3443650813896,
+      "lng": 102.6443650813896,
+      "desc": "1 recent report on elections coverage originating from China.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Toronto's Mayoral Election Turns Into a Battle Between Popeye and Blade",
+          "url": "https://www.epochtimes.com/b5/26/10/7/n14865579.htm",
+          "domain": "epochtimes.com"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "title": "US May Strike Iran Ahead of Midterm Elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "Asia-Pacific",
+      "place": "Vietnam",
+      "lat": 12.504365081389595,
+      "lng": 106.74436508138959,
+      "desc": "1 recent report on elections coverage originating from Vietnam.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Vietnamese",
+      "sources": [
+        {
+          "title": "US May Strike Iran Ahead of Midterm Elections",
+          "url": "https://stockbiz.vn/tin-tuc/my-co-the-khong-kich-iran-truoc-them-bau-cu-giua-ky/42168341",
+          "domain": "stockbiz.vn"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "title": "Ultra-hard decisions . The Central Bank looks at the key rate with pessimism and does not promise concessions",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 63.0556349186104,
+      "lng": 91.55563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from Russia.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Ultra-hard decisions . The Central Bank looks at the key rate with pessimism and does not promise concessions",
+          "url": "https://www.amic.ru/news/ultrazhestkie-resheniya-cb-s-pessimizmom-smotrit-na-klyuchevuyu-stavku-i-poblazhek-ne-obeschaet-594060",
+          "domain": "amic.ru"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "title": "South Korean banks hit by AI cyberattacks report that hackers are suspected of hiding in Guangdong",
+      "category": "Cyber & Security",
+      "severity": "Low",
+      "date": "2026-10-08",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 33.699999999999996,
+      "lng": 104.2,
+      "desc": "1 recent report on cyber & security coverage originating from China.",
+      "markets": [
+        "Tech",
+        "Cybersecurity",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "South Korean banks hit by AI cyberattacks report that hackers are suspected of hiding in Guangdong",
+          "url": "https://www.epochtimes.com/b5/26/10/8/n14865748.htm",
+          "domain": "epochtimes.com"
+        }
+      ],
+      "id": 20
     },
     {
       "title": "Editorial : As election nears , Healey suddenly peddling natural gas – Lowell Sun",
@@ -303,7 +694,7 @@
         "Energy"
       ],
       "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -313,7 +704,343 @@
           "domain": "lowellsun.com"
         }
       ],
-      "id": 9
+      "id": 21
+    },
+    {
+      "title": "Russia , Estonia moves forces to the border . Berlin , 007 alert on Moscow : \" Against us a war - shadow \"",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "1 recent report on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Russia , Estonia moves forces to the border . Berlin , 007 alert on Moscow : \" Against us a war - shadow \"",
+          "url": "https://www.ilgazzettino.it/mondo/estonia_soldati_confine_russia_cosa_sta_succedendo-9805940.html",
+          "domain": "ilgazzettino.it"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "Reuters : JD Vance says details of Alaska liquefied natural gas pipeline need clarification with South Korean partners",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Romania",
+      "lat": 47.4556349186104,
+      "lng": 23.414365081389594,
+      "desc": "1 recent report on energy coverage originating from Romania.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Romanian",
+      "sources": [
+        {
+          "title": "Reuters : JD Vance says details of Alaska liquefied natural gas pipeline need clarification with South Korean partners",
+          "url": "https://www.bursa.ro/reuters-jd-vance-afirma-ca-detaliile-gazoductului-de-gaze-naturale-lichefiate-din-alaska-necesita-clarificari-cu-partenerii-sud-coreeni-68315063",
+          "domain": "bursa.ro"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "title": "Inflation in the Czech Republic is accelerating , prices are mainly driven by expensive fuels and energy",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Czech Republic",
+      "lat": 51.3556349186104,
+      "lng": 17.055634918610405,
+      "desc": "1 recent report on monetary policy coverage originating from Czech Republic.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Czech",
+      "sources": [
+        {
+          "title": "Inflation in the Czech Republic is accelerating , prices are mainly driven by expensive fuels and energy",
+          "url": "https://zpravy.aktualne.cz/ekonomika/inflace-v-cesku-zrychluje-ceny-tahnou-vzhuru-hlavne-drahe-pohonne-hmoty-a-energie/r~aaa297ff5eb2d9d81731fa6c57e6b5e6/",
+          "domain": "zpravy.aktualne.cz"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "title": "The SMI will follow its schedule , but pensions and officials remain pending with the elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 38.6443650813896,
+      "lng": -5.255634918610405,
+      "desc": "1 recent report on elections coverage originating from Spain.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The SMI will follow its schedule , but pensions and officials remain pending with the elections",
+          "url": "https://www.heraldo.es/noticias/nacional/2026/10/06/smi-pensiones-funcionarios-subidas-elecciones-generales-2027-2057383.html",
+          "domain": "heraldo.es"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "title": "Fuel crisis in Russia , 176,000 tons of diesel arrive from South Korea: ( sanctioned ) oil tankers change course",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 10.399999999999999,
+      "desc": "1 recent report on sanctions coverage originating from Italy.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Fuel crisis in Russia , 176,000 tons of diesel arrive from South Korea: ( sanctioned ) oil tankers change course",
+          "url": "https://www.ilgazzettino.it/esteri/russia_crisi_carburante_corea_del_sud_petroliere_cambiano_rotta-9807272.html",
+          "domain": "ilgazzettino.it"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "title": "The MPC will wait until November . Then it can raise interest rates",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Poland",
+      "lat": 53.4556349186104,
+      "lng": 20.655634918610406,
+      "desc": "1 recent report on monetary policy coverage originating from Poland.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Polish",
+      "sources": [
+        {
+          "title": "The MPC will wait until November . Then it can raise interest rates",
+          "url": "https://www.bankier.pl/wiadomosc/RPP-poczeka-do-listopada-Wtedy-moze-podniesc-stopy-procentowe-9207916.html",
+          "domain": "bankier.pl"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "title": "Inflation difference to the civil servant! How much will the salary of the police , teacher , doctor be in 2027?",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 40.5556349186104,
+      "lng": 36.755634918610404,
+      "desc": "1 recent report on monetary policy coverage originating from Turkey.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Inflation difference to the civil servant! How much will the salary of the police , teacher , doctor be in 2027?",
+          "url": "https://www.yeniasir.com.tr/ekonomi/2026/10/06/memura-enflasyon-farki-2027de-polis-ogretmen-doktor-maasi-ne-kadar-olacak-memur-maasi-2027de-ne-kadar-olacak",
+          "domain": "yeniasir.com.tr"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "title": "Crude Oil Hovers Near $100 A Barrel , Why Global Oil Prices Remain On Edge Amid Middle East Tensions ? ",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 23.955634918610404,
+      "lng": 77.1443650813896,
+      "desc": "1 recent report on energy coverage originating from India.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Crude Oil Hovers Near $100 A Barrel , Why Global Oil Prices Remain On Edge Amid Middle East Tensions ? ",
+          "url": "https://www.freepressjournal.in/business/crude-oil-hovers-near-100-a-barrel-why-global-oil-prices-remain-on-edge-amid-middle-east-tensions",
+          "domain": "freepressjournal.in"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "What is known about the general strike that will take place in Spain due to housing and inflation : possible dates and who is calling and su",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 41.755634918610404,
+      "lng": -2.144365081389595,
+      "desc": "1 recent report on monetary policy coverage originating from Spain.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "What is known about the general strike that will take place in Spain due to housing and inflation : possible dates and who is calling and supporting it",
+          "url": "https://www.elconfidencial.com/espana/2026-10-06/1qrt-que-se-sabe-huelga-general-ccoo-ugt-vivienda-fechas_4439064/",
+          "domain": "elconfidencial.com"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "The chief hunter of the Urals compared the invasion of bears with the post-war era: the experience of the USSR will help Russia",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 61.5,
+      "lng": 92.2,
+      "desc": "1 recent report on conflict coverage originating from Russia.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "The chief hunter of the Urals compared the invasion of bears with the post-war era: the experience of the USSR will help Russia",
+          "url": "https://ura.news/news/1053133489",
+          "domain": "ura.news"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "Thailand prepares four flood scenarios for October 12 to 18 IMF – World Bank meetings",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 34.3443650813896,
+      "lng": 105.75563491861041,
+      "desc": "1 recent report on disaster & logistics coverage originating from China.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Thailand prepares four flood scenarios for October 12 to 18 IMF – World Bank meetings",
+          "url": "https://asianews.network/thailand-prepares-four-flood-scenarios-for-october-12-to-18-imf-world-bank-meetings/",
+          "domain": "asianews.network"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "Hypocrisy in Seoul ? South Korea Sends Fuel to Russia on Sanctioned Tankers",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-10-06",
+      "region": "Europe",
+      "place": "Poland",
+      "lat": 51.9,
+      "lng": 16.900000000000002,
+      "desc": "1 recent report on sanctions coverage originating from Poland.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-08T07:23:27.125Z",
+      "translated": true,
+      "lang": "Polish",
+      "sources": [
+        {
+          "title": "Hypocrisy in Seoul ? South Korea Sends Fuel to Russia on Sanctioned Tankers",
+          "url": "https://www.bankier.pl/wiadomosc/Hipokryzja-w-Seulu-Korea-Poludniowa-wysyla-paliwo-do-Rosji-na-objetych-sankcjami-tankowcach-9207978.html",
+          "domain": "bankier.pl"
+        }
+      ],
+      "id": 33
     },
     {
       "title": "Thailand Floods Kill 31, Heavy Rains and Stalking Storms",
@@ -341,7 +1068,7 @@
           "domain": "liputan6.com"
         }
       ],
-      "id": 10
+      "id": 34
     },
     {
       "title": "Accenture contractor removed from FBI following damaging data breach , sources say",
@@ -369,63 +1096,7 @@
           "domain": "rappler.com"
         }
       ],
-      "id": 11
-    },
-    {
-      "title": "Russia , Estonia moves forces to the border . Berlin , 007 alert on Moscow : \" Against us a war - shadow \"",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "1 recent report on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Russia , Estonia moves forces to the border . Berlin , 007 alert on Moscow : \" Against us a war - shadow \"",
-          "url": "https://www.ilgazzettino.it/mondo/estonia_soldati_confine_russia_cosa_sta_succedendo-9805940.html",
-          "domain": "ilgazzettino.it"
-        }
-      ],
-      "id": 12
-    },
-    {
-      "title": "Israeli documentary  NAZA  opens in the US , reigniting debate over the war in Gaza :: WRAL . com",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "1 recent report on conflict coverage originating from United States.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Israeli documentary  NAZA  opens in the US , reigniting debate over the war in Gaza :: WRAL . com",
-          "url": "https://www.wral.com/news/ap/0f3ec-israeli-documentary-naza-opens-in-the-us-reigniting-debate-over-the-war-in-gaza/",
-          "domain": "wral.com"
-        }
-      ],
-      "id": 13
+      "id": 35
     },
     {
       "title": "I was worried about oil prices rising again, but the Ministry of Industry secured more than 90% of crude oil in November.",
@@ -453,35 +1124,7 @@
           "domain": "newsway.co.kr"
         }
       ],
-      "id": 14
-    },
-    {
-      "title": "Reuters : JD Vance says details of Alaska liquefied natural gas pipeline need clarification with South Korean partners",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Romania",
-      "lat": 47.4556349186104,
-      "lng": 23.414365081389594,
-      "desc": "1 recent report on energy coverage originating from Romania.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": true,
-      "lang": "Romanian",
-      "sources": [
-        {
-          "title": "Reuters : JD Vance says details of Alaska liquefied natural gas pipeline need clarification with South Korean partners",
-          "url": "https://www.bursa.ro/reuters-jd-vance-afirma-ca-detaliile-gazoductului-de-gaze-naturale-lichefiate-din-alaska-necesita-clarificari-cu-partenerii-sud-coreeni-68315063",
-          "domain": "bursa.ro"
-        }
-      ],
-      "id": 15
+      "id": 36
     },
     {
       "title": "German Intelligence: Russia's Shadow War Increasingly Dangerous , Open Conflict Could Happen",
@@ -509,35 +1152,7 @@
           "domain": "news.republika.co.id"
         }
       ],
-      "id": 16
-    },
-    {
-      "title": "India opposition parties rally for election chief exit over voter list changes",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 54.5443650813896,
-      "lng": -107.8556349186104,
-      "desc": "1 recent report on elections coverage originating from Canada.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "India opposition parties rally for election chief exit over voter list changes",
-          "url": "https://www.therecord.com/news/world/asia/india-opposition-parties-to-rally-for-election-chief-s-exit-over-voter-list-changes/article_3ff9e793-6e4e-5cdc-bbd9-e36cd38768e0.html",
-          "domain": "therecord.com"
-        }
-      ],
-      "id": 17
+      "id": 37
     },
     {
       "title": "The priest who called \" the president-elect Calin Georgescu , sanctioned",
@@ -565,7 +1180,7 @@
           "domain": "europafm.ro"
         }
       ],
-      "id": 18
+      "id": 38
     },
     {
       "title": "Severe weather in Crete : Floods cut off eight people in Samaria - ravine",
@@ -593,35 +1208,7 @@
           "domain": "tz.de"
         }
       ],
-      "id": 19
-    },
-    {
-      "title": "Elections in Brazil : Flavio Bolsonaro passed in front of Lula -...",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 37.5443650813896,
-      "lng": 20.244365081389596,
-      "desc": "1 recent report on elections coverage originating from Greece.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Elections in Brazil : Flavio Bolsonaro passed in front of Lula -...",
-          "url": "https://www.thetoc.gr/diethni/article/ekloges-sti-brazilia-o-flabiou-mpolsonarou-perase-mprosta-apo-ton-loula---i-megali-niki-pou-panigurizei-o-tramp/",
-          "domain": "thetoc.gr"
-        }
-      ],
-      "id": 20
+      "id": 39
     },
     {
       "title": "Heritage at war: how Lebanon placed 73 sites under enhanced international protection",
@@ -649,35 +1236,7 @@
           "domain": "libnanews.com"
         }
       ],
-      "id": 21
-    },
-    {
-      "title": "How to vote by mail in the general election: deadlines to ask for it , where and how to do it",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Spain",
-      "lat": 38.6443650813896,
-      "lng": -5.255634918610405,
-      "desc": "1 recent report on elections coverage originating from Spain.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "How to vote by mail in the general election: deadlines to ask for it , where and how to do it",
-          "url": "https://www.elconfidencial.com/espana/2026-10-06/como-votar-correo-elecciones-generales-pedirlo-donde-1qrt_4439149/",
-          "domain": "elconfidencial.com"
-        }
-      ],
-      "id": 22
+      "id": 40
     },
     {
       "title": "Basic preparedness of municipalities and regions for crisis and war",
@@ -705,7 +1264,7 @@
           "domain": "regeringen.se"
         }
       ],
-      "id": 23
+      "id": 41
     },
     {
       "title": "Diana Iovanovici - Șoșoacă refuses the new Prime Minister proposed by Nicușor Dan ! S . O . S . Romania calls for early elections",
@@ -733,7 +1292,7 @@
           "domain": "ampress.ro"
         }
       ],
-      "id": 24
+      "id": 42
     },
     {
       "title": "Nepal ends search operation for flood victims",
@@ -761,35 +1320,7 @@
           "domain": "utusan.com.my"
         }
       ],
-      "id": 25
-    },
-    {
-      "title": "Fuel crisis in Russia , 176,000 tons of diesel arrive from South Korea: ( sanctioned ) oil tankers change course",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 10.399999999999999,
-      "desc": "1 recent report on sanctions coverage originating from Italy.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-08T00:59:35.437Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Fuel crisis in Russia , 176,000 tons of diesel arrive from South Korea: ( sanctioned ) oil tankers change course",
-          "url": "https://www.ilgazzettino.it/esteri/russia_crisi_carburante_corea_del_sud_petroliere_cambiano_rotta-9807272.html",
-          "domain": "ilgazzettino.it"
-        }
-      ],
-      "id": 26
+      "id": 43
     },
     {
       "title": "How to Calculate Interest Rate on a Loan When Comparing Borrowing Options",
@@ -817,7 +1348,7 @@
           "domain": "news.webindia123.com"
         }
       ],
-      "id": 27
+      "id": 44
     },
     {
       "title": "Russian strikes kill six in Kharkiv as war intensifies - News Today",
@@ -845,259 +1376,7 @@
           "domain": "newstodaynet.com"
         }
       ],
-      "id": 28
-    },
-    {
-      "title": "Inflation in the Czech Republic is accelerating , prices are mainly driven by expensive fuels and energy",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Czech Republic",
-      "lat": 51.3556349186104,
-      "lng": 17.055634918610405,
-      "desc": "1 recent report on monetary policy coverage originating from Czech Republic.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Czech",
-      "sources": [
-        {
-          "title": "Inflation in the Czech Republic is accelerating , prices are mainly driven by expensive fuels and energy",
-          "url": "https://zpravy.aktualne.cz/ekonomika/inflace-v-cesku-zrychluje-ceny-tahnou-vzhuru-hlavne-drahe-pohonne-hmoty-a-energie/r~aaa297ff5eb2d9d81731fa6c57e6b5e6/",
-          "domain": "zpravy.aktualne.cz"
-        }
-      ],
-      "id": 29
-    },
-    {
-      "title": "Alpha Bank : Oil and gas pressure inflation , Greece's \" defense \"",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 40.6556349186104,
-      "lng": 23.355634918610406,
-      "desc": "1 recent report on monetary policy coverage originating from Greece.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Alpha Bank : Oil and gas pressure inflation , Greece's \" defense \"",
-          "url": "https://www.euro2day.gr/news/economy/article/2372336/alpha-bank-petrelaio-kai-aerio-piezoyn-ton-plhthor.html",
-          "domain": "euro2day.gr"
-        }
-      ],
-      "id": 30
-    },
-    {
-      "title": "The MPC will wait until November . Then it can raise interest rates",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Poland",
-      "lat": 53.4556349186104,
-      "lng": 20.655634918610406,
-      "desc": "1 recent report on monetary policy coverage originating from Poland.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Polish",
-      "sources": [
-        {
-          "title": "The MPC will wait until November . Then it can raise interest rates",
-          "url": "https://www.bankier.pl/wiadomosc/RPP-poczeka-do-listopada-Wtedy-moze-podniesc-stopy-procentowe-9207916.html",
-          "domain": "bankier.pl"
-        }
-      ],
-      "id": 31
-    },
-    {
-      "title": "Inflation difference to the civil servant! How much will the salary of the police , teacher , doctor be in 2027?",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 40.5556349186104,
-      "lng": 36.755634918610404,
-      "desc": "1 recent report on monetary policy coverage originating from Turkey.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Inflation difference to the civil servant! How much will the salary of the police , teacher , doctor be in 2027?",
-          "url": "https://www.yeniasir.com.tr/ekonomi/2026/10/06/memura-enflasyon-farki-2027de-polis-ogretmen-doktor-maasi-ne-kadar-olacak-memur-maasi-2027de-ne-kadar-olacak",
-          "domain": "yeniasir.com.tr"
-        }
-      ],
-      "id": 32
-    },
-    {
-      "title": "Crude Oil Hovers Near $100 A Barrel , Why Global Oil Prices Remain On Edge Amid Middle East Tensions ? ",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 23.955634918610404,
-      "lng": 77.1443650813896,
-      "desc": "1 recent report on energy coverage originating from India.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Crude Oil Hovers Near $100 A Barrel , Why Global Oil Prices Remain On Edge Amid Middle East Tensions ? ",
-          "url": "https://www.freepressjournal.in/business/crude-oil-hovers-near-100-a-barrel-why-global-oil-prices-remain-on-edge-amid-middle-east-tensions",
-          "domain": "freepressjournal.in"
-        }
-      ],
-      "id": 33
-    },
-    {
-      "title": "What is known about the general strike that will take place in Spain due to housing and inflation : possible dates and who is calling and su",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Spain",
-      "lat": 41.755634918610404,
-      "lng": -2.144365081389595,
-      "desc": "1 recent report on monetary policy coverage originating from Spain.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "What is known about the general strike that will take place in Spain due to housing and inflation : possible dates and who is calling and supporting it",
-          "url": "https://www.elconfidencial.com/espana/2026-10-06/1qrt-que-se-sabe-huelga-general-ccoo-ugt-vivienda-fechas_4439064/",
-          "domain": "elconfidencial.com"
-        }
-      ],
-      "id": 34
-    },
-    {
-      "title": "The chief hunter of the Urals compared the invasion of bears with the post-war era: the experience of the USSR will help Russia",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 61.5,
-      "lng": 92.2,
-      "desc": "1 recent report on conflict coverage originating from Russia.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "The chief hunter of the Urals compared the invasion of bears with the post-war era: the experience of the USSR will help Russia",
-          "url": "https://ura.news/news/1053133489",
-          "domain": "ura.news"
-        }
-      ],
-      "id": 35
-    },
-    {
-      "title": "Thailand prepares four flood scenarios for October 12 to 18 IMF – World Bank meetings",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 34.3443650813896,
-      "lng": 105.75563491861041,
-      "desc": "1 recent report on disaster & logistics coverage originating from China.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Thailand prepares four flood scenarios for October 12 to 18 IMF – World Bank meetings",
-          "url": "https://asianews.network/thailand-prepares-four-flood-scenarios-for-october-12-to-18-imf-world-bank-meetings/",
-          "domain": "asianews.network"
-        }
-      ],
-      "id": 36
-    },
-    {
-      "title": "Hypocrisy in Seoul ? South Korea Sends Fuel to Russia on Sanctioned Tankers",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-10-06",
-      "region": "Europe",
-      "place": "Poland",
-      "lat": 51.9,
-      "lng": 16.900000000000002,
-      "desc": "1 recent report on sanctions coverage originating from Poland.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-07T20:36:50.188Z",
-      "translated": true,
-      "lang": "Polish",
-      "sources": [
-        {
-          "title": "Hypocrisy in Seoul ? South Korea Sends Fuel to Russia on Sanctioned Tankers",
-          "url": "https://www.bankier.pl/wiadomosc/Hipokryzja-w-Seulu-Korea-Poludniowa-wysyla-paliwo-do-Rosji-na-objetych-sankcjami-tankowcach-9207978.html",
-          "domain": "bankier.pl"
-        }
-      ],
-      "id": 37
+      "id": 45
     }
   ]
 }
