@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T18:19:53.743Z",
+  "generatedAt": "2026-10-23T22:09:31.312Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
     {
-      "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says",
+      "title": "Melania Trump Brokers Ceasefire For Humanitarian Aid In Oleshky",
       "category": "Conflict",
       "severity": "High",
       "date": "2026-10-23",
@@ -12,17 +12,22 @@
       "place": "United States",
       "lat": 39.5,
       "lng": -96.2,
-      "desc": "11 recent reports on conflict coverage originating from United States.",
+      "desc": "10 recent reports on conflict coverage originating from United States.",
       "markets": [
         "Defense",
         "Oil",
         "Gold"
       ],
-      "count": 11,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
+      "count": 10,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
       "translated": false,
       "lang": null,
       "sources": [
+        {
+          "title": "Melania Trump Brokers Ceasefire For Humanitarian Aid In Oleshky",
+          "url": "https://whp580.iheart.com/content/2026-10-23-melania-trump-brokers-ceasefire-for-humanitarian-aid-in-oleshky/",
+          "domain": "whp580.iheart.com"
+        },
         {
           "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says",
           "url": "https://www.aol.com/articles/melania-trump-helps-forge-ceasefire-133642000.html",
@@ -34,17 +39,55 @@
           "domain": "fox17.com"
         },
         {
-          "title": "20 states have seen gas prices increase more than 50 % in 2026",
-          "url": "https://www.wyff4.com/article/gas-price-calculator-since-iran-war/74220943",
-          "domain": "wyff4.com"
-        },
-        {
           "title": "Melania Trump secures ceasefire for aid , evacuations in occupied Ukrainian city",
           "url": "https://upnorthlive.com/news/nation-world/first-lady-melania-trump-secures-ceasefire-for-aid-evacuations-in-russia-occupied-ukrainian-city-oleshky-white-house-news-push-to-end-war-special-envoy-steve-witkoff-putin-zelenskyy",
           "domain": "upnorthlive.com"
         }
       ],
       "id": 1
+    },
+    {
+      "title": "The Central Bank kept the key rate at 14% per annum",
+      "category": "Monetary Policy",
+      "severity": "High",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 63.0556349186104,
+      "lng": 91.55563491861041,
+      "desc": "8 recent reports on monetary policy coverage originating from Russia.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 8,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "The Central Bank kept the key rate at 14% per annum",
+          "url": "https://pln-pskov.ru/business/601266.html",
+          "domain": "pln-pskov.ru"
+        },
+        {
+          "title": "The economist revealed why dairy products do not rise in price despite inflation",
+          "url": "https://1prime.ru/20261023/moloko-874567055.html",
+          "domain": "1prime.ru"
+        },
+        {
+          "title": "The Central Bank wants to make it so that the need for a preferential mortgage disappears",
+          "url": "https://1prime.ru/20261023/tsb-874569603.html",
+          "domain": "1prime.ru"
+        },
+        {
+          "title": "At the same level : the Central Bank decided not to reduce the key rate",
+          "url": "https://russiatoday.ru/business/article/1698651-centrobank-stavka-sohranenie-uroven",
+          "domain": "russiatoday.ru"
+        }
+      ],
+      "id": 2
     },
     {
       "title": "Earthquake in Palermo , Mayor Lagalla considers precautionary evacuation of some public buildings",
@@ -87,88 +130,7 @@
           "domain": "palermomania.it"
         }
       ],
-      "id": 2
-    },
-    {
-      "title": "The Central Bank kept the key rate at 14% per annum",
-      "category": "Monetary Policy",
-      "severity": "Medium",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 63.0556349186104,
-      "lng": 91.55563491861041,
-      "desc": "4 recent reports on monetary policy coverage originating from Russia.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 4,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "The Central Bank kept the key rate at 14% per annum",
-          "url": "https://pln-pskov.ru/business/601266.html",
-          "domain": "pln-pskov.ru"
-        },
-        {
-          "title": "The economist revealed why dairy products do not rise in price despite inflation",
-          "url": "https://1prime.ru/20261023/moloko-874567055.html",
-          "domain": "1prime.ru"
-        },
-        {
-          "title": "The Central Bank wants to make it so that the need for a preferential mortgage disappears",
-          "url": "https://1prime.ru/20261023/tsb-874569603.html",
-          "domain": "1prime.ru"
-        },
-        {
-          "title": "At the same level : the Central Bank decided not to reduce the key rate",
-          "url": "https://russiatoday.ru/business/article/1698651-centrobank-stavka-sohranenie-uroven",
-          "domain": "russiatoday.ru"
-        }
-      ],
       "id": 3
-    },
-    {
-      "title": "Lake , Marion among counties nationwide getting federal election observers",
-      "category": "Elections",
-      "severity": "Medium",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "3 recent reports on elections coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Lake , Marion among counties nationwide getting federal election observers",
-          "url": "https://963xke.com/2026/10/23/102284/",
-          "domain": "963xke.com"
-        },
-        {
-          "title": "Riverhead voter guide 2026 : Meet the candidates on your ballot",
-          "url": "https://riverheadlocal.com/2026/10/23/riverhead-voter-guide-2026/",
-          "domain": "riverheadlocal.com"
-        },
-        {
-          "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-          "url": "https://www.wsiu.org/politics-elections/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-          "domain": "wsiu.org"
-        }
-      ],
-      "id": 4
     },
     {
       "title": "The White House said that the United States had reached an agreement on a ceasefire in Aleshky",
@@ -186,7 +148,7 @@
         "Gold"
       ],
       "count": 3,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
       "translated": true,
       "lang": "Russian",
       "sources": [
@@ -206,7 +168,215 @@
           "domain": "aif.ru"
         }
       ],
+      "id": 4
+    },
+    {
+      "title": "Russia - Ukraine war, Melania Trump gets truce in Oleshky : ceasefire from 29 October",
+      "category": "Conflict",
+      "severity": "Medium",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "3 recent reports on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Russia - Ukraine war, Melania Trump gets truce in Oleshky : ceasefire from 29 October",
+          "url": "https://www.ilgiornale.it/diretta/guerra/guerra-russia-ucraina-melania-trump-ottiene-una-tregua-a-oleshky-cessate-il-fuoco-dal-29-ottobre/",
+          "domain": "ilgiornale.it"
+        },
+        {
+          "title": "Tiger mosquitoes: the invasion of Dallasia - UltimoraNews . en",
+          "url": "https://www.ultimoranotizie.it/zanzare-tigre-linvasione-dallasia/",
+          "domain": "ultimoranotizie.it"
+        },
+        {
+          "title": "Melania Trump Gets Russia-Ukraine Truce for Oleshky Ceasefire",
+          "url": "https://www.zazoom.it/2026-10-23/melania-trump-ottiene-una-tregua-tra-russia-e-ucraina-per-un-cessate-il-fuoco-a-oleshky/19838810/",
+          "domain": "zazoom.it"
+        }
+      ],
       "id": 5
+    },
+    {
+      "title": "US announces local ceasefire in southern Ukraine",
+      "category": "Conflict",
+      "severity": "Medium",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "3 recent reports on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "US announces local ceasefire in southern Ukraine",
+          "url": "https://www.hurriyetdailynews.com/us-announces-local-ceasefire-in-southern-ukraine-228526",
+          "domain": "hurriyetdailynews.com"
+        },
+        {
+          "title": "Regional ceasefire declared between Ukraine and Russia",
+          "url": "https://www.sozcu.com.tr/ukrayna-ve-rusya-arasinda-bolgesel-ateskes-ilan-edildi-p372103",
+          "domain": "sozcu.com.tr"
+        },
+        {
+          "title": "Regional ceasefire between Russia and Ukraine",
+          "url": "https://www.hurriyet.com.tr/dunya/rusya-ve-ukrayna-arasinda-bolgesel-ateskes-43352571",
+          "domain": "hurriyet.com.tr"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "Today inflation is really an energy shock | Local News",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "2 recent reports on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Today inflation is really an energy shock | Local News",
+          "url": "https://www.bedfordgazette.com/news/local/today-s-inflation-is-really-an-energy-shock/article_e52b8a09-e370-40a0-a468-44bce1cc60e2.html",
+          "domain": "bedfordgazette.com"
+        },
+        {
+          "title": "Opinion : It all inflation",
+          "url": "http://www.idahostatejournal.com/freeaccess/opinion-its-all-inflation/article_e8b97b2d-55c0-4be9-8481-aaca22dc8c5e.html",
+          "domain": "idahostatejournal.com"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.94436508138959,
+      "lng": -96.8443650813896,
+      "desc": "2 recent reports on disaster & logistics coverage originating from United States.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
+          "url": "https://www.mendocinobeacon.com/2026/10/23/hurricane-vance-mexico/",
+          "domain": "mendocinobeacon.com"
+        },
+        {
+          "title": "Josephine is still an intense storm | Hurricane - force wind risk",
+          "url": "https://www.wxii12.com/article/josephine-extratropical-hurricane-force-wind-nc-beach/74222855",
+          "domain": "wxii12.com"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "Dear Energy , Real Wages Down 9%: Italy Tight Between Inflation and Fossil Dependency",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 43.4556349186104,
+      "lng": 14.155634918610405,
+      "desc": "2 recent reports on monetary policy coverage originating from Italy.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Dear Energy , Real Wages Down 9%: Italy Tight Between Inflation and Fossil Dependency",
+          "url": "https://www.italiaoggi.it/economia-e-politica/caro-energia-salari-reali-giu-del-9-italia-stretta-tra-inflazione-e-dipendenza-dai-fossili-n4b7pnae",
+          "domain": "italiaoggi.it"
+        },
+        {
+          "title": "Manoeuvre : Durigon , strong deviation needed, inflation assessment needed",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/radiocor/economia/dettaglio/manovra-durigon-serve-scostamento-forte-necessaria-valutazione-inflazione-nRC_23102026_1330_388136971.html",
+          "domain": "borsaitaliana.it"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Bursa TB welcomes policy rate cut to 36%",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 40.5556349186104,
+      "lng": 36.755634918610404,
+      "desc": "2 recent reports on monetary policy coverage originating from Turkey.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Bursa TB welcomes policy rate cut to 36%",
+          "url": "https://www.haberler.com/yerel/bursa-tb-politika-faizinin-yuzde-36-ya-20359880-haberi/",
+          "domain": "haberler.com"
+        },
+        {
+          "title": "Central Bank's year-end interest rate cut: Giant bank releases year-end dollar forecast",
+          "url": "https://www.birgun.net/haber/merkez-bankasi-nin-yil-sonu-faiz-indirimini-bilmisti-dev-banka-yil-sonu-dolar-tahminini-acikladi-742105",
+          "domain": "birgun.net"
+        }
+      ],
+      "id": 10
     },
     {
       "title": "Melania Trump claims to have brokered local ceasefire in Ukraine - war",
@@ -239,40 +409,7 @@
           "domain": "tagesspiegel.de"
         }
       ],
-      "id": 6
-    },
-    {
-      "title": "Today inflation is really an energy shock | Local News",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on monetary policy coverage originating from United States.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Today inflation is really an energy shock | Local News",
-          "url": "https://www.bedfordgazette.com/news/local/today-s-inflation-is-really-an-energy-shock/article_e52b8a09-e370-40a0-a468-44bce1cc60e2.html",
-          "domain": "bedfordgazette.com"
-        },
-        {
-          "title": "Opinion : It all inflation",
-          "url": "http://www.idahostatejournal.com/freeaccess/opinion-its-all-inflation/article_e8b97b2d-55c0-4be9-8481-aaca22dc8c5e.html",
-          "domain": "idahostatejournal.com"
-        }
-      ],
-      "id": 7
+      "id": 11
     },
     {
       "title": "Israeli Elections: Changing Netanyahu or Netanyahuism?",
@@ -305,73 +442,7 @@
           "domain": "middleeastmonitor.com"
         }
       ],
-      "id": 8
-    },
-    {
-      "title": "Russia - Ukraine war, Melania Trump gets truce in Oleshky : ceasefire from 29 October",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "2 recent reports on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Russia - Ukraine war, Melania Trump gets truce in Oleshky : ceasefire from 29 October",
-          "url": "https://www.ilgiornale.it/diretta/guerra/guerra-russia-ucraina-melania-trump-ottiene-una-tregua-a-oleshky-cessate-il-fuoco-dal-29-ottobre/",
-          "domain": "ilgiornale.it"
-        },
-        {
-          "title": "Tiger mosquitoes: the invasion of Dallasia - UltimoraNews . en",
-          "url": "https://www.ultimoranotizie.it/zanzare-tigre-linvasione-dallasia/",
-          "domain": "ultimoranotizie.it"
-        }
-      ],
-      "id": 9
-    },
-    {
-      "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -99.95563491861041,
-      "desc": "2 recent reports on energy coverage originating from United States.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-          "domain": "oilprice.com"
-        },
-        {
-          "title": "Wall Street loses ground under pressure from rising oil prices , more swings for Big Tech stocks",
-          "url": "https://www.courant.com/2026/10/23/us-financial-markets-crude-prices/",
-          "domain": "courant.com"
-        }
-      ],
-      "id": 10
+      "id": 12
     },
     {
       "title": "China Allocates $12 Million for Earthquake Relief and Recovery in Xizang",
@@ -404,139 +475,7 @@
           "domain": "baijiahao.baidu.com"
         }
       ],
-      "id": 11
-    },
-    {
-      "title": "Invasion of Ukraine: The Kremlin announces negotiations in November with the US and Ukraine in Abu Dhabi",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Belgium",
-      "lat": 50.5,
-      "lng": 6.7,
-      "desc": "2 recent reports on conflict coverage originating from Belgium.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "Invasion of Ukraine: The Kremlin announces negotiations in November with the US and Ukraine in Abu Dhabi",
-          "url": "https://www.dhnet.be/actu/monde/2026/10/23/invasion-de-lukraine-le-kremlin-annonce-des-negociations-en-novembre-avec-les-etats-unis-et-lukraine-a-abou-dhabi-WZR447MOARENRC4ZCEDXUGHSNM/",
-          "domain": "dhnet.be"
-        },
-        {
-          "title": "Melania Trump says she obtained a ceasefire in a city in Ukraine:  Without my intervention ...",
-          "url": "https://www.dhnet.be/actu/monde/2026/10/23/melania-trump-dit-avoir-obtenu-un-cessez-le-feu-dans-une-ville-dukraine-sans-mon-intervention-DGQXUFSWQZD5FDQCE3BYK5EQPU/",
-          "domain": "dhnet.be"
-        }
-      ],
-      "id": 12
-    },
-    {
-      "title": "US announces local ceasefire in southern Ukraine",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 39,
-      "lng": 37.400000000000006,
-      "desc": "2 recent reports on conflict coverage originating from Turkey.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "US announces local ceasefire in southern Ukraine",
-          "url": "https://www.hurriyetdailynews.com/us-announces-local-ceasefire-in-southern-ukraine-228526",
-          "domain": "hurriyetdailynews.com"
-        },
-        {
-          "title": "Regional ceasefire declared between Ukraine and Russia",
-          "url": "https://www.sozcu.com.tr/ukrayna-ve-rusya-arasinda-bolgesel-ateskes-ilan-edildi-p372103",
-          "domain": "sozcu.com.tr"
-        }
-      ],
       "id": 13
-    },
-    {
-      "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.94436508138959,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on disaster & logistics coverage originating from United States.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
-          "url": "https://www.mendocinobeacon.com/2026/10/23/hurricane-vance-mexico/",
-          "domain": "mendocinobeacon.com"
-        },
-        {
-          "title": "Josephine is still an intense storm | Hurricane - force wind risk",
-          "url": "https://www.wxii12.com/article/josephine-extratropical-hurricane-force-wind-nc-beach/74222855",
-          "domain": "wxii12.com"
-        }
-      ],
-      "id": 14
-    },
-    {
-      "title": "Selling AI stocks caused US stocks to fall, Houthis hit Saudi Arabia caused oil prices to rise, and gold also fell. Where did the money go?",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 37.4556349186104,
-      "lng": 102.6443650813896,
-      "desc": "2 recent reports on energy coverage originating from China.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T07:30:24.164Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Selling AI stocks caused US stocks to fall, Houthis hit Saudi Arabia caused oil prices to rise, and gold also fell. Where did the money go?",
-          "url": "https://finance.sina.com.cn/tech/roll/2026-10-23/doc-iniweuqw2738292.shtml",
-          "domain": "finance.sina.com.cn"
-        },
-        {
-          "title": "International oil prices have risen sharply, and gold has lost $4,000. The United States and Israel have been exposed to have made plans to attack Iraq after the mid-term elections_Oriental Wealth Network",
-          "url": "https://finance.eastmoney.com/a/202610233906017312.html",
-          "domain": "finance.eastmoney.com"
-        }
-      ],
-      "id": 15
     },
     {
       "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
@@ -569,7 +508,7 @@
           "domain": "niagarafallsreview.ca"
         }
       ],
-      "id": 16
+      "id": 14
     },
     {
       "title": "ECB : Economists see new interest rate hike in December – deposit rate at 2.75%",
@@ -602,7 +541,7 @@
           "domain": "kathimerini.gr"
         }
       ],
-      "id": 17
+      "id": 15
     },
     {
       "title": "Japanese Consumer Prices Hit 2% in 9 Months; Observation of Additional Interest Rate Increase in December [General]",
@@ -635,7 +574,7 @@
           "domain": "edaily.co.kr"
         }
       ],
-      "id": 18
+      "id": 16
     },
     {
       "title": "Olomouc News - Domestic - Babiš wants cheaper mortgages . Criticizes bank profits and CNB interest rates",
@@ -668,40 +607,7 @@
           "domain": "moravskoslezskenovinky.cz"
         }
       ],
-      "id": 19
-    },
-    {
-      "title": "Acuña and Monclova , among the cities with the highest inflation in the country",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 25.155634918610406,
-      "lng": -101.04436508138959,
-      "desc": "2 recent reports on monetary policy coverage originating from Mexico.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T01:29:59.542Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Acuña and Monclova , among the cities with the highest inflation in the country",
-          "url": "https://vanguardia.com.mx/coahuila/acuna-y-monclova-entre-las-ciudades-con-mayor-inflacion-en-el-pais-LE24317738",
-          "domain": "vanguardia.com.mx"
-        },
-        {
-          "title": "Inflation October 2026 : rises to 3 . 62% in the fortnight",
-          "url": "https://laverdadnoticias.com/ultimas-noticias/mexico/inflacion-octubre-2026",
-          "domain": "laverdadnoticias.com"
-        }
-      ],
-      "id": 20
+      "id": 17
     },
     {
       "title": "John Hanscombe | Echidna : how a war game is restoring online hope | The Armidale Express",
@@ -734,7 +640,7 @@
           "domain": "mandurahmail.com.au"
         }
       ],
-      "id": 21
+      "id": 18
     },
     {
       "title": "Evening OVERVIEW/ Economy , Central Banks , Politics",
@@ -767,40 +673,511 @@
           "domain": "handelsblatt.com"
         }
       ],
-      "id": 22
+      "id": 19
     },
     {
-      "title": "For the first time in 9 months: The Central Bank reduced interest rates",
+      "title": "Melania Trump has secured a ceasefire",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Sweden",
+      "lat": 60.1,
+      "lng": 20.8,
+      "desc": "1 recent report on conflict coverage originating from Sweden.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Swedish",
+      "sources": [
+        {
+          "title": "Melania Trump has secured a ceasefire",
+          "url": "https://www.aftonbladet.se/nyheter/a/310yLM/melania-trump-har-sakrat-eldupphor",
+          "domain": "aftonbladet.se"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -99.95563491861041,
+      "desc": "1 recent report on energy coverage originating from United States.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
+          "domain": "oilprice.com"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "title": "Russia, Policy rate | No interest rate cut in Russia – Ukrainian drones are to blame",
       "category": "Monetary Policy",
       "severity": "Low",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "region": "Europe",
-      "place": "Turkey",
-      "lat": 40.5556349186104,
-      "lng": 36.755634918610404,
-      "desc": "2 recent reports on monetary policy coverage originating from Turkey.",
+      "place": "Norway",
+      "lat": 62.0556349186104,
+      "lng": 10.055634918610405,
+      "desc": "1 recent report on monetary policy coverage originating from Norway.",
       "markets": [
         "Bonds",
         "FX",
         "Equities"
       ],
-      "count": 2,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
       "translated": true,
-      "lang": "Turkish",
+      "lang": "Norwegian",
       "sources": [
         {
-          "title": "For the first time in 9 months: The Central Bank reduced interest rates",
-          "url": "https://www.birgun.net/haber/9-ay-sonra-ilk-kez-merkez-bankasi-faiz-indirdi-741873",
-          "domain": "birgun.net"
-        },
+          "title": "Russia, Policy rate | No interest rate cut in Russia – Ukrainian drones are to blame",
+          "url": "https://www.nettavisen.no/nyheter/ingen-rentenedgang-i-russland-ukrainske-droner-far-skylden/s/80-95-186951",
+          "domain": "nettavisen.no"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "White House : Melania Trump secures Russian-Ukrainian ceasefire in Olesky",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 39.1,
+      "lng": 24,
+      "desc": "1 recent report on conflict coverage originating from Greece.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
         {
-          "title": "FIRST AFTER 9 MONTHS! Central Bank announced its critical interest rate decision | Turkish Economy News",
-          "url": "https://www.yenisafak.com/ekonomi/9-ay-sonra-ilk-merkez-bankasi-kritik-faiz-kararini-acikladi-4866458",
-          "domain": "yenisafak.com"
+          "title": "White House : Melania Trump secures Russian-Ukrainian ceasefire in Olesky",
+          "url": "https://www.kathimerini.gr/world/564543601/leykos-oikos-i-melania-tramp-exasfalise-ekecheiria-rosias-oykranias-sto-oleski/",
+          "domain": "kathimerini.gr"
         }
       ],
       "id": 23
+    },
+    {
+      "title": "Afghan War Time (Russian-Afghan War Time)",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 35.9,
+      "lng": 106.4,
+      "desc": "1 recent report on conflict coverage originating from China.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Afghan War Time (Russian-Afghan War Time)",
+          "url": "https://www.mastv.cc/shbk/327.html",
+          "domain": "mastv.cc"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "title": "Vance intensifies to Category 1 hurricane in Pacific",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -101.04436508138959,
+      "desc": "1 recent report on disaster & logistics coverage originating from Mexico.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Vance intensifies to Category 1 hurricane in Pacific",
+          "url": "https://www.eldiariodechihuahua.mx/nacional/2026/oct/23/se-intensifica-vance-a-huracan-categoria-1-en-pacifico-850700.html",
+          "domain": "eldiariodechihuahua.mx"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says – Brandon Sun",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 56.1,
+      "lng": -104.1,
+      "desc": "1 recent report on conflict coverage originating from Canada.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says – Brandon Sun",
+          "url": "https://www.brandonsun.com/world/2026/10/23/melania-trump-helps-forge-ceasefire-deal-in-russian-occupied-oleshkyk-the-white-house-says",
+          "domain": "brandonsun.com"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "title": "Trump laughs and mocks the French riots: Anyone else want to go? This must never happen in the United States; Macron: Certain foreign leader",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 34.3443650813896,
+      "lng": 102.6443650813896,
+      "desc": "1 recent report on elections coverage originating from China.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Trump laughs and mocks the French riots: Anyone else want to go? This must never happen in the United States; Macron: Certain foreign leaders use France to run their own elections, uttering stupid rhetoric | Netanyahu | Donald Trump | US Voter Profile | Donald Trump",
+          "url": "https://www.163.com/dy/article/L9UOMDQC053469LG.html",
+          "domain": "163.com"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "title": "Moldovan Energocom requested a 31% increase in the electricity tariff",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 63.7,
+      "lng": 90,
+      "desc": "1 recent report on trade & tariffs coverage originating from Russia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Moldovan Energocom requested a 31% increase in the electricity tariff",
+          "url": "https://1prime.ru/20261023/energocom-874566973.html",
+          "domain": "1prime.ru"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "title": "Melania Trump says she obtained a ceasefire in a city in Ukraine:  Without my intervention ...",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Belgium",
+      "lat": 50.5,
+      "lng": 6.7,
+      "desc": "1 recent report on conflict coverage originating from Belgium.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "Melania Trump says she obtained a ceasefire in a city in Ukraine:  Without my intervention ...",
+          "url": "https://www.dhnet.be/actu/monde/2026/10/23/melania-trump-dit-avoir-obtenu-un-cessez-le-feu-dans-une-ville-dukraine-sans-mon-intervention-DGQXUFSWQZD5FDQCE3BYK5EQPU/",
+          "domain": "dhnet.be"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "Melania Trump  secures ceasefire between Russia and Ukraine  as statement issued",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Melania Trump  secures ceasefire between Russia and Ukraine  as statement issued",
+          "url": "https://www.dailystar.co.uk/news/us-news/breaking-melania-trump-secures-ceasefire-37804448",
+          "domain": "dailystar.co.uk"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "Gold price moves away from three-month low; crude rebound stokes inflation fears",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 25.155634918610406,
+      "lng": -101.04436508138959,
+      "desc": "1 recent report on monetary policy coverage originating from Mexico.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Gold price moves away from three-month low; crude rebound stokes inflation fears",
+          "url": "https://www.eleconomista.com.mx/mercados/precio-oro-aleja-minimo-tres-meses-repunte-crudo-aviva-temores-inflacion-20261023-840163.html",
+          "domain": "eleconomista.com.mx"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "A former Algerian diplomat expects to delete  the referendum  from the upcoming Security Council resolution on the Moroccan Sahara",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Africa",
+      "place": "Morocco",
+      "lat": 30.244365081389596,
+      "lng": -8.655634918610405,
+      "desc": "1 recent report on elections coverage originating from Morocco.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "A former Algerian diplomat expects to delete  the referendum  from the upcoming Security Council resolution on the Moroccan Sahara",
+          "url": "https://www.akhbarona.com/politic/434532.html",
+          "domain": "akhbarona.com"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "Kazakhstan Cuts Base Rate to 15 . 75 % as Annual Inflation Falls to 9 . 3 % ",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Asia-Pacific",
+      "place": "Kazakhstan",
+      "lat": 49.5556349186104,
+      "lng": 68.45563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from Kazakhstan.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Kazakhstan Cuts Base Rate to 15 . 75 % as Annual Inflation Falls to 9 . 3 % ",
+          "url": "https://astanatimes.com/2026/10/kazakhstan-cuts-base-rate-to-15-75-as-annual-inflation-falls-to-9-3/",
+          "domain": "astanatimes.com"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "title": "Liu Mingcheng: Forecast and operation suggestions for the direction of gold crude oil in the city after 10. 24_International crude oil marke",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 37.4556349186104,
+      "lng": 102.6443650813896,
+      "desc": "1 recent report on energy coverage originating from China.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Liu Mingcheng: Forecast and operation suggestions for the direction of gold crude oil in the city after 10. 24_International crude oil market_Gold network_Zhongjin online",
+          "url": "http://gold.cnfol.com/guojiyuanyousc/20261023/32406889.shtml",
+          "domain": "gold.cnfol.com"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "1 recent report on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+          "url": "https://www.wsiu.org/politics-elections/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
+          "domain": "wsiu.org"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "title": "Filippo called the hurricane-ravaged EU flag a sex rag",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 59.94436508138959,
+      "lng": 91.55563491861041,
+      "desc": "1 recent report on disaster & logistics coverage originating from Russia.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Filippo called the hurricane-ravaged EU flag a sex rag",
+          "url": "https://aif.ru/society/filippo-nazval-sorvannyy-uraganom-flag-es-polovoy-tryapkoy",
+          "domain": "aif.ru"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "title": "Aughinish Alumina set to avoid targeted penalties in latest EU sanctions package",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-10-23",
+      "region": "Europe",
+      "place": "Ireland",
+      "lat": 53.4,
+      "lng": -10.399999999999999,
+      "desc": "1 recent report on sanctions coverage originating from Ireland.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-23T22:09:31.312Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Aughinish Alumina set to avoid targeted penalties in latest EU sanctions package",
+          "url": "https://www.live95fm.ie/news/live95-news/aughinish-alumina-set-to-avoid-targeted-penalties-in-latest-eu-sanctions-package/",
+          "domain": "live95fm.ie"
+        }
+      ],
+      "id": 37
     },
     {
       "title": "Attacks on Tech Firms Behind Most Third - Party Data Breach Victims",
@@ -828,7 +1205,7 @@
           "domain": "infosecurity-magazine.com"
         }
       ],
-      "id": 24
+      "id": 38
     },
     {
       "title": "Docomo \"Area Mail\" partially stopped with PHP support, J alerts and evacuation information subject to earthquake alerts continue",
@@ -856,7 +1233,7 @@
           "domain": "k-tai.watch.impress.co.jp"
         }
       ],
-      "id": 25
+      "id": 39
     },
     {
       "title": "I'm ready to be president  and little things are coming: Patricia Bullrich's messages for the election year",
@@ -884,35 +1261,7 @@
           "domain": "24con.com"
         }
       ],
-      "id": 26
-    },
-    {
-      "title": "Russia, Policy rate | No interest rate cut in Russia – Ukrainian drones are to blame",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Norway",
-      "lat": 62.0556349186104,
-      "lng": 10.055634918610405,
-      "desc": "1 recent report on monetary policy coverage originating from Norway.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Norwegian",
-      "sources": [
-        {
-          "title": "Russia, Policy rate | No interest rate cut in Russia – Ukrainian drones are to blame",
-          "url": "https://www.nettavisen.no/nyheter/ingen-rentenedgang-i-russland-ukrainske-droner-far-skylden/s/80-95-186951",
-          "domain": "nettavisen.no"
-        }
-      ],
-      "id": 27
+      "id": 40
     },
     {
       "title": "See agenda for the latest acts and demonstrations in support of Lula until the elections",
@@ -940,7 +1289,7 @@
           "domain": "revistaforum.com.br"
         }
       ],
-      "id": 28
+      "id": 41
     },
     {
       "title": "Pending Machado's return, the Venezuelan opposition sets its sights on the elections",
@@ -968,7 +1317,7 @@
           "domain": "eleconomista.com.mx"
         }
       ],
-      "id": 29
+      "id": 42
     },
     {
       "title": "Melania Trump Negotiated a Ceasefire for Ukraine's Occupied Oleksiy",
@@ -996,35 +1345,7 @@
           "domain": "idnes.cz"
         }
       ],
-      "id": 30
-    },
-    {
-      "title": "White House : Melania Trump secures Russian-Ukrainian ceasefire in Olesky",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "1 recent report on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "White House : Melania Trump secures Russian-Ukrainian ceasefire in Olesky",
-          "url": "https://www.kathimerini.gr/world/564543601/leykos-oikos-i-melania-tramp-exasfalise-ekecheiria-rosias-oykranias-sto-oleski/",
-          "domain": "kathimerini.gr"
-        }
-      ],
-      "id": 31
+      "id": 43
     },
     {
       "title": "Mitsotakis to Archbishop Makarios of Australia: Letter vote for Greeks abroad in the next elections",
@@ -1052,35 +1373,7 @@
           "domain": "protothema.gr"
         }
       ],
-      "id": 32
-    },
-    {
-      "title": "Afghan War Time (Russian-Afghan War Time)",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 35.9,
-      "lng": 106.4,
-      "desc": "1 recent report on conflict coverage originating from China.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Afghan War Time (Russian-Afghan War Time)",
-          "url": "https://www.mastv.cc/shbk/327.html",
-          "domain": "mastv.cc"
-        }
-      ],
-      "id": 33
+      "id": 44
     },
     {
       "title": "The New York Times is also paying attention to Taiwan's typhoon holiday! Experts: 31% Increase in Mayor's Holiday Odds in Election Year | Gl",
@@ -1108,7 +1401,7 @@
           "domain": "nownews.com"
         }
       ],
-      "id": 34
+      "id": 45
     },
     {
       "title": "Eurozone consumer inflation expectation for 12 months rises to 3.1% in September",
@@ -1136,7 +1429,7 @@
           "domain": "jornaldebrasilia.com.br"
         }
       ],
-      "id": 35
+      "id": 46
     },
     {
       "title": "Comites Elections 2026 , by November 4 you must ask to vote",
@@ -1164,7 +1457,7 @@
           "domain": "italiachiamaitalia.it"
         }
       ],
-      "id": 36
+      "id": 47
     },
     {
       "title": "Eby makes last - minute B . C . election promise to legislate nurse - to - patient ratios",
@@ -1192,35 +1485,7 @@
           "domain": "wltribune.com"
         }
       ],
-      "id": 37
-    },
-    {
-      "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says – Brandon Sun",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 56.1,
-      "lng": -104.1,
-      "desc": "1 recent report on conflict coverage originating from Canada.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says – Brandon Sun",
-          "url": "https://www.brandonsun.com/world/2026/10/23/melania-trump-helps-forge-ceasefire-deal-in-russian-occupied-oleshkyk-the-white-house-says",
-          "domain": "brandonsun.com"
-        }
-      ],
-      "id": 38
+      "id": 48
     },
     {
       "title": "Tsunami warning issued after earthquakes off Sicily Island",
@@ -1248,35 +1513,7 @@
           "domain": "malatyaguncel.com"
         }
       ],
-      "id": 39
-    },
-    {
-      "title": "Trump laughs and mocks the French riots: Anyone else want to go? This must never happen in the United States; Macron: Certain foreign leader",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 34.3443650813896,
-      "lng": 102.6443650813896,
-      "desc": "1 recent report on elections coverage originating from China.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Trump laughs and mocks the French riots: Anyone else want to go? This must never happen in the United States; Macron: Certain foreign leaders use France to run their own elections, uttering stupid rhetoric | Netanyahu | Donald Trump | US Voter Profile | Donald Trump",
-          "url": "https://www.163.com/dy/article/L9UOMDQC053469LG.html",
-          "domain": "163.com"
-        }
-      ],
-      "id": 40
+      "id": 49
     },
     {
       "title": "United States: in the run-up to the mid-term elections, the fear of interference by Donald Trump",
@@ -1304,203 +1541,7 @@
           "domain": "lexpress.fr"
         }
       ],
-      "id": 41
-    },
-    {
-      "title": "Melania Trump has secured a ceasefire",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Sweden",
-      "lat": 60.1,
-      "lng": 20.8,
-      "desc": "1 recent report on conflict coverage originating from Sweden.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Swedish",
-      "sources": [
-        {
-          "title": "Melania Trump has secured a ceasefire",
-          "url": "https://www.aftonbladet.se/nyheter/a/310yLM/melania-trump-har-sakrat-eldupphor",
-          "domain": "aftonbladet.se"
-        }
-      ],
-      "id": 42
-    },
-    {
-      "title": "Vance intensifies to Category 1 hurricane in Pacific",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 22.044365081389596,
-      "lng": -101.04436508138959,
-      "desc": "1 recent report on disaster & logistics coverage originating from Mexico.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Vance intensifies to Category 1 hurricane in Pacific",
-          "url": "https://www.eldiariodechihuahua.mx/nacional/2026/oct/23/se-intensifica-vance-a-huracan-categoria-1-en-pacifico-850700.html",
-          "domain": "eldiariodechihuahua.mx"
-        }
-      ],
-      "id": 43
-    },
-    {
-      "title": "Moldovan Energocom requested a 31% increase in the electricity tariff",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 63.7,
-      "lng": 90,
-      "desc": "1 recent report on trade & tariffs coverage originating from Russia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "Moldovan Energocom requested a 31% increase in the electricity tariff",
-          "url": "https://1prime.ru/20261023/energocom-874566973.html",
-          "domain": "1prime.ru"
-        }
-      ],
-      "id": 44
-    },
-    {
-      "title": "Melania Trump  secures ceasefire between Russia and Ukraine  as statement issued",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 54,
-      "lng": 0.20000000000000018,
-      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Melania Trump  secures ceasefire between Russia and Ukraine  as statement issued",
-          "url": "https://www.dailystar.co.uk/news/us-news/breaking-melania-trump-secures-ceasefire-37804448",
-          "domain": "dailystar.co.uk"
-        }
-      ],
-      "id": 45
-    },
-    {
-      "title": "Dear Energy , Real Wages Down 9%: Italy Tight Between Inflation and Fossil Dependency",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 43.4556349186104,
-      "lng": 14.155634918610405,
-      "desc": "1 recent report on monetary policy coverage originating from Italy.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Dear Energy , Real Wages Down 9%: Italy Tight Between Inflation and Fossil Dependency",
-          "url": "https://www.italiaoggi.it/economia-e-politica/caro-energia-salari-reali-giu-del-9-italia-stretta-tra-inflazione-e-dipendenza-dai-fossili-n4b7pnae",
-          "domain": "italiaoggi.it"
-        }
-      ],
-      "id": 46
-    },
-    {
-      "title": "Kazakhstan Cuts Base Rate to 15 . 75 % as Annual Inflation Falls to 9 . 3 % ",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "Kazakhstan",
-      "lat": 49.5556349186104,
-      "lng": 68.45563491861041,
-      "desc": "1 recent report on monetary policy coverage originating from Kazakhstan.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Kazakhstan Cuts Base Rate to 15 . 75 % as Annual Inflation Falls to 9 . 3 % ",
-          "url": "https://astanatimes.com/2026/10/kazakhstan-cuts-base-rate-to-15-75-as-annual-inflation-falls-to-9-3/",
-          "domain": "astanatimes.com"
-        }
-      ],
-      "id": 47
-    },
-    {
-      "title": "Aughinish Alumina set to avoid targeted penalties in latest EU sanctions package",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Ireland",
-      "lat": 53.4,
-      "lng": -10.399999999999999,
-      "desc": "1 recent report on sanctions coverage originating from Ireland.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Aughinish Alumina set to avoid targeted penalties in latest EU sanctions package",
-          "url": "https://www.live95fm.ie/news/live95-news/aughinish-alumina-set-to-avoid-targeted-penalties-in-latest-eu-sanctions-package/",
-          "domain": "live95fm.ie"
-        }
-      ],
-      "id": 48
+      "id": 50
     },
     {
       "title": "Taiwan on high alert ahead of Hurricane Chabi",
@@ -1528,7 +1569,7 @@
           "domain": "madata.gr"
         }
       ],
-      "id": 49
+      "id": 51
     },
     {
       "title": "Russia does not need an end to the war : the ISW called the Kremlin's goal in the negotiations",
@@ -1556,7 +1597,7 @@
           "domain": "glavred.info"
         }
       ],
-      "id": 50
+      "id": 52
     },
     {
       "title": "As cyberattacks become more rampant, can defenders use AI to take back the city? - Official Titanium Media Website",
@@ -1584,7 +1625,7 @@
           "domain": "tmtpost.com"
         }
       ],
-      "id": 51
+      "id": 53
     },
     {
       "title": "Economists unanimously expect Fed rate hike in December",
@@ -1612,7 +1653,7 @@
           "domain": "africaleader.com"
         }
       ],
-      "id": 52
+      "id": 54
     },
     {
       "title": "Painful memories of the internet bubble! AI turmoil tortures the Fed: Do you dare to raise interest rates this year?_Oriental Wealth Network",
@@ -1640,7 +1681,7 @@
           "domain": "finance.eastmoney.com"
         }
       ],
-      "id": 53
+      "id": 55
     },
     {
       "title": "Serbia Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears",
@@ -1668,7 +1709,7 @@
           "domain": "rferl.org"
         }
       ],
-      "id": 54
+      "id": 56
     },
     {
       "title": "The ECB may raise interest rates in December . Economists more cautious than the market",
@@ -1696,7 +1737,7 @@
           "domain": "pb.pl"
         }
       ],
-      "id": 55
+      "id": 57
     },
     {
       "title": "Domino of revaluations from rally to oil price",
@@ -1724,7 +1765,7 @@
           "domain": "kathimerini.gr"
         }
       ],
-      "id": 56
+      "id": 58
     },
     {
       "title": "AI Heterogeneous Integration Promotes Specification Upgrades Legal Entity Names 13 PCB Supply Chains | Stock Market Highlights | Stock Marke",
@@ -1752,7 +1793,7 @@
           "domain": "udn.com"
         }
       ],
-      "id": 57
+      "id": 59
     },
     {
       "title": "The RBI October pivot is beyond the 25 bps repo rate hike",
@@ -1780,7 +1821,7 @@
           "domain": "moneycontrol.com"
         }
       ],
-      "id": 58
+      "id": 60
     },
     {
       "title": "How Trump's change of policy towards Ukraine is related to the US midterm elections on November 3 - Reuters commented on the situation - Ukr",
@@ -1808,7 +1849,7 @@
           "domain": "zn.ua"
         }
       ],
-      "id": 59
+      "id": 61
     },
     {
       "title": "Russia could return to the negotiating table with Ukraine and the US to end the war",
@@ -1836,7 +1877,7 @@
           "domain": "stiripesurse.ro"
         }
       ],
-      "id": 60
+      "id": 62
     },
     {
       "title": "Japan's core inflation surpasses 2% for first time in 9 months",
@@ -1864,7 +1905,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 61
+      "id": 63
     },
     {
       "title": "National Protests Demanding Free Elections in Venezuela… First Such Demonstration in “Nearly 2 Years” | Newsweek Japan Official Site",
@@ -1892,7 +1933,7 @@
           "domain": "newsweekjapan.jp"
         }
       ],
-      "id": 62
+      "id": 64
     },
     {
       "title": "Weather - Weekend Alert – Two Huge Hurricanes Target Europe",
@@ -1920,7 +1961,7 @@
           "domain": "heute.at"
         }
       ],
-      "id": 63
+      "id": 65
     },
     {
       "title": "How Lula turned four lessons from the presidential elections in Colombia into a comeback in Brazil Sunday runoff",
@@ -1948,7 +1989,7 @@
           "domain": "venezuelastar.com"
         }
       ],
-      "id": 64
+      "id": 66
     },
     {
       "title": "Economists unanimously expect Fed rate hike in December",
@@ -1976,7 +2017,7 @@
           "domain": "argentinastar.com"
         }
       ],
-      "id": 65
+      "id": 67
     },
     {
       "title": "Vučić promised before the Serbian parliamentary elections: no sanctions against Russia, no recognition of Kosovo's independence and adherenc",
@@ -2004,7 +2045,7 @@
           "domain": "military.china.com"
         }
       ],
-      "id": 66
+      "id": 68
     },
     {
       "title": "Why Israel's elections may not result in a clear winner?",
@@ -2032,7 +2073,7 @@
           "domain": "cedarnews.net"
         }
       ],
-      "id": 67
+      "id": 69
     },
     {
       "title": "  If we lift sanctions , we make Putin stronger : Zelenskyy questions Trump for waiver of sanctions against Russia",
@@ -2060,7 +2101,7 @@
           "domain": "russiaherald.com"
         }
       ],
-      "id": 68
+      "id": 70
     },
     {
       "title": "Food crisis may follow energy crisis",
@@ -2088,7 +2129,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 69
+      "id": 71
     },
     {
       "title": "Japan's 10-year bond yield rally threatens to end Fed policy efforts Bank of Japan sharply raises interest rates, reduces pressure on intere",
@@ -2116,7 +2157,7 @@
           "domain": "n.yam.com"
         }
       ],
-      "id": 70
+      "id": 72
     },
     {
       "title": "Arab News | Venezuelans call for elections in first national protest in nearly two years",
@@ -2144,7 +2185,7 @@
           "domain": "arabnews.com"
         }
       ],
-      "id": 71
+      "id": 73
     },
     {
       "title": "Zelensky : Ukraine Needs Air Defense Missiles and Sanctions Retention · h . ua",
@@ -2172,7 +2213,7 @@
           "domain": "h.ua"
         }
       ],
-      "id": 72
+      "id": 74
     },
     {
       "title": "Banco de la República : Leonardo Villar explained why interest rates do not fall despite the impact on housing",
@@ -2200,7 +2241,7 @@
           "domain": "portafolio.co"
         }
       ],
-      "id": 73
+      "id": 75
     },
     {
       "title": "Felipe González will vote blank in the elections : I don't see anything that represents me",
@@ -2228,7 +2269,7 @@
           "domain": "europasur.es"
         }
       ],
-      "id": 74
+      "id": 76
     },
     {
       "title": "Suppliers sanctioned by Anti-Corruption accumulate contracts for more than 500 million pesos",
@@ -2256,7 +2297,7 @@
           "domain": "eluniversal.com.mx"
         }
       ],
-      "id": 75
+      "id": 77
     },
     {
       "title": "Ayudatón 2026 in Cali : Food Bank promotes donations after earthquake",
@@ -2284,7 +2325,7 @@
           "domain": "pulzo.com"
         }
       ],
-      "id": 76
+      "id": 78
     },
     {
       "title": "Brazilian investments in the United States rise again after tariff ; in China , volume falls",
@@ -2312,35 +2353,7 @@
           "domain": "estadao.com.br"
         }
       ],
-      "id": 77
-    },
-    {
-      "title": "At least 16 people were killed in a powerful earthquake in Tibet",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 59.94436508138959,
-      "lng": 91.55563491861041,
-      "desc": "1 recent report on disaster & logistics coverage originating from Russia.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T22:19:41.057Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "At least 16 people were killed in a powerful earthquake in Tibet",
-          "url": "https://news.mail.ru/incident/72823280/",
-          "domain": "news.mail.ru"
-        }
-      ],
-      "id": 78
+      "id": 79
     },
     {
       "title": "Live ticker : This is how the second round of the mayoral election in Ettenheim runs",
@@ -2368,7 +2381,7 @@
           "domain": "badische-zeitung.de"
         }
       ],
-      "id": 79
+      "id": 80
     },
     {
       "title": "UNICEF : 351 children killed in Gaza since October 2025 ceasefire",
@@ -2396,7 +2409,7 @@
           "domain": "english.wafa.ps"
         }
       ],
-      "id": 80
+      "id": 81
     },
     {
       "title": "A magnitude 7 earthquake shook the Tibet region of China",
@@ -2424,7 +2437,7 @@
           "domain": "rosario3.com"
         }
       ],
-      "id": 81
+      "id": 82
     },
     {
       "title": "A 7 . 0 earthquake hits China Tibet , killing 16 and injuring 32 – Brandon Sun",
@@ -2452,7 +2465,7 @@
           "domain": "brandonsun.com"
         }
       ],
-      "id": 82
+      "id": 83
     },
     {
       "title": "Israeli elections: Residents of terror-hit Kibbutz Nahal feel let down by Benjamin Netanyahu",
@@ -2480,7 +2493,7 @@
           "domain": "tv2.no"
         }
       ],
-      "id": 83
+      "id": 84
     },
     {
       "title": "7.0 earthquake hits Tibet in China",
@@ -2508,7 +2521,7 @@
           "domain": "arabstoday.net"
         }
       ],
-      "id": 84
+      "id": 85
     },
     {
       "title": "Comparing the interest rates of savings certificates in the most prominent Egyptian banks.. Where do you invest your money?",
@@ -2536,7 +2549,7 @@
           "domain": "dostor.org"
         }
       ],
-      "id": 85
+      "id": 86
     },
     {
       "title": "The price of natural gas in Europe breaks new highs since the end of 2022",
@@ -2564,7 +2577,7 @@
           "domain": "eldiario.es"
         }
       ],
-      "id": 86
+      "id": 87
     },
     {
       "title": "ROUNDUP / Stocks Europe Conclusion : Techs and high oil prices push down prices",
@@ -2592,7 +2605,7 @@
           "domain": "onvista.de"
         }
       ],
-      "id": 87
+      "id": 88
     },
     {
       "title": "Brutal Elections with Voters Who Are Not Fully Conscious",
@@ -2620,7 +2633,7 @@
           "domain": "beritajatim.com"
         }
       ],
-      "id": 88
+      "id": 89
     },
     {
       "title": "Qalibaf warns Americans of the consequences of war with Iran and calls on them to retreat from it – Al-Manar TV",
@@ -2648,7 +2661,7 @@
           "domain": "almanar.com.lb"
         }
       ],
-      "id": 89
+      "id": 90
     },
     {
       "title": "Economic History Notebooks - Colombia's Economic Development from the End of the Thousand Day War to the Great Depression",
@@ -2676,7 +2689,7 @@
           "domain": "banrep.gov.co"
         }
       ],
-      "id": 90
+      "id": 91
     },
     {
       "title": "Human rights defender Javed Beigh condemns Pakistan 1947 invasion of Jammu and Kashmir , alleges atrocities in PoJK",
@@ -2704,7 +2717,7 @@
           "domain": "pakistantelegraph.com"
         }
       ],
-      "id": 91
+      "id": 92
     },
     {
       "title": "Kast in the midst of a change in the presidency of the Constitution Commission:  It hurts us that for thinking differently someone is sancti",
@@ -2732,7 +2745,7 @@
           "domain": "latercera.com"
         }
       ],
-      "id": 92
+      "id": 93
     },
     {
       "title": "Elections on the brink of war : Will the Middle East change with Netanyahu's departure or will politics remain? | Book of Ammon",
@@ -2760,7 +2773,7 @@
           "domain": "ammonnews.net"
         }
       ],
-      "id": 93
+      "id": 94
     },
     {
       "title": "  It never done till it done , says EAM Jaishankar on India - US trade deal",
@@ -2788,7 +2801,7 @@
           "domain": "calcuttanews.net"
         }
       ],
-      "id": 94
+      "id": 95
     },
     {
       "title": "Dollar Stops Pullback Awaiting Interest Rate Decisions",
@@ -2816,7 +2829,7 @@
           "domain": "albayan.ae"
         }
       ],
-      "id": 95
+      "id": 96
     },
     {
       "title": "An era that opens fire on the great dilemma: the Central Bank of Libya has been transformed into a salary treasury and a commercial bank.. a",
@@ -2844,7 +2857,7 @@
           "domain": "libyaakhbar.com"
         }
       ],
-      "id": 96
+      "id": 97
     },
     {
       "title": "CUBA denounces, with evidence, how the US. USA threatens with tariffs and sanctions to countries that vote against its blockade",
@@ -2872,7 +2885,7 @@
           "domain": "insurgente.org"
         }
       ],
-      "id": 97
+      "id": 98
     },
     {
       "title": "Natural gas P . A., new Consip agreement worth 1.1 billion euros activated Italpress news agency",
@@ -2900,7 +2913,7 @@
           "domain": "italpress.com"
         }
       ],
-      "id": 98
+      "id": 99
     },
     {
       "title": "Allegations that Israel and the USA are preparing to attack Iran increased tensions before the election",
@@ -2928,7 +2941,7 @@
           "domain": "haberler.com"
         }
       ],
-      "id": 99
+      "id": 100
     },
     {
       "title": "India interest rate gap with G7 in focus as RBI weighs inflation risks : Report",
@@ -2956,7 +2969,7 @@
           "domain": "afghanistannews.net"
         }
       ],
-      "id": 100
+      "id": 101
     },
     {
       "title": "Rates firm and inflation under control: the SNB remains cautious",
@@ -2984,7 +2997,7 @@
           "domain": "tio.ch"
         }
       ],
-      "id": 101
+      "id": 102
     },
     {
       "title": "India interest rate gap with G7 in focus as RBI weighs inflation risks : Report",
@@ -3012,7 +3025,7 @@
           "domain": "nigeriasun.com"
         }
       ],
-      "id": 102
+      "id": 103
     },
     {
       "title": "Trump tariffs on steel , aluminum a  disaster  for the U . S .: Think tank",
@@ -3040,7 +3053,7 @@
           "domain": "nationalpost.com"
         }
       ],
-      "id": 103
+      "id": 104
     },
     {
       "title": "The issues at issue are \"two wars on inflation\" and \"Trump's confidence\"... Read about the unprecedented US midterm elections | Newsweek Jap",
@@ -3068,7 +3081,7 @@
           "domain": "newsweekjapan.jp"
         }
       ],
-      "id": 104
+      "id": 105
     },
     {
       "title": "Oil prices jump on Middle East worries as U . S ., Israel reportedly weigh fresh Iran strikes",
@@ -3096,7 +3109,7 @@
           "domain": "cnbcafrica.com"
         }
       ],
-      "id": 105
+      "id": 106
     },
     {
       "title": "US and Israel draw up plans for renewed strikes on Iran after elections",
@@ -3124,7 +3137,7 @@
           "domain": "irishtimes.com"
         }
       ],
-      "id": 106
+      "id": 107
     },
     {
       "title": "Kansas Sen . Roger Marshall says the Ukraine war , not the Iran war , has caused high diesel prices",
@@ -3152,7 +3165,7 @@
           "domain": "asiaone.com"
         }
       ],
-      "id": 107
+      "id": 108
     }
   ]
 }
