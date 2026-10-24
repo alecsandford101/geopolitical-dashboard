@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:40:40.900Z",
+  "generatedAt": "2026-10-24T05:51:33.558Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
@@ -90,47 +90,133 @@
       "id": 2
     },
     {
-      "title": "Earthquake in Palermo , Mayor Lagalla considers precautionary evacuation of some public buildings",
-      "category": "Disaster & Logistics",
+      "title": "Trump lifts tariffs on some Canadian imports , adds others in sweeping revision",
+      "category": "Trade & Tariffs",
       "severity": "Medium",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 40.3443650813896,
-      "lng": 14.155634918610405,
-      "desc": "5 recent reports on disaster & logistics coverage originating from Italy.",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.7,
+      "lng": -98.4,
+      "desc": "5 recent reports on trade & tariffs coverage originating from United States.",
       "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
+        "Equities",
+        "FX",
+        "Industrials"
       ],
       "count": 5,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Italian",
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
       "sources": [
         {
-          "title": "Earthquake in Palermo , Mayor Lagalla considers precautionary evacuation of some public buildings",
-          "url": "https://trapanioggi.it/terremoto-a-palermo-il-sindaco-lagalla-valuta-levacuazione-precauzionale-di-alcuni-edifici-pubblici/",
-          "domain": "trapanioggi.it"
+          "title": "Trump lifts tariffs on some Canadian imports , adds others in sweeping revision",
+          "url": "https://kval.com/news/nation-world/trump-lifts-tariffs-on-some-canadian-imports-adds-others-in-sweeping-revision",
+          "domain": "kval.com"
         },
         {
-          "title": "Earthquake magnitude 5.5 in the Tyrrhenian Sea , orange tsunami alert in Sicily : schools evacuated and Civil Protection mobilised",
-          "url": "https://www.strettoweb.com/2026/10/terremoto-magnitudo-5-nel-tirreno-allerta-maremoto-arancione-in-sicilia-scuole-evacuate-e-protezione-civile-mobilitata/2165689/",
-          "domain": "strettoweb.com"
+          "title": "Trump Administration Rolls Back Some Canada Tariffs",
+          "url": "https://wwnc.iheart.com/content/2026-10-24-trump-administration-rolls-back-some-canada-tariffs/",
+          "domain": "wwnc.iheart.com"
         },
         {
-          "title": "Earthquake in Palermo , the CNDDU launches the alarm on the safety of schools : 77% without a certificate of viability",
-          "url": "https://www.palermomania.it/news/scuola/terremoto-a-palermo-il-cnddu-lancia-lallarme-sulla-sicurezza-delle-scuole-il-77-senza-certificato-di-agibilita-138934.html",
-          "domain": "palermomania.it"
+          "title": "Trump Administration Rolls Back Some Canada Tariffs",
+          "url": "https://wflanews.iheart.com/content/2026-10-24-trump-administration-rolls-back-some-canada-tariffs/",
+          "domain": "wflanews.iheart.com"
         },
         {
-          "title": "Earthquake in Palermo , strong earthquake of magnitude 5 . 5 in the Tyrrhenian Sea : fear among citizens",
-          "url": "https://www.palermomania.it/news/attualita/terremoto-a-palermo-forte-scossa-di-magnitudo-50-nel-tirreno-paura-tra-i-cittadini-138932.html",
-          "domain": "palermomania.it"
+          "title": "Trump lifts tariffs on some Canadian imports , adds others in sweeping revision",
+          "url": "https://komonews.com/news/nation-world/trump-lifts-tariffs-on-some-canadian-imports-adds-others-in-sweeping-revision",
+          "domain": "komonews.com"
         }
       ],
       "id": 3
+    },
+    {
+      "title": "Eby explains B . C . election call , makes his last pitch to voters in sit - down interview | The Interior News",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 54.5443650813896,
+      "lng": -107.8556349186104,
+      "desc": "4 recent reports on elections coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 4,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Eby explains B . C . election call , makes his last pitch to voters in sit - down interview | The Interior News",
+          "url": "https://interior-news.com/2026/10/23/eby-explains-b-c-election-call-makes-his-last-pitch-to-voters-in-sit-down-interview/",
+          "domain": "interior-news.com"
+        },
+        {
+          "title": "Follow along here Saturday evening for live B . C . election coverage",
+          "url": "https://cranbrooktownsman.com/2026/10/23/follow-along-here-saturday-evening-for-live-b-c-election-coverage/",
+          "domain": "cranbrooktownsman.com"
+        },
+        {
+          "title": "Follow along here Saturday evening for live B . C . election coverage",
+          "url": "https://clearwatertimes.com/2026/10/23/follow-along-here-saturday-evening-for-live-b-c-election-coverage/",
+          "domain": "clearwatertimes.com"
+        },
+        {
+          "title": "Eby explains B . C . election call , makes his last pitch to voters in sit - down interview",
+          "url": "https://clearwatertimes.com/2026/10/23/eby-explains-b-c-election-call-makes-his-last-pitch-to-voters-in-sit-down-interview/",
+          "domain": "clearwatertimes.com"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "Yemini Sees Little Election Gain for Netanyahu in West Bank Operation",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "4 recent reports on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 4,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Yemini Sees Little Election Gain for Netanyahu in West Bank Operation",
+          "url": "https://econotimes.com/Yemini-Sees-Little-Election-Gain-for-Netanyahu-in-West-Bank-Operation-1762057",
+          "domain": "econotimes.com"
+        },
+        {
+          "title": "Special Recall Election Would Cost Wheeling Taxpayers $52K",
+          "url": "https://www.theintelligencer.net/news/top-headlines/2026/10/special-recall-election-would-cost-wheeling-taxpayers-52k/",
+          "domain": "theintelligencer.net"
+        },
+        {
+          "title": "GU Student Body Passes Nonbinding Employment Policy Referendum",
+          "url": "https://thehoya.com/news/gu-student-body-passes-nonbinding-employment-policy-referendum/",
+          "domain": "thehoya.com"
+        },
+        {
+          "title": "DOJ demands that California counties help identify noncitizen voters",
+          "url": "https://www.nbcnews.com/politics/2026-election/doj-demands-california-counties-help-identify-noncitizen-voters-rcna605356",
+          "domain": "nbcnews.com"
+        }
+      ],
+      "id": 5
     },
     {
       "title": "  Told them we will put 250 % tariffs ...: Trump reiterates claim of India - Pakistan ceasefire through tariff threat",
@@ -173,45 +259,45 @@
           "domain": "3dmgame.com"
         }
       ],
-      "id": 4
+      "id": 6
     },
     {
-      "title": "Zero net tax impact if voters approve school district operating referendum",
-      "category": "Elections",
+      "title": "War in Ukraine Russia tests new ballistic missile that cities under threat of TSN Exclusive",
+      "category": "Conflict",
       "severity": "Medium",
       "date": "2026-10-24",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "3 recent reports on elections coverage originating from United States.",
+      "region": "Europe",
+      "place": "Ukraine",
+      "lat": 48.4,
+      "lng": 33.4,
+      "desc": "3 recent reports on conflict coverage originating from Ukraine.",
       "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
+        "Defense",
+        "Oil",
+        "Gold"
       ],
       "count": 3,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": false,
-      "lang": null,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Ukrainian",
       "sources": [
         {
-          "title": "Zero net tax impact if voters approve school district operating referendum",
-          "url": "https://www.elyecho.com/article/5295,zero-net-tax-impact-if-voters-approve-school-district-s-operating-referendum",
-          "domain": "elyecho.com"
+          "title": "War in Ukraine Russia tests new ballistic missile that cities under threat of TSN Exclusive",
+          "url": "https://tsn.ua/exclusive/rosiia-vyprobovuye-novu-balistychnu-raketu-zdanov-poperedyv-iaki-mista-na-zakhodi-ukrayiny-pid-zahrozoiu-3198379.html",
+          "domain": "tsn.ua"
         },
         {
-          "title": "Trump at South Florida rally revives the idea of military intervention in Cuba after Iran",
-          "url": "https://www.messenger-inquirer.com/ap/elections/trump-at-south-florida-rally-revives-the-idea-of-military-intervention-in-cuba-after-iran/article_7657527e-0aeb-5e49-8863-8f5bb443d0e0.html",
-          "domain": "messenger-inquirer.com"
+          "title": "Zelensky agreed to freeze the war on the front line",
+          "url": "https://tsn.ua/politika/zelenskyy-hotovyy-zamorozyty-viynu-po-liniyi-frontu-ale-nazvav-umovu-na-iaku-ukrayina-ne-pide-3198411.html",
+          "domain": "tsn.ua"
         },
         {
-          "title": "Referendums on ballot to ban insider trading in Lackawanna , Luzerne counties",
-          "url": "https://www.citizensvoice.com/2026/10/23/referendums-on-ballot-to-ban-insider-trading-in-lackawanna-luzerne-counties/",
-          "domain": "citizensvoice.com"
+          "title": "\" Freeze the war on the front line right now \": Zelensky answered under what conditions he would sign a peace agreement",
+          "url": "https://focus.ua/politics/772336-zamorozit-voynu-na-linii-fronta-pryamo-seychas-zelenskiy-otvetil-pri-kakih-usloviyah-podpishet-mirnoe-soglashenie",
+          "domain": "focus.ua"
         }
       ],
-      "id": 5
+      "id": 7
     },
     {
       "title": "As NC electric bills rise , lawmakers weigh coal , natural gas exports and power plant costs",
@@ -249,45 +335,7 @@
           "domain": "krcgtv.com"
         }
       ],
-      "id": 6
-    },
-    {
-      "title": "Two governments for Yanukovych and Tsarev : what plans did the FSB prepare on the eve of Russia's invasion of Ukraine",
-      "category": "Conflict",
-      "severity": "Medium",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Ukraine",
-      "lat": 48.4,
-      "lng": 33.4,
-      "desc": "3 recent reports on conflict coverage originating from Ukraine.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": true,
-      "lang": "Ukrainian",
-      "sources": [
-        {
-          "title": "Two governments for Yanukovych and Tsarev : what plans did the FSB prepare on the eve of Russia's invasion of Ukraine",
-          "url": "https://nbnews.com.ua/politika-uk/2022/08/19/dva-uryadi-dlya-yanukovicha-ta-tsarova-yaki/",
-          "domain": "nbnews.com.ua"
-        },
-        {
-          "title": "Ukraine will adhere to the ceasefire in the occupied Oleshky",
-          "url": "https://novosti.dn.ua/news/404277-ukrayina-dotrymuvatymetsya-rezhymu-prypynennya-vognyu-v-okupovanyh-oleshkah/",
-          "domain": "novosti.dn.ua"
-        },
-        {
-          "title": "BlackSeaNews | Operational information as of 22 : 00 23 . 10 . 2026 regarding the Russian invasion",
-          "url": "https://www.blackseanews.net/read/249721",
-          "domain": "blackseanews.net"
-        }
-      ],
-      "id": 7
+      "id": 8
     },
     {
       "title": "The White House said that the United States had reached an agreement on a ceasefire in Aleshky",
@@ -325,7 +373,271 @@
           "domain": "aif.ru"
         }
       ],
-      "id": 8
+      "id": 9
+    },
+    {
+      "title": "Thrust fault lock under the Himalayas in Uttarakhand, may come a major earthquake of 8.1 magnitude?",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 80.25563491861041,
+      "desc": "2 recent reports on disaster & logistics coverage originating from India.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Hindi",
+      "sources": [
+        {
+          "title": "Thrust fault lock under the Himalayas in Uttarakhand, may come a major earthquake of 8.1 magnitude?",
+          "url": "https://hindi.webdunia.com/national-hindi-news/uttarakhand-earthquake-warning-himalaya-fault-locked-researc-126102400005_1.html",
+          "domain": "hindi.webdunia.com"
+        },
+        {
+          "title": "Top News 24 October : Earthquake again in Tibet, protests in France, what did the Ministry of External Affairs say on India-China tensions?",
+          "url": "https://hindi.webdunia.com/national-hindi-news/top-news-24-october-tibet-earthquake-france-protest-asian-para-games-126102400002_1.html",
+          "domain": "hindi.webdunia.com"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "Another revelation of arbitrariness in the Election Commission - Naya India - Hindi News , Latest Hindi News , Breaking News , Hindi Samacha",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 77.1443650813896,
+      "desc": "2 recent reports on elections coverage originating from India.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Hindi",
+      "sources": [
+        {
+          "title": "Another revelation of arbitrariness in the Election Commission - Naya India - Hindi News , Latest Hindi News , Breaking News , Hindi Samachar",
+          "url": "https://www.nayaindia.com/news/election-commission-controversy/523565.html",
+          "domain": "nayaindia.com"
+        },
+        {
+          "title": "Rajasthan panchayat elections : Voting starts in 3 , 314 Gram Panchayats",
+          "url": "https://ianslive.in/rajasthan-panchayat-election-voting-starts-in-3314-gram-panchayats--20261024095252",
+          "domain": "ianslive.in"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "Ukrainian War, Zelensky : \" Ready to make peace immediately , but we will not give up any more territories \". From Tuesday away to the truce",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "2 recent reports on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Ukrainian War, Zelensky : \" Ready to make peace immediately , but we will not give up any more territories \". From Tuesday away to the truce in Oleshky",
+          "url": "https://www.ilmessaggero.it:443/mondo/guerra_ucraina_tregua_diretta_oggi_ultime_notizie-9845683.html",
+          "domain": "ilmessaggero.it"
+        },
+        {
+          "title": "Tolyattikauchuk Russian War Plant Burns After Attack by Ukrainian Drones Samara Region",
+          "url": "https://www.zazoom.it/2026-10-24/impianto-di-guerra-russo-di-tolyattikauchuk-brucia-dopo-un-attacco-droni-ucraini-regione-di-samara/19841046/",
+          "domain": "zazoom.it"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "Two large earthquakes off coast of Vanuatu prompt tsunami warning - 24 - Oct - 2026",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "New Zealand",
+      "lat": -42.4556349186104,
+      "lng": 176.4556349186104,
+      "desc": "2 recent reports on disaster & logistics coverage originating from New Zealand.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Two large earthquakes off coast of Vanuatu prompt tsunami warning - 24 - Oct - 2026",
+          "url": "https://home.nzcity.co.nz/news/article.aspx?id=456619&fm=psp,tsf",
+          "domain": "home.nzcity.co.nz"
+        },
+        {
+          "title": "Two large earthquakes off coast of Vanuatu prompt tsunami warning - 24 - Oct - 2026",
+          "url": "https://home.nzcity.co.nz/news/article.aspx?id=456619&fm=psp,tst",
+          "domain": "home.nzcity.co.nz"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "Mitsotakis earthquake in Greece: Declared fugitives after Turkish slap",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 37.44436508138959,
+      "lng": 36.755634918610404,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Turkey.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Mitsotakis earthquake in Greece: Declared fugitives after Turkish slap",
+          "url": "https://www.yeniakit.com.tr/foto-galeri/yunanistanda-micotakis-depremi-turk-tokadindan-sonra-kacak-ilan-edildiler-181346",
+          "domain": "yeniakit.com.tr"
+        },
+        {
+          "title": "Earthquake hits South Pacific! Shook violently 3 times in 47 minutes",
+          "url": "https://www.aksam.com.tr/dunya/deprem-guney-pasifiki-vurdu-47-dakika-icinde-3-kez-siddetli-sallandi/haber-1708720",
+          "domain": "aksam.com.tr"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "title": "Brazil election : How a changing working class is reshaping the presidential race",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 52.4443650813896,
+      "lng": -3.555634918610405,
+      "desc": "2 recent reports on elections coverage originating from United Kingdom.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Brazil election : How a changing working class is reshaping the presidential race",
+          "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno",
+          "domain": "bbc.co.uk"
+        },
+        {
+          "title": "As a divided Israel prepares to go to the polls , can Netanyahu pull off his greatest political trick yet ? ",
+          "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+          "domain": "theguardian.com"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "title": "Vanuatu : Strong earthquakes 6 , 9 and 6 , 3 Richter – Tsunami alert lifted",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 37.5443650813896,
+      "lng": 23.355634918610406,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Greece.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Vanuatu : Strong earthquakes 6 , 9 and 6 , 3 Richter – Tsunami alert lifted",
+          "url": "https://www.inewsgr.com/227/vanouatou-ischyroi-seismoi-69-kai-63-richter--irthi-o-synagermos-gia-tsounami.htm",
+          "domain": "inewsgr.com"
+        },
+        {
+          "title": "New 7.2 Richter ' Ring of Fire ' Earthquake: Pacific Ocean Tsunami Warning",
+          "url": "https://www.newsbomb.gr/kosmos/story/1771934/neos-seismos-7-2-rixter-sto-daxtylidi-tis-fotias-proeidopoiisi-gia-tsounami-ston-eiriniko-okeano",
+          "domain": "newsbomb.gr"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "title": "Fuzhou Zhiguan Underground Lifeline to build a drainage and flood barrier_Fuzhou_News Channel_Fuzhou News Network",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 34.3443650813896,
+      "lng": 105.75563491861041,
+      "desc": "2 recent reports on disaster & logistics coverage originating from China.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Fuzhou Zhiguan Underground Lifeline to build a drainage and flood barrier_Fuzhou_News Channel_Fuzhou News Network",
+          "url": "https://news.fznews.com.cn/fzyw/20261024/6adc28a579f5d.shtml",
+          "domain": "news.fznews.com.cn"
+        },
+        {
+          "title": "More relief supplies distributed to earthquake-affected area in Xizang",
+          "url": "http://spanish.china.org.cn/txt/2026-10/24/content_118747473.htm",
+          "domain": "spanish.china.org.cn"
+        }
+      ],
+      "id": 17
     },
     {
       "title": "White House Announces Russia-Ukraine Ceasefire at Oleshky Death Trap",
@@ -358,73 +670,7 @@
           "domain": "baohatinh.vn"
         }
       ],
-      "id": 9
-    },
-    {
-      "title": "  Told them we will put 250 % tariffs ...: Trump reiterates claim of India - Pakistan ceasefire through tariff threat",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-24",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "2 recent reports on conflict coverage originating from United States.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "  Told them we will put 250 % tariffs ...: Trump reiterates claim of India - Pakistan ceasefire through tariff threat",
-          "url": "http://www.laosnews.net/news/279395324/told-them-we-will-put-250-tariffs-trump-reiterates-claim-of-india-pakistan-ceasefire-through-tariff-threat",
-          "domain": "laosnews.net"
-        },
-        {
-          "title": "Libyan parliament ratifies maritime deal with Türkiye , heightening war danger in Eastern Mediterranean",
-          "url": "https://www.wsws.org/en/articles/2026/10/23/liby-o23.html",
-          "domain": "wsws.org"
-        }
-      ],
-      "id": 10
-    },
-    {
-      "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.94436508138959,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on disaster & logistics coverage originating from United States.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T22:09:31.312Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
-          "url": "https://www.mendocinobeacon.com/2026/10/23/hurricane-vance-mexico/",
-          "domain": "mendocinobeacon.com"
-        },
-        {
-          "title": "Josephine is still an intense storm | Hurricane - force wind risk",
-          "url": "https://www.wxii12.com/article/josephine-extratropical-hurricane-force-wind-nc-beach/74222855",
-          "domain": "wxii12.com"
-        }
-      ],
-      "id": 11
+      "id": 18
     },
     {
       "title": "Dear Energy , Real Wages Down 9%: Italy Tight Between Inflation and Fossil Dependency",
@@ -457,7 +703,7 @@
           "domain": "borsaitaliana.it"
         }
       ],
-      "id": 12
+      "id": 19
     },
     {
       "title": "Bursa TB welcomes policy rate cut to 36%",
@@ -490,7 +736,7 @@
           "domain": "birgun.net"
         }
       ],
-      "id": 13
+      "id": 20
     },
     {
       "title": "Melania Trump claims to have brokered local ceasefire in Ukraine - war",
@@ -523,7 +769,7 @@
           "domain": "tagesspiegel.de"
         }
       ],
-      "id": 14
+      "id": 21
     },
     {
       "title": "Israeli Elections: Changing Netanyahu or Netanyahuism?",
@@ -556,40 +802,7 @@
           "domain": "middleeastmonitor.com"
         }
       ],
-      "id": 15
-    },
-    {
-      "title": "China Allocates $12 Million for Earthquake Relief and Recovery in Xizang",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 34.3443650813896,
-      "lng": 105.75563491861041,
-      "desc": "2 recent reports on disaster & logistics coverage originating from China.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "China Allocates $12 Million for Earthquake Relief and Recovery in Xizang",
-          "url": "http://spanish.xinhuanet.com/20261023/5723720a4e724ebcb11a30509a830ce9/c.html",
-          "domain": "spanish.xinhuanet.com"
-        },
-        {
-          "title": "Affected by typhoons, mountain floods and small and medium-sized rivers in Fujian and Zhejiang are at high risk of flooding",
-          "url": "https://baijiahao.baidu.com/s?id=1879850610960511558",
-          "domain": "baijiahao.baidu.com"
-        }
-      ],
-      "id": 16
+      "id": 22
     },
     {
       "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
@@ -622,7 +835,7 @@
           "domain": "niagarafallsreview.ca"
         }
       ],
-      "id": 17
+      "id": 23
     },
     {
       "title": "ECB : Economists see new interest rate hike in December – deposit rate at 2.75%",
@@ -655,7 +868,7 @@
           "domain": "kathimerini.gr"
         }
       ],
-      "id": 18
+      "id": 24
     },
     {
       "title": "Japanese Consumer Prices Hit 2% in 9 Months; Observation of Additional Interest Rate Increase in December [General]",
@@ -688,7 +901,7 @@
           "domain": "edaily.co.kr"
         }
       ],
-      "id": 19
+      "id": 25
     },
     {
       "title": "Olomouc News - Domestic - Babiš wants cheaper mortgages . Criticizes bank profits and CNB interest rates",
@@ -721,7 +934,7 @@
           "domain": "moravskoslezskenovinky.cz"
         }
       ],
-      "id": 20
+      "id": 26
     },
     {
       "title": "John Hanscombe | Echidna : how a war game is restoring online hope | The Armidale Express",
@@ -754,7 +967,7 @@
           "domain": "mandurahmail.com.au"
         }
       ],
-      "id": 21
+      "id": 27
     },
     {
       "title": "Evening OVERVIEW/ Economy , Central Banks , Politics",
@@ -787,7 +1000,707 @@
           "domain": "handelsblatt.com"
         }
       ],
-      "id": 22
+      "id": 28
+    },
+    {
+      "title": "Trump modifies scope of 50 percent tariffs on Canadian products",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 38.1,
+      "lng": 104.2,
+      "desc": "1 recent report on trade & tariffs coverage originating from China.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Trump modifies scope of 50 percent tariffs on Canadian products",
+          "url": "http://spanish.china.org.cn/txt/2026-10/24/content_118747519.htm",
+          "domain": "spanish.china.org.cn"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "Why the drums of the \" Third War \" are beating in the Gulf",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 39.1,
+      "lng": 24,
+      "desc": "1 recent report on conflict coverage originating from Greece.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Why the drums of the \" Third War \" are beating in the Gulf",
+          "url": "https://www.naftemporiki.gr/kosmos/2179406/giati-chtypoyn-ta-tympana-toy-tritoy-polemoy-ston-kolpo/",
+          "domain": "naftemporiki.gr"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "Bribes in reconstruction , tsunami risk in the supply chain : artisans and workers tremble in the Macerata area",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 40.3443650813896,
+      "lng": 14.155634918610405,
+      "desc": "1 recent report on disaster & logistics coverage originating from Italy.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Bribes in reconstruction , tsunami risk in the supply chain : artisans and workers tremble in the Macerata area",
+          "url": "https://www.corriereadriatico.it:443/macerata/inchesta_ricostruzione_tangenti_rischio_tsunami_filiera_tremano_artigiani_lavoratori_macerata-9844467.html",
+          "domain": "corriereadriatico.it"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "Indian equities extend losses this week as Brent crude oil rises to 6 - month high",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 23.955634918610404,
+      "lng": 77.1443650813896,
+      "desc": "1 recent report on energy coverage originating from India.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Indian equities extend losses this week as Brent crude oil rises to 6 - month high",
+          "url": "https://ianslive.in/indian-equities-extend-losses-this-week-as-brent-crude-oil-rises-to-6-month-high--20261024093320",
+          "domain": "ianslive.in"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "7.2-Magnitude Earthquake Rattles Shores of Vanatu ; Tsunami Warning Triggered",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -101.04436508138959,
+      "desc": "1 recent report on disaster & logistics coverage originating from Mexico.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "7.2-Magnitude Earthquake Rattles Shores of Vanatu ; Tsunami Warning Triggered",
+          "url": "https://www.eleconomista.com.mx/internacionales/terremoto-magnitud-7-2-sacudio-costas-vanatu-activan-alerta-tsunami-20261023-840282.html",
+          "domain": "eleconomista.com.mx"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "title": "Cai Yiyu Six Legs Township Joint Competition President Established Together with Huang Zhenkai and Huang Zhenghui to Create Thousands of Man",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 22.144365081389594,
+      "lng": 119.40436508138959,
+      "desc": "1 recent report on elections coverage originating from Taiwan.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Cai Yiyu Six Legs Township Joint Competition President Established Together with Huang Zhenkai and Huang Zhenghui to Create Thousands of Manpower | County Mayor's Councillor Election | Highlights",
+          "url": "https://udn.com/news/story/124652/9834856",
+          "domain": "udn.com"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "title": "What happens now with your election promises in Gävle , M ? – Gefle Dagblad",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Sweden",
+      "lat": 58.5443650813896,
+      "lng": 17.044365081389596,
+      "desc": "1 recent report on elections coverage originating from Sweden.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Swedish",
+      "sources": [
+        {
+          "title": "What happens now with your election promises in Gävle , M ? – Gefle Dagblad",
+          "url": "https://www.gd.se/opinion/debatt/vad-hander-nu-med-era-valloften-i-gavle-m/",
+          "domain": "gd.se"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "title": "Editorial : Helping his pal win the war",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "1 recent report on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Editorial : Helping his pal win the war",
+          "url": "https://www.thesunchronicle.com/opinion/editorial-helping-his-pal-win-the-war/article_2cfe6929-46ec-40f4-b8f9-dff29ca0add5.html",
+          "domain": "thesunchronicle.com"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "title": "7.2 magnitude earthquake off Vanuatu: tsunami warning",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Switzerland",
+      "lat": 45.24436508138959,
+      "lng": 9.755634918610404,
+      "desc": "1 recent report on disaster & logistics coverage originating from Switzerland.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "7.2 magnitude earthquake off Vanuatu: tsunami warning",
+          "url": "https://latele.ch/articles/seisme-de-magnitude-7-2-au-large-du-vanuatu-alerte-au-tsunami",
+          "domain": "latele.ch"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "title": "Will the US attack Iran this weekend or wait until after the election ?",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "Vietnam",
+      "lat": 12.504365081389595,
+      "lng": 106.74436508138959,
+      "desc": "1 recent report on elections coverage originating from Vietnam.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Vietnamese",
+      "sources": [
+        {
+          "title": "Will the US attack Iran this weekend or wait until after the election ?",
+          "url": "https://tuoitre.vn/my-se-tan-cong-iran-ngay-cuoi-tuan-nay-hay-cho-sau-bau-cu-100261024091744867.htm",
+          "domain": "tuoitre.vn"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "title": "Trump tries to pre-empt a possible Democratic election win in Alaska",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Finland",
+      "lat": 60.3443650813896,
+      "lng": 24.144365081389594,
+      "desc": "1 recent report on elections coverage originating from Finland.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Finnish",
+      "sources": [
+        {
+          "title": "Trump tries to pre-empt a possible Democratic election win in Alaska",
+          "url": "https://www.ksml.fi/uutissuomalainen/9898654",
+          "domain": "ksml.fi"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "title": "An expert from the United States called Trump's popularity an important factor in the election",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Russia",
+      "lat": 59.9443650813896,
+      "lng": 88.44436508138959,
+      "desc": "1 recent report on elections coverage originating from Russia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "An expert from the United States called Trump's popularity an important factor in the election",
+          "url": "https://ria.ru/20261024/tramp-2126692694.html",
+          "domain": "ria.ru"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "title": "Joburg failed Slovo Park and residents have lost hope in elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Africa",
+      "place": "South Africa",
+      "lat": -32.1556349186104,
+      "lng": 21.344365081389594,
+      "desc": "1 recent report on elections coverage originating from South Africa.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Joburg failed Slovo Park and residents have lost hope in elections",
+          "url": "https://www.dailymaverick.co.za/article/2026-10-24-slovo-park-could-be-a-joburg-success-but-residents-have-lost-hope-in-elections/",
+          "domain": "dailymaverick.co.za"
+        }
+      ],
+      "id": 41
+    },
+    {
+      "title": "Israel prepares for war beyond Earth",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 40.2,
+      "lng": -1.5,
+      "desc": "1 recent report on conflict coverage originating from Spain.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Israel prepares for war beyond Earth",
+          "url": "https://www.larazon.es/internacional/israel-prepara-guerra-mas-alla-tierra_202610246adc2d5f658beb674b2592ab.html",
+          "domain": "larazon.es"
+        }
+      ],
+      "id": 42
+    },
+    {
+      "title": "The economic keys of the week of October 19 to 23): Economic activity, employment and inflation",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 25.155634918610406,
+      "lng": -101.04436508138959,
+      "desc": "1 recent report on monetary policy coverage originating from Mexico.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The economic keys of the week of October 19 to 23): Economic activity, employment and inflation",
+          "url": "https://www.eleconomista.com.mx/economia/claves-economicas-semana-19-23-octubre-actividad-economica-empleo-e-inflacion-20261023-840276.html",
+          "domain": "eleconomista.com.mx"
+        }
+      ],
+      "id": 43
+    },
+    {
+      "title": "Israel elections, crucial test for Netanyahu : the shadow of the conflict with Iran to influence the vote",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 40.3443650813896,
+      "lng": 11.044365081389595,
+      "desc": "1 recent report on elections coverage originating from Italy.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "Israel elections, crucial test for Netanyahu : the shadow of the conflict with Iran to influence the vote",
+          "url": "https://www.ilfattoquotidiano.it/2026/10/24/elezioni-israeliane-netanyahu-iran-notizie/8547811/",
+          "domain": "ilfattoquotidiano.it"
+        }
+      ],
+      "id": 44
+    },
+    {
+      "title": "Villa in Saint-Tropez and accounts in Monaco: how a close friend of Vladimir Putin circumvented sanctions to finance his secret patrimony on",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "France",
+      "lat": 46.6,
+      "lng": 0,
+      "desc": "1 recent report on sanctions coverage originating from France.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "Villa in Saint-Tropez and accounts in Monaco: how a close friend of Vladimir Putin circumvented sanctions to finance his secret patrimony on the Côte d 'Azur",
+          "url": "https://www.nicematin.com/societe/villa-a-saint-tropez-et-comptes-a-monaco-comment-un-proche-de-vladimir-poutine-a-contourne-les-sanctions-pour-financer-son-patrimoine-secret-sur-la-cote-d-azur-10745057",
+          "domain": "nicematin.com"
+        }
+      ],
+      "id": 45
+    },
+    {
+      "title": "The US will remove some tariffs and impose others",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 58.300000000000004,
+      "lng": -106.3,
+      "desc": "1 recent report on trade & tariffs coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "The US will remove some tariffs and impose others",
+          "url": "https://www.journalleguide.com/nouvelles-nationales/les-etats-unis-vont-supprimer-certains-droits-de-douane-et-en-imposer-dautres/",
+          "domain": "journalleguide.com"
+        }
+      ],
+      "id": 46
+    },
+    {
+      "title": "Shoa rules out possibility of tsunami in Chile after earthquake in Oceania",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Latin America",
+      "place": "Chile",
+      "lat": -37.25563491861041,
+      "lng": -69.94436508138959,
+      "desc": "1 recent report on disaster & logistics coverage originating from Chile.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Shoa rules out possibility of tsunami in Chile after earthquake in Oceania",
+          "url": "https://www.t13.cl/noticia/nacional/mundo/shoa-descarta-posibilidad-tsunami-chile-tras-terremoto-oceania-24-10-2026",
+          "domain": "t13.cl"
+        }
+      ],
+      "id": 47
+    },
+    {
+      "title": "Tanker freight surges hit seven-year low in US crude oil exports to Asia",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 25.255634918610404,
+      "lng": 119.40436508138959,
+      "desc": "1 recent report on energy coverage originating from Taiwan.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Tanker freight surges hit seven-year low in US crude oil exports to Asia",
+          "url": "https://n.yam.com/Article/20261024423527",
+          "domain": "n.yam.com"
+        }
+      ],
+      "id": 48
+    },
+    {
+      "title": "US midterm elections: Obama campaign in support of Abdul El - Sayed",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 37.5443650813896,
+      "lng": 20.244365081389596,
+      "desc": "1 recent report on elections coverage originating from Greece.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "US midterm elections: Obama campaign in support of Abdul El - Sayed",
+          "url": "https://www.naftemporiki.gr/kosmos/2179420/ipa-ekstrateia-ompama-yper-toy-ampntoyl-el-sagient/",
+          "domain": "naftemporiki.gr"
+        }
+      ],
+      "id": 49
+    },
+    {
+      "title": "tayyar . org - Truck « Dahr al-Baydar»: A temporary truce waiting for war?",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Middle East",
+      "place": "Lebanon",
+      "lat": 33.9,
+      "lng": 38.1,
+      "desc": "1 recent report on conflict coverage originating from Lebanon.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "tayyar . org - Truck « Dahr al-Baydar»: A temporary truce waiting for war?",
+          "url": "https://www.tayyar.org/News/Lebanon/746120/_guid=746120",
+          "domain": "tayyar.org"
+        }
+      ],
+      "id": 50
+    },
+    {
+      "title": "Severe flooding soaks Four Corners region , prompts rooftop rescues and evacuations",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.94436508138959,
+      "lng": -96.8443650813896,
+      "desc": "1 recent report on disaster & logistics coverage originating from United States.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Severe flooding soaks Four Corners region , prompts rooftop rescues and evacuations",
+          "url": "https://www.nbcnews.com/weather/floods/severe-flooding-soaks-four-corners-region-prompts-rooftop-rescues-evac-rcna605344",
+          "domain": "nbcnews.com"
+        }
+      ],
+      "id": 51
+    },
+    {
+      "title": "News Digest of the Night | Major protests are expected again in France, with oil prices at their highest level since spring",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Europe",
+      "place": "Finland",
+      "lat": 63.4556349186104,
+      "lng": 24.144365081389594,
+      "desc": "1 recent report on energy coverage originating from Finland.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Finnish",
+      "sources": [
+        {
+          "title": "News Digest of the Night | Major protests are expected again in France, with oil prices at their highest level since spring",
+          "url": "https://www.ksml.fi/uutissuomalainen/9898679",
+          "domain": "ksml.fi"
+        }
+      ],
+      "id": 52
+    },
+    {
+      "title": "Trump removes some of Canada's 50% tariffs to re-elect Maine Senator Collins",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-10-24",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 25.9,
+      "lng": 120.96,
+      "desc": "1 recent report on trade & tariffs coverage originating from Taiwan.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-10-24T05:51:33.558Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Trump removes some of Canada's 50% tariffs to re-elect Maine Senator Collins",
+          "url": "https://news.tvbs.com.tw/world/4040617",
+          "domain": "news.tvbs.com.tw"
+        }
+      ],
+      "id": 53
     },
     {
       "title": "Security alert: AI malware makes smart home devices a high-risk target",
@@ -815,7 +1728,7 @@
           "domain": "n.yam.com"
         }
       ],
-      "id": 23
+      "id": 54
     },
     {
       "title": "Kremlin releases list of exiled opponents subject to sanctions",
@@ -843,7 +1756,7 @@
           "domain": "rtp.pt"
         }
       ],
-      "id": 24
+      "id": 55
     },
     {
       "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico Pacific Coast",
@@ -871,7 +1784,7 @@
           "domain": "airdriecityview.com"
         }
       ],
-      "id": 25
+      "id": 56
     },
     {
       "title": "New York Stock Falls, $652 Lower Crude Oil Price, U.S. Inflation Concerns: Chunichi Shimbun Web",
@@ -899,35 +1812,7 @@
           "domain": "chunichi.co.jp"
         }
       ],
-      "id": 26
-    },
-    {
-      "title": "Warn of waves of up to 5 meters in Guerrero due to Hurricane Vance",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-24",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 22.044365081389596,
-      "lng": -101.04436508138959,
-      "desc": "1 recent report on disaster & logistics coverage originating from Mexico.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Warn of waves of up to 5 meters in Guerrero due to Hurricane Vance",
-          "url": "https://guerrero.quadratin.com.mx/advierten-olas-de-hasta-5-metros-en-guerrero-por-el-huracan-vance/",
-          "domain": "guerrero.quadratin.com.mx"
-        }
-      ],
-      "id": 27
+      "id": 57
     },
     {
       "title": "Injured and runway chaos due to storm - hurricane threatens on Sunday",
@@ -955,7 +1840,7 @@
           "domain": "op-online.de"
         }
       ],
-      "id": 28
+      "id": 58
     },
     {
       "title": "Ukrainian General Staff confirms readiness for ceasefire in Oleski region",
@@ -983,7 +1868,7 @@
           "domain": "magyarhirlap.hu"
         }
       ],
-      "id": 29
+      "id": 59
     },
     {
       "title": "MINURSO without a referendum .. And Washington puts the final touches to the desert conflict... How can the changing of the tasks of the int",
@@ -1011,35 +1896,7 @@
           "domain": "oujdacity.net"
         }
       ],
-      "id": 30
-    },
-    {
-      "title": "Trump to ease 50 % Canada tariffs on farm equipment , packaging goods",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.7,
-      "lng": -98.4,
-      "desc": "1 recent report on trade & tariffs coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Trump to ease 50 % Canada tariffs on farm equipment , packaging goods",
-          "url": "https://www.investmentnews.com/equities/trump-to-ease-50-canada-tariffs-on-farm-equipment-packaging-goods/268730",
-          "domain": "investmentnews.com"
-        }
-      ],
-      "id": 31
+      "id": 60
     },
     {
       "title": "Melania Trump Announces Russia-Ukraine Ceasefire in Occupied Oleshky City",
@@ -1067,7 +1924,7 @@
           "domain": "larazon.pe"
         }
       ],
-      "id": 32
+      "id": 61
     },
     {
       "title": "Melania Trump calls for temporary Russia-Ukraine ceasefire : White House",
@@ -1095,7 +1952,7 @@
           "domain": "deshbandhu.co.in"
         }
       ],
-      "id": 33
+      "id": 62
     },
     {
       "title": "South Korea Surrenders North Korean Prisoners to Ukraine in 'Strange Diplomatic War', Mysterious Seoul to Yeoboseyo",
@@ -1123,7 +1980,7 @@
           "domain": "sankei.com"
         }
       ],
-      "id": 34
+      "id": 63
     },
     {
       "title": "Brunette asks to withdraw challenge against referendum to elect councillors",
@@ -1151,7 +2008,7 @@
           "domain": "laopcion.com.mx"
         }
       ],
-      "id": 35
+      "id": 64
     },
     {
       "title": "  Told them we will put 250 % tariffs ...: Trump reiterates claim of India - Pakistan ceasefire through tariff threat",
@@ -1179,7 +2036,7 @@
           "domain": "kenyastar.com"
         }
       ],
-      "id": 36
+      "id": 65
     },
     {
       "title": "New York Stock Market fell in unison as oil prices skyrocketed; Dow 1. 23% ↓ [Complementary]",
@@ -1207,7 +2064,7 @@
           "domain": "etoday.co.kr"
         }
       ],
-      "id": 37
+      "id": 66
     },
     {
       "title": "Dow Jones Top Markets Headlines at 7 PM ET : U . S . Stocks Fall as Oil Prices Hit Five - Month High | Moody ... ",
@@ -1235,7 +2092,7 @@
           "domain": "morningstar.com"
         }
       ],
-      "id": 38
+      "id": 67
     },
     {
       "title": "Japan's CPI hits 2.1% for fear of another rate hike - focus",
@@ -1263,35 +2120,7 @@
           "domain": "chinatimes.com"
         }
       ],
-      "id": 39
-    },
-    {
-      "title": "Geopolitical tensions in the Middle East drive oil price markets into disarray; Euro weakens due to weak PMI data",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 25.255634918610404,
-      "lng": 119.40436508138959,
-      "desc": "1 recent report on energy coverage originating from Taiwan.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Geopolitical tensions in the Middle East drive oil price markets into disarray; Euro weakens due to weak PMI data",
-          "url": "https://n.yam.com/Article/20261024604676",
-          "domain": "n.yam.com"
-        }
-      ],
-      "id": 40
+      "id": 68
     },
     {
       "title": "US : Donald Trump in the time loop or Oil , Ukraine and elections",
@@ -1319,7 +2148,7 @@
           "domain": "neviditelnypes.lidovky.cz"
         }
       ],
-      "id": 41
+      "id": 69
     },
     {
       "title": "Turkish Foreign Minister Fidan : We agree that a new attack on Iran will spread war in the region – BRTK",
@@ -1347,91 +2176,7 @@
           "domain": "brtk.net"
         }
       ],
-      "id": 42
-    },
-    {
-      "title": "Meet the candidates running to represent Grimsby Ward 3",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 54.5443650813896,
-      "lng": -107.8556349186104,
-      "desc": "1 recent report on elections coverage originating from Canada.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Meet the candidates running to represent Grimsby Ward 3",
-          "url": "https://www.stcatharinesstandard.ca/news/municipal-elections/grimsby-ward-3-candidates-2026/article_eb7f0994-07ef-5c1d-ac87-e79bd402c59e.html",
-          "domain": "stcatharinesstandard.ca"
-        }
-      ],
-      "id": 43
-    },
-    {
-      "title": "30% increased chance of typhoon holiday in election year - Spotlight",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 22.144365081389594,
-      "lng": 119.40436508138959,
-      "desc": "1 recent report on elections coverage originating from Taiwan.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "30% increased chance of typhoon holiday in election year - Spotlight",
-          "url": "https://www.chinatimes.com/newspapers/20261024000384-260121",
-          "domain": "chinatimes.com"
-        }
-      ],
-      "id": 44
-    },
-    {
-      "title": "Ukrainian War, truce in Oleshky from Tuesday . The United States : \" Merit of Melania Trump \"",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "1 recent report on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-24T00:40:40.900Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Ukrainian War, truce in Oleshky from Tuesday . The United States : \" Merit of Melania Trump \"",
-          "url": "https://www.ilmessaggero.it:443/mondo/guerra_ucraina_tregua_oleshky_quando_perche_melania_trump-9844494.html",
-          "domain": "ilmessaggero.it"
-        }
-      ],
-      "id": 45
+      "id": 70
     },
     {
       "title": "Melania Trump has secured a ceasefire",
@@ -1459,7 +2204,7 @@
           "domain": "aftonbladet.se"
         }
       ],
-      "id": 46
+      "id": 71
     },
     {
       "title": "Russia, Policy rate | No interest rate cut in Russia – Ukrainian drones are to blame",
@@ -1487,35 +2232,7 @@
           "domain": "nettavisen.no"
         }
       ],
-      "id": 47
-    },
-    {
-      "title": "White House : Melania Trump secures Russian-Ukrainian ceasefire in Olesky",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "1 recent report on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T22:09:31.312Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "White House : Melania Trump secures Russian-Ukrainian ceasefire in Olesky",
-          "url": "https://www.kathimerini.gr/world/564543601/leykos-oikos-i-melania-tramp-exasfalise-ekecheiria-rosias-oykranias-sto-oleski/",
-          "domain": "kathimerini.gr"
-        }
-      ],
-      "id": 48
+      "id": 72
     },
     {
       "title": "Melania Trump helps forge a ceasefire deal in Russian - occupied Oleshky , the White House says – Brandon Sun",
@@ -1543,7 +2260,7 @@
           "domain": "brandonsun.com"
         }
       ],
-      "id": 49
+      "id": 73
     },
     {
       "title": "Trump laughs and mocks the French riots: Anyone else want to go? This must never happen in the United States; Macron: Certain foreign leader",
@@ -1571,7 +2288,7 @@
           "domain": "163.com"
         }
       ],
-      "id": 50
+      "id": 74
     },
     {
       "title": "Moldovan Energocom requested a 31% increase in the electricity tariff",
@@ -1599,7 +2316,7 @@
           "domain": "1prime.ru"
         }
       ],
-      "id": 51
+      "id": 75
     },
     {
       "title": "Melania Trump says she obtained a ceasefire in a city in Ukraine:  Without my intervention ...",
@@ -1627,7 +2344,7 @@
           "domain": "dhnet.be"
         }
       ],
-      "id": 52
+      "id": 76
     },
     {
       "title": "Melania Trump  secures ceasefire between Russia and Ukraine  as statement issued",
@@ -1655,35 +2372,7 @@
           "domain": "dailystar.co.uk"
         }
       ],
-      "id": 53
-    },
-    {
-      "title": "Gold price moves away from three-month low; crude rebound stokes inflation fears",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "North America",
-      "place": "Mexico",
-      "lat": 25.155634918610406,
-      "lng": -101.04436508138959,
-      "desc": "1 recent report on monetary policy coverage originating from Mexico.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T22:09:31.312Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Gold price moves away from three-month low; crude rebound stokes inflation fears",
-          "url": "https://www.eleconomista.com.mx/mercados/precio-oro-aleja-minimo-tres-meses-repunte-crudo-aviva-temores-inflacion-20261023-840163.html",
-          "domain": "eleconomista.com.mx"
-        }
-      ],
-      "id": 54
+      "id": 77
     },
     {
       "title": "Kazakhstan Cuts Base Rate to 15 . 75 % as Annual Inflation Falls to 9 . 3 % ",
@@ -1711,7 +2400,7 @@
           "domain": "astanatimes.com"
         }
       ],
-      "id": 55
+      "id": 78
     },
     {
       "title": "Filippo called the hurricane-ravaged EU flag a sex rag",
@@ -1739,7 +2428,7 @@
           "domain": "aif.ru"
         }
       ],
-      "id": 56
+      "id": 79
     },
     {
       "title": "Aughinish Alumina set to avoid targeted penalties in latest EU sanctions package",
@@ -1767,7 +2456,7 @@
           "domain": "live95fm.ie"
         }
       ],
-      "id": 57
+      "id": 80
     },
     {
       "title": "Attacks on Tech Firms Behind Most Third - Party Data Breach Victims",
@@ -1795,7 +2484,7 @@
           "domain": "infosecurity-magazine.com"
         }
       ],
-      "id": 58
+      "id": 81
     },
     {
       "title": "Docomo \"Area Mail\" partially stopped with PHP support, J alerts and evacuation information subject to earthquake alerts continue",
@@ -1823,7 +2512,7 @@
           "domain": "k-tai.watch.impress.co.jp"
         }
       ],
-      "id": 59
+      "id": 82
     },
     {
       "title": "I'm ready to be president  and little things are coming: Patricia Bullrich's messages for the election year",
@@ -1851,7 +2540,7 @@
           "domain": "24con.com"
         }
       ],
-      "id": 60
+      "id": 83
     },
     {
       "title": "See agenda for the latest acts and demonstrations in support of Lula until the elections",
@@ -1879,7 +2568,7 @@
           "domain": "revistaforum.com.br"
         }
       ],
-      "id": 61
+      "id": 84
     },
     {
       "title": "Melania Trump Negotiated a Ceasefire for Ukraine's Occupied Oleksiy",
@@ -1907,35 +2596,7 @@
           "domain": "idnes.cz"
         }
       ],
-      "id": 62
-    },
-    {
-      "title": "Mitsotakis to Archbishop Makarios of Australia: Letter vote for Greeks abroad in the next elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 37.5443650813896,
-      "lng": 20.244365081389596,
-      "desc": "1 recent report on elections coverage originating from Greece.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Mitsotakis to Archbishop Makarios of Australia: Letter vote for Greeks abroad in the next elections",
-          "url": "https://www.protothema.gr/politics/article/1899573/mitsotakis-se-arhiepiskopo-australias-makario-epistoliki-psifos-gia-tous-ellines-tou-exoterikou-stis-epomenes-ekloge/",
-          "domain": "protothema.gr"
-        }
-      ],
-      "id": 63
+      "id": 85
     },
     {
       "title": "Eurozone consumer inflation expectation for 12 months rises to 3.1% in September",
@@ -1963,63 +2624,7 @@
           "domain": "jornaldebrasilia.com.br"
         }
       ],
-      "id": 64
-    },
-    {
-      "title": "Comites Elections 2026 , by November 4 you must ask to vote",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 40.3443650813896,
-      "lng": 11.044365081389595,
-      "desc": "1 recent report on elections coverage originating from Italy.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Comites Elections 2026 , by November 4 you must ask to vote",
-          "url": "https://www.italiachiamaitalia.it/elezioni-comites-2026-entro-il-4-novembre-bisogna-chiedere-di-votare/",
-          "domain": "italiachiamaitalia.it"
-        }
-      ],
-      "id": 65
-    },
-    {
-      "title": "Tsunami warning issued after earthquakes off Sicily Island",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 37.44436508138959,
-      "lng": 36.755634918610404,
-      "desc": "1 recent report on disaster & logistics coverage originating from Turkey.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T18:19:53.743Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Tsunami warning issued after earthquakes off Sicily Island",
-          "url": "https://www.malatyaguncel.com/sicilya-adasi-aciklarinda-depremler-sonrasi-tsunam-3118399h.htm",
-          "domain": "malatyaguncel.com"
-        }
-      ],
-      "id": 66
+      "id": 86
     },
     {
       "title": "United States: in the run-up to the mid-term elections, the fear of interference by Donald Trump",
@@ -2047,35 +2652,7 @@
           "domain": "lexpress.fr"
         }
       ],
-      "id": 67
-    },
-    {
-      "title": "Taiwan on high alert ahead of Hurricane Chabi",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 37.5443650813896,
-      "lng": 23.355634918610406,
-      "desc": "1 recent report on disaster & logistics coverage originating from Greece.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T07:30:24.164Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Taiwan on high alert ahead of Hurricane Chabi",
-          "url": "https://www.madata.gr/epikairotita/world/989193-i-taivan-se-katastasi-synagermoy-enopsei-toy-tyfona-tsampi.html",
-          "domain": "madata.gr"
-        }
-      ],
-      "id": 68
+      "id": 87
     },
     {
       "title": "As cyberattacks become more rampant, can defenders use AI to take back the city? - Official Titanium Media Website",
@@ -2103,7 +2680,7 @@
           "domain": "tmtpost.com"
         }
       ],
-      "id": 69
+      "id": 88
     },
     {
       "title": "Economists unanimously expect Fed rate hike in December",
@@ -2131,7 +2708,7 @@
           "domain": "africaleader.com"
         }
       ],
-      "id": 70
+      "id": 89
     },
     {
       "title": "Painful memories of the internet bubble! AI turmoil tortures the Fed: Do you dare to raise interest rates this year?_Oriental Wealth Network",
@@ -2159,35 +2736,7 @@
           "domain": "finance.eastmoney.com"
         }
       ],
-      "id": 71
-    },
-    {
-      "title": "Serbia Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-23",
-      "region": "Europe",
-      "place": "Russia",
-      "lat": 59.9443650813896,
-      "lng": 88.44436508138959,
-      "desc": "1 recent report on elections coverage originating from Russia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-23T07:30:24.164Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Serbia Vucic Faces Biggest Election Challenge Yet Amid Fraud Fears",
-          "url": "https://www.rferl.org/a/serbia-voting-vucic-election-challenge-fraud-fears/33881552.html",
-          "domain": "rferl.org"
-        }
-      ],
-      "id": 72
+      "id": 90
     },
     {
       "title": "The ECB may raise interest rates in December . Economists more cautious than the market",
@@ -2215,7 +2764,7 @@
           "domain": "pb.pl"
         }
       ],
-      "id": 73
+      "id": 91
     },
     {
       "title": "Domino of revaluations from rally to oil price",
@@ -2243,7 +2792,7 @@
           "domain": "kathimerini.gr"
         }
       ],
-      "id": 74
+      "id": 92
     },
     {
       "title": "AI Heterogeneous Integration Promotes Specification Upgrades Legal Entity Names 13 PCB Supply Chains | Stock Market Highlights | Stock Marke",
@@ -2271,7 +2820,7 @@
           "domain": "udn.com"
         }
       ],
-      "id": 75
+      "id": 93
     },
     {
       "title": "The RBI October pivot is beyond the 25 bps repo rate hike",
@@ -2299,7 +2848,7 @@
           "domain": "moneycontrol.com"
         }
       ],
-      "id": 76
+      "id": 94
     },
     {
       "title": "How Trump's change of policy towards Ukraine is related to the US midterm elections on November 3 - Reuters commented on the situation - Ukr",
@@ -2327,7 +2876,7 @@
           "domain": "zn.ua"
         }
       ],
-      "id": 77
+      "id": 95
     },
     {
       "title": "Russia could return to the negotiating table with Ukraine and the US to end the war",
@@ -2355,7 +2904,7 @@
           "domain": "stiripesurse.ro"
         }
       ],
-      "id": 78
+      "id": 96
     },
     {
       "title": "Japan's core inflation surpasses 2% for first time in 9 months",
@@ -2383,7 +2932,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 79
+      "id": 97
     },
     {
       "title": "National Protests Demanding Free Elections in Venezuela… First Such Demonstration in “Nearly 2 Years” | Newsweek Japan Official Site",
@@ -2411,7 +2960,7 @@
           "domain": "newsweekjapan.jp"
         }
       ],
-      "id": 80
+      "id": 98
     },
     {
       "title": "Weather - Weekend Alert – Two Huge Hurricanes Target Europe",
@@ -2439,7 +2988,7 @@
           "domain": "heute.at"
         }
       ],
-      "id": 81
+      "id": 99
     },
     {
       "title": "How Lula turned four lessons from the presidential elections in Colombia into a comeback in Brazil Sunday runoff",
@@ -2467,7 +3016,7 @@
           "domain": "venezuelastar.com"
         }
       ],
-      "id": 82
+      "id": 100
     },
     {
       "title": "Economists unanimously expect Fed rate hike in December",
@@ -2495,7 +3044,7 @@
           "domain": "argentinastar.com"
         }
       ],
-      "id": 83
+      "id": 101
     },
     {
       "title": "Vučić promised before the Serbian parliamentary elections: no sanctions against Russia, no recognition of Kosovo's independence and adherenc",
@@ -2523,7 +3072,7 @@
           "domain": "military.china.com"
         }
       ],
-      "id": 84
+      "id": 102
     },
     {
       "title": "Why Israel's elections may not result in a clear winner?",
@@ -2551,7 +3100,7 @@
           "domain": "cedarnews.net"
         }
       ],
-      "id": 85
+      "id": 103
     },
     {
       "title": "  If we lift sanctions , we make Putin stronger : Zelenskyy questions Trump for waiver of sanctions against Russia",
@@ -2579,7 +3128,7 @@
           "domain": "russiaherald.com"
         }
       ],
-      "id": 86
+      "id": 104
     },
     {
       "title": "Food crisis may follow energy crisis",
@@ -2607,7 +3156,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 87
+      "id": 105
     },
     {
       "title": "Arab News | Venezuelans call for elections in first national protest in nearly two years",
@@ -2635,7 +3184,7 @@
           "domain": "arabnews.com"
         }
       ],
-      "id": 88
+      "id": 106
     },
     {
       "title": "Zelensky : Ukraine Needs Air Defense Missiles and Sanctions Retention · h . ua",
@@ -2663,7 +3212,7 @@
           "domain": "h.ua"
         }
       ],
-      "id": 89
+      "id": 107
     },
     {
       "title": "Banco de la República : Leonardo Villar explained why interest rates do not fall despite the impact on housing",
@@ -2691,7 +3240,7 @@
           "domain": "portafolio.co"
         }
       ],
-      "id": 90
+      "id": 108
     },
     {
       "title": "Felipe González will vote blank in the elections : I don't see anything that represents me",
@@ -2719,7 +3268,7 @@
           "domain": "europasur.es"
         }
       ],
-      "id": 91
+      "id": 109
     },
     {
       "title": "Suppliers sanctioned by Anti-Corruption accumulate contracts for more than 500 million pesos",
@@ -2747,7 +3296,7 @@
           "domain": "eluniversal.com.mx"
         }
       ],
-      "id": 92
+      "id": 110
     },
     {
       "title": "Ayudatón 2026 in Cali : Food Bank promotes donations after earthquake",
@@ -2775,7 +3324,7 @@
           "domain": "pulzo.com"
         }
       ],
-      "id": 93
+      "id": 111
     },
     {
       "title": "Brazilian investments in the United States rise again after tariff ; in China , volume falls",
@@ -2803,7 +3352,7 @@
           "domain": "estadao.com.br"
         }
       ],
-      "id": 94
+      "id": 112
     },
     {
       "title": "Live ticker : This is how the second round of the mayoral election in Ettenheim runs",
@@ -2831,7 +3380,7 @@
           "domain": "badische-zeitung.de"
         }
       ],
-      "id": 95
+      "id": 113
     },
     {
       "title": "UNICEF : 351 children killed in Gaza since October 2025 ceasefire",
@@ -2859,7 +3408,7 @@
           "domain": "english.wafa.ps"
         }
       ],
-      "id": 96
+      "id": 114
     },
     {
       "title": "A magnitude 7 earthquake shook the Tibet region of China",
@@ -2887,7 +3436,7 @@
           "domain": "rosario3.com"
         }
       ],
-      "id": 97
+      "id": 115
     },
     {
       "title": "Israeli elections: Residents of terror-hit Kibbutz Nahal feel let down by Benjamin Netanyahu",
@@ -2915,7 +3464,7 @@
           "domain": "tv2.no"
         }
       ],
-      "id": 98
+      "id": 116
     },
     {
       "title": "7.0 earthquake hits Tibet in China",
@@ -2943,7 +3492,7 @@
           "domain": "arabstoday.net"
         }
       ],
-      "id": 99
+      "id": 117
     },
     {
       "title": "Comparing the interest rates of savings certificates in the most prominent Egyptian banks.. Where do you invest your money?",
@@ -2971,7 +3520,7 @@
           "domain": "dostor.org"
         }
       ],
-      "id": 100
+      "id": 118
     },
     {
       "title": "The price of natural gas in Europe breaks new highs since the end of 2022",
@@ -2999,7 +3548,7 @@
           "domain": "eldiario.es"
         }
       ],
-      "id": 101
+      "id": 119
     },
     {
       "title": "ROUNDUP / Stocks Europe Conclusion : Techs and high oil prices push down prices",
@@ -3025,510 +3574,6 @@
           "title": "ROUNDUP / Stocks Europe Conclusion : Techs and high oil prices push down prices",
           "url": "https://www.onvista.de/news/2026/10-22-roundup-aktien-europa-schluss-techs-und-hohe-oelpreise-druecken-auf-die-kurse-0-10-26567445",
           "domain": "onvista.de"
-        }
-      ],
-      "id": 102
-    },
-    {
-      "title": "Brutal Elections with Voters Who Are Not Fully Conscious",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Asia-Pacific",
-      "place": "Indonesia",
-      "lat": -2.355634918610405,
-      "lng": 112.3443650813896,
-      "desc": "1 recent report on elections coverage originating from Indonesia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Indonesian",
-      "sources": [
-        {
-          "title": "Brutal Elections with Voters Who Are Not Fully Conscious",
-          "url": "https://beritajatim.com/pemilu-brutal-dengan-pemilih-yang-tak-sepenuhnya-sadar",
-          "domain": "beritajatim.com"
-        }
-      ],
-      "id": 103
-    },
-    {
-      "title": "Qalibaf warns Americans of the consequences of war with Iran and calls on them to retreat from it – Al-Manar TV",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Middle East",
-      "place": "Lebanon",
-      "lat": 33.9,
-      "lng": 38.1,
-      "desc": "1 recent report on conflict coverage originating from Lebanon.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Qalibaf warns Americans of the consequences of war with Iran and calls on them to retreat from it – Al-Manar TV",
-          "url": "https://www.almanar.com.lb/article/1286122/",
-          "domain": "almanar.com.lb"
-        }
-      ],
-      "id": 104
-    },
-    {
-      "title": "Economic History Notebooks - Colombia's Economic Development from the End of the Thousand Day War to the Great Depression",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Latin America",
-      "place": "Colombia",
-      "lat": 4.6,
-      "lng": -72.1,
-      "desc": "1 recent report on conflict coverage originating from Colombia.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Economic History Notebooks - Colombia's Economic Development from the End of the Thousand Day War to the Great Depression",
-          "url": "https://www.banrep.gov.co:443/es/publicaciones-investigaciones/cuadernos-historia-economica/desarrollo-economico-colombia-finales",
-          "domain": "banrep.gov.co"
-        }
-      ],
-      "id": 105
-    },
-    {
-      "title": "Human rights defender Javed Beigh condemns Pakistan 1947 invasion of Jammu and Kashmir , alleges atrocities in PoJK",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Asia-Pacific",
-      "place": "Pakistan",
-      "lat": 30.4,
-      "lng": 71.5,
-      "desc": "1 recent report on conflict coverage originating from Pakistan.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Human rights defender Javed Beigh condemns Pakistan 1947 invasion of Jammu and Kashmir , alleges atrocities in PoJK",
-          "url": "http://www.pakistantelegraph.com/news/279392251/human-rights-defender-javed-beigh-condemns-pakistan-1947-invasion-of-jammu-and-kashmir-alleges-atrocities-in-pojk",
-          "domain": "pakistantelegraph.com"
-        }
-      ],
-      "id": 106
-    },
-    {
-      "title": "Kast in the midst of a change in the presidency of the Constitution Commission:  It hurts us that for thinking differently someone is sancti",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Latin America",
-      "place": "Chile",
-      "lat": -35.7,
-      "lng": -73.7,
-      "desc": "1 recent report on sanctions coverage originating from Chile.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Kast in the midst of a change in the presidency of the Constitution Commission:  It hurts us that for thinking differently someone is sanctioned",
-          "url": "https://www.latercera.com/politica/noticia/kast-en-medio-de-cambio-en-presidencia-de-comision-de-constitucion-nos-duele-que-por-pensar-distinto-alguien-sea-sancionado/",
-          "domain": "latercera.com"
-        }
-      ],
-      "id": 107
-    },
-    {
-      "title": "Elections on the brink of war : Will the Middle East change with Netanyahu's departure or will politics remain? | Book of Ammon",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Middle East",
-      "place": "Jordan",
-      "lat": 30.6,
-      "lng": 38.400000000000006,
-      "desc": "1 recent report on conflict coverage originating from Jordan.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Elections on the brink of war : Will the Middle East change with Netanyahu's departure or will politics remain? | Book of Ammon",
-          "url": "https://www.ammonnews.net/article/1038799",
-          "domain": "ammonnews.net"
-        }
-      ],
-      "id": 108
-    },
-    {
-      "title": "  It never done till it done , says EAM Jaishankar on India - US trade deal",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 24.599999999999998,
-      "lng": 78.7,
-      "desc": "1 recent report on trade & tariffs coverage originating from India.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "  It never done till it done , says EAM Jaishankar on India - US trade deal",
-          "url": "http://www.calcuttanews.net/news/279392738/it-never-done-till-it-done-says-eam-jaishankar-on-india-us-trade-deal",
-          "domain": "calcuttanews.net"
-        }
-      ],
-      "id": 109
-    },
-    {
-      "title": "Dollar Stops Pullback Awaiting Interest Rate Decisions",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Middle East",
-      "place": "United Arab Emirates",
-      "lat": 24.955634918610404,
-      "lng": 55.3556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from United Arab Emirates.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Dollar Stops Pullback Awaiting Interest Rate Decisions",
-          "url": "https://www.albayan.ae/economy/business/world-economy/1559844",
-          "domain": "albayan.ae"
-        }
-      ],
-      "id": 110
-    },
-    {
-      "title": "An era that opens fire on the great dilemma: the Central Bank of Libya has been transformed into a salary treasury and a commercial bank.. a",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Africa",
-      "place": "Libya",
-      "lat": 27.855634918610406,
-      "lng": 18.755634918610404,
-      "desc": "1 recent report on monetary policy coverage originating from Libya.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T18:31:39.848Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "An era that opens fire on the great dilemma: the Central Bank of Libya has been transformed into a salary treasury and a commercial bank.. and the citizen pays the bill",
-          "url": "https://www.libyaakhbar.com/libya-news/2902237.html",
-          "domain": "libyaakhbar.com"
-        }
-      ],
-      "id": 111
-    },
-    {
-      "title": "CUBA denounces, with evidence, how the US. USA threatens with tariffs and sanctions to countries that vote against its blockade",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Europe",
-      "place": "Spain",
-      "lat": 42.400000000000006,
-      "lng": -3.7,
-      "desc": "1 recent report on trade & tariffs coverage originating from Spain.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "CUBA denounces, with evidence, how the US. USA threatens with tariffs and sanctions to countries that vote against its blockade",
-          "url": "https://insurgente.org/cuba-denuncia-con-pruebas-como-ee-uu-amenaza-con-aranceles-y-sanciones-a-los-paises-que-voten-contra-su-bloqueo/",
-          "domain": "insurgente.org"
-        }
-      ],
-      "id": 112
-    },
-    {
-      "title": "Natural gas P . A., new Consip agreement worth 1.1 billion euros activated Italpress news agency",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 43.4556349186104,
-      "lng": 11.044365081389595,
-      "desc": "1 recent report on energy coverage originating from Italy.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Natural gas P . A., new Consip agreement worth 1.1 billion euros activated Italpress news agency",
-          "url": "https://www.italpress.com/gas-naturale-p-a-attiva-nuova-convenzione-consip-da-11-mld-di-euro/",
-          "domain": "italpress.com"
-        }
-      ],
-      "id": 113
-    },
-    {
-      "title": "Allegations that Israel and the USA are preparing to attack Iran increased tensions before the election",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 37.4443650813896,
-      "lng": 33.644365081389594,
-      "desc": "1 recent report on elections coverage originating from Turkey.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Allegations that Israel and the USA are preparing to attack Iran increased tensions before the election",
-          "url": "https://www.haberler.com/guncel/israil-ve-abd-nin-iran-a-saldiri-hazirligi-iddiasi-20355624-haberi/",
-          "domain": "haberler.com"
-        }
-      ],
-      "id": 114
-    },
-    {
-      "title": "India interest rate gap with G7 in focus as RBI weighs inflation risks : Report",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Asia-Pacific",
-      "place": "Afghanistan",
-      "lat": 35.4556349186104,
-      "lng": 69.25563491861041,
-      "desc": "1 recent report on monetary policy coverage originating from Afghanistan.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "India interest rate gap with G7 in focus as RBI weighs inflation risks : Report",
-          "url": "http://www.afghanistannews.net/news/279391920/india-interest-rate-gap-with-g7-in-focus-as-rbi-weighs-inflation-risks-report",
-          "domain": "afghanistannews.net"
-        }
-      ],
-      "id": 115
-    },
-    {
-      "title": "Rates firm and inflation under control: the SNB remains cautious",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Europe",
-      "place": "Switzerland",
-      "lat": 48.3556349186104,
-      "lng": 9.755634918610404,
-      "desc": "1 recent report on monetary policy coverage originating from Switzerland.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Rates firm and inflation under control: the SNB remains cautious",
-          "url": "https://www.tio.ch/svizzera/economia/1958417/bns-prontezza-vede-necessita-svizzera",
-          "domain": "tio.ch"
-        }
-      ],
-      "id": 116
-    },
-    {
-      "title": "India interest rate gap with G7 in focus as RBI weighs inflation risks : Report",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Africa",
-      "place": "Nigeria",
-      "lat": 10.655634918610405,
-      "lng": 10.255634918610404,
-      "desc": "1 recent report on monetary policy coverage originating from Nigeria.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "India interest rate gap with G7 in focus as RBI weighs inflation risks : Report",
-          "url": "http://www.nigeriasun.com/news/279391920/india-interest-rate-gap-with-g7-in-focus-as-rbi-weighs-inflation-risks-report",
-          "domain": "nigeriasun.com"
-        }
-      ],
-      "id": 117
-    },
-    {
-      "title": "Trump tariffs on steel , aluminum a  disaster  for the U . S .: Think tank",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 58.300000000000004,
-      "lng": -106.3,
-      "desc": "1 recent report on trade & tariffs coverage originating from Canada.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Trump tariffs on steel , aluminum a  disaster  for the U . S .: Think tank",
-          "url": "https://nationalpost.com/news/canada/trump-tariffs-steel-aluminum-disaster-for-us-report",
-          "domain": "nationalpost.com"
-        }
-      ],
-      "id": 118
-    },
-    {
-      "title": "Oil prices jump on Middle East worries as U . S ., Israel reportedly weigh fresh Iran strikes",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Africa",
-      "place": "South Africa",
-      "lat": -29.044365081389596,
-      "lng": 21.344365081389594,
-      "desc": "1 recent report on energy coverage originating from South Africa.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Oil prices jump on Middle East worries as U . S ., Israel reportedly weigh fresh Iran strikes",
-          "url": "https://www.cnbcafrica.com/2026/oil-prices-jump-on-middle-east-worries-as-u-s-israel-reportedly-weigh-fresh-iran-strikes",
-          "domain": "cnbcafrica.com"
-        }
-      ],
-      "id": 119
-    },
-    {
-      "title": "US and Israel draw up plans for renewed strikes on Iran after elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-10-22",
-      "region": "Europe",
-      "place": "Ireland",
-      "lat": 51.8443650813896,
-      "lng": -9.755634918610404,
-      "desc": "1 recent report on elections coverage originating from Ireland.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-10-22T13:46:52.112Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "US and Israel draw up plans for renewed strikes on Iran after elections",
-          "url": "https://www.irishtimes.com/world/us/2026/10/22/us-and-israel-draw-up-plans-for-renewed-strikes-on-iran-after-elections/",
-          "domain": "irishtimes.com"
         }
       ],
       "id": 120
