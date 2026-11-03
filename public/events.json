@@ -1,50 +1,529 @@
 {
-  "generatedAt": "2026-11-03T10:50:34.598Z",
+  "generatedAt": "2026-11-03T18:25:47.556Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
     {
-      "title": "Mainers to Vote in Nov . 3 General Election",
+      "title": "  Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
       "category": "Elections",
-      "severity": "Medium",
+      "severity": "Critical",
       "date": "2026-11-03",
       "region": "North America",
       "place": "United States",
       "lat": 37.9443650813896,
       "lng": -99.95563491861041,
-      "desc": "4 recent reports on elections coverage originating from United States.",
+      "desc": "22 recent reports on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 22,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "  Messy ,  divided  and  scary : swing voters rate the country ahead of Election Day",
+          "url": "https://www.ksmu.org/2026-11-03/messy-divided-and-scary-swing-voters-rate-the-country-ahead-of-election-day",
+          "domain": "ksmu.org"
+        },
+        {
+          "title": "Picture perfect Election Day forecast ; Rain by the end of the week",
+          "url": "https://www.wfmz.com/weather/picture-perfect-election-day-forecast-rain-by-the-end-of-the-week-copy/article_08cea925-ff95-43c6-aa30-95c971e7b574.html",
+          "domain": "wfmz.com"
+        },
+        {
+          "title": "NYC Election Day live updates : Where to vote , when we know winner – NBC New York",
+          "url": "https://www.nbcnewyork.com/elections/live-updates-election-day-nyc-nj-poll-vote-governor-congress/6566156/",
+          "domain": "nbcnewyork.com"
+        },
+        {
+          "title": "How NPR makes race calls in the 2026 election",
+          "url": "https://www.aspenpublicradio.org/2026-11-03/how-npr-makes-race-calls-in-the-2026-election",
+          "domain": "aspenpublicradio.org"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
+      "category": "Conflict",
+      "severity": "High",
+      "date": "2026-11-03",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "7 recent reports on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 7,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
+          "url": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
+          "domain": "wfmz.com"
+        },
+        {
+          "title": "A new cold war : hackers target fridges across the globe",
+          "url": "https://www.ksut.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+          "domain": "ksut.org"
+        },
+        {
+          "title": "A new cold war : hackers target fridges across the globe",
+          "url": "https://www.wcsufm.org/latest-from-npr/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+          "domain": "wcsufm.org"
+        },
+        {
+          "title": "A new cold war : hackers target fridges across the globe",
+          "url": "https://www.northernpublicradio.org/2026-11-03/a-new-cold-war-hackers-target-fridges-across-the-globe",
+          "domain": "northernpublicradio.org"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Moody Analytics : How elections can be important ...",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 37.5443650813896,
+      "lng": 20.244365081389596,
+      "desc": "4 recent reports on elections coverage originating from Greece.",
       "markets": [
         "Equities",
         "FX",
         "Bonds"
       ],
       "count": 4,
-      "fetchedAt": "2026-11-03T10:50:34.598Z",
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Moody Analytics : How elections can be important ...",
+          "url": "https://www.capital.gr/oikonomia/4027566/moodys-analytics-pos-oi-ekloges-mporei-na-apotelesoun-simantiko-makrooikonomiko-sok-ta-paradeigmata-tis-elladas-kai-ton-ipa/",
+          "domain": "capital.gr"
+        },
+        {
+          "title": "The implementation of 90 ND priorities until the national ballot box 2027",
+          "url": "https://www.agronews.gr/oikonomia-kai-politiki/231767/h-ulopoiisi-90-proteraiotiton-nd-mehri-tin-ethniki-kalpi-2027/",
+          "domain": "agronews.gr"
+        },
+        {
+          "title": "US midterm elections: At the polls for congressional control – Critical battles and hours of results - PatrisNews",
+          "url": "https://www.patrisnews.com/endiameses-ekloges-stis-ipa-stis-kalpes-gia-ton-elegcho-toy-kogkresoy-oi-krisimes-maches-kai-oi-ores-ton-apotelesmaton/",
+          "domain": "patrisnews.com"
+        },
+        {
+          "title": "Greek-American candidates in the midterm ballot box battle in the USA – The focus is on the candidacy of the Pope for the Senate",
+          "url": "https://www.news.gr/kosmos/article/4244782/i-ellinoamerikani-ipopsifii-sti-machi-tis-kalpis-sto-epikentro-i-ipopsifiotita-papas-gia-ti-gerousia.html",
+          "domain": "news.gr"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "What are the midterm elections in the united states? Understand it in three minutes",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Denmark",
+      "lat": 54.744365081389596,
+      "lng": 7.944365081389595,
+      "desc": "3 recent reports on elections coverage originating from Denmark.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Danish",
+      "sources": [
+        {
+          "title": "What are the midterm elections in the united states? Understand it in three minutes",
+          "url": "https://jyllands-posten.dk/international/usa/ECE19791419/hvad-gaar-midtvejsvalget-i-usa-ud-paa-forstaa-det-paa-tre-minutter/?fp-exp=60320002&fp-alg=603200020",
+          "domain": "jyllands-posten.dk"
+        },
+        {
+          "title": "Analysis : Election defeat can make Trump impossible to rein in and even more unpredictable",
+          "url": "https://jyllands-posten.dk/international/ECE19789530/analyse-valgnederlag-kan-goere-trump-umulig-at-toejle-og-endnu-mere-uforudsigelig/?fp-exp=60320002&fp-alg=603200020",
+          "domain": "jyllands-posten.dk"
+        },
+        {
+          "title": "Trump calls midterm elections the most important thing in a lifetime",
+          "url": "https://jyllands-posten.dk/international/usa/ECE19793430/trump-kalder-midtvejsvalg-det-vigtigste-i-en-menneskealder/?fp-exp=60320002&fp-alg=603200020",
+          "domain": "jyllands-posten.dk"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "US Election 2026 : What's Voting , Why They're Key, and What Can Happen to Trump",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "Latin America",
+      "place": "Argentina",
+      "lat": -39.9556349186104,
+      "lng": -65.1556349186104,
+      "desc": "3 recent reports on elections coverage originating from Argentina.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "US Election 2026 : What's Voting , Why They're Key, and What Can Happen to Trump",
+          "url": "https://www.clarin.com/mundo/elecciones-eeuu-2026-vota-clave-puede-pasar-trump_0_eCarVaZk3C.html",
+          "domain": "clarin.com"
+        },
+        {
+          "title": "Ballon d 'Or 2026 : why Lionel Messi's vote was decisive in the election",
+          "url": "https://tn.com.ar/deportes/futbol/2026/11/03/balon-de-oro-2026-por-que-el-voto-de-lionel-messi-fue-determinante-en-la-eleccion/",
+          "domain": "tn.com.ar"
+        },
+        {
+          "title": "Super Election Tuesday in the United States: what is voted on and what are the key states",
+          "url": "https://www.elsol.com.ar/el-mundo/super-martes-electoral-en-estados-unidos-que-se-vota-y-los-estados-clave/",
+          "domain": "elsol.com.ar"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Investors ready for possible shake - up in Congress as Election Day arrives",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 54.5443650813896,
+      "lng": -107.8556349186104,
+      "desc": "3 recent reports on elections coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
       "translated": false,
       "lang": null,
       "sources": [
         {
-          "title": "Mainers to Vote in Nov . 3 General Election",
-          "url": "https://www.themainewire.com/2026/11/mainers-to-vote-in-nov-3-general-election/",
-          "domain": "themainewire.com"
+          "title": "Investors ready for possible shake - up in Congress as Election Day arrives",
+          "url": "https://www.theglobeandmail.com/investing/article-investors-ready-for-possible-shake-up-in-congress-as-election-day/",
+          "domain": "theglobeandmail.com"
         },
         {
-          "title": "Montanans share key issues as they turn in election ballots in Bozeman",
-          "url": "https://www.mykxlg.com/news/national/montanans-share-key-issues-as-they-turn-in-election-ballots-in-bozeman/article_36a5082e-ae33-5f7f-9960-8f9967eb7d96.html",
-          "domain": "mykxlg.com"
+          "title": "Americans head to the polls for midterm election referendum on Trump tenure – Brandon Sun",
+          "url": "https://www.brandonsun.com/business/2026/11/03/americans-head-to-the-polls-for-midterm-election-referendum-on-trumps-tenure",
+          "domain": "brandonsun.com"
         },
         {
-          "title": "House Speaker Mike Johnson rallies for NC Republicans on eve of Election Day",
-          "url": "https://www.witn.com/2026/11/03/house-speaker-mike-johnson-rallies-nc-republicans-eve-election-day/",
-          "domain": "witn.com"
-        },
-        {
-          "title": "Montanans share key issues as they turn in election ballots in Bozeman",
-          "url": "https://www.omakchronicle.com/news/national/montanans-share-key-issues-as-they-turn-in-election-ballots-in-bozeman/article_66b0887e-b3f7-5ed9-ba64-eafd388ca80d.html",
-          "domain": "omakchronicle.com"
+          "title": "Americans head to the polls for midterm election referendum on Trump tenure",
+          "url": "https://www.stcatharinesstandard.ca/business/americans-head-to-the-polls-for-midterm-election-referendum-on-trump-s-tenure/article_0afc0a70-bc58-5400-ac96-e1389236f644.html",
+          "domain": "stcatharinesstandard.ca"
         }
       ],
-      "id": 1
+      "id": 6
+    },
+    {
+      "title": "No need for Arab parties, no new elections! Israel Avigdor Liberman Government Without Arab Parties New Election",
+      "category": "Elections",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 77.1443650813896,
+      "desc": "3 recent reports on elections coverage originating from India.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Hindi",
+      "sources": [
+        {
+          "title": "No need for Arab parties, no new elections! Israel Avigdor Liberman Government Without Arab Parties New Election",
+          "url": "https://www.patrika.com/world-news/israel-avigdor-liberman-government-without-arab-parties-new-election-21027517",
+          "domain": "patrika.com"
+        },
+        {
+          "title": "  Accept political reality : Top Arab - Israeli leader urges opposition to seize  historic opportunity  to oust Netanyahu",
+          "url": "https://www.hindustantimes.com/world-news/israel-election-results-2026-arab-parties-yousef-jabareen-netanyahu-coalition-gadi-eisenkot-knesset-latest-updates-101793694162083.html",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "title": "Rob Sand , Iowa state auditor , running for governor in 2026 midterm elections",
+          "url": "https://www.hindustantimes.com/world-news/us-news/rob-sand-democrat-iowa-state-auditor-running-for-governor-in-2026-us-midterm-elections-101790935962607.html",
+          "domain": "hindustantimes.com"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "Tariffs : Manufacturers group optimistic about Canada - U . S . trade",
+      "category": "Trade & Tariffs",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "North America",
+      "place": "Canada",
+      "lat": 58.300000000000004,
+      "lng": -106.3,
+      "desc": "3 recent reports on trade & tariffs coverage originating from Canada.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Tariffs : Manufacturers group optimistic about Canada - U . S . trade",
+          "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/progress-on-trade-talks-is-encouraging-says-canadian-industry-group/",
+          "domain": "bnnbloomberg.ca"
+        },
+        {
+          "title": "  Screwed either way : Republican senator fights backlash over Trump tariffs in Maine – Brandon Sun",
+          "url": "https://www.brandonsun.com/business/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine",
+          "domain": "brandonsun.com"
+        },
+        {
+          "title": "Tariff news : Maine Sen . Susan Collins fights backlash",
+          "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine/",
+          "domain": "bnnbloomberg.ca"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "category": "Monetary Policy",
+      "severity": "Medium",
+      "date": "2026-11-03",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "3 recent reports on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 3,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+          "url": "http://www.texasguardian.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+          "domain": "texasguardian.com"
+        },
+        {
+          "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+          "url": "http://www.orlandoecho.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+          "domain": "orlandoecho.com"
+        },
+        {
+          "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+          "url": "http://www.coloradostar.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+          "domain": "coloradostar.com"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "War in Ukraine: Kiev accuses Moscow of torpedoing hopes for peace after the death of 29 people on Monday",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "France",
+      "lat": 46.6,
+      "lng": 4.4,
+      "desc": "2 recent reports on conflict coverage originating from France.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "War in Ukraine: Kiev accuses Moscow of torpedoing hopes for peace after the death of 29 people on Monday",
+          "url": "https://www.lanouvellerepublique.fr/a-la-une/guerre-en-ukraine-kiev-accuse-moscou-de-torpiller-les-espoirs-de-paix-apres-la-mort-de-29-personnes-lundi-1793691682",
+          "domain": "lanouvellerepublique.fr"
+        },
+        {
+          "title": "The profits of the Saudi oil giant Aramco continue to soar against the backdrop of war in the Middle East - 03/11/2026 at 11:25",
+          "url": "https://www.boursorama.com/actualite-economique/actualites/les-benefices-du-geant-petrolier-saoudien-aramco-poursuivent-leur-envolee-sur-fond-de-guerre-au-moyen-orient-4fbc7c7d3ae99b1a5b6c62bd4e230b87",
+          "domain": "boursorama.com"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "US equity futures show mixed results as Apple rolls back and mid-term elections approach - 03/11/2026 11:41",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "France",
+      "lat": 45.0443650813896,
+      "lng": 0.6443650813895951,
+      "desc": "2 recent reports on elections coverage originating from France.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "US equity futures show mixed results as Apple rolls back and mid-term elections approach - 03/11/2026 11:41",
+          "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-sur-les-actions-americaines-affichent-des-resultats-mitiges-alors-qu-apple-recule-et-que-les-elections-de-mi-mandat-approchent-8d8595ff63d18412c33df3f799760531",
+          "domain": "boursorama.com"
+        },
+        {
+          "title": "USA . Midterms 2026: Elon Musk , Michael Bloomberg ... but who are the biggest donors?",
+          "url": "https://www.vosgesmatin.fr/elections/2026/11/03/midterms-2026-elon-musk-michael-bloomberg-mais-qui-sont-les-plus-gros-donateurs",
+          "domain": "vosgesmatin.fr"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "Kyriakos Mitsotakis : Rebranding is not parthenogenesis; it is product repositioning – We must be ready for a new war tension in the Gulf - ",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 39.1,
+      "lng": 24,
+      "desc": "2 recent reports on conflict coverage originating from Greece.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Kyriakos Mitsotakis : Rebranding is not parthenogenesis; it is product repositioning – We must be ready for a new war tension in the Gulf - PatrisNews",
+          "url": "https://www.patrisnews.com/kyriakos-mitsotakis-to-rebranding-den-einai-parthenogenesi-einai-epanatopothetisi-proiontos-prepei-na-eimaste-etoimoi-gia-gia-mia-nea-polemiki-entasi-ston-kolpo/",
+          "domain": "patrisnews.com"
+        },
+        {
+          "title": "Oman : The big winner of the war with Iran",
+          "url": "https://www.capital.gr/diethni/4027583/oman-o-megalos-kerdismenos-tou-polemou-me-to-iran/",
+          "domain": "capital.gr"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "Failure for the Trump Administration before the election : A judge blocked her plan to vote for stateless people",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Romania",
+      "lat": 44.3443650813896,
+      "lng": 23.414365081389594,
+      "desc": "2 recent reports on elections coverage originating from Romania.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Romanian",
+      "sources": [
+        {
+          "title": "Failure for the Trump Administration before the election : A judge blocked her plan to vote for stateless people",
+          "url": "https://hotnews.ro/lovitura-pentru-administratia-trump-inainte-de-alegeri-o-judecatoare-i-a-blocat-planul-privind-votul-celor-fara-cetatenie-2393229",
+          "domain": "hotnews.ro"
+        },
+        {
+          "title": "U.S. Election November 3, 2026 . What Americans Vote",
+          "url": "https://www.kanald.ro/alegeri-in-sua-3-noiembrie-2026-democratii-pot-limita-puterea-lui-donald-trump-in-urmatorii-doi-ani-20549401",
+          "domain": "kanald.ro"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "Drums of War or the Deal of the Century? 4 Dangerous Signs Govern Iran-U.S. Negotiations • Ghorba News",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Middle East",
+      "place": "Syria",
+      "lat": 34.8,
+      "lng": 41.2,
+      "desc": "2 recent reports on conflict coverage originating from Syria.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Drums of War or the Deal of the Century? 4 Dangerous Signs Govern Iran-U.S. Negotiations • Ghorba News",
+          "url": "https://ghorbanews.com/%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D9%88%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7/",
+          "domain": "ghorbanews.com"
+        },
+        {
+          "title": "French judges probe war crimes complaint against Israeli army in Lebanon : lawyer",
+          "url": "https://www.justiceinfo.net/en/168062-french-judges-probe-war-crimes-complaint-against-israeli-army-in-lebanon-lawyer.html",
+          "domain": "justiceinfo.net"
+        }
+      ],
+      "id": 14
     },
     {
       "title": "What are the US midterm elections and what does Donald Trump have to do with them ? ",
@@ -77,7 +556,7 @@
           "domain": "crikey.com.au"
         }
       ],
-      "id": 2
+      "id": 15
     },
     {
       "title": "[US Midterm Elections] Trump's Final Speech Elected in Controversial Reflection Pool | International",
@@ -110,7 +589,7 @@
           "domain": "orientaldaily.com.my"
         }
       ],
-      "id": 3
+      "id": 16
     },
     {
       "title": "Bank rate hike 2026 : Why real estate pros see opportunity",
@@ -143,40 +622,7 @@
           "domain": "niagarathisweek.com"
         }
       ],
-      "id": 4
-    },
-    {
-      "title": "Donald Trump News : Election dispute in California : Trump fails before Supreme Court",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 49.6443650813896,
-      "lng": 8.844365081389595,
-      "desc": "2 recent reports on elections coverage originating from Germany.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-03T02:54:39.019Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Donald Trump News : Election dispute in California : Trump fails before Supreme Court",
-          "url": "https://www.news.de/politik/860154100/wahlstreit-in-kalifornien-trump-scheitert-vor-supreme-court-donald-trump-news-der-dpa-aktuell-zu-wahl-parlament-regierung-und-justiz/1/",
-          "domain": "news.de"
-        },
-        {
-          "title": "Volodymyr Zelenskyi : Zelenskyi warns of large-scale Russian attack during US election",
-          "url": "https://www.news.de/politik/860154148/selenskyj-warnt-vor-russischem-grossangriff-waehrend-us-wahl-wolodymyr-selenskyj-news-der-dpa-aktuell-zu-krieg-konflikte-wahl-und-midterms/1/",
-          "domain": "news.de"
-        }
-      ],
-      "id": 5
+      "id": 17
     },
     {
       "title": "Hybrid war on refrigerators : the unique direction also affects Italy , the EU trembles",
@@ -209,7 +655,7 @@
           "domain": "ilgiorno.it"
         }
       ],
-      "id": 6
+      "id": 18
     },
     {
       "title": "Trump Received Supreme Court Waiver in California Election Case",
@@ -242,7 +688,7 @@
           "domain": "zn.ua"
         }
       ],
-      "id": 7
+      "id": 19
     },
     {
       "title": "John James , Jocelyn Benson make final pitches as Michigan governor race nears end",
@@ -275,7 +721,595 @@
           "domain": "upnorthlive.com"
         }
       ],
-      "id": 8
+      "id": 20
+    },
+    {
+      "title": "12 Billion War [US Midterm Election Doom Day]",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "South Korea",
+      "lat": 35.9,
+      "lng": 130,
+      "desc": "1 recent report on conflict coverage originating from South Korea.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Korean",
+      "sources": [
+        {
+          "title": "12 Billion War [US Midterm Election Doom Day]",
+          "url": "https://www.fnnews.com/news/202611031811136858",
+          "domain": "fnnews.com"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "title": "Putin warns Europe : “ Russia is ready  for war",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 51.2,
+      "lng": 12.600000000000001,
+      "desc": "1 recent report on conflict coverage originating from Germany.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Putin warns Europe : “ Russia is ready  for war",
+          "url": "https://www.kreiszeitung.de/politik/putin-warnt-europa-russland-ist-bereit-fuer-einen-krieg-zr-94571624.html",
+          "domain": "kreiszeitung.de"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "Guided by \" Zorbas \" of  18 Kiato shields the Asopos - The great flood protection project was delivered - PatrisNews",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Greece",
+      "lat": 37.5443650813896,
+      "lng": 23.355634918610406,
+      "desc": "1 recent report on disaster & logistics coverage originating from Greece.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "Guided by \" Zorbas \" of  18 Kiato shields the Asopos - The great flood protection project was delivered - PatrisNews",
+          "url": "https://www.patrisnews.com/me-odigo-ton-zormpa-toy-18-to-kiato-thorakizei-ton-asopo-paradothike-to-megalo-antiplimmyriko-ergo/",
+          "domain": "patrisnews.com"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "title": "US Gambling, Forecasting Platforms Hit Big Money in Midterm Elections to Influence Future Regulation | US News | Global",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 22.144365081389594,
+      "lng": 119.40436508138959,
+      "desc": "1 recent report on elections coverage originating from Taiwan.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "US Gambling, Forecasting Platforms Hit Big Money in Midterm Elections to Influence Future Regulation | US News | Global",
+          "url": "https://udn.com/news/story/6813/9854911",
+          "domain": "udn.com"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "title": "KEC International Guidance Cut : The war caused a ₹600 million blow ! Company cuts target , shares down 8%",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 22.4,
+      "lng": 80.9,
+      "desc": "1 recent report on conflict coverage originating from India.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Hindi",
+      "sources": [
+        {
+          "title": "KEC International Guidance Cut : The war caused a ₹600 million blow ! Company cuts target , shares down 8%",
+          "url": "https://hindi.moneycontrol.com/news/markets/kec-international-cuts-fy27-revenue-growth-guidance-west-asia-conflict-impact-2453392.html",
+          "domain": "hindi.moneycontrol.com"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "title": "Democracy, braking judicial confirmation when taking control of the House of Representatives… Trump's early Laimduk [Midterm Election Doom D",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "South Korea",
+      "lat": 34.3443650813896,
+      "lng": 126.24436508138959,
+      "desc": "1 recent report on elections coverage originating from South Korea.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Korean",
+      "sources": [
+        {
+          "title": "Democracy, braking judicial confirmation when taking control of the House of Representatives… Trump's early Laimduk [Midterm Election Doom Day]",
+          "url": "https://www.fnnews.com/news/202611031811042619",
+          "domain": "fnnews.com"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "title": "Special voting hiccups raise questions before election day",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Africa",
+      "place": "South Africa",
+      "lat": -32.1556349186104,
+      "lng": 21.344365081389594,
+      "desc": "1 recent report on elections coverage originating from South Africa.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Special voting hiccups raise questions before election day",
+          "url": "https://mg.co.za/news/south-africa/2026-11-03-special-voting-hiccups-raise-questions-before-election-day/",
+          "domain": "mg.co.za"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "title": "When the victim is excluded and the aggressor protected: understanding the family earthquake during the revelation of incest - ASH",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "France",
+      "lat": 45.0443650813896,
+      "lng": 3.7556349186104043,
+      "desc": "1 recent report on disaster & logistics coverage originating from France.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "When the victim is excluded and the aggressor protected: understanding the family earthquake during the revelation of incest - ASH",
+          "url": "https://www.ash.tm.fr/protection-enfance/quand-la-victime-est-exclue-et-lagresseur-protege-comprendre-le-seisme-familial-lors-de-la-revelation-de-linceste-975612.php",
+          "domain": "ash.tm.fr"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "Bangladesh",
+      "lat": 25.255634918610404,
+      "lng": 91.95563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from Bangladesh.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+          "url": "http://www.bangladeshsun.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+          "domain": "bangladeshsun.com"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "Iranian Senior Official: US-Iran Still Far Away From End-of-War Deal | International",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 23.7,
+      "lng": 123.16,
+      "desc": "1 recent report on conflict coverage originating from Taiwan.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Iranian Senior Official: US-Iran Still Far Away From End-of-War Deal | International",
+          "url": "https://www.cna.com.tw:443/news/aopl/202611030286.aspx",
+          "domain": "cna.com.tw"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "US Attacks Iran: Secret Attacks Ahead of Midterm Elections",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 49.6443650813896,
+      "lng": 8.844365081389595,
+      "desc": "1 recent report on elections coverage originating from Germany.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "US Attacks Iran: Secret Attacks Ahead of Midterm Elections",
+          "url": "https://www.az-online.de/politik/usa-greifen-iran-an-geheime-angriffe-vor-den-zwischenwahlen-zr-94571598.html",
+          "domain": "az-online.de"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "Earthquake of 5 . 6 degrees shakes part of Colombia and generates alert",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Latin America",
+      "place": "Colombia",
+      "lat": 3.0443650813895946,
+      "lng": -72.74436508138959,
+      "desc": "1 recent report on disaster & logistics coverage originating from Colombia.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Earthquake of 5 . 6 degrees shakes part of Colombia and generates alert",
+          "url": "https://www.lafm.com.co/actualidad/sismo-de-mediana-intensidad-sacude-colombia-415938",
+          "domain": "lafm.com.co"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "Alarm clock : Tax law, US elections US and more ...",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Latin America",
+      "place": "Colombia",
+      "lat": 3.044365081389595,
+      "lng": -75.8556349186104,
+      "desc": "1 recent report on elections coverage originating from Colombia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Alarm clock : Tax law, US elections US and more ...",
+          "url": "https://www.elespectador.com/colombia/despertador-ley-fiscal-elecciones-en-ee-uu-y-mas/",
+          "domain": "elespectador.com"
+        }
+      ],
+      "id": 33
+    },
+    {
+      "title": "The ICC President promises that the Court will continue its mission , despite the sanctions imposed by the US : “ The Court will continue to",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Romania",
+      "lat": 45.9,
+      "lng": 22.77,
+      "desc": "1 recent report on sanctions coverage originating from Romania.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Romanian",
+      "sources": [
+        {
+          "title": "The ICC President promises that the Court will continue its mission , despite the sanctions imposed by the US : “ The Court will continue to fully exercise its mandate",
+          "url": "https://www.caleaeuropeana.ro/presedinta-cpi-promite-ca-instanta-isi-va-continua-misiunea-in-pofida-sanctiunilor-impuse-de-sua-curtea-isi-va-exercita-in-continuare-mandatul-pe-deplin/",
+          "domain": "caleaeuropeana.ro"
+        }
+      ],
+      "id": 34
+    },
+    {
+      "title": "Evening News Hong Kong stocks rose three times in a row, buying 23.4 billion Hong Kong dollars in the south; the US mid-term elections were ",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 34.3443650813896,
+      "lng": 102.6443650813896,
+      "desc": "1 recent report on elections coverage originating from China.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Evening News Hong Kong stocks rose three times in a row, buying 23.4 billion Hong Kong dollars in the south; the US mid-term elections were voted today; Russia confirmed that the tripartite talks between Russia, the United States and Ukraine were held in Abu Dhabi on 10-11; AMD's earnings report was announced; Dama: AI capital expenditure in the next decade may reach 15 trillion US dollars_Oriental Wealth Network",
+          "url": "https://finance.eastmoney.com/a/202611033920367270.html",
+          "domain": "finance.eastmoney.com"
+        }
+      ],
+      "id": 35
+    },
+    {
+      "title": "Frankfurt equities: DAX slightly weaker - oil price , tech - weakness , quarterly figures",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 52.755634918610404,
+      "lng": 8.844365081389595,
+      "desc": "1 recent report on energy coverage originating from Germany.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "German",
+      "sources": [
+        {
+          "title": "Frankfurt equities: DAX slightly weaker - oil price , tech - weakness , quarterly figures",
+          "url": "https://www.finanzen.net/nachricht/aktien/aktien-frankfurt-dax-etwas-schwaecher-oelpreis-tech-schwaeche-quartalszahlen-16031867",
+          "domain": "finanzen.net"
+        }
+      ],
+      "id": 36
+    },
+    {
+      "title": "Cyberattacks hit stores in 7 European countries",
+      "category": "Cyber & Security",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Middle East",
+      "place": "Israel",
+      "lat": 28.8,
+      "lng": 34.9,
+      "desc": "1 recent report on cyber & security coverage originating from Israel.",
+      "markets": [
+        "Tech",
+        "Cybersecurity",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Cyberattacks hit stores in 7 European countries",
+          "url": "https://safa.ps/post/422589/%D9%87%D8%AC%D9%85%D8%A7%D8%AA-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AA%D8%B6%D8%B1%D8%A8-%D9%85%D8%AA%D8%A7%D8%AC%D8%B1-%D9%81%D9%8A-7-%D8%AF%D9%88%D9%84-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9",
+          "domain": "safa.ps"
+        }
+      ],
+      "id": 37
+    },
+    {
+      "title": "Mid-term elections in the United States: rising GDP, low morale ... the paradox that threatens Trump",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Belgium",
+      "lat": 48.9443650813896,
+      "lng": 2.944365081389595,
+      "desc": "1 recent report on elections coverage originating from Belgium.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "Mid-term elections in the United States: rising GDP, low morale ... the paradox that threatens Trump",
+          "url": "https://www.rtbf.be/article/elections-de-mi-mandat-aux-etats-unis-pib-en-hausse-moral-en-berne-le-paradoxe-qui-menace-trump-11809622",
+          "domain": "rtbf.be"
+        }
+      ],
+      "id": 38
+    },
+    {
+      "title": "Israel kills 1 Palestinians, injures 7 in southern Gaza despite ceasefire",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "1 recent report on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Israel kills 1 Palestinians, injures 7 in southern Gaza despite ceasefire",
+          "url": "https://www.haberler.com/guncel/israil-ateskese-ragmen-gazze-nin-guneyinde-1-20391171-haberi/",
+          "domain": "haberler.com"
+        }
+      ],
+      "id": 39
+    },
+    {
+      "title": "Ukraine war briefing : US to mediate talks with Kyiv and Moscow in Abu Dhabi next week , says Witkoff",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Ukraine war briefing : US to mediate talks with Kyiv and Moscow in Abu Dhabi next week , says Witkoff",
+          "url": "https://www.aol.co.uk/articles/ukraine-war-briefing-us-mediate-020038000.html",
+          "domain": "aol.co.uk"
+        }
+      ],
+      "id": 40
+    },
+    {
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-11-03",
+      "region": "Africa",
+      "place": "South Africa",
+      "lat": -29.044365081389596,
+      "lng": 24.455634918610404,
+      "desc": "1 recent report on monetary policy coverage originating from South Africa.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-03T18:25:47.556Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+          "url": "http://www.africaleader.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+          "domain": "africaleader.com"
+        }
+      ],
+      "id": 41
     },
     {
       "title": "Al-Qamaty : Inflation in Libya is the product of monetary, financial and structural imbalances",
@@ -303,7 +1337,7 @@
           "domain": "libyaakhbar.com"
         }
       ],
-      "id": 9
+      "id": 42
     },
     {
       "title": "Trump claims US is world largest supplier of oil and natural gas in final midterm campaign pitch",
@@ -331,7 +1365,7 @@
           "domain": "argentinastar.com"
         }
       ],
-      "id": 10
+      "id": 43
     },
     {
       "title": "[Lubomai Investment Trust] Chief Investment Officer's Perspective - Seeing the Interest Rate Increase Process by Holding Interest Rate Incre",
@@ -359,7 +1393,7 @@
           "domain": "news.cnyes.com"
         }
       ],
-      "id": 11
+      "id": 44
     },
     {
       "title": "Stock Market Today Live : Gift Nifty points to gap - up opening ; crude oil , US election in focus",
@@ -387,7 +1421,7 @@
           "domain": "thehindubusinessline.com"
         }
       ],
-      "id": 12
+      "id": 45
     },
     {
       "title": "Trump considers pardons for allies and threatens to veto bills if Democrats win the election",
@@ -415,7 +1449,7 @@
           "domain": "acritica.net"
         }
       ],
-      "id": 13
+      "id": 46
     },
     {
       "title": "RBA interest rate decision : Xmas , unemployment and Trump",
@@ -443,35 +1477,7 @@
           "domain": "crikey.com.au"
         }
       ],
-      "id": 14
-    },
-    {
-      "title": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & ",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "1 recent report on conflict coverage originating from United States.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T10:50:34.598Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "url": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
-          "domain": "dominicanrepublicpost.com"
-        }
-      ],
-      "id": 15
+      "id": 47
     },
     {
       "title": "Investors in Chile take refuge in bonds indexed to inflation",
@@ -499,7 +1505,7 @@
           "domain": "gestion.pe"
         }
       ],
-      "id": 16
+      "id": 48
     },
     {
       "title": "US Midterm Elections/Polls Expose Trump's Dilemma: 68% Dissatisfied with Inflation-Resistance Performance Immigration Hard Price Pressure | ",
@@ -527,35 +1533,7 @@
           "domain": "udn.com"
         }
       ],
-      "id": 17
-    },
-    {
-      "title": "The 7 key elections you have to look at to know if the Democrats will regain control of the US Senate",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Latin America",
-      "place": "Argentina",
-      "lat": -39.9556349186104,
-      "lng": -65.1556349186104,
-      "desc": "1 recent report on elections coverage originating from Argentina.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T10:50:34.598Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "The 7 key elections you have to look at to know if the Democrats will regain control of the US Senate",
-          "url": "https://www.mdzol.com/mundo/2026/11/2/las-7-elecciones-clave-que-tienes-que-mirar-para-saber-si-los-democratas-recuperaran-el-control-del-senado-en-eeuu-1992614.html",
-          "domain": "mdzol.com"
-        }
-      ],
-      "id": 18
+      "id": 49
     },
     {
       "title": "Woman dies in collapse and asylum is hit by flood | Brazil",
@@ -583,7 +1561,7 @@
           "domain": "odia.ig.com.br"
         }
       ],
-      "id": 19
+      "id": 50
     },
     {
       "title": "Trump Administration Takes California Ballot Dispute to Supreme Court",
@@ -611,91 +1589,7 @@
           "domain": "elmundo.es"
         }
       ],
-      "id": 20
-    },
-    {
-      "title": "California Governor Warns U.S. Election Interference will be punished as a felony",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Latin America",
-      "place": "Colombia",
-      "lat": 3.044365081389595,
-      "lng": -75.8556349186104,
-      "desc": "1 recent report on elections coverage originating from Colombia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T02:54:39.019Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "California Governor Warns U.S. Election Interference will be punished as a felony",
-          "url": "https://www.elheraldo.co/mundo/2026/11/03/gobernador-de-california-advierte-que-interferencia-electoral-en-eeuu-sera-castigada-como-delito-grave/",
-          "domain": "elheraldo.co"
-        }
-      ],
-      "id": 21
-    },
-    {
-      "title": "Will it be a variable of interest at the end of the US midterm elections... Pursuing the Republican Party in the Senate contest order",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Asia-Pacific",
-      "place": "South Korea",
-      "lat": 34.3443650813896,
-      "lng": 126.24436508138959,
-      "desc": "1 recent report on elections coverage originating from South Korea.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T02:54:39.019Z",
-      "translated": true,
-      "lang": "Korean",
-      "sources": [
-        {
-          "title": "Will it be a variable of interest at the end of the US midterm elections... Pursuing the Republican Party in the Senate contest order",
-          "url": "https://biz.chosun.com/international/international_general/2026/11/03/WUFUYDUOSFACPPKBNWADO6IN4A/",
-          "domain": "biz.chosun.com"
-        }
-      ],
-      "id": 22
-    },
-    {
-      "title": "Volodymyr Zelenskyi News : Zelenskyi : Hacking Russian warning - app was counterattack",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 51.2,
-      "lng": 12.600000000000001,
-      "desc": "1 recent report on conflict coverage originating from Germany.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T02:54:39.019Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Volodymyr Zelenskyi News : Zelenskyi : Hacking Russian warning - app was counterattack",
-          "url": "https://www.news.de/politik/860154169/selenskyj-hacken-russischer-warn-app-war-gegenangriff-wolodymyr-selenskyj-news-der-dpa-aktuell-zu-krieg-konflikte-und-internet/1/",
-          "domain": "news.de"
-        }
-      ],
-      "id": 23
+      "id": 51
     },
     {
       "title": "Focus Stocks China Airlines: Falling Oil Prices Deliver Big Gifts, Flying Against Trends",
@@ -723,35 +1617,7 @@
           "domain": "ec.ltn.com.tw"
         }
       ],
-      "id": 24
-    },
-    {
-      "title": "War in Ukraine : New round of US-mediated negotiations in Abu Dhabi",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "1 recent report on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T02:54:39.019Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "War in Ukraine : New round of US-mediated negotiations in Abu Dhabi",
-          "url": "https://www.newsbomb.gr/kosmos/story/1773864/polemos-stin-oukrania-sto-ampoy-dampi-o-neos-gyros-ton-diapragmateyseon-me-mesolavisi-ton-ipa",
-          "domain": "newsbomb.gr"
-        }
-      ],
-      "id": 25
+      "id": 52
     },
     {
       "title": "5 , 000 professors , senior academics to endorse Tinubu re - election bid National Accord Newspaper % ",
@@ -779,7 +1645,7 @@
           "domain": "nationalaccordnewspaper.com"
         }
       ],
-      "id": 26
+      "id": 53
     },
     {
       "title": "PRIVACY ALERT : AWKO Law LLP Investigates Citizens Bank , N . A . for Data Breach of Customer Records",
@@ -807,7 +1673,7 @@
           "domain": "daily-tribune.com"
         }
       ],
-      "id": 27
+      "id": 54
     },
     {
       "title": "Drainage District 7 , Lamar University to install 10 flood sensors in Port Arthur area",
@@ -835,7 +1701,7 @@
           "domain": "kfdm.com"
         }
       ],
-      "id": 28
+      "id": 55
     },
     {
       "title": "Refrigeration Systems Under Cyber Siege : The Internet of Things Shows Weaknesses , ETTelecom",
@@ -863,7 +1729,7 @@
           "domain": "telecom.economictimes.indiatimes.com"
         }
       ],
-      "id": 29
+      "id": 56
     },
     {
       "title": "[Focus Selection Series: N06 Temple of Literature] Two-time winner, three-time winner, Yi Yi, Jalani, no chance to defend the Temple of Lite",
@@ -891,7 +1757,7 @@
           "domain": "orientaldaily.com.my"
         }
       ],
-      "id": 30
+      "id": 57
     },
     {
       "title": "Oil prices plunge more than 7 percent on hopes of talks between the U.S. and Iran",
@@ -919,35 +1785,7 @@
           "domain": "vietstock.vn"
         }
       ],
-      "id": 31
-    },
-    {
-      "title": "Should you bet on shares in the US midterm elections? KGI Securities: Investment discipline more important than buying | Stock Market Highli",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-03",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 22.144365081389594,
-      "lng": 119.40436508138959,
-      "desc": "1 recent report on elections coverage originating from Taiwan.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-03T02:54:39.019Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Should you bet on shares in the US midterm elections? KGI Securities: Investment discipline more important than buying | Stock Market Highlights | Stock Market",
-          "url": "https://udn.com/news/story/7251/9853380",
-          "domain": "udn.com"
-        }
-      ],
-      "id": 32
+      "id": 58
     }
   ]
 }
