@@ -1,8 +1,51 @@
 {
-  "generatedAt": "2026-11-07T22:44:48.817Z",
+  "generatedAt": "2026-11-08T02:29:01.612Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
+    {
+      "title": "SC congressional race , 2 State House races headed to recounts after close election results",
+      "category": "Elections",
+      "severity": "High",
+      "date": "2026-11-08",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "8 recent reports on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 8,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "SC congressional race , 2 State House races headed to recounts after close election results",
+          "url": "https://cbs2iowa.com/news/nation-world/2026-11-06-sc-congressional-race-2-state-house-races-headed-to-recounts-after-close-election-results-us-rep-joe-wilson-democrat-zyon-khalifa-politics-voting",
+          "domain": "cbs2iowa.com"
+        },
+        {
+          "title": "Sen . Ron Johnson Moves to Postpone Senate Leadership Elections",
+          "url": "https://wcbm.com/national-headline/sen-ron-johnson-moves-to-postpone-senate-leadership-elections/",
+          "domain": "wcbm.com"
+        },
+        {
+          "title": "Israel president picks Eisenkot over Netanyahu to form next government | Israel Election 2026 News",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+          "domain": "aljazeera.com"
+        },
+        {
+          "title": "World News : New Zealand election too close to call",
+          "url": "https://www.gdnonline.com:443/Details/1412162/New-Zealand-election-too-close-to-call",
+          "domain": "gdnonline.com"
+        }
+      ],
+      "id": 1
+    },
     {
       "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
       "category": "Monetary Policy",
@@ -44,7 +87,7 @@
           "domain": "bozemandailychronicle.com"
         }
       ],
-      "id": 1
+      "id": 2
     },
     {
       "title": "Election 2026 : What are your reactions to the 2026 election results ? Our reader comments are open",
@@ -87,7 +130,7 @@
           "domain": "interest.co.nz"
         }
       ],
-      "id": 2
+      "id": 3
     },
     {
       "title": "Tobacco war plan , $400m for buses lead campaign pitches",
@@ -130,7 +173,93 @@
           "domain": "macleayargus.com.au"
         }
       ],
-      "id": 3
+      "id": 4
+    },
+    {
+      "title": "Israel president gives Netanyahu rival first chance to form government",
+      "category": "Conflict",
+      "severity": "Medium",
+      "date": "2026-11-08",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "5 recent reports on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 5,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Israel president gives Netanyahu rival first chance to form government",
+          "url": "https://cbs2iowa.com/news/nation-world/israels-president-gives-netanyahus-rival-first-chance-to-form-government-prime-minister-benjamin-netanyahu-israeli-president-isaac-herzog-opposition-leader-gadi-eisenkot-election-gaza-war",
+          "domain": "cbs2iowa.com"
+        },
+        {
+          "title": "Israel president gives Netanyahu rival first chance to form government",
+          "url": "https://weartv.com/news/nation-world/israels-president-gives-netanyahus-rival-first-chance-to-form-government-prime-minister-benjamin-netanyahu-israeli-president-isaac-herzog-opposition-leader-gadi-eisenkot-election-gaza-war",
+          "domain": "weartv.com"
+        },
+        {
+          "title": "Israel president gives Netanyahu rival first chance to form government",
+          "url": "https://upnorthlive.com/news/nation-world/israels-president-gives-netanyahus-rival-first-chance-to-form-government-prime-minister-benjamin-netanyahu-israeli-president-isaac-herzog-opposition-leader-gadi-eisenkot-election-gaza-war",
+          "domain": "upnorthlive.com"
+        },
+        {
+          "title": "Iowa Navy veteran laid to rest in Sioux City 80 years after his death in World War II prison camp",
+          "url": "https://www.ktiv.com/2026/11/07/iowa-navy-veteran-laid-rest-sioux-city-80-years-after-his-death-world-war-ii-prison-camp/",
+          "domain": "ktiv.com"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "World News : Heavy rains flood 70 , 000 Gaza tents housing displaced people",
+      "category": "Disaster & Logistics",
+      "severity": "Medium",
+      "date": "2026-11-08",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.94436508138959,
+      "lng": -96.8443650813896,
+      "desc": "4 recent reports on disaster & logistics coverage originating from United States.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 4,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "World News : Heavy rains flood 70 , 000 Gaza tents housing displaced people",
+          "url": "https://www.gdnonline.com:443/Details/1412154/Heavy-rains-flood-70,000-Gaza-tents-housing-displaced-people-",
+          "domain": "gdnonline.com"
+        },
+        {
+          "title": "A strong earthquake with a preliminary magnitude of 5 . 7 strikes Japan , meteorological agency says",
+          "url": "http://www.gazettextra.com/news/nation_world/a-strong-earthquake-with-a-preliminary-magnitude-of-5-7-strikes-japan-meteorological-agency-says/article_411794f6-a3da-5d7e-9526-45f2746c1088.html",
+          "domain": "gazettextra.com"
+        },
+        {
+          "title": "Inocar rules out tsunami risk after 4.7 earthquake on the coast of Manabí",
+          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/inocar-descarta-riesgo-tsunami-sismo-4-7-costas-manabi-132406/",
+          "domain": "teleamazonas.com"
+        },
+        {
+          "title": "A magnitude 4.7 earthquake struck off the coast of Puerto Lopez , Manabi",
+          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/sismo-magnitud-4-7-registro-frente-costas-puerto-lopez-manabi-132404/",
+          "domain": "teleamazonas.com"
+        }
+      ],
+      "id": 6
     },
     {
       "title": "At least 350 Russian conscripts died in the war in Ukraine",
@@ -173,7 +302,7 @@
           "domain": "come-on.de"
         }
       ],
-      "id": 4
+      "id": 7
     },
     {
       "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
@@ -211,7 +340,7 @@
           "domain": "clickondetroit.com"
         }
       ],
-      "id": 5
+      "id": 8
     },
     {
       "title": "Minister Simsek : I think the war will fundamentally change the region",
@@ -249,7 +378,7 @@
           "domain": "aa.com.tr"
         }
       ],
-      "id": 6
+      "id": 9
     },
     {
       "title": "Trump Faces a Tough Process in the Midterm Elections",
@@ -287,7 +416,7 @@
           "domain": "aa.com.tr"
         }
       ],
-      "id": 7
+      "id": 10
     },
     {
       "title": "The damned of Warsaw , Wajda opens his personal trilogy on war , which has none of the stereotypes of the war genre",
@@ -325,7 +454,7 @@
           "domain": "zazoom.it"
         }
       ],
-      "id": 8
+      "id": 11
     },
     {
       "title": "Trump says US talking to Iran amid sanctions push",
@@ -363,7 +492,7 @@
           "domain": "orissapost.com"
         }
       ],
-      "id": 9
+      "id": 12
     },
     {
       "title": "Team disorganization, talent acquisition challenges, and doubts about effectiveness - Cyberattacks: Current Affairs.com",
@@ -401,7 +530,7 @@
           "domain": "jiji.com"
         }
       ],
-      "id": 10
+      "id": 13
     },
     {
       "title": "Wall Street  Energy Transition  Funds Are Packed With Natural Gas",
@@ -439,73 +568,40 @@
           "domain": "ky3.com"
         }
       ],
-      "id": 11
+      "id": 14
     },
     {
-      "title": "Iowa Navy veteran laid to rest in Sioux City 80 years after his death in World War II prison camp",
+      "title": "Democrats are considering a new package of military assistance to Ukraine worth about $15 billion – FT",
       "category": "Conflict",
       "severity": "Low",
-      "date": "2026-11-07",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "2 recent reports on conflict coverage originating from United States.",
+      "date": "2026-11-08",
+      "region": "Europe",
+      "place": "Ukraine",
+      "lat": 48.4,
+      "lng": 33.4,
+      "desc": "2 recent reports on conflict coverage originating from Ukraine.",
       "markets": [
         "Defense",
         "Oil",
         "Gold"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Iowa Navy veteran laid to rest in Sioux City 80 years after his death in World War II prison camp",
-          "url": "https://www.ktiv.com/2026/11/07/iowa-navy-veteran-laid-rest-sioux-city-80-years-after-his-death-world-war-ii-prison-camp/",
-          "domain": "ktiv.com"
-        },
-        {
-          "title": "IRAN WAR WEEK 37 , day # 1 : is perpetual combat and chaos Krasnov jam ? ",
-          "url": "https://www.dailykos.com/stories/2026/11/7/800124647/community/iran-war-week-37-day-1-is-perpetual-combat-and-chaos-krasnovs-jam/",
-          "domain": "dailykos.com"
-        }
-      ],
-      "id": 12
-    },
-    {
-      "title": "Inocar rules out tsunami risk after 4.7 earthquake on the coast of Manabí",
-      "category": "Disaster & Logistics",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.94436508138959,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on disaster & logistics coverage originating from United States.",
-      "markets": [
-        "Shipping",
-        "Commodities",
-        "Insurance"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
-      "lang": "Spanish",
+      "lang": "Ukrainian",
       "sources": [
         {
-          "title": "Inocar rules out tsunami risk after 4.7 earthquake on the coast of Manabí",
-          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/inocar-descarta-riesgo-tsunami-sismo-4-7-costas-manabi-132406/",
-          "domain": "teleamazonas.com"
+          "title": "Democrats are considering a new package of military assistance to Ukraine worth about $15 billion – FT",
+          "url": "https://gordonua.com/ukr/section-war/news-demokraty-rozhlyadayut-novyy-paket-viyskovoyi-dopomohy-ukrayini-na-sumu-blyzko-15-mlrd-ft-07-11-2026.html",
+          "domain": "gordonua.com"
         },
         {
-          "title": "A magnitude 4.7 earthquake struck off the coast of Puerto Lopez , Manabi",
-          "url": "https://www.teleamazonas.com/actualidad/noticias/ecuador/sismo-magnitud-4-7-registro-frente-costas-puerto-lopez-manabi-132404/",
-          "domain": "teleamazonas.com"
+          "title": "BlackSeaNews | Finland is studying the Ukrainian experience : the country is preparing for a possible war with the Russian Federation",
+          "url": "https://www.blackseanews.net/read/250234",
+          "domain": "blackseanews.net"
         }
       ],
-      "id": 13
+      "id": 15
     },
     {
       "title": "The Words of Trump's Election of Stephen Miller :  Preparing for War",
@@ -523,7 +619,7 @@
         "Gold"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Swedish",
       "sources": [
@@ -536,72 +632,6 @@
           "title": "Direct – War in Ukraine – Erdogan and Trump have spoken on the phone",
           "url": "https://www.dn.se/direkt/ukraina/2026-11-07/erdogan-och-trump-har-talat-i-telefon/",
           "domain": "dn.se"
-        }
-      ],
-      "id": 14
-    },
-    {
-      "title": "Lawyer Ejiofor Warns 2027 Elections May Be Nigeria Bloodiest In History , Condemns Rising Political Attacks",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "Africa",
-      "place": "Nigeria",
-      "lat": 7.544365081389595,
-      "lng": 7.144365081389594,
-      "desc": "2 recent reports on elections coverage originating from Nigeria.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Lawyer Ejiofor Warns 2027 Elections May Be Nigeria Bloodiest In History , Condemns Rising Political Attacks",
-          "url": "https://saharareporters.com/2026/11/07/lawyer-ejiofor-warns-2027-elections-may-be-nigerias-bloodiest-history-condemns-rising",
-          "domain": "saharareporters.com"
-        },
-        {
-          "title": "EXCLUSIVE : Alleged Leader Of Attack On Sowore , Sola Adenijo  Solar  Previously Charged With Murder In Ekiti Election Violence , Worked As Political Enforcer For Tinubu Son - In - Law Oyetunde Ojo Police Source",
-          "url": "https://saharareporters.com/2026/11/07/exclusive-alleged-leader-attack-sowore-sola-adenijo-solar-previously-charged-murder",
-          "domain": "saharareporters.com"
-        }
-      ],
-      "id": 15
-    },
-    {
-      "title": "DKPP Verification of Five Complaints of Alleged Election Ethics Violations, Who is Reported ?",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "Asia-Pacific",
-      "place": "Indonesia",
-      "lat": -2.355634918610405,
-      "lng": 112.3443650813896,
-      "desc": "2 recent reports on elections coverage originating from Indonesia.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
-      "translated": true,
-      "lang": "Indonesian",
-      "sources": [
-        {
-          "title": "DKPP Verification of Five Complaints of Alleged Election Ethics Violations, Who is Reported ?",
-          "url": "https://koran-jakarta.com/2026-11-08/dkpp-verifikasi-lima-aduan-dugaan-pelanggaran-etik-pemilu-siapa-yang-dilaporkan",
-          "domain": "koran-jakarta.com"
-        },
-        {
-          "title": "No Clear Winner Yet! New Zealand Election Presents Intense Competition",
-          "url": "https://koran-jakarta.com/2026-11-08/belum-ada-pemenang-yang-jelas-pemilu-selandia-baru-hadirkan-persaingan-sengit",
-          "domain": "koran-jakarta.com"
         }
       ],
       "id": 16
@@ -622,7 +652,7 @@
         "Equities"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Greek",
       "sources": [
@@ -638,72 +668,6 @@
         }
       ],
       "id": 17
-    },
-    {
-      "title": "Trump post - election catastrophe",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "2 recent reports on elections coverage originating from United States.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Trump post - election catastrophe",
-          "url": "https://www.dailykos.com/stories/2026/11/7/800124105/series/trumps-post-election-catastrophe/",
-          "domain": "dailykos.com"
-        },
-        {
-          "title": "Israeli President picks Gadi Eisenkot , Netanyahu rival , to try to form next govt following elections",
-          "url": "http://www.bignewsnetwork.com/news/279418852/israeli-president-picks-gadi-eisenkot-netanyahu-rival-to-try-to-form-next-govt-following-elections",
-          "domain": "bignewsnetwork.com"
-        }
-      ],
-      "id": 18
-    },
-    {
-      "title": "BlackSeaNews | Finland is studying the Ukrainian experience : the country is preparing for a possible war with the Russian Federation",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "Europe",
-      "place": "Ukraine",
-      "lat": 48.4,
-      "lng": 33.4,
-      "desc": "2 recent reports on conflict coverage originating from Ukraine.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
-      "translated": true,
-      "lang": "Ukrainian",
-      "sources": [
-        {
-          "title": "BlackSeaNews | Finland is studying the Ukrainian experience : the country is preparing for a possible war with the Russian Federation",
-          "url": "https://www.blackseanews.net/read/250234",
-          "domain": "blackseanews.net"
-        },
-        {
-          "title": "The number of movements of manpower of the Russian Federation in the directions has multiplied ,",
-          "url": "https://www.unian.net/war/chislo-peremeshcheniy-zhivoy-sily-rf-na-napravleniyah-kratno-uvelichilos-voennyy-13553049.html",
-          "domain": "unian.net"
-        }
-      ],
-      "id": 19
     },
     {
       "title": "80 martyrs of the Spanish Civil War beatified in Santander",
@@ -736,7 +700,7 @@
           "domain": "niedziela.pl"
         }
       ],
-      "id": 20
+      "id": 18
     },
     {
       "title": "Grey Anatomy declares war on Hollywood after losing tax break · TV news",
@@ -769,7 +733,7 @@
           "domain": "fatimanews.com.br"
         }
       ],
-      "id": 21
+      "id": 19
     },
     {
       "title": "Airstrikes target village near Sanaa , leaving 11 dead",
@@ -802,7 +766,7 @@
           "domain": "jagran.com"
         }
       ],
-      "id": 22
+      "id": 20
     },
     {
       "title": "US Presidential Chief of Staff Defeats Midterm Elections in Turn, Replacement Hardliners | Kyodo News",
@@ -835,7 +799,7 @@
           "domain": "sankei.com"
         }
       ],
-      "id": 23
+      "id": 21
     },
     {
       "title": "Buying a house , retaining assets thanks to Vinhomes' long-term interest rate fixed fulcrum",
@@ -868,7 +832,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 24
+      "id": 22
     },
     {
       "title": "Head of the NBP Research and Analysis Department: maintaining the CPN program would reduce CPI inflation by 0.9 pp in 2027 .",
@@ -901,7 +865,7 @@
           "domain": "forsal.pl"
         }
       ],
-      "id": 25
+      "id": 23
     },
     {
       "title": "Eviction to an elderly couple in Toumba : \" There's a hurricane coming – We help so many mothers as firefighters , but nobody helps ours,\" s",
@@ -934,7 +898,7 @@
           "domain": "newsbeast.gr"
         }
       ],
-      "id": 26
+      "id": 24
     },
     {
       "title": "Xi Jinping participates in the Beijing Municipal People's Congress election",
@@ -967,7 +931,7 @@
           "domain": "finance.eastmoney.com"
         }
       ],
-      "id": 27
+      "id": 25
     },
     {
       "title": "Appeal to raise £150 , 000 for memorial to World War II heroes",
@@ -1000,7 +964,203 @@
           "domain": "irvinetimes.com"
         }
       ],
+      "id": 26
+    },
+    {
+      "title": "Earthquakes in the Kanto, Chubu, Kinki, Chugoku, and Shikoku regions Earthquakes 5.7 Earthquakes in Tokyo, Kanagawa, Osaka, Aichi, and Saita",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Asia-Pacific",
+      "place": "Japan",
+      "lat": 34.644365081389594,
+      "lng": 139.8556349186104,
+      "desc": "1 recent report on disaster & logistics coverage originating from Japan.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": true,
+      "lang": "Japanese",
+      "sources": [
+        {
+          "title": "Earthquakes in the Kanto, Chubu, Kinki, Chugoku, and Shikoku regions Earthquakes 5.7 Earthquakes in Tokyo, Kanagawa, Osaka, Aichi, and Saitama Earthquakes with a maximum seismic intensity of 5 Earthquakes occurring in the western part of Shizuoka Prefecture Population 66,260,000",
+          "url": "https://www.chibanippo.co.jp/articles/1689677",
+          "domain": "chibanippo.co.jp"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "title": "[Industrial Aftermath of the Election] ② The burden of automobile tariffs will continue... Electric vehicles are expected",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Asia-Pacific",
+      "place": "South Korea",
+      "lat": 38.1,
+      "lng": 127.8,
+      "desc": "1 recent report on trade & tariffs coverage originating from South Korea.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": true,
+      "lang": "Korean",
+      "sources": [
+        {
+          "title": "[Industrial Aftermath of the Election] ② The burden of automobile tariffs will continue... Electric vehicles are expected",
+          "url": "https://www.fnnews.com/news/202611080532096016",
+          "domain": "fnnews.com"
+        }
+      ],
       "id": 28
+    },
+    {
+      "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Asia-Pacific",
+      "place": "Japan",
+      "lat": 37.755634918610404,
+      "lng": 139.8556349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Japan.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
+          "url": "https://japantoday.com/category/business/inflation-housing-jobs-and-corporate-earnings-will-dominate-the-business-calendar-this-week",
+          "domain": "japantoday.com"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "title": "The Iran War Is as America First as It Gets",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Middle East",
+      "place": "Israel",
+      "lat": 31,
+      "lng": 37.1,
+      "desc": "1 recent report on conflict coverage originating from Israel.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "The Iran War Is as America First as It Gets",
+          "url": "https://jewlicious.com/2026/11/iran-war-america-first/",
+          "domain": "jewlicious.com"
+        }
+      ],
+      "id": 30
+    },
+    {
+      "title": "Good Morning World \"Foreign Assets Reach Nearly 3 Times the Bottom of Foreign Exchange Deposits Taiwan Stocks Shock the Tide of Funds Testin",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 25.255634918610404,
+      "lng": 122.5156349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Taiwan.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Good Morning World \"Foreign Assets Reach Nearly 3 Times the Bottom of Foreign Exchange Deposits Taiwan Stocks Shock the Tide of Funds Testing Central Banks' Stability in Foreign Exchange | Life",
+          "url": "https://www.cna.com.tw:443/news/ahel/202611085001.aspx",
+          "domain": "cna.com.tw"
+        }
+      ],
+      "id": 31
+    },
+    {
+      "title": "Talk Show News | Ahmed Moussa : Netanyahu and Eisenkot are war criminals . They do not want the interest of Palestine .. and Abou El-Enein :",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Middle East",
+      "place": "Saudi Arabia",
+      "lat": 23.9,
+      "lng": 47.300000000000004,
+      "desc": "1 recent report on conflict coverage originating from Saudi Arabia.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Talk Show News | Ahmed Moussa : Netanyahu and Eisenkot are war criminals . They do not want the interest of Palestine .. and Abou El-Enein : The world is going through an unprecedented transformation",
+          "url": "https://akhbaregy.com/2026/11/08/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AA%D9%88%D9%83-%D8%B4%D9%88-%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D9%88%D8%B3%D9%89-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D9%88-%D8%A2%D9%8A%D8%B2/",
+          "domain": "akhbaregy.com"
+        }
+      ],
+      "id": 32
+    },
+    {
+      "title": "[The aftermath of the US election] ③ Will eco-friendly policies come back... K battery and solar turbulence are expected",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-08",
+      "region": "Asia-Pacific",
+      "place": "South Korea",
+      "lat": 34.3443650813896,
+      "lng": 126.24436508138959,
+      "desc": "1 recent report on elections coverage originating from South Korea.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": true,
+      "lang": "Korean",
+      "sources": [
+        {
+          "title": "[The aftermath of the US election] ③ Will eco-friendly policies come back... K battery and solar turbulence are expected",
+          "url": "https://www.fnnews.com/news/202611080532011469",
+          "domain": "fnnews.com"
+        }
+      ],
+      "id": 33
     },
     {
       "title": "Brazil Norris in pole position in the flood Champion Antonelli joins him in the front row",
@@ -1018,7 +1178,7 @@
         "Insurance"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Italian",
       "sources": [
@@ -1028,7 +1188,7 @@
           "domain": "zazoom.it"
         }
       ],
-      "id": 29
+      "id": 34
     },
     {
       "title": "New Zealand Election Too Close to Call",
@@ -1046,7 +1206,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1056,7 +1216,35 @@
           "domain": "riotimesonline.com"
         }
       ],
-      "id": 30
+      "id": 35
+    },
+    {
+      "title": "Lawyer Ejiofor Warns 2027 Elections May Be Nigeria Bloodiest In History , Condemns Rising Political Attacks",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-07",
+      "region": "Africa",
+      "place": "Nigeria",
+      "lat": 7.544365081389595,
+      "lng": 7.144365081389594,
+      "desc": "1 recent report on elections coverage originating from Nigeria.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Lawyer Ejiofor Warns 2027 Elections May Be Nigeria Bloodiest In History , Condemns Rising Political Attacks",
+          "url": "https://saharareporters.com/2026/11/07/lawyer-ejiofor-warns-2027-elections-may-be-nigerias-bloodiest-history-condemns-rising",
+          "domain": "saharareporters.com"
+        }
+      ],
+      "id": 36
     },
     {
       "title": "The “ earthquake ” in the markets after the US midterm elections",
@@ -1074,7 +1262,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Greek",
       "sources": [
@@ -1084,7 +1272,7 @@
           "domain": "inewsgr.com"
         }
       ],
-      "id": 31
+      "id": 37
     },
     {
       "title": "Provincial elections, the 12 centre-left candidates",
@@ -1102,7 +1290,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Italian",
       "sources": [
@@ -1112,7 +1300,35 @@
           "domain": "leccotoday.it"
         }
       ],
-      "id": 32
+      "id": 38
+    },
+    {
+      "title": "DKPP Verification of Five Complaints of Alleged Election Ethics Violations, Who is Reported ?",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-07",
+      "region": "Asia-Pacific",
+      "place": "Indonesia",
+      "lat": -2.355634918610405,
+      "lng": 112.3443650813896,
+      "desc": "1 recent report on elections coverage originating from Indonesia.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
+      "translated": true,
+      "lang": "Indonesian",
+      "sources": [
+        {
+          "title": "DKPP Verification of Five Complaints of Alleged Election Ethics Violations, Who is Reported ?",
+          "url": "https://koran-jakarta.com/2026-11-08/dkpp-verifikasi-lima-aduan-dugaan-pelanggaran-etik-pemilu-siapa-yang-dilaporkan",
+          "domain": "koran-jakarta.com"
+        }
+      ],
+      "id": 39
     },
     {
       "title": "Prosecutor's Office of Paraguay requests preventive detention for Santiago Peña and former president of the Central Bank",
@@ -1130,7 +1346,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Spanish",
       "sources": [
@@ -1140,7 +1356,7 @@
           "domain": "latercera.com"
         }
       ],
-      "id": 33
+      "id": 40
     },
     {
       "title": "Why are the U . S . midterm elections significant ? ",
@@ -1158,7 +1374,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1168,7 +1384,7 @@
           "domain": "thehindu.com"
         }
       ],
-      "id": 34
+      "id": 41
     },
     {
       "title": "Iran directly .. Washington forms a new task force and the IRGC vows an earthquake response | News",
@@ -1186,7 +1402,7 @@
         "Insurance"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -1196,7 +1412,7 @@
           "domain": "aljazeera.net"
         }
       ],
-      "id": 35
+      "id": 42
     },
     {
       "title": "After the election : Israel's president mandates Eisenkot to form a government",
@@ -1214,7 +1430,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "German",
       "sources": [
@@ -1224,7 +1440,7 @@
           "domain": "stuttgarter-nachrichten.de"
         }
       ],
-      "id": 36
+      "id": 43
     },
     {
       "title": "Oshiomhole Says Amaechi Once Branded Atiku a Thief and Election Rigger",
@@ -1242,7 +1458,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1252,7 +1468,7 @@
           "domain": "zalebs.com"
         }
       ],
-      "id": 37
+      "id": 44
     },
     {
       "title": "Ahmed Moussa : Netanyahu and Eisenkot are war criminals and killers and neither of them wants the interest of Palestine",
@@ -1270,7 +1486,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-07T22:44:48.817Z",
+      "fetchedAt": "2026-11-08T02:29:01.612Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -1280,7 +1496,7 @@
           "domain": "elwatannews.com"
         }
       ],
-      "id": 38
+      "id": 45
     },
     {
       "title": "After Lieberman folded , the IDF clarified :  The need for fighters has not changed due to the elections",
@@ -1308,7 +1524,7 @@
           "domain": "ynet.co.il"
         }
       ],
-      "id": 39
+      "id": 46
     },
     {
       "title": "Cyberattack shuts down internet fan fiction library",
@@ -1336,7 +1552,7 @@
           "domain": "timesofindia.indiatimes.com"
         }
       ],
-      "id": 40
+      "id": 47
     },
     {
       "title": "The political war in the United States escalated : Trump ordered to check the Democrats' threats to the Republicans | North America",
@@ -1364,7 +1580,7 @@
           "domain": "fedpress.ru"
         }
       ],
-      "id": 41
+      "id": 48
     },
     {
       "title": "INE appoints 205 officials to reinforce its district boards heading into the 2027 elections",
@@ -1392,7 +1608,7 @@
           "domain": "elimparcial.com"
         }
       ],
-      "id": 42
+      "id": 49
     },
     {
       "title": "Expanding on naval blockade , US military looks to restrict Iranian land commerce",
@@ -1420,7 +1636,7 @@
           "domain": "arynews.tv"
         }
       ],
-      "id": 43
+      "id": 50
     },
     {
       "title": "  Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
@@ -1448,7 +1664,7 @@
           "domain": "calcuttanews.net"
         }
       ],
-      "id": 44
+      "id": 51
     },
     {
       "title": "Belfort .  Every citizen must be an actor: Nicolas Roche , the head of national security, presents the major challenges",
@@ -1476,7 +1692,7 @@
           "domain": "estrepublicain.fr"
         }
       ],
-      "id": 45
+      "id": 52
     },
     {
       "title": "War in Ukraine: Russia reportedly used North Korean missiles against Ukrainian electrical infrastructure",
@@ -1504,7 +1720,7 @@
           "domain": "humanite.fr"
         }
       ],
-      "id": 46
+      "id": 53
     },
     {
       "title": "Ueno Bank Depositors Start Receiving Payments in Paraguay",
@@ -1532,7 +1748,7 @@
           "domain": "arynews.tv"
         }
       ],
-      "id": 47
+      "id": 54
     },
     {
       "title": "Villa Guillermina will receive an investment of $915 million for flood defence works",
@@ -1560,7 +1776,7 @@
           "domain": "sinmordaza.com"
         }
       ],
-      "id": 48
+      "id": 55
     },
     {
       "title": "Imperialist war in Ukraine : Brutal attacks and hard bargains for the division of the loot",
@@ -1588,7 +1804,7 @@
           "domain": "902.gr"
         }
       ],
-      "id": 49
+      "id": 56
     },
     {
       "title": "The purple pendulum . Elections in united states were once again decided by the household economy | Opinions",
@@ -1616,35 +1832,7 @@
           "domain": "lidovky.cz"
         }
       ],
-      "id": 50
-    },
-    {
-      "title": "Arab News | US voters care about the rent , not the war",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "Middle East",
-      "place": "Saudi Arabia",
-      "lat": 23.9,
-      "lng": 47.300000000000004,
-      "desc": "1 recent report on conflict coverage originating from Saudi Arabia.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-07T18:46:29.292Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Arab News | US voters care about the rent , not the war",
-          "url": "https://www.arabnews.com/opinion/us-voters-care-about-the-rent-not-the-war-3010345",
-          "domain": "arabnews.com"
-        }
-      ],
-      "id": 51
+      "id": 57
     },
     {
       "title": "War material, there are those who say \" NO \"",
@@ -1672,7 +1860,7 @@
           "domain": "tio.ch"
         }
       ],
-      "id": 52
+      "id": 58
     },
     {
       "title": "War between Iran , the United States, Israel, and Yemen live : Latest news today , Saturday, November 7, from the conflict in the Middle Eas",
@@ -1700,7 +1888,7 @@
           "domain": "eldestapeweb.com"
         }
       ],
-      "id": 53
+      "id": 59
     },
     {
       "title": "All aboard : election cash splash to boost bus services",
@@ -1728,7 +1916,7 @@
           "domain": "camdencourier.com.au"
         }
       ],
-      "id": 54
+      "id": 60
     },
     {
       "title": "Withdrawal of taxes from water tariffs is under discussion in Piauí",
@@ -1756,7 +1944,7 @@
           "domain": "portalaz.com.br"
         }
       ],
-      "id": 55
+      "id": 61
     },
     {
       "title": "Elena Udrea breaks up with Basescu after the US elections: \" I continue to believe in MAGA . I continue to believe in sovereignty",
@@ -1784,7 +1972,7 @@
           "domain": "romaniatv.net"
         }
       ],
-      "id": 56
+      "id": 62
     },
     {
       "title": "Election of Hossam Fahim as President of the African Federation of Fertility and Sterility Associations",
@@ -1812,7 +2000,7 @@
           "domain": "shorouknews.com"
         }
       ],
-      "id": 57
+      "id": 63
     },
     {
       "title": "No murder charges against home invasion victim a warning to criminals",
@@ -1840,7 +2028,7 @@
           "domain": "torontosun.com"
         }
       ],
-      "id": 58
+      "id": 64
     },
     {
       "title": "Palestinian families in Belgium seek evacuation of relatives stranded in flood - hit Gaza",
@@ -1868,7 +2056,7 @@
           "domain": "aa.com.tr"
         }
       ],
-      "id": 59
+      "id": 65
     },
     {
       "title": "Inflation in Colombia drops to 4.8% in October and four-year low",
@@ -1896,35 +2084,7 @@
           "domain": "hsbnoticias.com"
         }
       ],
-      "id": 60
-    },
-    {
-      "title": "Former CENTCOM deputy cmdr . discusses significant US - Israeli Iran war failures",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "Middle East",
-      "place": "Israel",
-      "lat": 31,
-      "lng": 37.1,
-      "desc": "1 recent report on conflict coverage originating from Israel.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-07T18:46:29.292Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Former CENTCOM deputy cmdr . discusses significant US - Israeli Iran war failures",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-914131",
-          "domain": "jpost.com"
-        }
-      ],
-      "id": 61
+      "id": 66
     },
     {
       "title": "Strong US jobs report raises expectations of December Fed rate hike",
@@ -1952,7 +2112,7 @@
           "domain": "shanghainews.net"
         }
       ],
-      "id": 62
+      "id": 67
     },
     {
       "title": "Big industry raises the energy bill for the war to 8.9 billion and demands an urgent response from the Government",
@@ -1980,7 +2140,7 @@
           "domain": "heraldo.es"
         }
       ],
-      "id": 63
+      "id": 68
     },
     {
       "title": "Carlos Carvallo , former director of the Central Bank of Paraguay , is arrested in the Ueno Bank case",
@@ -2008,7 +2168,7 @@
           "domain": "sdpnoticias.com"
         }
       ],
-      "id": 64
+      "id": 69
     },
     {
       "title": "Helle is close to the war: – Ready for battle",
@@ -2036,7 +2196,7 @@
           "domain": "tv2.no"
         }
       ],
-      "id": 65
+      "id": 70
     },
     {
       "title": "Tariff cuts spark duty burden debate",
@@ -2064,7 +2224,7 @@
           "domain": "tribune.com.pk"
         }
       ],
-      "id": 66
+      "id": 71
     },
     {
       "title": "NZ election 2026 : Polls close with first results expected soon",
@@ -2092,7 +2252,7 @@
           "domain": "bbc.com"
         }
       ],
-      "id": 67
+      "id": 72
     },
     {
       "title": "tayyar . org - « News»: What does the authority ask of the resistance if the enemy initiates a war?",
@@ -2120,7 +2280,7 @@
           "domain": "tayyar.org"
         }
       ],
-      "id": 68
+      "id": 73
     },
     {
       "title": "Poll : Will the CT dispute affect how Poles will vote in the Sejm elections?",
@@ -2148,7 +2308,7 @@
           "domain": "rp.pl"
         }
       ],
-      "id": 69
+      "id": 74
     },
     {
       "title": "Behind Elon Musk's nearly half-billion-dollar burn of the US midterm election season",
@@ -2176,7 +2336,7 @@
           "domain": "baomoi.com"
         }
       ],
-      "id": 70
+      "id": 75
     },
     {
       "title": "What you should know at the end of week I Codelco Board, US elections and Wall Street in red",
@@ -2204,7 +2364,7 @@
           "domain": "df.cl"
         }
       ],
-      "id": 71
+      "id": 76
     },
     {
       "title": "The Ministry of Economic Development estimated the level of inflation in Russia at the beginning of November",
@@ -2232,7 +2392,7 @@
           "domain": "ria.ru"
         }
       ],
-      "id": 72
+      "id": 77
     },
     {
       "title": "Field fish at the end of the dry flood season, with a price of up to 700,000 VND / kg",
@@ -2260,7 +2420,7 @@
           "domain": "dantri.com.vn"
         }
       ],
-      "id": 73
+      "id": 78
     },
     {
       "title": "News Digest of the Night | Forecast of the parish elections, the President of Paraguay was found guilty of impeachment",
@@ -2288,7 +2448,7 @@
           "domain": "lansi-savo.fi"
         }
       ],
-      "id": 74
+      "id": 79
     },
     {
       "title": "Treasury Department sanctions eight Canadian firms over Iran ties",
@@ -2316,7 +2476,7 @@
           "domain": "el-balad.com"
         }
       ],
-      "id": 75
+      "id": 80
     },
     {
       "title": "Netanyahu and the head of the Mossad planned an operation in Iran before the Knesset elections",
@@ -2344,7 +2504,7 @@
           "domain": "rg.ru"
         }
       ],
-      "id": 76
+      "id": 81
     },
     {
       "title": "Banyuwangi Inflation Lowest in East Java, Regency Government Strengthens Price Control Collaboration",
@@ -2372,7 +2532,7 @@
           "domain": "beritajatim.com"
         }
       ],
-      "id": 77
+      "id": 82
     },
     {
       "title": "US Sanctions Eight Canadian Firms Over Alleged Iran Financial . ",
@@ -2400,7 +2560,7 @@
           "domain": "khaama.com"
         }
       ],
-      "id": 78
+      "id": 83
     },
     {
       "title": "The Kuomintang \"three sons\" combine their strength to fight against ocean currents 2026 and win the election 2028 | Politics",
@@ -2428,7 +2588,7 @@
           "domain": "cna.com.tw"
         }
       ],
-      "id": 79
+      "id": 84
     },
     {
       "title": "The seismic resistance of the supply chain of the US data center construction adds variables to the Taiwan stock server supply chain is test",
@@ -2456,7 +2616,7 @@
           "domain": "cna.com.tw"
         }
       ],
-      "id": 80
+      "id": 85
     },
     {
       "title": "Hacking Midterm Election Results to Revert Power How Will the US Congress Transform the Investment World?",
@@ -2484,7 +2644,7 @@
           "domain": "bangkokbiznews.com"
         }
       ],
-      "id": 81
+      "id": 86
     },
     {
       "title": "  My mortgage has gone up already : How rising interest rates are hitting people pockets",
@@ -2512,7 +2672,7 @@
           "domain": "bbc.co.uk"
         }
       ],
-      "id": 82
+      "id": 87
     },
     {
       "title": "New magnitude 4.0 earthquake shakes Chiapas : Where was its epicenter located?",
@@ -2540,7 +2700,7 @@
           "domain": "lineadirectaportal.com"
         }
       ],
-      "id": 83
+      "id": 88
     },
     {
       "title": "The victory of the Democrats in the US elections weakened Trump on the issue of Ukraine",
@@ -2568,35 +2728,7 @@
           "domain": "365info.kz"
         }
       ],
-      "id": 84
-    },
-    {
-      "title": "Trump, Presidential Election Gongshin Wiles Hard... Hardline Miller Full Deployment - Korea International Daily",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-07",
-      "region": "Asia-Pacific",
-      "place": "South Korea",
-      "lat": 34.3443650813896,
-      "lng": 126.24436508138959,
-      "desc": "1 recent report on elections coverage originating from South Korea.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-07T00:55:49.041Z",
-      "translated": true,
-      "lang": "Korean",
-      "sources": [
-        {
-          "title": "Trump, Presidential Election Gongshin Wiles Hard... Hardline Miller Full Deployment - Korea International Daily",
-          "url": "https://www.hankookilbo.com/news/article/A2026110707500005654",
-          "domain": "hankookilbo.com"
-        }
-      ],
-      "id": 85
+      "id": 89
     },
     {
       "title": "JSMM accuses Pakistan of oppression , demands UN - supervised referendum for independent Sindhudesh",
@@ -2624,7 +2756,7 @@
           "domain": "malaysiasun.com"
         }
       ],
-      "id": 86
+      "id": 90
     },
     {
       "title": "Long-term crude oil prices, shrinking household support Invisible convergence after the US midterm election: current affairs dot com",
@@ -2652,7 +2784,7 @@
           "domain": "jiji.com"
         }
       ],
-      "id": 87
+      "id": 91
     },
     {
       "title": "Brazil has the highest real interest rate in the world , followed by Turkey and Argentina",
@@ -2680,7 +2812,7 @@
           "domain": "novoeste.com"
         }
       ],
-      "id": 88
+      "id": 92
     },
     {
       "title": "Net : Inflation means the depreciation of the dinar and the savings of Libyans",
@@ -2708,7 +2840,7 @@
           "domain": "libyaakhbar.com"
         }
       ],
-      "id": 89
+      "id": 93
     },
     {
       "title": "What if the election was today ?",
@@ -2736,7 +2868,7 @@
           "domain": "lapoliticaonline.com"
         }
       ],
-      "id": 90
+      "id": 94
     },
     {
       "title": "Interview | Masahiro Yamazaki, Researcher of War History in Japan, Visited by the Takashi Regime in Dangerous Movement or Repeated War in Ja",
@@ -2764,7 +2896,7 @@
           "domain": "163.com"
         }
       ],
-      "id": 91
+      "id": 95
     },
     {
       "title": "Sverdlovchan urged to stay at home due to hurricane wind and blizzard",
@@ -2792,7 +2924,7 @@
           "domain": "ngzt.ru"
         }
       ],
-      "id": 92
+      "id": 96
     },
     {
       "title": "New York Fed Chair: US Economy Solid but Inflation Remains High",
@@ -2820,7 +2952,7 @@
           "domain": "alquds.com"
         }
       ],
-      "id": 93
+      "id": 97
     },
     {
       "title": "OECD : area inflation at 4.5% in September from 4.3% in August , weighs energy ( +17.4%)",
@@ -2848,35 +2980,7 @@
           "domain": "ilsole24ore.com"
         }
       ],
-      "id": 94
-    },
-    {
-      "title": "New York Fed Governor Says Economy Resilient, Inflation Too High | Newsweek Japan Official Site",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-11-06",
-      "region": "Asia-Pacific",
-      "place": "Japan",
-      "lat": 37.755634918610404,
-      "lng": 139.8556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Japan.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-07T00:55:49.041Z",
-      "translated": true,
-      "lang": "Japanese",
-      "sources": [
-        {
-          "title": "New York Fed Governor Says Economy Resilient, Inflation Too High | Newsweek Japan Official Site",
-          "url": "https://www.newsweekjapan.jp/articles/-/339339",
-          "domain": "newsweekjapan.jp"
-        }
-      ],
-      "id": 95
+      "id": 98
     },
     {
       "title": "Ministry of Finance : More expensive energy will affect inflation next year. GDP will grow by 1.7% this year",
@@ -2904,7 +3008,7 @@
           "domain": "blesk.cz"
         }
       ],
-      "id": 96
+      "id": 99
     },
     {
       "title": "Johor police prepare for 337 flood hotspots in monsoon",
@@ -2932,7 +3036,7 @@
           "domain": "straitstimes.com"
         }
       ],
-      "id": 97
+      "id": 100
     },
     {
       "title": "Oil Prices Just Dropped from $103 to $88â€  Barnabas Nii Laryea Says Tough Times Are Coming by December – Ghanamma . com",
@@ -2960,7 +3064,7 @@
           "domain": "ghanamma.com"
         }
       ],
-      "id": 98
+      "id": 101
     },
     {
       "title": "Brent crude oil drops to $94.62 per barrel , its lowest closing level since August",
@@ -2988,7 +3092,7 @@
           "domain": "business24.ro"
         }
       ],
-      "id": 99
+      "id": 102
     },
     {
       "title": "Current market report on gold price , oil price & Co.",
@@ -3016,7 +3120,7 @@
           "domain": "finanzen.ch"
         }
       ],
-      "id": 100
+      "id": 103
     },
     {
       "title": "The digital ID will be used to identify yourself in the next general election",
@@ -3044,7 +3148,7 @@
           "domain": "laverdad.es"
         }
       ],
-      "id": 101
+      "id": 104
     },
     {
       "title": "US slaps more sanctions on Cambodia alleged scam group affiliates – The Frontier Post",
@@ -3072,7 +3176,7 @@
           "domain": "thefrontierpost.com"
         }
       ],
-      "id": 102
+      "id": 105
     },
     {
       "title": "Bank of Canada maintains 2% inflation target",
@@ -3100,7 +3204,7 @@
           "domain": "lavoixdusud.com"
         }
       ],
-      "id": 103
+      "id": 106
     }
   ]
 }
