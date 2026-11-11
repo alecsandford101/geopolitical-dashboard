@@ -1,8 +1,51 @@
 {
-  "generatedAt": "2026-11-11T14:26:18.985Z",
+  "generatedAt": "2026-11-11T21:56:25.655Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
+    {
+      "title": "After Brazil election , Lula national address pledges austerity and police repression",
+      "category": "Elections",
+      "severity": "High",
+      "date": "2026-11-11",
+      "region": "North America",
+      "place": "United States",
+      "lat": 37.9443650813896,
+      "lng": -99.95563491861041,
+      "desc": "7 recent reports on elections coverage originating from United States.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 7,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "After Brazil election , Lula national address pledges austerity and police repression",
+          "url": "https://www.wsws.org/en/articles/2026/11/11/tnjm-n11.html",
+          "domain": "wsws.org"
+        },
+        {
+          "title": "Hobbs says Arizona voters endorsed Democratic policies",
+          "url": "https://tucson.com/news/state-regional/government-politics/elections/article_4e65dde1-7bce-45b1-bafb-a09d8ad1424d.html",
+          "domain": "tucson.com"
+        },
+        {
+          "title": "Peltola and JKT strengthen leads in latest Alaska election results",
+          "url": "https://alaskapublic.org/news/politics/elections/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
+          "domain": "alaskapublic.org"
+        },
+        {
+          "title": "Peltola and JKT strengthen leads in latest Alaska election results",
+          "url": "https://www.kmxt.org/alaska-statewide-news/2026-11-10/peltola-and-jkt-strengthen-leads-in-latest-alaska-election-results",
+          "domain": "kmxt.org"
+        }
+      ],
+      "id": 1
+    },
     {
       "title": "Asian shares mostly rise on AI chip demand despite Wall Street retreat on inflation data",
       "category": "Monetary Policy",
@@ -19,7 +62,7 @@
         "Equities"
       ],
       "count": 5,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -29,14 +72,14 @@
           "domain": "cecildaily.com"
         },
         {
-          "title": "U . S . CPI Rose 0 . 4 % Month Over Month as Goolsbee Flagged Services Inflation",
-          "url": "https://econotimes.com/U-S-CPI-Rose-0-4-Month-Over-Month-as-Goolsbee-Flagged-Services-Inflation-1774991",
-          "domain": "econotimes.com"
-        },
-        {
           "title": "Asian shares mostly rise on AI chip demand despite Wall Street retreat on inflation data",
           "url": "http://www.leadertelegram.com/news/world/asian-shares-mostly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/article_dcf8bf1e-c136-5e88-8e37-a353004663cd.html",
           "domain": "leadertelegram.com"
+        },
+        {
+          "title": "U . S . CPI Rose 0 . 4 % Month Over Month as Goolsbee Flagged Services Inflation",
+          "url": "https://econotimes.com/U-S-CPI-Rose-0-4-Month-Over-Month-as-Goolsbee-Flagged-Services-Inflation-1774991",
+          "domain": "econotimes.com"
         },
         {
           "title": "Germany missing pipeline of economic superstars – POLITICO",
@@ -44,7 +87,7 @@
           "domain": "politico.eu"
         }
       ],
-      "id": 1
+      "id": 2
     },
     {
       "title": "Inflation exceeds expectations in the US, Fed's interest rate hike expectation glowed",
@@ -62,7 +105,7 @@
         "Equities"
       ],
       "count": 4,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Turkish",
       "sources": [
@@ -87,7 +130,7 @@
           "domain": "ntv.com.tr"
         }
       ],
-      "id": 2
+      "id": 3
     },
     {
       "title": "Why European Central Banks Want Their Gold Back",
@@ -105,7 +148,7 @@
         "Equities"
       ],
       "count": 3,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -125,7 +168,7 @@
           "domain": "finance.eastmoney.com"
         }
       ],
-      "id": 3
+      "id": 4
     },
     {
       "title": "Mahmoud Abdel Karim : Slowing inflation does not mean lower prices .. and pressures have moved to production costs",
@@ -163,7 +206,7 @@
           "domain": "akhbaregy.com"
         }
       ],
-      "id": 4
+      "id": 5
     },
     {
       "title": "The chip war behind the Nvidia Jenson Huang scandal , from Dutch machines to dummy servers",
@@ -201,7 +244,238 @@
           "domain": "business-standard.com"
         }
       ],
-      "id": 5
+      "id": 6
+    },
+    {
+      "title": "Waste-free resource efficiency in the post-earthquake reconstruction of Hatay",
+      "category": "Disaster & Logistics",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 37.44436508138959,
+      "lng": 36.755634918610404,
+      "desc": "2 recent reports on disaster & logistics coverage originating from Turkey.",
+      "markets": [
+        "Shipping",
+        "Commodities",
+        "Insurance"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Waste-free resource efficiency in the post-earthquake reconstruction of Hatay",
+          "url": "https://www.haberport.com/haber/hatayin-deprem-sonrasi-yeniden-yapilanmasinda-atiksiz-kaynak-verimliligi/66653",
+          "domain": "haberport.com"
+        },
+        {
+          "title": "Hatay Governor Masatlı explained the post-earthquake resource efficiency efforts at COP31",
+          "url": "https://www.haberler.com/cevre/hatay-valisi-masatli-cop31-de-deprem-sonrasi-20415555-haberi/",
+          "domain": "haberler.com"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "title": "USA: House of Representatives \"blocks\" Hegseth's impeachment over the war in Iran",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -96.2,
+      "desc": "2 recent reports on conflict coverage originating from United States.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Greek",
+      "sources": [
+        {
+          "title": "USA: House of Representatives \"blocks\" Hegseth's impeachment over the war in Iran",
+          "url": "https://gr.euronews.com/2026/11/11/hpa-mploko-parapomph-xegkseth-polemos-iran",
+          "domain": "gr.euronews.com"
+        },
+        {
+          "title": "Enshrining Gulf War veteran service | Opinion",
+          "url": "https://www.thesuntimes.com/opinion/enshrining-gulf-war-veterans-service/article_db6664aa-2198-5477-8b47-93d92e2aa763.html",
+          "domain": "thesuntimes.com"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "title": "71 percent of Americans want the war with Iran to end",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "2 recent reports on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "71 percent of Americans want the war with Iran to end",
+          "url": "https://www.malatyaguncel.com/amerikalilarin-yuzde-71-i-iran-savasinin-bitmesini-3121723h.htm",
+          "domain": "malatyaguncel.com"
+        },
+        {
+          "title": "Russia : We will not accept European demand for ceasefire in Ukraine",
+          "url": "https://www.dha.com.tr/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz-2979195",
+          "domain": "dha.com.tr"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "title": "Loire. World War I: In Saint-Chamond, 5,500 women who made shells at the risk of their lives",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Europe",
+      "place": "France",
+      "lat": 46.6,
+      "lng": 4.4,
+      "desc": "2 recent reports on conflict coverage originating from France.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "French",
+      "sources": [
+        {
+          "title": "Loire. World War I: In Saint-Chamond, 5,500 women who made shells at the risk of their lives",
+          "url": "https://www.leprogres.fr/defense-guerre-conflit/2026/11/11/on-les-appelait-les-canaris-pendant-la-guerre-les-munitionnettes-et-les-obus-de-l-emancipation",
+          "domain": "leprogres.fr"
+        },
+        {
+          "title": "Languedocians commanded by an Occitan: when Biterrois soldiers helped to stop the invasion of France in 1914",
+          "url": "https://www.midilibre.fr/2026/11/11/des-languedociens-commandes-par-un-occitan-quand-des-soldats-biterrois-contribuaient-a-stopper-linvasion-de-la-france-en-1914-13645655.php",
+          "domain": "midilibre.fr"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
+      "category": "Trade & Tariffs",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 24.599999999999998,
+      "lng": 78.7,
+      "desc": "2 recent reports on trade & tariffs coverage originating from India.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Industrials"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "India - US Trade Deal Talks Likely To Continue Despite Republican Midterm Setback",
+          "url": "https://www.freepressjournal.in/business/india-us-trade-deal-talks-likely-to-continue-despite-republican-midterm-setback",
+          "domain": "freepressjournal.in"
+        },
+        {
+          "title": "India garment makers rethink reliance on US after tariff shock",
+          "url": "https://www.thehindubusinessline.com/economy/india-garment-makers-rethink-reliance-onusafter-tariff-shock/article71688272.ece",
+          "domain": "thehindubusinessline.com"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "title": "Brazil sanctions Meta for unequal treatment of candidates in elections",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "North America",
+      "place": "United States",
+      "lat": 39.5,
+      "lng": -100.60000000000001,
+      "desc": "2 recent reports on sanctions coverage originating from United States.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Brazil sanctions Meta for unequal treatment of candidates in elections",
+          "url": "https://efe.com/ciencia-y-tecnologia/2026-11-11/justicia-brasil-condena-meta-elecciones/",
+          "domain": "efe.com"
+        },
+        {
+          "title": "Exclusive - PLA - linked Chinese university bought Nvidia H200 chips despite US blacklist , records show",
+          "url": "https://ksevradio.com/exclusive-pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/",
+          "domain": "ksevradio.com"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "New Zealand election leaves coalition on thin ice",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 20.844365081389594,
+      "lng": 77.1443650813896,
+      "desc": "2 recent reports on elections coverage originating from India.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "New Zealand election leaves coalition on thin ice",
+          "url": "http://www.indiagazette.com/news/279422382/new-zealand-election-leaves-coalition-on-thin-ice",
+          "domain": "indiagazette.com"
+        },
+        {
+          "title": "SP infighting over this seat before UP elections, supporters clash on social media; 12 cases filed",
+          "url": "https://www.livehindustan.com/uttar-pradesh/ahead-of-the-up-elections-sp-supporters-clashed-on-social-media-over-campierganj-assembly-seat-case-against-12-201794372585286.html",
+          "domain": "livehindustan.com"
+        }
+      ],
+      "id": 13
     },
     {
       "title": "It is necessary to manage household debt, but the preferential interest rate is high... Authorities seek a solution by disclosing",
@@ -219,7 +493,7 @@
         "Equities"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Korean",
       "sources": [
@@ -234,7 +508,7 @@
           "domain": "newspim.com"
         }
       ],
-      "id": 6
+      "id": 14
     },
     {
       "title": "Israel elections 2026 : Gadi Eisenkot pledges to reverse Netanyahu policies as new Israeli parliament is sworn in",
@@ -252,7 +526,7 @@
         "Bonds"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -267,7 +541,7 @@
           "domain": "brisbanetimes.com.au"
         }
       ],
-      "id": 7
+      "id": 15
     },
     {
       "title": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
@@ -300,40 +574,7 @@
           "domain": "newson6.com"
         }
       ],
-      "id": 8
-    },
-    {
-      "title": "US officials seek  final end  to Russia - Ukraine war as Abu Dhabi talks begin | Ukraine",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-10",
-      "region": "Europe",
-      "place": "United Kingdom",
-      "lat": 54,
-      "lng": 0.20000000000000018,
-      "desc": "2 recent reports on conflict coverage originating from United Kingdom.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-10T23:18:34.187Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "US officials seek  final end  to Russia - Ukraine war as Abu Dhabi talks begin | Ukraine",
-          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-          "domain": "theguardian.com"
-        },
-        {
-          "title": "US officials seek  final end  to Russia - Ukraine war as Abu Dhabi talks begin",
-          "url": "https://www.aol.co.uk/articles/us-officials-seek-final-end-050029000.html",
-          "domain": "aol.co.uk"
-        }
-      ],
-      "id": 9
+      "id": 16
     },
     {
       "title": "Trump's Half-Time Election Defeat Will Change the Course of Iran's War",
@@ -366,7 +607,7 @@
           "domain": "ekbis.sindonews.com"
         }
       ],
-      "id": 10
+      "id": 17
     },
     {
       "title": "Interest rates hiked to 4 per cent in first increase in over three years",
@@ -399,35 +640,35 @@
           "domain": "businessghana.com"
         }
       ],
-      "id": 11
+      "id": 18
     },
     {
-      "title": "After Brazil election , Lula national address pledges austerity and police repression",
+      "title": "Meta has been hit with a gigantic fine: it is accused of serious interference in the election",
       "category": "Elections",
       "severity": "Low",
       "date": "2026-11-11",
-      "region": "North America",
-      "place": "United States",
-      "lat": 37.9443650813896,
-      "lng": -99.95563491861041,
-      "desc": "1 recent report on elections coverage originating from United States.",
+      "region": "Europe",
+      "place": "Hungary",
+      "lat": 45.6443650813896,
+      "lng": 17.944365081389595,
+      "desc": "1 recent report on elections coverage originating from Hungary.",
       "markets": [
         "Equities",
         "FX",
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": false,
-      "lang": null,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Hungarian",
       "sources": [
         {
-          "title": "After Brazil election , Lula national address pledges austerity and police repression",
-          "url": "https://www.wsws.org/en/articles/2026/11/11/tnjm-n11.html",
-          "domain": "wsws.org"
+          "title": "Meta has been hit with a gigantic fine: it is accused of serious interference in the election",
+          "url": "https://www.portfolio.hu/global/20261111/gigaszi-buntetest-kapott-a-meta-sulyos-beavatkozassal-vadoljak-a-valasztasba-875602",
+          "domain": "portfolio.hu"
         }
       ],
-      "id": 12
+      "id": 19
     },
     {
       "title": "Dollar Holds Near Two-Week High on U.S. Rate Hike Expectations",
@@ -445,7 +686,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -455,35 +696,91 @@
           "domain": "sana.sy"
         }
       ],
-      "id": 13
+      "id": 20
     },
     {
-      "title": "Spotlighting Bitcoin Price Prospects After US Inflation Release",
-      "category": "Monetary Policy",
+      "title": "New Zealand election leaves coalition on thin ice",
+      "category": "Elections",
       "severity": "Low",
       "date": "2026-11-11",
       "region": "Asia-Pacific",
-      "place": "Indonesia",
-      "lat": 0.7556349186104045,
-      "lng": 115.45563491861041,
-      "desc": "1 recent report on monetary policy coverage originating from Indonesia.",
+      "place": "New Zealand",
+      "lat": -42.4556349186104,
+      "lng": 173.3443650813896,
+      "desc": "1 recent report on elections coverage originating from New Zealand.",
       "markets": [
-        "Bonds",
+        "Equities",
         "FX",
-        "Equities"
+        "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": true,
-      "lang": "Indonesian",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
       "sources": [
         {
-          "title": "Spotlighting Bitcoin Price Prospects After US Inflation Release",
-          "url": "https://www.liputan6.com/crypto/read/8332962/meneropong-prospek-harga-bitcoin-usai-rilis-inflasi-as",
-          "domain": "liputan6.com"
+          "title": "New Zealand election leaves coalition on thin ice",
+          "url": "http://www.newzealandstar.com/news/279422382/new-zealand-election-leaves-coalition-on-thin-ice",
+          "domain": "newzealandstar.com"
         }
       ],
-      "id": 14
+      "id": 21
+    },
+    {
+      "title": "Maatrubhumi  trailer : Salman Khan leads a fierce battle in Apoorva Lakhia war drama",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 23.6,
+      "lng": -100.39999999999999,
+      "desc": "1 recent report on conflict coverage originating from Mexico.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Maatrubhumi  trailer : Salman Khan leads a fierce battle in Apoorva Lakhia war drama",
+          "url": "http://www.mexicostar.com/news/279425118/maatrubhumi-trailer-salman-khan-leads-a-fierce-battle-in-apoorva-lakhia-war-drama",
+          "domain": "mexicostar.com"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "title": "Oil prices are recovering, driven by the risks in the Strait of Hormuz, despite hopes for de-escalation.",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Middle East",
+      "place": "Yemen",
+      "lat": 17.155634918610403,
+      "lng": 46.4443650813896,
+      "desc": "1 recent report on energy coverage originating from Yemen.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Oil prices are recovering, driven by the risks in the Strait of Hormuz, despite hopes for de-escalation.",
+          "url": "https://www.almontasaf.net/news152590.html",
+          "domain": "almontasaf.net"
+        }
+      ],
+      "id": 23
     },
     {
       "title": "India garment makers rethink reliance on US after tariff shock",
@@ -501,7 +798,7 @@
         "Industrials"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -511,7 +808,35 @@
           "domain": "ksevradio.com"
         }
       ],
-      "id": 15
+      "id": 24
+    },
+    {
+      "title": "Nicușor Dan announces that the report on the canceled elections is not ready, but acknowledges that there is no new evidence regarding Russi",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Europe",
+      "place": "Romania",
+      "lat": 44.3443650813896,
+      "lng": 23.414365081389594,
+      "desc": "1 recent report on elections coverage originating from Romania.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Romanian",
+      "sources": [
+        {
+          "title": "Nicușor Dan announces that the report on the canceled elections is not ready, but acknowledges that there is no new evidence regarding Russian influence. “Regarding Russian influence, a year ago, the Attorney General presented some facts.",
+          "url": "https://www.mesagerul.ro/politica/nicusor-dan-anunta-ca-raportul-pe-alegerile-anulate-nu-este-gata-dar-recunoaste-ca-pe-influenta-rusa-nu-exista-dovezi-noi-pe-influenta-rusa-in-urma-cu-un-an-procurorul-general-a-prezentat-niste-fapte",
+          "domain": "mesagerul.ro"
+        }
+      ],
+      "id": 25
     },
     {
       "title": "ECB : Clear Lane signal for new interest rate hike in December – We have not yet seen the peak of inflation »",
@@ -529,7 +854,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Greek",
       "sources": [
@@ -539,35 +864,91 @@
           "domain": "cyprusnews.eu"
         }
       ],
-      "id": 16
+      "id": 26
     },
     {
-      "title": "Inflation meter pushes hawkwind! Fed blast next month does not rule out \"interest rate hike 2 yards\" - finance",
-      "category": "Monetary Policy",
+      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+      "category": "Conflict",
       "severity": "Low",
       "date": "2026-11-11",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 25.255634918610404,
-      "lng": 122.5156349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Taiwan.",
+      "region": "Europe",
+      "place": "United Kingdom",
+      "lat": 54,
+      "lng": 0.20000000000000018,
+      "desc": "1 recent report on conflict coverage originating from United Kingdom.",
       "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
+        "Defense",
+        "Oil",
+        "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": true,
-      "lang": "Chinese",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
       "sources": [
         {
-          "title": "Inflation meter pushes hawkwind! Fed blast next month does not rule out \"interest rate hike 2 yards\" - finance",
-          "url": "https://www.chinatimes.com/realtimenews/20261111002543-260410",
-          "domain": "chinatimes.com"
+          "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+          "url": "https://www.aol.co.uk/articles/ukraine-captures-first-indonesian-prisoner-053327000.html",
+          "domain": "aol.co.uk"
         }
       ],
-      "id": 17
+      "id": 27
+    },
+    {
+      "title": "Electoral counselors say that cuts to the INE will not impact the election – Zócalo Newspaper",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "North America",
+      "place": "Mexico",
+      "lat": 22.044365081389596,
+      "lng": -104.1556349186104,
+      "desc": "1 recent report on elections coverage originating from Mexico.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Electoral counselors say that cuts to the INE will not impact the election – Zócalo Newspaper",
+          "url": "https://www.zocalo.com.mx/afirman-consejeros-que-recorte-a-ine-no-impactara-eleccion/",
+          "domain": "zocalo.com.mx"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "title": "EU trade with Russia falls by more than 75 percent but sanctions weakened by inconsistent enforcement , auditors warn",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Europe",
+      "place": "Denmark",
+      "lat": 56.3,
+      "lng": 7.3,
+      "desc": "1 recent report on sanctions coverage originating from Denmark.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "EU trade with Russia falls by more than 75 percent but sanctions weakened by inconsistent enforcement , auditors warn",
+          "url": "https://cphpost.dk/2026-11-11/news/round-up/eu-trade-with-russia-falls-by-more-than-75-percent-but-sanctions-weakened-by-inconsistent-enforcement-auditors-warn/",
+          "domain": "cphpost.dk"
+        }
+      ],
+      "id": 29
     },
     {
       "title": "Fighting within Europe! US and Europe still disagree on post-war European security architecture_News Channel_ChinaNet",
@@ -585,7 +966,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -595,7 +976,7 @@
           "domain": "news.china.com"
         }
       ],
-      "id": 18
+      "id": 30
     },
     {
       "title": "Are inflation numbers pegged on the Fed's rate hike board beyond expectations? | Finance",
@@ -613,7 +994,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -623,63 +1004,63 @@
           "domain": "orientaldaily.com.my"
         }
       ],
-      "id": 19
+      "id": 31
     },
     {
-      "title": "Enshrining Gulf War veteran service | Opinion",
-      "category": "Conflict",
+      "title": "Spotlighting Bitcoin Price Prospects After US Inflation Release",
+      "category": "Monetary Policy",
       "severity": "Low",
       "date": "2026-11-11",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "1 recent report on conflict coverage originating from United States.",
+      "region": "Asia-Pacific",
+      "place": "Indonesia",
+      "lat": 0.7556349186104045,
+      "lng": 115.45563491861041,
+      "desc": "1 recent report on monetary policy coverage originating from Indonesia.",
       "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
+        "Bonds",
+        "FX",
+        "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Enshrining Gulf War veteran service | Opinion",
-          "url": "https://www.thesuntimes.com/opinion/enshrining-gulf-war-veterans-service/article_db6664aa-2198-5477-8b47-93d92e2aa763.html",
-          "domain": "thesuntimes.com"
-        }
-      ],
-      "id": 20
-    },
-    {
-      "title": "Languedocians commanded by an Occitan: when Biterrois soldiers helped to stop the invasion of France in 1914",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-11",
-      "region": "Europe",
-      "place": "France",
-      "lat": 46.6,
-      "lng": 4.4,
-      "desc": "1 recent report on conflict coverage originating from France.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
-      "lang": "French",
+      "lang": "Indonesian",
       "sources": [
         {
-          "title": "Languedocians commanded by an Occitan: when Biterrois soldiers helped to stop the invasion of France in 1914",
-          "url": "https://www.midilibre.fr/2026/11/11/des-languedociens-commandes-par-un-occitan-quand-des-soldats-biterrois-contribuaient-a-stopper-linvasion-de-la-france-en-1914-13645655.php",
-          "domain": "midilibre.fr"
+          "title": "Spotlighting Bitcoin Price Prospects After US Inflation Release",
+          "url": "https://www.liputan6.com/crypto/read/8332962/meneropong-prospek-harga-bitcoin-usai-rilis-inflasi-as",
+          "domain": "liputan6.com"
         }
       ],
-      "id": 21
+      "id": 32
+    },
+    {
+      "title": "Inflation meter pushes hawkwind! Fed blast next month does not rule out \"interest rate hike 2 yards\" - finance",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-11-11",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 25.255634918610404,
+      "lng": 122.5156349186104,
+      "desc": "1 recent report on monetary policy coverage originating from Taiwan.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Inflation meter pushes hawkwind! Fed blast next month does not rule out \"interest rate hike 2 yards\" - finance",
+          "url": "https://www.chinatimes.com/realtimenews/20261111002543-260410",
+          "domain": "chinatimes.com"
+        }
+      ],
+      "id": 33
     },
     {
       "title": "Sánchez doubles the Councils of Ministers in the campaign to approve more social measures before the elections",
@@ -697,7 +1078,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Spanish",
       "sources": [
@@ -707,7 +1088,7 @@
           "domain": "eldiario.es"
         }
       ],
-      "id": 22
+      "id": 34
     },
     {
       "title": "Bond yields spike most since tariff meltdown on rate - hike bets",
@@ -725,7 +1106,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -735,63 +1116,7 @@
           "domain": "thehindubusinessline.com"
         }
       ],
-      "id": 23
-    },
-    {
-      "title": "India garment makers rethink reliance on US after tariff shock",
-      "category": "Trade & Tariffs",
-      "severity": "Low",
-      "date": "2026-11-11",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 24.599999999999998,
-      "lng": 78.7,
-      "desc": "1 recent report on trade & tariffs coverage originating from India.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Industrials"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "India garment makers rethink reliance on US after tariff shock",
-          "url": "https://www.thehindubusinessline.com/economy/india-garment-makers-rethink-reliance-onusafter-tariff-shock/article71688272.ece",
-          "domain": "thehindubusinessline.com"
-        }
-      ],
-      "id": 24
-    },
-    {
-      "title": "Exclusive - PLA - linked Chinese university bought Nvidia H200 chips despite US blacklist , records show",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-11-11",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -100.60000000000001,
-      "desc": "1 recent report on sanctions coverage originating from United States.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Exclusive - PLA - linked Chinese university bought Nvidia H200 chips despite US blacklist , records show",
-          "url": "https://ksevradio.com/exclusive-pla-linked-chinese-university-bought-nvidia-h200-chips-despite-us-blacklist-records-show/",
-          "domain": "ksevradio.com"
-        }
-      ],
-      "id": 25
+      "id": 35
     },
     {
       "title": "UK interest rates could rise to 5 %, think tank warns amid 4 . 4 % inflation forecast",
@@ -809,7 +1134,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -819,35 +1144,7 @@
           "domain": "aol.co.uk"
         }
       ],
-      "id": 26
-    },
-    {
-      "title": "Russia : We will not accept European demand for ceasefire in Ukraine",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-11",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 39,
-      "lng": 37.400000000000006,
-      "desc": "1 recent report on conflict coverage originating from Turkey.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
-      "translated": true,
-      "lang": "Turkish",
-      "sources": [
-        {
-          "title": "Russia : We will not accept European demand for ceasefire in Ukraine",
-          "url": "https://www.dha.com.tr/dunya/rusya-avrupanin-ukraynada-ateskes-talebini-kabul-etmeyecegiz-2979195",
-          "domain": "dha.com.tr"
-        }
-      ],
-      "id": 27
+      "id": 36
     },
     {
       "title": "US stocks fall on hot inflation report as Nvidia tumbles again",
@@ -865,7 +1162,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -875,7 +1172,7 @@
           "domain": "manilatimes.net"
         }
       ],
-      "id": 28
+      "id": 37
     },
     {
       "title": "Ukraine 11/11 war: Russia close to Sumy , Kiev counterattacks in Dnipropetrovsk",
@@ -893,7 +1190,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "Vietnamese",
       "sources": [
@@ -903,7 +1200,7 @@
           "domain": "dantri.com.vn"
         }
       ],
-      "id": 29
+      "id": 38
     },
     {
       "title": "Soils in Werra - Meißner - district worth 12 percent less",
@@ -921,7 +1218,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": true,
       "lang": "German",
       "sources": [
@@ -931,7 +1228,7 @@
           "domain": "hna.de"
         }
       ],
-      "id": 30
+      "id": 39
     },
     {
       "title": "Beau Lamarre - Condon text to Jesse Baird before alleged home invasion",
@@ -949,7 +1246,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-11T14:26:18.985Z",
+      "fetchedAt": "2026-11-11T21:56:25.655Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -959,7 +1256,7 @@
           "domain": "theage.com.au"
         }
       ],
-      "id": 31
+      "id": 40
     },
     {
       "title": "Watchdog finds patchy customs controls leave big loopholes in EU Russia trade sanctions – EUobserver",
@@ -987,7 +1284,7 @@
           "domain": "euobserver.com"
         }
       ],
-      "id": 32
+      "id": 41
     },
     {
       "title": "US inflation moderated to 0.4% in October , according to the BLS",
@@ -1015,7 +1312,7 @@
           "domain": "finanzasdigital.com"
         }
       ],
-      "id": 33
+      "id": 42
     },
     {
       "title": "2026 US Midterm Elections : Democrats Defeat Trump",
@@ -1043,7 +1340,7 @@
           "domain": "pakistantoday.com.pk"
         }
       ],
-      "id": 34
+      "id": 43
     },
     {
       "title": "Real wages slump to 2011 levels as inflation roars",
@@ -1071,7 +1368,7 @@
           "domain": "afr.com"
         }
       ],
-      "id": 35
+      "id": 44
     },
     {
       "title": "“ I can't believe you're here . Emotional reunion after 4 years : two spouses reunited after being separated by the Russian invasion",
@@ -1099,7 +1396,7 @@
           "domain": "digi24.ro"
         }
       ],
-      "id": 36
+      "id": 45
     },
     {
       "title": "US stocks rally and recover most of last week losses as oil prices swing lower",
@@ -1127,7 +1424,7 @@
           "domain": "manilatimes.net"
         }
       ],
-      "id": 37
+      "id": 46
     },
     {
       "title": "California billionaire wealth tax referendum defeated",
@@ -1155,35 +1452,7 @@
           "domain": "newspim.com"
         }
       ],
-      "id": 38
-    },
-    {
-      "title": "How Russia could test NATO's Article 5. The worrying scenario for Europe after Trump's defeat in the US elections",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-10",
-      "region": "Europe",
-      "place": "Romania",
-      "lat": 44.3443650813896,
-      "lng": 23.414365081389594,
-      "desc": "1 recent report on elections coverage originating from Romania.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-10T23:18:34.187Z",
-      "translated": true,
-      "lang": "Romanian",
-      "sources": [
-        {
-          "title": "How Russia could test NATO's Article 5. The worrying scenario for Europe after Trump's defeat in the US elections",
-          "url": "https://www.digi24.ro/stiri/externe/cum-ar-putea-testa-rusia-articolul-5-al-nato-scenariul-ingrijorator-pentru-europa-dupa-infrangerea-lui-trump-la-alegerile-din-sua-4028421",
-          "domain": "digi24.ro"
-        }
-      ],
-      "id": 39
+      "id": 47
     },
     {
       "title": "Weather : Hot invasion coming with 25s and African dust – Where rains and storms will occur",
@@ -1211,7 +1480,7 @@
           "domain": "inewsgr.com"
         }
       ],
-      "id": 40
+      "id": 48
     },
     {
       "title": "The war against Ukraine puts pressure on the Russian economy – consequences – ISW analysis",
@@ -1239,7 +1508,7 @@
           "domain": "obozrevatel.com"
         }
       ],
-      "id": 41
+      "id": 49
     },
     {
       "title": "Suburban Los Angeles City Referendum Ban Data Center Over 80% Voter Support | International",
@@ -1267,7 +1536,7 @@
           "domain": "cna.com.tw"
         }
       ],
-      "id": 42
+      "id": 50
     },
     {
       "title": "Episode 8 - The state reduces its deficit through inflation , at the expense of those with income fixed in lei",
@@ -1295,7 +1564,7 @@
           "domain": "bursa.ro"
         }
       ],
-      "id": 43
+      "id": 51
     },
     {
       "title": "Five little stories from the US election",
@@ -1323,7 +1592,7 @@
           "domain": "zazoom.it"
         }
       ],
-      "id": 44
+      "id": 52
     },
     {
       "title": "Russia ranks first in Europe in terms of purchasing power parity ! The country withstood tens of thousands of sanctions with the support of ",
@@ -1351,7 +1620,7 @@
           "domain": "inosmi.ru"
         }
       ],
-      "id": 45
+      "id": 53
     }
   ]
 }
