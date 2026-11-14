@@ -1,51 +1,8 @@
 {
-  "generatedAt": "2026-11-14T03:13:18.383Z",
+  "generatedAt": "2026-11-14T10:25:52.864Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
-    {
-      "title": "Basic food basket through the roof: In Mendoza, the prices of essential foods increased at twice the rate of inflation",
-      "category": "Monetary Policy",
-      "severity": "High",
-      "date": "2026-11-13",
-      "region": "Latin America",
-      "place": "Argentina",
-      "lat": -36.8443650813896,
-      "lng": -62.0443650813896,
-      "desc": "8 recent reports on monetary policy coverage originating from Argentina.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 8,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Basic food basket through the roof: In Mendoza, the prices of essential foods increased at twice the rate of inflation",
-          "url": "http://www.tiempodesanjuan.com/mendoza/canasta-basica-por-las-nubes-en-mendoza-los-alimentos-esenciales-duplicaron-el-ritmo-de-aumento-de-la-inflacion_1794520605",
-          "domain": "tiempodesanjuan.com"
-        },
-        {
-          "title": "Inflation in October was 2.2% and totaled 33.1% over the past twelve months.",
-          "url": "https://www.lv12.com.ar/inflacion/la-inflacion-octubre-fue-22-y-acumulo-331-los-ultimos-doce-meses-n206559",
-          "domain": "lv12.com.ar"
-        },
-        {
-          "title": "Food inflation was 2% in October: Which products went up in price?",
-          "url": "https://www.anroca.com.ar/noticias/2026/11/12/232361-la-inflacion-de-alimentos-fue-del-2por_ciento-en-octubre-que-productos-subieron-de-precio",
-          "domain": "anroca.com.ar"
-        },
-        {
-          "title": "Inflation in Tucumán was 2.1% in October",
-          "url": "https://www.lv12.com.ar/inflacion/la-inflacion-tucuman-fue-21-octubre-n206568",
-          "domain": "lv12.com.ar"
-        }
-      ],
-      "id": 1
-    },
     {
       "title": "Sony Officially Confirms New Platform for 2026 God of War Game",
       "category": "Conflict",
@@ -55,14 +12,14 @@
       "place": "United States",
       "lat": 39.5,
       "lng": -96.2,
-      "desc": "7 recent reports on conflict coverage originating from United States.",
+      "desc": "10 recent reports on conflict coverage originating from United States.",
       "markets": [
         "Defense",
         "Oil",
         "Gold"
       ],
-      "count": 7,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "count": 10,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -87,25 +44,25 @@
           "domain": "de.euronews.com"
         }
       ],
-      "id": 2
+      "id": 1
     },
     {
       "title": "Vance midterm autopsy falls flat among Republicans",
       "category": "Elections",
-      "severity": "Medium",
+      "severity": "High",
       "date": "2026-11-13",
       "region": "North America",
       "place": "United States",
       "lat": 37.9443650813896,
       "lng": -99.95563491861041,
-      "desc": "6 recent reports on elections coverage originating from United States.",
+      "desc": "9 recent reports on elections coverage originating from United States.",
       "markets": [
         "Equities",
         "FX",
         "Bonds"
       ],
-      "count": 6,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "count": 9,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -130,7 +87,93 @@
           "domain": "fox17.com"
         }
       ],
+      "id": 2
+    },
+    {
+      "title": "Basic food basket through the roof: In Mendoza, the prices of essential foods increased at twice the rate of inflation",
+      "category": "Monetary Policy",
+      "severity": "High",
+      "date": "2026-11-13",
+      "region": "Latin America",
+      "place": "Argentina",
+      "lat": -36.8443650813896,
+      "lng": -62.0443650813896,
+      "desc": "8 recent reports on monetary policy coverage originating from Argentina.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 8,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "Basic food basket through the roof: In Mendoza, the prices of essential foods increased at twice the rate of inflation",
+          "url": "http://www.tiempodesanjuan.com/mendoza/canasta-basica-por-las-nubes-en-mendoza-los-alimentos-esenciales-duplicaron-el-ritmo-de-aumento-de-la-inflacion_1794520605",
+          "domain": "tiempodesanjuan.com"
+        },
+        {
+          "title": "Inflation in October was 2.2% and totaled 33.1% over the past twelve months.",
+          "url": "https://www.lv12.com.ar/inflacion/la-inflacion-octubre-fue-22-y-acumulo-331-los-ultimos-doce-meses-n206559",
+          "domain": "lv12.com.ar"
+        },
+        {
+          "title": "Food inflation was 2% in October: Which products went up in price?",
+          "url": "https://www.anroca.com.ar/noticias/2026/11/12/232361-la-inflacion-de-alimentos-fue-del-2por_ciento-en-octubre-que-productos-subieron-de-precio",
+          "domain": "anroca.com.ar"
+        },
+        {
+          "title": "Inflation in Tucumán was 2.1% in October",
+          "url": "https://www.lv12.com.ar/inflacion/la-inflacion-tucuman-fue-21-octubre-n206568",
+          "domain": "lv12.com.ar"
+        }
+      ],
       "id": 3
+    },
+    {
+      "title": "Wholesale inflation declined in October yet remains elevated",
+      "category": "Monetary Policy",
+      "severity": "Medium",
+      "date": "2026-11-13",
+      "region": "North America",
+      "place": "United States",
+      "lat": 41.0556349186104,
+      "lng": -96.8443650813896,
+      "desc": "4 recent reports on monetary policy coverage originating from United States.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 4,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "Wholesale inflation declined in October yet remains elevated",
+          "url": "https://www.orlandosentinel.com/2026/11/13/wholesale-inflation-declined-october/",
+          "domain": "orlandosentinel.com"
+        },
+        {
+          "title": "Wholesale inflation declined in October yet remains elevated",
+          "url": "https://www.fortmorgantimes.com/2026/11/13/wholesale-inflation-declined-october/",
+          "domain": "fortmorgantimes.com"
+        },
+        {
+          "title": "USPS plans January shipping rate hikes , citing higher fuel costs",
+          "url": "https://www.turnto23.com/us-news/usps-plans-january-shipping-rate-hikes-citing-higher-fuel-costs",
+          "domain": "turnto23.com"
+        },
+        {
+          "title": "USPS plans January shipping rate hikes , citing higher fuel costs",
+          "url": "https://www.kshb.com/us-news/usps-plans-january-shipping-rate-hikes-citing-higher-fuel-costs",
+          "domain": "kshb.com"
+        }
+      ],
+      "id": 4
     },
     {
       "title": "21 Comments | U.S. Inflation Momentum Strengthens, Raising the Probability of Interest Rate Hikes _ Eastmoney.com",
@@ -141,14 +184,14 @@
       "place": "China",
       "lat": 37.4556349186104,
       "lng": 105.75563491861041,
-      "desc": "5 recent reports on monetary policy coverage originating from China.",
+      "desc": "3 recent reports on monetary policy coverage originating from China.",
       "markets": [
         "Bonds",
         "FX",
         "Equities"
       ],
-      "count": 5,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "count": 3,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -166,49 +209,6 @@
           "title": "The US dollar hits a 19-month high as expectations for a Federal Reserve rate hike continue to rise - CFi.CN China Finance Online",
           "url": "http://www.cfi.net.cn/p20261113000080.html",
           "domain": "cfi.net.cn"
-        },
-        {
-          "title": "The Federal Reserve's hawkish stance continues, and gold has fallen below the $4,000 mark! Investment banks warn of further downside risk - CFi . CN China Finance Online",
-          "url": "http://www.cfi.net.cn/p20261112000383.html",
-          "domain": "cfi.net.cn"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "title": "Spain's Housing Crisis General Strike Sparks Intense Debates Between the Government and Opposition, and Between Labor and Management Ahead o",
-      "category": "Elections",
-      "severity": "Medium",
-      "date": "2026-11-13",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 22.144365081389594,
-      "lng": 119.40436508138959,
-      "desc": "3 recent reports on elections coverage originating from Taiwan.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 3,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Spain's Housing Crisis General Strike Sparks Intense Debates Between the Government and Opposition, and Between Labor and Management Ahead of the General Election | International",
-          "url": "https://www.cna.com.tw:443/news/aopl/202611130021.aspx",
-          "domain": "cna.com.tw"
-        },
-        {
-          "title": "The Nine-in-One Election Day is approaching! Premier Cho encourages citizens to vote enthusiastically and urges relevant authorities to carry out election-related tasks | Politics",
-          "url": "https://newtalk.tw/news/view/2026-11-12/1070734",
-          "domain": "newtalk.tw"
-        },
-        {
-          "title": "Over 20 million people are eligible to vote in the nine-in-one elections and referendums, with a total budget of 3.6 900 million, with 310,000 staff mobilized",
-          "url": "https://www.ettoday.net/news/20261112/3270955.htm",
-          "domain": "ettoday.net"
         }
       ],
       "id": 5
@@ -229,7 +229,7 @@
         "Gold"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Polish",
       "sources": [
@@ -247,6 +247,39 @@
       "id": 6
     },
     {
+      "title": "SBU General Duka revealed the whereabouts of NABU and SAPO representatives at the onset of the full-scale invasion",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Europe",
+      "place": "Ukraine",
+      "lat": 48.4,
+      "lng": 33.4,
+      "desc": "2 recent reports on conflict coverage originating from Ukraine.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Ukrainian",
+      "sources": [
+        {
+          "title": "SBU General Duka revealed the whereabouts of NABU and SAPO representatives at the onset of the full-scale invasion",
+          "url": "https://daily.com.ua/partners-news/general-sbu-duka-rozpoviv-de-perebuvaly-predstavnyky-nabu-i-sap-na-pochatku-povnomasshtabnogo-vtorgnennya/",
+          "domain": "daily.com.ua"
+        },
+        {
+          "title": "SBU General Duka revealed the whereabouts of NABU and SAPO representatives at the onset of the full-scale invasion.",
+          "url": "http://pressorg24.com/news?id=851667",
+          "domain": "pressorg24.com"
+        }
+      ],
+      "id": 7
+    },
+    {
       "title": "\"Sibur\" Assesses the Impact of British Sanctions on the Company's Resilience :: News of the Day / VZGLYAD",
       "category": "Sanctions",
       "severity": "Low",
@@ -262,7 +295,7 @@
         "Banks"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Russian",
       "sources": [
@@ -277,7 +310,7 @@
           "domain": "inosmi.ru"
         }
       ],
-      "id": 7
+      "id": 8
     },
     {
       "title": "El Niño - Fueled Storms Bring Heavy Snow , Flood Warnings To The West",
@@ -295,7 +328,7 @@
         "Insurance"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -310,7 +343,7 @@
           "domain": "fm97.iheart.com"
         }
       ],
-      "id": 8
+      "id": 9
     },
     {
       "title": "Ladysmith students cast ballots in province wide Student Vote election",
@@ -328,7 +361,7 @@
         "Bonds"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -341,39 +374,6 @@
           "title": "Elections Alberta reprimands separatist group over ad violations",
           "url": "https://edmontonjournal.com:443/news/local-news/elections-alberta-reprimands-fines-separatist-ad-violations",
           "domain": "edmontonjournal.com"
-        }
-      ],
-      "id": 9
-    },
-    {
-      "title": "Wholesale inflation declined in October yet remains elevated",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "North America",
-      "place": "United States",
-      "lat": 41.0556349186104,
-      "lng": -96.8443650813896,
-      "desc": "2 recent reports on monetary policy coverage originating from United States.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Wholesale inflation declined in October yet remains elevated",
-          "url": "https://www.orlandosentinel.com/2026/11/13/wholesale-inflation-declined-october/",
-          "domain": "orlandosentinel.com"
-        },
-        {
-          "title": "Wholesale inflation declined in October yet remains elevated",
-          "url": "https://www.fortmorgantimes.com/2026/11/13/wholesale-inflation-declined-october/",
-          "domain": "fortmorgantimes.com"
         }
       ],
       "id": 10
@@ -394,7 +394,7 @@
         "Bonds"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "German",
       "sources": [
@@ -410,6 +410,171 @@
         }
       ],
       "id": 11
+    },
+    {
+      "title": "“To end the war in Ukraine, Putin wants Finland out of NATO and Moldova divided into three”",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Europe",
+      "place": "Italy",
+      "lat": 41.9,
+      "lng": 14.8,
+      "desc": "2 recent reports on conflict coverage originating from Italy.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Italian",
+      "sources": [
+        {
+          "title": "“To end the war in Ukraine, Putin wants Finland out of NATO and Moldova divided into three”",
+          "url": "https://www.ilmattino.it/primopiano/esteri/russia_fine_guerra_ucraina_finlandia_moldavia_bild-9888128.html",
+          "domain": "ilmattino.it"
+        },
+        {
+          "title": "New podcast by Giampaolo Musumeci on Lebanon at war",
+          "url": "https://www.spotandweb.it/news/933916/nuovo-podcast-di-giampaolo-musumeci-sul-libano-in-guerra.html",
+          "domain": "spotandweb.it"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "title": "Despite the ceasefire in Gaza, three people were killed and 20 injured in an Israeli artillery attack.",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Europe",
+      "place": "Turkey",
+      "lat": 39,
+      "lng": 37.400000000000006,
+      "desc": "2 recent reports on conflict coverage originating from Turkey.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Turkish",
+      "sources": [
+        {
+          "title": "Despite the ceasefire in Gaza, three people were killed and 20 injured in an Israeli artillery attack.",
+          "url": "https://www.haberler.com/3-sayfa/gazze-de-ateskese-ragmen-israil-in-topcu-20425617-haberi/",
+          "domain": "haberler.com"
+        },
+        {
+          "title": "Trump says he may use force against Iran  right now  if US allies and ships are threatened",
+          "url": "https://aa.com.tr/en/us-israel-iran-war/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/4123516",
+          "domain": "aa.com.tr"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "title": "Trade War · Indian Cuisine (6) | www.wenxuecity.com",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Asia-Pacific",
+      "place": "China",
+      "lat": 35.9,
+      "lng": 106.4,
+      "desc": "2 recent reports on conflict coverage originating from China.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Trade War · Indian Cuisine (6) | www.wenxuecity.com",
+          "url": "https://www.wenxuecity.com/blog/202611/71805/9876.html",
+          "domain": "wenxuecity.com"
+        },
+        {
+          "title": "Ukraine has regrets! The temporary ceasefire brokered by the White House has instead become a springboard for Russian troop reinforcements, putting Kherson back in danger _ News Channel _ China.com",
+          "url": "https://news.china.com/socialgd/10000169/20261113/49867509.html",
+          "domain": "news.china.com"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "title": "The Twenty-Seven are discussing new sanctions against Russia and a common response to hybrid attacks this Monday.",
+      "category": "Sanctions",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 40.2,
+      "lng": -5.9,
+      "desc": "2 recent reports on sanctions coverage originating from Spain.",
+      "markets": [
+        "FX",
+        "Commodities",
+        "Banks"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The Twenty-Seven are discussing new sanctions against Russia and a common response to hybrid attacks this Monday.",
+          "url": "https://www.europapress.es/internacional/noticia-veintisiete-examinan-lunes-nuevas-sanciones-rusia-respuesta-comun-ataques-hibridos-20261113183141.html",
+          "domain": "europapress.es"
+        },
+        {
+          "title": "Two Russian ships sanctioned by the United States are approaching the Strait of Gibraltar",
+          "url": "https://www.europasur.es/campo-de-gibraltar/buques-rusos-sancionados-estados-unidos-estrecho_0_2008475262.html",
+          "domain": "europasur.es"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "title": "Spain's Housing Crisis General Strike Sparks Intense Debates Between the Government and Opposition, and Between Labor and Management Ahead o",
+      "category": "Elections",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Asia-Pacific",
+      "place": "Taiwan",
+      "lat": 22.144365081389594,
+      "lng": 119.40436508138959,
+      "desc": "2 recent reports on elections coverage originating from Taiwan.",
+      "markets": [
+        "Equities",
+        "FX",
+        "Bonds"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Chinese",
+      "sources": [
+        {
+          "title": "Spain's Housing Crisis General Strike Sparks Intense Debates Between the Government and Opposition, and Between Labor and Management Ahead of the General Election | International",
+          "url": "https://www.cna.com.tw:443/news/aopl/202611130021.aspx",
+          "domain": "cna.com.tw"
+        },
+        {
+          "title": "The Nine-in-One Election Day is approaching! Premier Cho encourages citizens to vote enthusiastically and urges relevant authorities to carry out election-related tasks | Politics",
+          "url": "https://newtalk.tw/news/view/2026-11-12/1070734",
+          "domain": "newtalk.tw"
+        }
+      ],
+      "id": 16
     },
     {
       "title": "Brent crude oil is trading at $92 per barrel.",
@@ -442,7 +607,7 @@
           "domain": "ntv.com.tr"
         }
       ],
-      "id": 12
+      "id": 17
     },
     {
       "title": "Road revamp election pitch as regions form firm focus",
@@ -475,7 +640,7 @@
           "domain": "northweststar.com.au"
         }
       ],
-      "id": 13
+      "id": 18
     },
     {
       "title": "2027 elections : Matawalleâ€™s TAM targets 20 million votes for Tinubu - Blueprint Newspapers Limited",
@@ -508,35 +673,7 @@
           "domain": "blueprint.ng"
         }
       ],
-      "id": 14
-    },
-    {
-      "title": "SBU General Duka revealed the whereabouts of NABU and SAPO representatives at the onset of the full-scale invasion",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "Europe",
-      "place": "Ukraine",
-      "lat": 48.4,
-      "lng": 33.4,
-      "desc": "1 recent report on conflict coverage originating from Ukraine.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
-      "translated": true,
-      "lang": "Ukrainian",
-      "sources": [
-        {
-          "title": "SBU General Duka revealed the whereabouts of NABU and SAPO representatives at the onset of the full-scale invasion",
-          "url": "https://daily.com.ua/partners-news/general-sbu-duka-rozpoviv-de-perebuvaly-predstavnyky-nabu-i-sap-na-pochatku-povnomasshtabnogo-vtorgnennya/",
-          "domain": "daily.com.ua"
-        }
-      ],
-      "id": 15
+      "id": 19
     },
     {
       "title": "Álvarez de Toledo (PP) challenges Margarita Robles to an election debate on Ceuta",
@@ -554,7 +691,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Spanish",
       "sources": [
@@ -564,7 +701,7 @@
           "domain": "diariosigloxxi.com"
         }
       ],
-      "id": 16
+      "id": 20
     },
     {
       "title": "The UN warns of an unprecedented humanitarian crisis in Congo: famine, war, and Ebola",
@@ -582,7 +719,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Spanish",
       "sources": [
@@ -592,7 +729,7 @@
           "domain": "diariosigloxxi.com"
         }
       ],
-      "id": 17
+      "id": 21
     },
     {
       "title": "5.9-magnitude earthquake shakes the city of Ica during Pope Leo XIV's visit, according to the IGP | Society",
@@ -610,7 +747,7 @@
         "Insurance"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Spanish",
       "sources": [
@@ -620,7 +757,7 @@
           "domain": "larepublica.pe"
         }
       ],
-      "id": 18
+      "id": 22
     },
     {
       "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
@@ -638,7 +775,7 @@
         "Banks"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -648,7 +785,7 @@
           "domain": "newsroomamerica.com"
         }
       ],
-      "id": 19
+      "id": 23
     },
     {
       "title": "War in Iran: Are Donald Trump and J. D. Vance – is the divorce final?",
@@ -666,7 +803,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "French",
       "sources": [
@@ -676,7 +813,7 @@
           "domain": "lexpress.fr"
         }
       ],
-      "id": 20
+      "id": 24
     },
     {
       "title": "Oil prices may see a major turnaround",
@@ -694,7 +831,7 @@
         "Energy"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Hungarian",
       "sources": [
@@ -704,7 +841,7 @@
           "domain": "piacesprofit.hu"
         }
       ],
-      "id": 21
+      "id": 25
     },
     {
       "title": "Oil exports are recovering to pre-Iran War levels, and gasoline prices are falling",
@@ -722,7 +859,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Dutch",
       "sources": [
@@ -732,7 +869,7 @@
           "domain": "drimble.nl"
         }
       ],
-      "id": 22
+      "id": 26
     },
     {
       "title": "BJP , Shiv Sena and NCP locked in tug - of - war for Satara DCC bank chief post | Kolhapur News",
@@ -750,7 +887,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -760,7 +897,7 @@
           "domain": "timesofindia.indiatimes.com"
         }
       ],
-      "id": 23
+      "id": 27
     },
     {
       "title": "What comes after the U.S. and Israeli elections... regionally and in Lebanon?",
@@ -778,7 +915,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -788,7 +925,7 @@
           "domain": "raya.ps"
         }
       ],
-      "id": 24
+      "id": 28
     },
     {
       "title": "Serbia: Student list declares war on reality TV",
@@ -806,7 +943,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "German",
       "sources": [
@@ -816,35 +953,7 @@
           "domain": "watson.ch"
         }
       ],
-      "id": 25
-    },
-    {
-      "title": "“To end the war in Ukraine, Putin wants Finland out of NATO and Moldova divided into three”",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "1 recent report on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "“To end the war in Ukraine, Putin wants Finland out of NATO and Moldova divided into three”",
-          "url": "https://www.ilmattino.it/primopiano/esteri/russia_fine_guerra_ucraina_finlandia_moldavia_bild-9888128.html",
-          "domain": "ilmattino.it"
-        }
-      ],
-      "id": 26
+      "id": 29
     },
     {
       "title": "Shiv Sena aspirant re - entry heats up Jalgaon DCC Bank election | Nashik News",
@@ -862,7 +971,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -872,7 +981,7 @@
           "domain": "timesofindia.indiatimes.com"
         }
       ],
-      "id": 27
+      "id": 30
     },
     {
       "title": "Maximos Mansion in a state of frenzy: They are afraid of the truth of the polls, plan for a three-party coalition government – The role of S",
@@ -890,7 +999,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Greek",
       "sources": [
@@ -900,7 +1009,7 @@
           "domain": "bankingnews.gr"
         }
       ],
-      "id": 28
+      "id": 31
     },
     {
       "title": "Actress Anat Waxman leaves Israel permanently for Athens in protest against the war on Gaza.",
@@ -918,7 +1027,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -928,7 +1037,7 @@
           "domain": "raya.ps"
         }
       ],
-      "id": 29
+      "id": 32
     },
     {
       "title": "Magnitude 5 . 61 earthquake strikes near Peru coast",
@@ -946,7 +1055,7 @@
         "Insurance"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T22:36:30.710Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -956,35 +1065,63 @@
           "domain": "cedarnews.net"
         }
       ],
-      "id": 30
+      "id": 33
     },
     {
-      "title": "Ukraine has regrets! The temporary ceasefire brokered by the White House has instead become a springboard for Russian troop reinforcements, ",
-      "category": "Conflict",
+      "title": "Used cars: This dealership’s unfair practices sanctioned with a €50,000 fine",
+      "category": "Sanctions",
       "severity": "Low",
       "date": "2026-11-13",
-      "region": "Asia-Pacific",
-      "place": "China",
-      "lat": 35.9,
-      "lng": 106.4,
-      "desc": "1 recent report on conflict coverage originating from China.",
+      "region": "Europe",
+      "place": "France",
+      "lat": 46.6,
+      "lng": 0,
+      "desc": "1 recent report on sanctions coverage originating from France.",
       "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
+        "FX",
+        "Commodities",
+        "Banks"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
-      "lang": "Chinese",
+      "lang": "French",
       "sources": [
         {
-          "title": "Ukraine has regrets! The temporary ceasefire brokered by the White House has instead become a springboard for Russian troop reinforcements, putting Kherson back in danger _ News Channel _ China.com",
-          "url": "https://news.china.com/socialgd/10000169/20261113/49867509.html",
-          "domain": "news.china.com"
+          "title": "Used cars: This dealership’s unfair practices sanctioned with a €50,000 fine",
+          "url": "https://www.caradisiac.com/voitures-d-occasion-les-pratiques-abusives-de-ce-concessionnaire-sanctionnees-d-une-amende-de-50-000-eur-225056.htm",
+          "domain": "caradisiac.com"
         }
       ],
-      "id": 31
+      "id": 34
+    },
+    {
+      "title": "The U.S. Secretary of the Treasury, against raising interest rates: \"It's not something I would do if I were at the Fed.\"",
+      "category": "Monetary Policy",
+      "severity": "Low",
+      "date": "2026-11-13",
+      "region": "Europe",
+      "place": "Spain",
+      "lat": 41.755634918610404,
+      "lng": -2.144365081389595,
+      "desc": "1 recent report on monetary policy coverage originating from Spain.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
+      "translated": true,
+      "lang": "Spanish",
+      "sources": [
+        {
+          "title": "The U.S. Secretary of the Treasury, against raising interest rates: \"It's not something I would do if I were at the Fed.\"",
+          "url": "https://www.europapress.es/economia/macroeconomia-00338/noticia-secretario-tesoro-eeuu-contrario-subir-tipos-no-algo-yo-haria-si-estuviera-fed-20261113164315.html",
+          "domain": "europapress.es"
+        }
+      ],
+      "id": 35
     },
     {
       "title": "The Effects of MSCI Evaluation and U.S. Inflation: This Is the Future of the Indonesian Rupiah",
@@ -1002,7 +1139,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Indonesian",
       "sources": [
@@ -1012,7 +1149,7 @@
           "domain": "momsmoney.kontan.co.id"
         }
       ],
-      "id": 32
+      "id": 36
     },
     {
       "title": "The Beginning Of The End : Israel At The Heart Of America Political Civil War",
@@ -1030,7 +1167,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1040,7 +1177,7 @@
           "domain": "scoop.co.nz"
         }
       ],
-      "id": 33
+      "id": 37
     },
     {
       "title": "Major oil and gas discoveries in China|Formation|Bohai Sea|Natural gas|Volcanic rock|China National Offshore Oil Corporation",
@@ -1058,7 +1195,7 @@
         "Energy"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -1068,7 +1205,7 @@
           "domain": "163.com"
         }
       ],
-      "id": 34
+      "id": 38
     },
     {
       "title": "Silver price today, November 13, 2026: Under pressure due to expectations of a Fed interest rate hike",
@@ -1086,7 +1223,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Vietnamese",
       "sources": [
@@ -1096,7 +1233,7 @@
           "domain": "vietbao.vn"
         }
       ],
-      "id": 35
+      "id": 39
     },
     {
       "title": "PM not  reading too much  into Ukraine peace talks and urges focus on ceasefire",
@@ -1114,7 +1251,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1124,7 +1261,7 @@
           "domain": "barryanddistrictnews.co.uk"
         }
       ],
-      "id": 36
+      "id": 40
     },
     {
       "title": "Exclusion Of 16 And 17 - Year - Olds From 2026 Election Is A Human Rights Failure , Four Years After Supreme Court Ruling",
@@ -1142,7 +1279,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1152,63 +1289,7 @@
           "domain": "scoop.co.nz"
         }
       ],
-      "id": 37
-    },
-    {
-      "title": "Two Russian ships sanctioned by the United States are approaching the Strait of Gibraltar",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "Europe",
-      "place": "Spain",
-      "lat": 40.2,
-      "lng": -5.9,
-      "desc": "1 recent report on sanctions coverage originating from Spain.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Two Russian ships sanctioned by the United States are approaching the Strait of Gibraltar",
-          "url": "https://www.europasur.es/campo-de-gibraltar/buques-rusos-sancionados-estados-unidos-estrecho_0_2008475262.html",
-          "domain": "europasur.es"
-        }
-      ],
-      "id": 38
-    },
-    {
-      "title": "Trump says he may use force against Iran  right now  if US allies and ships are threatened",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "Europe",
-      "place": "Turkey",
-      "lat": 39,
-      "lng": 37.400000000000006,
-      "desc": "1 recent report on conflict coverage originating from Turkey.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Trump says he may use force against Iran  right now  if US allies and ships are threatened",
-          "url": "https://aa.com.tr/en/us-israel-iran-war/trump-says-he-may-use-force-against-iran-right-now-if-us-allies-and-ships-are-threatened/4123516",
-          "domain": "aa.com.tr"
-        }
-      ],
-      "id": 39
+      "id": 41
     },
     {
       "title": "Colombia would complete six consecutive years with inflation above the Banco de la República's target",
@@ -1226,7 +1307,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Spanish",
       "sources": [
@@ -1236,7 +1317,7 @@
           "domain": "portafolio.co"
         }
       ],
-      "id": 40
+      "id": 42
     },
     {
       "title": "Putin Rejects Foreign Troops in Ukraine, U.S. Calls for Swift End to Conflict, EU Strengthens Sanctions on Russia and Advances Aid to Ukrain",
@@ -1254,7 +1335,7 @@
         "Banks"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -1264,7 +1345,7 @@
           "domain": "finance.eastmoney.com"
         }
       ],
-      "id": 41
+      "id": 43
     },
     {
       "title": "US midterm elections & their geopolitical significance",
@@ -1282,7 +1363,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-13T16:20:14.775Z",
+      "fetchedAt": "2026-11-14T10:25:52.864Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -1292,7 +1373,7 @@
           "domain": "pakobserver.net"
         }
       ],
-      "id": 42
+      "id": 44
     },
     {
       "title": "The Price of Indonesian Crude Oil Has Risen to US$117.24 per Barrel. Here's Why.",
@@ -1320,7 +1401,7 @@
           "domain": "ekonomi.republika.co.id"
         }
       ],
-      "id": 43
+      "id": 45
     },
     {
       "title": "2027 Budget last defence against election - year slippage KPMG",
@@ -1348,7 +1429,7 @@
           "domain": "thebftonline.com"
         }
       ],
-      "id": 44
+      "id": 46
     },
     {
       "title": "The ruble is slightly weakening against the yuan on the Moscow Exchange amid falling oil prices",
@@ -1376,7 +1457,7 @@
           "domain": "interfax.ru"
         }
       ],
-      "id": 45
+      "id": 47
     },
     {
       "title": "AI Assists Hackers in Cyberattacks! Ministry of Digital Affairs: Up to 88 million pieces of personal data have been leaked recently",
@@ -1404,7 +1485,7 @@
           "domain": "ec.ltn.com.tw"
         }
       ],
-      "id": 46
+      "id": 48
     },
     {
       "title": "The Fed's interest rate move hit gold! It fell below $4,000 – Latest News, Breaking News, Turktime News Portal",
@@ -1432,7 +1513,7 @@
           "domain": "turktime.com"
         }
       ],
-      "id": 47
+      "id": 49
     },
     {
       "title": "Sensex , Nifty trade higher in early deals amid decline in crude oil prices",
@@ -1460,7 +1541,7 @@
           "domain": "prokerala.com"
         }
       ],
-      "id": 48
+      "id": 50
     },
     {
       "title": "Brent crude oil: It fell almost 21% in less than two weeks, and gasoline prices won't drop immediately.",
@@ -1488,7 +1569,7 @@
           "domain": "elintransigente.com"
         }
       ],
-      "id": 49
+      "id": 51
     },
     {
       "title": "China central bank signals easing restraint as growth holds up",
@@ -1516,7 +1597,7 @@
           "domain": "hindustantimes.com"
         }
       ],
-      "id": 50
+      "id": 52
     },
     {
       "title": "Strait of Hormuz now: Live map, ships, oil price on November 12, 2026",
@@ -1544,7 +1625,7 @@
           "domain": "nwzonline.de"
         }
       ],
-      "id": 51
+      "id": 53
     },
     {
       "title": "$1.27 billion for the Río de Oro WWTP at risk due to encroachment",
@@ -1572,7 +1653,7 @@
           "domain": "vanguardia.com"
         }
       ],
-      "id": 52
+      "id": 54
     },
     {
       "title": "Putin proposes opening a humanitarian corridor in Kostiantynivka, a contested city in Ukraine, while threatening to resume the war if Europe",
@@ -1600,7 +1681,7 @@
           "domain": "elimparcial.com"
         }
       ],
-      "id": 53
+      "id": 55
     },
     {
       "title": "Today's petroleum prices, November 13: Increased crude oil production puts pressure on prices",
@@ -1628,7 +1709,7 @@
           "domain": "vietbao.vn"
         }
       ],
-      "id": 54
+      "id": 56
     },
     {
       "title": "Paulo García reveals Morena CDMX's strategy for the 2027 elections",
@@ -1656,7 +1737,7 @@
           "domain": "elgrafico.mx"
         }
       ],
-      "id": 55
+      "id": 57
     },
     {
       "title": "Virtana Launches AI Agent War Room to Coordinate Cross-Platform Intelligent Agent Response to IT Crises",
@@ -1684,7 +1765,7 @@
           "domain": "n.yam.com"
         }
       ],
-      "id": 56
+      "id": 58
     },
     {
       "title": "Israel election interference inquiry has yet to yield evidence , says Central Elections Committee chair",
@@ -1712,7 +1793,7 @@
           "domain": "middleeaststar.com"
         }
       ],
-      "id": 57
+      "id": 59
     },
     {
       "title": "11 : 11 System Research Finds 93 % of ANZ IT Leaders Report Rising Infrastructure Costs , Cyberattacks Are Top Data Centre Concern",
@@ -1740,7 +1821,7 @@
           "domain": "australiannews.net"
         }
       ],
-      "id": 58
+      "id": 60
     },
     {
       "title": "Lee Soo-jung faces the risk of losing her right to stand for election… Lee's son was exempted from military service due to a false statement",
@@ -1768,7 +1849,7 @@
           "domain": "fnnews.com"
         }
       ],
-      "id": 59
+      "id": 61
     },
     {
       "title": "Cameroon - Paul Biya Faces an Avalanche of Negative Comments: Understanding the Post-Election Crisis",
@@ -1796,7 +1877,7 @@
           "domain": "camer.be"
         }
       ],
-      "id": 60
+      "id": 62
     },
     {
       "title": "What do bears have to do with the war in Ukraine? More than you think (pics)",
@@ -1824,7 +1905,7 @@
           "domain": "e-radio.gr"
         }
       ],
-      "id": 61
+      "id": 63
     },
     {
       "title": "In Most, councilors will meet for the first time after the elections, and the mayor will be elected.",
@@ -1852,7 +1933,7 @@
           "domain": "mostecky.denik.cz"
         }
       ],
-      "id": 62
+      "id": 64
     },
     {
       "title": "Trump confidant on his way to Putin: How can the war in Ukraine end?",
@@ -1880,7 +1961,7 @@
           "domain": "t-online.de"
         }
       ],
-      "id": 63
+      "id": 65
     },
     {
       "title": "PUB unveils remote - controlled pump vehicle as part of wider efforts for better flood response",
@@ -1908,7 +1989,7 @@
           "domain": "asiaone.com"
         }
       ],
-      "id": 64
+      "id": 66
     },
     {
       "title": "The EU is reportedly planning to postpone the imposition of a 10% tariff on electric vehicles from the UK.",
@@ -1936,7 +2017,7 @@
           "domain": "finance.sina.com.cn"
         }
       ],
-      "id": 65
+      "id": 67
     }
   ]
 }
