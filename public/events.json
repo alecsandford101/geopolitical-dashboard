@@ -1,8 +1,51 @@
 {
-  "generatedAt": "2026-11-17T13:23:34.436Z",
+  "generatedAt": "2026-11-17T22:21:32.979Z",
   "schemaVersion": 2,
   "source": "GDELT DOC 2.0",
   "events": [
+    {
+      "title": "BOJ Takata calls for early rate hikes to curb inflation risks",
+      "category": "Monetary Policy",
+      "severity": "Medium",
+      "date": "2026-11-16",
+      "region": "Asia-Pacific",
+      "place": "India",
+      "lat": 23.955634918610404,
+      "lng": 80.25563491861041,
+      "desc": "5 recent reports on monetary policy coverage originating from India.",
+      "markets": [
+        "Bonds",
+        "FX",
+        "Equities"
+      ],
+      "count": 5,
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
+      "translated": false,
+      "lang": null,
+      "sources": [
+        {
+          "title": "BOJ Takata calls for early rate hikes to curb inflation risks",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
+          "domain": "economictimes.indiatimes.com"
+        },
+        {
+          "title": "Wholesale inflation has caused concern, with WPI crossing 12% in the month of October; Will there be an increase in the repo rate?",
+          "url": "https://www.livehindustan.com/business/wholesale-price-index-crossed-12-percent-in-october-2026-can-rbi-raise-repo-rate-201794813673615.html",
+          "domain": "livehindustan.com"
+        },
+        {
+          "title": "FD Laddering: These banks are offering up to 8. Interest up to 60%. Learn how to allocate an FD of ₹10 lakh so that your money doesn't get stuck.",
+          "url": "https://hindi.moneycontrol.com/news/your-money/fd-laddering-how-to-split-10-lakh-fixed-deposit-highest-fd-interest-rates-small-finance-banks-2467940.html",
+          "domain": "hindi.moneycontrol.com"
+        },
+        {
+          "title": "Wholesale Inflation: After retail, now a blow on the wholesale inflation front, rising to 12.29% in October",
+          "url": "https://hindi.moneycontrol.com/economy/wholesale-inflation-rose-to-12-29-per-cent-in-october-on-higher-prices-of-fuel-and-power-food-articles-minerals-non-food-items-article-2468010.html",
+          "domain": "hindi.moneycontrol.com"
+        }
+      ],
+      "id": 1
+    },
     {
       "title": "Will there be a holiday for the November 28th Nine-in-One Elections? The Ministry of Labor has provided an answer, revealing the conditions ",
       "category": "Elections",
@@ -12,14 +55,14 @@
       "place": "Taiwan",
       "lat": 22.144365081389594,
       "lng": 119.40436508138959,
-      "desc": "4 recent reports on elections coverage originating from Taiwan.",
+      "desc": "5 recent reports on elections coverage originating from Taiwan.",
       "markets": [
         "Equities",
         "FX",
         "Bonds"
       ],
-      "count": 4,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "count": 5,
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -44,7 +87,7 @@
           "domain": "newtalk.tw"
         }
       ],
-      "id": 1
+      "id": 2
     },
     {
       "title": "Voters protest during the fourth phase of polling in Rajasthan; boycott in Barouli and Jaisalmer",
@@ -62,7 +105,7 @@
         "Bonds"
       ],
       "count": 3,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Hindi",
       "sources": [
@@ -82,45 +125,45 @@
           "domain": "livehindustan.com"
         }
       ],
-      "id": 2
+      "id": 3
     },
     {
-      "title": "BOJ Takata calls for early rate hikes to curb inflation risks",
-      "category": "Monetary Policy",
+      "title": "Ukraine – Current war situation: Kyiv launches massive attacks",
+      "category": "Conflict",
       "severity": "Medium",
       "date": "2026-11-16",
-      "region": "Asia-Pacific",
-      "place": "India",
-      "lat": 23.955634918610404,
-      "lng": 80.25563491861041,
-      "desc": "3 recent reports on monetary policy coverage originating from India.",
+      "region": "Europe",
+      "place": "Germany",
+      "lat": 51.2,
+      "lng": 12.600000000000001,
+      "desc": "3 recent reports on conflict coverage originating from Germany.",
       "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
+        "Defense",
+        "Oil",
+        "Gold"
       ],
       "count": 3,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
-      "translated": false,
-      "lang": null,
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
+      "translated": true,
+      "lang": "German",
       "sources": [
         {
-          "title": "BOJ Takata calls for early rate hikes to curb inflation risks",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
-          "domain": "economictimes.indiatimes.com"
+          "title": "Ukraine – Current war situation: Kyiv launches massive attacks",
+          "url": "https://www.hna.de/politik/ukraine-krieg-aktuell-kiew-startet-massive-angriffe-zr-94591703.html",
+          "domain": "hna.de"
         },
         {
-          "title": "Wholesale inflation has caused concern, with WPI crossing 12% in the month of October; Will there be an increase in the repo rate?",
-          "url": "https://www.livehindustan.com/business/wholesale-price-index-crossed-12-percent-in-october-2026-can-rbi-raise-repo-rate-201794813673615.html",
-          "domain": "livehindustan.com"
+          "title": "US think tank simulates Putin's death and invasion of a NATO member state by 2030",
+          "url": "https://www.merkur.de/politik/us-denkfabrik-simuliert-putins-tod-und-einmarsch-in-nato-staat-bis-2030-zr-94590482.html",
+          "domain": "merkur.de"
         },
         {
-          "title": "FD Laddering: These banks are offering up to 8. Interest up to 60%. Learn how to allocate an FD of ₹10 lakh so that your money doesn't get stuck.",
-          "url": "https://hindi.moneycontrol.com/news/your-money/fd-laddering-how-to-split-10-lakh-fixed-deposit-highest-fd-interest-rates-small-finance-banks-2467940.html",
-          "domain": "hindi.moneycontrol.com"
+          "title": "Putin's peace plan for Ukraine: The ultimatum from before the war",
+          "url": "https://www.merkur.de/politik/putins-friedensplan-fuer-die-ukraine-das-ultimatum-von-vor-dem-krieg-zuzueglich-zinsen-zr-94590480.html",
+          "domain": "merkur.de"
         }
       ],
-      "id": 3
+      "id": 4
     },
     {
       "title": "Burning and pain in the eyes. Residents are going to war with smokers",
@@ -138,7 +181,7 @@
         "Gold"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Polish",
       "sources": [
@@ -153,7 +196,40 @@
           "domain": "pch24.pl"
         }
       ],
-      "id": 4
+      "id": 5
+    },
+    {
+      "title": "Recovery in Middle East exports puts pressure on oil prices | Economy",
+      "category": "Energy",
+      "severity": "Low",
+      "date": "2026-11-16",
+      "region": "Middle East",
+      "place": "Jordan",
+      "lat": 32.1556349186104,
+      "lng": 34.6443650813896,
+      "desc": "2 recent reports on energy coverage originating from Jordan.",
+      "markets": [
+        "Oil",
+        "Natural Gas",
+        "Energy"
+      ],
+      "count": 2,
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
+      "translated": true,
+      "lang": "Arabic",
+      "sources": [
+        {
+          "title": "Recovery in Middle East exports puts pressure on oil prices | Economy",
+          "url": "https://www.ammonnews.net/article/1045334",
+          "domain": "ammonnews.net"
+        },
+        {
+          "title": "The gas pipeline and treatment plant in Al-Risha... An opportunity presented at the Jordanian-European Investment Conference | Economy",
+          "url": "https://www.ammonnews.net/article/1045370",
+          "domain": "ammonnews.net"
+        }
+      ],
+      "id": 6
     },
     {
       "title": "Independent Election Commissioners Meet to Set Date for Municipal Elections | Harak",
@@ -171,7 +247,7 @@
         "Bonds"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -186,7 +262,7 @@
           "domain": "ammonnews.net"
         }
       ],
-      "id": 5
+      "id": 7
     },
     {
       "title": "Iran denies the UN agency access to nuclear facilities until the war is over",
@@ -204,7 +280,7 @@
         "Gold"
       ],
       "count": 2,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Danish",
       "sources": [
@@ -219,106 +295,7 @@
           "domain": "tidende.dk"
         }
       ],
-      "id": 6
-    },
-    {
-      "title": "Humanitarian Mission in Kostyantynivka: ISW Explains the Kremlin's Choice",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-15",
-      "region": "Europe",
-      "place": "Ukraine",
-      "lat": 48.4,
-      "lng": 33.4,
-      "desc": "2 recent reports on conflict coverage originating from Ukraine.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Russian",
-      "sources": [
-        {
-          "title": "Humanitarian Mission in Kostyantynivka: ISW Explains the Kremlin's Choice",
-          "url": "https://www.unian.net/war/gumanitarnaya-missiya-v-konstantinovke-v-isw-obyasnili-vybor-kremlya-13560123.html",
-          "domain": "unian.net"
-        },
-        {
-          "title": "NATO in exchange for Donetsk Oblast, a thousand prisoners, and a fuel crisis in Russia – a chronicle of the 1,725th day of the Great War",
-          "url": "https://www.5.ua/suspilstvo/nato-v-obmin-na-donechchynu-tysiacha-polonenykh-i-palyvna-kryza-v-rosii-khronika-1725-ho-dnia-velykoi-viiny-386240.html",
-          "domain": "5.ua"
-        }
-      ],
-      "id": 7
-    },
-    {
-      "title": "Tuscany saves the children of Gaza from war",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 14.8,
-      "desc": "2 recent reports on conflict coverage originating from Italy.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "Tuscany saves the children of Gaza from war",
-          "url": "https://www.nove.firenze.it/la-toscana-salva-i-bambini-di-gaza-dalla-guerra.htm",
-          "domain": "nove.firenze.it"
-        },
-        {
-          "title": "Ukraine: the Oleshky ceasefire cannot be replicated in Kostyantynivka – two fronts and different military conditions",
-          "url": "https://www.notiziegeopolitiche.net/ucraina-la-tregua-di-oleshky-non-e-replicabile-a-kostjantynivka-due-fronti-e-condizioni-militari-differenti/",
-          "domain": "notiziegeopolitiche.net"
-        }
-      ],
       "id": 8
-    },
-    {
-      "title": "Putin's ultimatum to NATO: He calls for the withdrawal of the British-French nuclear \"umbrella\" from Europe to stop the war",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Europe",
-      "place": "Greece",
-      "lat": 39.1,
-      "lng": 24,
-      "desc": "2 recent reports on conflict coverage originating from Greece.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 2,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": true,
-      "lang": "Greek",
-      "sources": [
-        {
-          "title": "Putin's ultimatum to NATO: He calls for the withdrawal of the British-French nuclear \"umbrella\" from Europe to stop the war",
-          "url": "https://www.inewsgr.com/226/telesigrafo-poutin-sto-nato-zita-na-aposyrthei-i-pyriniki-obrela-vretanias--gallias-apo-tin-evropi-gia-na-stamatisei-o-polemos.htm",
-          "domain": "inewsgr.com"
-        },
-        {
-          "title": "The White House confirmed the trilateral summit between Trump, Xi and Putin: The focus is on the war in the Middle East, but not on Ukraine",
-          "url": "https://www.epikaira.gr/o-lefkos-oikos-epivevaiose-tin-trimeri-synodo-koryfis-trab-si-poutin-sto-epikentro-o-polemos-sti-mesi-anatoli-alla-ochi-i-oukrania/",
-          "domain": "epikaira.gr"
-        }
-      ],
-      "id": 9
     },
     {
       "title": "UK Sanctions Slavneft and Vessels in New Russia Measures Ship & Bunker",
@@ -336,7 +313,7 @@
         "Banks"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -346,35 +323,7 @@
           "domain": "shipandbunker.com"
         }
       ],
-      "id": 10
-    },
-    {
-      "title": "Ukraine – Current war situation: Kyiv launches massive attacks",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-16",
-      "region": "Europe",
-      "place": "Germany",
-      "lat": 51.2,
-      "lng": 12.600000000000001,
-      "desc": "1 recent report on conflict coverage originating from Germany.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
-      "translated": true,
-      "lang": "German",
-      "sources": [
-        {
-          "title": "Ukraine – Current war situation: Kyiv launches massive attacks",
-          "url": "https://www.hna.de/politik/ukraine-krieg-aktuell-kiew-startet-massive-angriffe-zr-94591703.html",
-          "domain": "hna.de"
-        }
-      ],
-      "id": 11
+      "id": 9
     },
     {
       "title": "Liberman's appointment as Chairman of the Foreign Affairs and Defense Committee was approved",
@@ -392,7 +341,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Hebrew",
       "sources": [
@@ -402,7 +351,7 @@
           "domain": "themarker.com"
         }
       ],
-      "id": 12
+      "id": 10
     },
     {
       "title": "CLOs: Resilient in a changing interest rate environment",
@@ -420,7 +369,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "German",
       "sources": [
@@ -430,7 +379,7 @@
           "domain": "finews.ch"
         }
       ],
-      "id": 13
+      "id": 11
     },
     {
       "title": "Trump tariffs cast shadow over Apec talks",
@@ -448,7 +397,7 @@
         "Industrials"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -458,35 +407,7 @@
           "domain": "freemalaysiatoday.com"
         }
       ],
-      "id": 14
-    },
-    {
-      "title": "Recovery in Middle East exports puts pressure on oil prices | Economy",
-      "category": "Energy",
-      "severity": "Low",
-      "date": "2026-11-16",
-      "region": "Middle East",
-      "place": "Jordan",
-      "lat": 32.1556349186104,
-      "lng": 34.6443650813896,
-      "desc": "1 recent report on energy coverage originating from Jordan.",
-      "markets": [
-        "Oil",
-        "Natural Gas",
-        "Energy"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Recovery in Middle East exports puts pressure on oil prices | Economy",
-          "url": "https://www.ammonnews.net/article/1045334",
-          "domain": "ammonnews.net"
-        }
-      ],
-      "id": 15
+      "id": 12
     },
     {
       "title": "Some hedge funds abroad are concerned about sanctions against Israel and are not investing.",
@@ -504,7 +425,7 @@
         "Banks"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Hebrew",
       "sources": [
@@ -514,7 +435,7 @@
           "domain": "themarker.com"
         }
       ],
-      "id": 16
+      "id": 13
     },
     {
       "title": "Prince Harry meets wounded soldiers: \"You will win the war\"",
@@ -532,7 +453,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Italian",
       "sources": [
@@ -542,7 +463,7 @@
           "domain": "tio.ch"
         }
       ],
-      "id": 17
+      "id": 14
     },
     {
       "title": "Third time the charm ? Israel risks another Iran war without learning from past fail",
@@ -560,7 +481,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -570,7 +491,7 @@
           "domain": "ynetnews.com"
         }
       ],
-      "id": 18
+      "id": 15
     },
     {
       "title": "These prominent figures from the Alpes-Maritimes region who will be key players in the 2027 presidential election",
@@ -588,7 +509,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "French",
       "sources": [
@@ -598,7 +519,7 @@
           "domain": "nicematin.com"
         }
       ],
-      "id": 19
+      "id": 16
     },
     {
       "title": "Prince Harry returned to Ukraine and met with wounded soldiers. What promise did he make to the veterans after the war ended?",
@@ -616,7 +537,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Romanian",
       "sources": [
@@ -626,7 +547,7 @@
           "domain": "adevarul.ro"
         }
       ],
-      "id": 20
+      "id": 17
     },
     {
       "title": "The Middle East: Between an Imminent War and an Unlikely Peace | Ammon Book",
@@ -644,7 +565,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Arabic",
       "sources": [
@@ -654,7 +575,7 @@
           "domain": "ammonnews.net"
         }
       ],
-      "id": 21
+      "id": 18
     },
     {
       "title": "Georgia Democrats Begin Transition To Statewide Offices Following November Election",
@@ -672,7 +593,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -682,7 +603,7 @@
           "domain": "chattooga1180.com"
         }
       ],
-      "id": 22
+      "id": 19
     },
     {
       "title": "Kenya Central Bank and CMA Roll Out Licensing Regime for Crypto Firms",
@@ -700,7 +621,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -710,7 +631,7 @@
           "domain": "kenya-today.com"
         }
       ],
-      "id": 23
+      "id": 20
     },
     {
       "title": "With just a few days left until 2027, there's an upheaval in Brent crude oil prices! The Strait of Hormuz alert has shaken up the markets: P",
@@ -728,7 +649,7 @@
         "Energy"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T20:27:38.136Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Turkish",
       "sources": [
@@ -738,7 +659,35 @@
           "domain": "yeniakit.com.tr"
         }
       ],
-      "id": 24
+      "id": 21
+    },
+    {
+      "title": "Don't let the spoils of war from the 17th century become the conflict of the 2020s – Ystads Allehanda",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-16",
+      "region": "Europe",
+      "place": "Sweden",
+      "lat": 60.1,
+      "lng": 20.8,
+      "desc": "1 recent report on conflict coverage originating from Sweden.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
+      "translated": true,
+      "lang": "Swedish",
+      "sources": [
+        {
+          "title": "Don't let the spoils of war from the 17th century become the conflict of the 2020s – Ystads Allehanda",
+          "url": "https://www.ystadsallehanda.se/ledare/lat-inte-1600-talets-krigsbyten-bli-2020-talets-konflikt/",
+          "domain": "ystadsallehanda.se"
+        }
+      ],
+      "id": 22
     },
     {
       "title": "Risky GenAI use and ransomware see a rise in cyberattacks",
@@ -756,7 +705,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -766,7 +715,7 @@
           "domain": "it-online.co.za"
         }
       ],
-      "id": 25
+      "id": 23
     },
     {
       "title": "Trump's Iran exit strategy: Promised to end the war but ignored negotiations… A prolonged stalemate [Debriefing]",
@@ -784,7 +733,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Korean",
       "sources": [
@@ -794,7 +743,7 @@
           "domain": "biz.heraldcorp.com"
         }
       ],
-      "id": 26
+      "id": 24
     },
     {
       "title": "Global economy to grow 2 . 8 % in 2027 , buoyed by lower oil prices and AI investments : Goldman Sachs",
@@ -812,7 +761,7 @@
         "Energy"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -822,7 +771,35 @@
           "domain": "thehindubusinessline.com"
         }
       ],
-      "id": 27
+      "id": 25
+    },
+    {
+      "title": "Humanitarian Mission in Kostyantynivka: ISW Explains the Kremlin's Choice",
+      "category": "Conflict",
+      "severity": "Low",
+      "date": "2026-11-15",
+      "region": "Europe",
+      "place": "Ukraine",
+      "lat": 48.4,
+      "lng": 33.4,
+      "desc": "1 recent report on conflict coverage originating from Ukraine.",
+      "markets": [
+        "Defense",
+        "Oil",
+        "Gold"
+      ],
+      "count": 1,
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
+      "translated": true,
+      "lang": "Russian",
+      "sources": [
+        {
+          "title": "Humanitarian Mission in Kostyantynivka: ISW Explains the Kremlin's Choice",
+          "url": "https://www.unian.net/war/gumanitarnaya-missiya-v-konstantinovke-v-isw-obyasnili-vybor-kremlya-13560123.html",
+          "domain": "unian.net"
+        }
+      ],
+      "id": 26
     },
     {
       "title": "Kim Ghattas :  War in the Middle East doesnt serve anyone interests  ",
@@ -840,7 +817,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -850,7 +827,7 @@
           "domain": "newstatesman.com"
         }
       ],
-      "id": 28
+      "id": 27
     },
     {
       "title": "2027 elections : Katung , Yero , Adams rally Hausa Christians for APC in Kaduna",
@@ -868,7 +845,7 @@
         "Bonds"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": false,
       "lang": null,
       "sources": [
@@ -878,7 +855,7 @@
           "domain": "blueprint.ng"
         }
       ],
-      "id": 29
+      "id": 28
     },
     {
       "title": "Combating inflation is a key objective of the federal government",
@@ -896,7 +873,7 @@
         "Equities"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "German",
       "sources": [
@@ -906,7 +883,7 @@
           "domain": "ots.at"
         }
       ],
-      "id": 30
+      "id": 29
     },
     {
       "title": "Hamas Rafah Brigade Commander Killed in Israeli Airstrike - Global News",
@@ -924,7 +901,7 @@
         "Gold"
       ],
       "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
+      "fetchedAt": "2026-11-17T22:21:32.979Z",
       "translated": true,
       "lang": "Chinese",
       "sources": [
@@ -934,343 +911,7 @@
           "domain": "news.fjsen.com"
         }
       ],
-      "id": 31
-    },
-    {
-      "title": "Emmanuel Macron warned that reducing aid to Ukraine would set the stage for another war in Europe",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Latin America",
-      "place": "Argentina",
-      "lat": -38.4,
-      "lng": -61.4,
-      "desc": "1 recent report on conflict coverage originating from Argentina.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Emmanuel Macron warned that reducing aid to Ukraine would set the stage for another war in Europe",
-          "url": "https://www.infobae.com/america/mundo/2026/11/14/emmanuel-macron-alerto-que-reducir-la-ayuda-a-ucrania-prepararia-el-terreno-para-otra-guerra-en-europa/",
-          "domain": "infobae.com"
-        }
-      ],
-      "id": 32
-    },
-    {
-      "title": "EU: The Jacques Baud case raises questions about sanctions and freedom of expression",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Europe",
-      "place": "Italy",
-      "lat": 41.9,
-      "lng": 10.399999999999999,
-      "desc": "1 recent report on sanctions coverage originating from Italy.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Italian",
-      "sources": [
-        {
-          "title": "EU: The Jacques Baud case raises questions about sanctions and freedom of expression",
-          "url": "https://www.notiziegeopolitiche.net/ue-il-caso-jacques-baud-solleva-interrogativi-sulle-sanzioni-e-sulla-liberta-di-espressione/",
-          "domain": "notiziegeopolitiche.net"
-        }
-      ],
-      "id": 33
-    },
-    {
-      "title": "Nuclear weapons and the Iran war take center stage at the first trilateral summit between the leaders of the United States, China, and Russi",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Asia-Pacific",
-      "place": "Taiwan",
-      "lat": 23.7,
-      "lng": 123.16,
-      "desc": "1 recent report on conflict coverage originating from Taiwan.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Chinese",
-      "sources": [
-        {
-          "title": "Nuclear weapons and the Iran war take center stage at the first trilateral summit between the leaders of the United States, China, and Russia during APEC.",
-          "url": "https://news.tvbs.com.tw/world/4050711",
-          "domain": "news.tvbs.com.tw"
-        }
-      ],
-      "id": 34
-    },
-    {
-      "title": "Fed official: Interest rates may rise more than expected",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Middle East",
-      "place": "Yemen",
-      "lat": 17.155634918610403,
-      "lng": 49.5556349186104,
-      "desc": "1 recent report on monetary policy coverage originating from Yemen.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Fed official: Interest rates may rise more than expected",
-          "url": "https://www.almontasaf.net/news152832.html",
-          "domain": "almontasaf.net"
-        }
-      ],
-      "id": 35
-    },
-    {
-      "title": "Today's Economic News: Gold prices rise in the jewelry market. The Federal Reserve is considering a gradual increase in interest rates. The ",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Africa",
-      "place": "Egypt",
-      "lat": 28.355634918610406,
-      "lng": 32.355634918610406,
-      "desc": "1 recent report on monetary policy coverage originating from Egypt.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T09:40:17.295Z",
-      "translated": true,
-      "lang": "Arabic",
-      "sources": [
-        {
-          "title": "Today's Economic News: Gold prices rise in the jewelry market. The Federal Reserve is considering a gradual increase in interest rates. The textile and apparel sector is expected to grow by 30% by 2026.",
-          "url": "https://www.vetogate.com/5770546",
-          "domain": "vetogate.com"
-        }
-      ],
-      "id": 36
-    },
-    {
-      "title": "Zelensky: Ukraine could hold a referendum on Donbas only with solid security guarantees",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Europe",
-      "place": "Romania",
-      "lat": 44.3443650813896,
-      "lng": 23.414365081389594,
-      "desc": "1 recent report on elections coverage originating from Romania.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": true,
-      "lang": "Romanian",
-      "sources": [
-        {
-          "title": "Zelensky: Ukraine could hold a referendum on Donbas only with solid security guarantees",
-          "url": "https://business24.ro/volodimir-zelenski/zelenski-ucraina-referendum-donbas-garantii-securitate-1674829",
-          "domain": "business24.ro"
-        }
-      ],
-      "id": 37
-    },
-    {
-      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -96.2,
-      "desc": "1 recent report on conflict coverage originating from United States.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-          "url": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
-          "domain": "newsday.com"
-        }
-      ],
-      "id": 38
-    },
-    {
-      "title": "War in Ukraine: Withdrawal from the Donbas in exchange for NATO membership? The new avenue mentioned by Washington",
-      "category": "Conflict",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Europe",
-      "place": "France",
-      "lat": 46.6,
-      "lng": 4.4,
-      "desc": "1 recent report on conflict coverage originating from France.",
-      "markets": [
-        "Defense",
-        "Oil",
-        "Gold"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": true,
-      "lang": "French",
-      "sources": [
-        {
-          "title": "War in Ukraine: Withdrawal from the Donbas in exchange for NATO membership? The new avenue mentioned by Washington",
-          "url": "https://www.20minutes.fr/monde/ukraine/4262885-20261114-guerre-ukraine-retrait-donbass-contre-adhesion-otan-nouvelle-piste-evoquee-washington",
-          "domain": "20minutes.fr"
-        }
-      ],
-      "id": 39
-    },
-    {
-      "title": "Inflation was 3.5% year-on-year in October – Inwestycje.pl",
-      "category": "Monetary Policy",
-      "severity": "Low",
-      "date": "2026-11-14",
-      "region": "Europe",
-      "place": "Poland",
-      "lat": 53.4556349186104,
-      "lng": 20.655634918610406,
-      "desc": "1 recent report on monetary policy coverage originating from Poland.",
-      "markets": [
-        "Bonds",
-        "FX",
-        "Equities"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": true,
-      "lang": "Polish",
-      "sources": [
-        {
-          "title": "Inflation was 3.5% year-on-year in October – Inwestycje.pl",
-          "url": "https://inwestycje.pl/gospodarka/inflacja-wyniosla-35-r-r-w-pazdzierniku-2/",
-          "domain": "inwestycje.pl"
-        }
-      ],
-      "id": 40
-    },
-    {
-      "title": "Álvarez de Toledo (PP) challenges Margarita Robles to an election debate on Ceuta",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "Europe",
-      "place": "Spain",
-      "lat": 38.6443650813896,
-      "lng": -5.255634918610405,
-      "desc": "1 recent report on elections coverage originating from Spain.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": true,
-      "lang": "Spanish",
-      "sources": [
-        {
-          "title": "Álvarez de Toledo (PP) challenges Margarita Robles to an election debate on Ceuta",
-          "url": "https://www.diariosigloxxi.com/texto-s/mostrar/683578/alvarez-toledo-pp-reta-margarita-robles-debate-electoral-sobre-ceuta",
-          "domain": "diariosigloxxi.com"
-        }
-      ],
-      "id": 41
-    },
-    {
-      "title": "Elections Alberta reprimands separatist group over ad violations",
-      "category": "Elections",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "North America",
-      "place": "Canada",
-      "lat": 54.5443650813896,
-      "lng": -107.8556349186104,
-      "desc": "1 recent report on elections coverage originating from Canada.",
-      "markets": [
-        "Equities",
-        "FX",
-        "Bonds"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Elections Alberta reprimands separatist group over ad violations",
-          "url": "https://edmontonjournal.com:443/news/local-news/elections-alberta-reprimands-fines-separatist-ad-violations",
-          "domain": "edmontonjournal.com"
-        }
-      ],
-      "id": 42
-    },
-    {
-      "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
-      "category": "Sanctions",
-      "severity": "Low",
-      "date": "2026-11-13",
-      "region": "North America",
-      "place": "United States",
-      "lat": 39.5,
-      "lng": -100.60000000000001,
-      "desc": "1 recent report on sanctions coverage originating from United States.",
-      "markets": [
-        "FX",
-        "Commodities",
-        "Banks"
-      ],
-      "count": 1,
-      "fetchedAt": "2026-11-16T02:05:07.927Z",
-      "translated": false,
-      "lang": null,
-      "sources": [
-        {
-          "title": "Treasury Sanctions Two Guatemalan Drug Trafficking Organizations Backing Sinaloa Cartel and CJNG",
-          "url": "https://newsroomamerica.com/a/YhreVqcG0LaGcs02LcxKHZRBE7/ofac_sanctions_guatemala_s_los_mendoza_and_los_huistas_dtos_for_supporting_mexico_s_sinaloa_cartel_and_cjng_targeting_trafficking_corridors_along_the_honduran_and_mexican_borders.html",
-          "domain": "newsroomamerica.com"
-        }
-      ],
-      "id": 43
+      "id": 30
     }
   ]
 }
